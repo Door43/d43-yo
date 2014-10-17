@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yo:home|Door43 (yo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yo|d43-yo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yo/archive/master.zip|d43-yo.zip]]
+
+**Recent Changes**
+{{changes>ns = yo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yo|Ethnologue data]]
+
