@@ -1,0 +1,58 @@
+====== Philippians 04:21-23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Greet \add for me\f + \ft Or: us \f*\f + \ft exclusive \f*\add* all of God's people \add there, that is, all those who have a relationship with\add* Christ Jesus. The fellow believers who \add serve God together\add* with me here send their greetings to you \f + \ft Or: say they are thinking fondly of you \f*.
+\v 22 All of God's people \add here\add* send their greetings to you. Especially the \add fellow believers who work\add* in the palace of the emperor send their greetings to you.
+
+
+\p
+\v 23 My desire is\add that our\add* Lord Jesus Christ \add will continue to\add* act kindly toward you all \f + \ft synecdoche \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Greet for me all the believers. They all belong to God! The believers with me greet you, as well.
+\v 22 All of God's people here send their greetings to you. Especially the fellow believers who work in the palace of Caesar, the emperor, send their greetings to you.
+
+
+\p
+\v 23 My desire is that our Lord Jesus Christ will continue to act kindly toward you all.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 Greet every person belonging to Christ Jesus. The brothers who are with me greet you.
+\v 22 All the people of Christ here greet you, especially those of Caesar’s household.
+\p
+\v 23 The grace of the Lord Jesus Christ be with your spirit.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:other:caesar]]
+  * [[:yo:obe:other:household]]
+  * [[:yo:obe:kt:grace]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:spirit]]
+
+===== Translation Notes: =====
+
+  * **Greet every person belonging to Christ Jesus**  - "Greet every person there who belongs to Christ Jesus"
+  * **The brothers**  - These are those who were either ministering with Paul or ministering to Paul. Alternate translation "The fellow believers."
+  * **especially those of Caesar’s household**  - These are servants who worked in Caesar's palace. This could be translated as "especially the fellow believers who work in the palace of Caesar" (UDB).
+  * **with your spirit**  - Paul refers to the believers by using the word "spirit" which is what enables humans to relate to God. This can be translated as "with you." (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:php:04|Philippians Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:php:04:18|<<]] | **
+
+~~DISCUSSION~~{{tag>publish  brother caesar household grace spirit jesus}}
+
+~~NOCACHE~~

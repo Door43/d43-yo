@@ -1,0 +1,47 @@
+====== 1 Corinthians 03:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 Furthermore, people can build a house on its foundation \add with materials that are valuable and do not burn easily, such as\add* gold, silver, and expensive jewels. Or they could build a house with \add materials that are not valuable and that burn easily, such as\add* wood, hay, and straw.
+\v 13 Later it will become clear\f + \ft Or: evident \f* what kind of material they used to build the house. \add Similarly, when people teach others God's truth\add*, it will later become clear \add what kind of things they taught\add*. \add God\add* will make that clear\f + \ft Or: evident \f* at the time \add when he judges us\add* \f + \ft metonymy \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 We are like builders who choose what to put on top of that foundation. Builders chose materials from among the gold, silver, precious stones, wood, hay, and straw.
+\v 13 God will judge our work and put on display what each of us has done for him. He will send fire to test the work we have done. That fire will also prove to God how hard we worked for him.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 Now if anyone builds on the foundation with gold, silver, precious stones, wood, hay, or straw—
+\v 13 his work will be revealed, for the daylight will reveal it. For it will be revealed in fire; the fire will test the quality of what each one had done.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:foundation]]
+  * [[en:obe:other:gold]]
+  * [[en:obe:other:silver]]
+  * [[en:obe:kt:reveal]] 
+  * [[:yo:obe:other:fire]]
+  * [[:yo:obe:kt:test]]
+
+===== Translation Notes: =====
+
+  * **Now if anyone builds on the foundation with gold,silver, precious stones, wood, hay, or straw** - The building materials used to build a new building are being compared to the spiritual values used to build a person's behavior and activities during his lifetime. AT: "whether a person builds with expensive, durable materials or cheap, flammable materials". (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **precious stones** - "expensive stones."
+  * **his work will be revealed, for the daylight will reveal it.** - Just as daylight reveals the construction worker's efforts, so will the light of God's presence will reveal the quality of a man's efforts and activities. AT: "daylight will show the quality of his work".  (See: [[en:ta:vol1:translate:figs_metaphor]]).
+  * **For it will be revealed in fire; the fire will test the quality of what each one had done.**  - Just as Fire will reveal the strengths or destroy the weaknesses of a building, God's fire will judge man's efforts and activities.  AT: "Fire will show the quality of his work." (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1co:03|1 Corinthians Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1co:03:10|<<]] | [[:yo:bible:notes:1co:03:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgr}}
+
+~~NOCACHE~~

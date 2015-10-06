@@ -1,0 +1,69 @@
+====== Proverbs 05:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 If you enter the home of one of them, you will lose your self-respect\f + \ft Or: good reputation \f*
+\q2 and \add that woman's husband\add* will not act mercifully toward you;
+\q1 he will \add kill you and\add* take everything that you have acquired during your life!
+\q1
+\v 10 Foreigners will take your money,
+\q2 and all the good things that you have worked for will end up in their hands\f + \ft Or: become their possessions \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 If you go to her you will lose the respect of others,
+\q2 and you give your life to someone who will not have mercy on you. 
+\q1
+\v 10 It may be that others may take all your money, 
+\q2 and all you have go into the house of people you do no know. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Lest you give away your honor to others
+\q and give away years of your life to a cruel person;
+\q
+\v 10 lest strangers feast upon your wealth
+\q and your wealth goes into the house of a stranger.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:honor]]
+  * [[:yo:obe:other:feast]]
+  * [[:yo:obe:other:house]]
+
+===== Translation Notes: =====
+
+
+    * **lest**  - The word "lest" is a conjunction used when you are saying something in order to prevent something bad from happening.  AT: "for fear that"
+    * **give away years of your life to a cruel person**  - An adulteress is cruel, and following her way will cause great harm to your life.
+  
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:05|Proverbs Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/05/07|<<]] | [[en/bible/notes/pro/05/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

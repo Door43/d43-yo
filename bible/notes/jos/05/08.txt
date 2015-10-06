@@ -1,0 +1,59 @@
+====== Joshua 05:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 After all the Israelite males had been circumcised, they remained in the camp and rested until their wounds were healed.
+\v 9 Then Yahweh said to Joshua, "Because your forefathers were wandering without divine help in the desert for forty years \f + \ft Or: \add Because your forefathers were slaves in Egypt\add* \f*, the Egyptians felt disgusted toward you. But today I have taken away the reproach the Egyptians have had toward you." Because of that, the people called the place 'Gilgal,' \add which sounds like the Hebrew word 'taken away,'\add* and it still has that name.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 After all the Israelite males had been circumcised, they remained in the camp and rested until they healed.
+\v 9 Then Yahweh said to Joshua, "Today I have rolled away the disgrace of Egypt from you." So, the name of the place is Gilgal, even now.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 When they were all circumcised, they remained where they were in the camp until they healed.
+\v 9 And Yahweh said to Joshua, "This day I have rolled away the disgrace of Egypt from you." So, the name of that place has been called Gilgal until this present day.
+</usfm>
+
+
+===== Important Terms: =====
+ 
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:kt:circumcise]]
+  * [[:En:obe:other:heal]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:En:obe:other:joshua]]
+  * [[:En:obe:other:gilgal]]
+
+===== Translation Notes: =====
+
+
+    * **disgrace** - Means dishonor or shame. (See:[[en:obe:other:shame]])  
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:05|Joshua Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/05/06|<<]] | [[en/bible/notes/jos/05/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

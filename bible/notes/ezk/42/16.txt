@@ -1,0 +1,40 @@
+====== Ezekiel 42:16-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16-19 He measured the four sides of the area. There was a wall around the area that was875 ft.\f + \ft Or: 265 meters \f* long.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16-19 He measured the four sides of the area. There was a wall around the area that was about 270 meters long on each side.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 16 He measured the east side with a measuring stick—five hundred cubits with the measuring stick.
+\v 17 He measured the north side—five hundred cubits with the measuring stick.
+\v 18 He also measured the south side—five hundred cubits with the measuring stick.
+\v 19 He also turned and measured the west side—five hundred cubits with the measuring stick.
+</usfm>
+
+===== Important Terms: =====
+
+There are no new important terms for these verses.
+
+===== Translation Notes: =====
+
+  * **He measured** - The word "he" refers to the man who looked like bronze. (See: [[en:bible:notes:ezk:40:03|40:3]])
+  * **measuring stick**  - See how you translated this in [[:yo:bible:notes:ezk:40:05|40:5]].    
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:42|Ezekiel Chapter 42 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:42:15|<<]] | [[:yo:bible:notes:ezk:42:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,60 @@
+====== Genesis 17:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Then God replied, "\add No\add*! Your wife Sarah will bear a son for you. You must name him Isaac. I will establish my agreement with him, one which will be an everlasting covenant for him and his descendants.
+\v 20 As for Ishmael, I have heard what you asked me to do for him. I will bless him so that he also will have many descendants. Among his descendants will be rulers of twelve nations. And I will cause his descendants \f + \ft metonymy \f* to become a great nation.
+\v 21 But I will establish my agreement with Isaac, the son whom Sarah will give birth to at this time next year."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Then God replied, "No! Your wife Sarah will bear a son for you. You must name him Isaac. I will establish my covenant with him, one which will be an everlasting covenant with him and his descendants.
+\v 20 As for Ishmael, I have heard what you asked me to do for him. I will bless him so that he also will have many descendants. Among his descendants will be the leaders of twelve tribes. And I will cause his descendants  to become a great nation.
+\v 21 But it is with Isaac that I will establish my covenant—Isaac,  the son whom Sarah will give birth to at this time next year."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 God said, "No, but Sarah your wife will bear you a son, and you must name him Isaac. I will establish my covenant with him as an everlasting covenant with his descendants after him.
+\v 20 As for Ishmael, I have heard you. Behold, I hereby bless him, and will make him fruitful, and will multiply him abundantly. He will be the father of twelve leaders of tribes, and I will make him become a great nation.
+\v 21 But my covenant I will establish with Isaac, whom Sarah will bear to you at this time in the next year."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:sarah]]
+  * [[en:obe:other:isaac]]
+  * [[en:obe:kt:eternity]]
+  * [[en:obe:kt:covenant]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:other:ishmael]]
+  * [[en:obe:other:tribe]]
+  * [[en:obe:other:nation]]
+ 
+===== Translation Notes: =====
+
+  * **No, but Sarah your wife will bear**  - God said this to correct Abraham's belief that Sarah could not have a son.
+  * **you must name him**  - The word "you" refers to Abraham.
+  * **As for Ishmael**  - The words "As for" show that God is switching from talking about the baby that would be born to talking about Ishmael.
+  * **leaders of tribes**  - "chiefs" or "rulers"
+  * **Behold**  - This can be translated as “Look” or “Listen” or “Pay attention to what I am about to tell you."
+  * **I will make him fruitful**  - This is figurative language that means "I will cause him to have many children."
+  * **and will multiply him abundantly**  - "and I will cause him to have many descendants"
+  * **But my covenant I will establish with Isaac**  - God returned to talking about his covenant and emphasized that it would be with Isaac, not with Ishmael.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:17|Genesis Chapter 17 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:17:17|<<]] | [[:yo:bible:notes:gen:17:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

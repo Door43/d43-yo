@@ -1,0 +1,72 @@
+====== Isaiah 56:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh says \add to all the people of Judah\add*,
+\q1 "Do the things that are fair and just,
+\q2 because I will soon come to rescue \f + \ft doublet \f* you.
+\q1
+\v 2 I will bless those who faithfully obey my laws about the Sabbath\f + \ft Or: rest \f* days.
+\q1 I will bless those who keep sacred\f + \ft Or: honor \f* my Sabbath, Or: rest days,
+\q2 and who do not do any work on those days,
+\q2 and who refrain from \f + \ft metonymy \f* doing anything that is evil.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh says to all the people of Judah,
+\q1 "Do the things that are fair and just,
+\q2 because I will soon come to rescue  you.
+\q1
+\v 2 I will bless those who faithfully obey my laws about the Sabbath days.
+\q1 I will bless those who keep sacred my Sabbath days,
+\q2 and who do not do any work on those days,
+\q2 and who refrain from doing anything that is evil.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 56
+\p
+\q1
+\v 1 This is what Yahweh says, "Observe what is right, do what is just;
+\q1 for my salvation is near, and my vindication is about to be revealed.
+ \q1
+\v 2 Blessed is the man that does this, and whoever who holds it tightly. 
+\q1 He observes the sabbath, not defiling it, and keeps his hand from doing any evil."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:justice]]
+  * [[:yo:obe:kt:salvation]]
+  * [[:yo:obe:kt:reveal]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:kt:sabbath]]
+  * [[:yo:obe:other:defile]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:kt:evil]]
+
+===== Translation Notes: =====
+
+  * **for my salvation is near, and my vindication is about to be revealed.** - This is saying the same thing in two different ways for emphasis. AT: "I will soon come to rescue you." (See: [[en:ta:vol2:translate:figs_doublet]])
+  * **and keeps his hand from doing any evil** - Since it is with hands that evil things are done, "hand'" is used here as a shorter way of referring to people who do evil things. (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:56|Isaiah Chapter 56 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:55:12|<<]] | [[:yo:bible:notes:isa:56:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

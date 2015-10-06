@@ -1,0 +1,58 @@
+====== Genesis 30:22-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 Then God thought about what Rachel wanted. He heard her prayers and enabled her to become pregnant.
+\v 23 She became pregnant and gave birth to a son. She said, "God has caused that no longer will I be ashamed for not having children."
+\v 24 She named him Joseph, which sounds like the Hebrew words that mean 'I pray that he will give me another one.'
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Then God thought about what Rachel wanted. He heard her pray and enabled her to become pregnant.
+\v 23 She became pregnant and gave birth to a son. She said, "God has caused me to be ashamed  no longer for not having children."
+\v 24 She named him Joseph, which sounds like the Hebrew words that mean "I pray that he will give me another one."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 God called Rachel to mind and listened to her. He caused her to become pregnant.
+\v 23 She conceived and bore a son. She said, "God has taken away my shame."
+\v 24 She called his name Joseph, saying, "Yahweh has added to me another son."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[en:obe:other:Rachel]]
+  * [[en:obe:other:shame]]
+  * [[:yo:obe:other:josephot]]
+  * [[:yo:obe:kt:yahweh]]
+ 
+
+===== Translation Notes: =====
+
+  * **God remembered Rachel** - God cared for Rachel and chose to enable her to become pregnant.
+  * **She called his name Joseph**  - Translators may also add a footnote that says: "The name Joseph means 'may he add.'"
+  * **Yahweh has added to me another son** - Rachel's first sons were through her female servant Bilhah.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:30|Genesis Chapter 30 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:30:19|<<]] | [[:yo:bible:notes:gen:30:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish  josephot}}
+
+~~NOCACHE~~

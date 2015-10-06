@@ -1,0 +1,73 @@
+====== Proverbs 03:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 With his wisdom Yahweh created the earth,
+\q2 and with his understanding he put everything in the skies.
+\q1
+\v 20 By being smart \add he caused\add* the water that was beneath the earth to burst forth,
+\q2 and he caused rain to fall from the clouds.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 By his wisdom Yahweh laid out the earth from the very beginning,
+\q2 and by his understanding he put everything in the heavens exactly where they should be.
+\q1
+\v 20 The deepest part of the oceans broke open according to God's design, 
+\q2 and in the same way, he made the dew so it would fall from the clouds above. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 By wisdom Yahweh founded the earth,
+\q by understanding he established the heavens.
+\q
+\v 20 By his knowledge the depths broke open
+\q and the clouds dropped their dew.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:foundation]]
+  * [[:yo:obe:other:earth]]
+  * [[:En:obe:kt:heaven]]
+  * [[:yo:obe:other:know]]
+  
+
+===== Translation Notes: =====
+
+
+    * **founded the earth** - "created the world"
+    * **dew** - water that forms on the ground at night
+    
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:03|Proverbs Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/03/17|<<]] | [[en/bible/notes/pro/03/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

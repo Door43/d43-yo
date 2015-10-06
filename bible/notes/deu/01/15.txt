@@ -1,0 +1,60 @@
+====== Deuteronomy 01:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 So I took the wise and respected men \add that your ancestors chose\add* from your tribes, and I appointed them to be your leaders. I appointed some to rule\f + \ft Or: have authority \f* over a thousand people, some to have authority over a hundred people, some to have authority over fifty people, and some to have authority over ten people. I also appointed other officers from throughout your tribes.
+\v 16 I instructed\f + \ft Or: told \f* your leaders, 'Listen to the disputes that occur among your people. Judge each dispute, including disputes between close relatives and quarrels between your people and people from other countries who live among you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 So I took the wise and respected men that your ancestors chose from your tribes, and I appointed them to be your leaders. I appointed some to rule over one thousand people, some to have authority over one hundred people, some to have authority over fifty people, and some to have authority over ten people. I also appointed other officers from throughout your tribes.
+\v 16 I instructed your leaders, 'Listen to the disputes that occur among your people. Judge each dispute, including disputes between close relatives and quarrels between your people and people from other countries who live among you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 So I took the heads of your tribes, wise men, and men of good repute, and made them heads over you, captains of thousands, captains of hundreds, captains of fifties, captains of tens, and officers, tribe by tribe.
+\v 16 I commanded your judges at that time, saying, “Hear the disputes between your brothers, and judge righteously between a man and his brother, and the foreigner who is with him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:other:foreigner]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:01|Deuteronomy Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/01/12|<<]] | [[en/bible/notes/deu/01/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

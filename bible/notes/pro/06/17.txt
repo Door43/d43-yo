@@ -1,0 +1,78 @@
+====== Proverbs 06:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 People who show by their eyes that they are very proud;
+\q3 people who lie \f + \ft metonymy \f*;
+\q3 people \f + \ft synecdoche \f* who kill others \f + \ft synecdoche \f* who have done nothing wrong;
+\q3
+\v 18 people who plan to do evil deeds;
+\q3 people \f + \ft synecdoche \f* who run quickly to do wrong things;
+\q3
+\v 19 people who easily tell lies in court;
+\q3 and people who cause strife between family members.
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 The eyes of the proud; the tongue that tells lies; 
+\q the hands that shed the blood of the innocent;
+\v 18 a heart that plots and makes plans to do evil things to others; 
+\q3 
+\q3
+\v 19 the witness who breaths out lies when he gives testimony;
+\q3 and the one who cause strife between members of the same family.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 The eyes of the proud, a tongue that lies, 
+\q hands that shed the blood of the innocent,
+\q
+\v 18 a heart that invents wicked schemes,
+\q feet that quickly run to do evil,
+\q
+\v 19 the witness who breathes out lies,
+\q and one who sows discord among brothers.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:proud]]
+  * [[:yo:obe:kt:blood]]
+  * [[:En:obe:kt:innocent]]
+  * [[:En:obe:other:heart]]
+  * [[:En:obe:kt:witness]]
+  * [[:En:obe:other:sow]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **feet that quickly run to do evil**  - those who are eager to do wrong things
+  
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:06|Proverbs Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/06/16|<<]] | [[en/bible/notes/pro/06/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}

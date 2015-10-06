@@ -1,0 +1,43 @@
+====== Ezekiel 17:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Then he took one of the king's close relatives \add and appointed him to be the king\add*, and made an agreement with him, forcing him to solemnly promise \add to remain loyal\add*. The king of Babylon also took to Babylon the other important citizens of Judah,
+\v 14 in order that the kingdom of Judah would not be able to become powerful again. The king of Babylon intended that the kingdom of Judah would not continue to exist if the people did not obey that agreement \add that he made with the king of Babylon\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Then he took one of the king's close relatives, appointed one of them as king, and made an agreement with him, forcing him to solemnly promise to remain loyal. The king of Babylon also took to Babylon the other important citizens of Judah,
+\v 14 in order that the kingdom of Judah would not be able to become powerful again. The king of Babylon intended that the kingdom of Judah would not continue to exist if the people did not obey that agreement that he made with the king of Babylon.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 Then he took a royal descendant, made a covenant with him, and brought him under an oath. And he took away the powerful people of the land,
+\v 14 so the kingdom might become lowly and not lift itself up. By keeping his covenant the land will survive.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:royal]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:kt:covenant]]
+  * [[:yo:obe:other:oath]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:other:kingdom]]
+  * [[:yo:obe:other:lowly]]
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:17|Ezekiel Chapter 17 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:17:11|<<]] | [[:yo:bible:notes:ezk:17:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

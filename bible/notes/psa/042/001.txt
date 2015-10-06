@@ -1,0 +1,80 @@
+====== Psalms 042:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Deer desire to drink water from a stream of cool water.
+\q2 In the same way \f + \ft simile \f*, God, I need you very much.
+\q1
+\v 2 I desire to have fellowship with \f + \ft metaphor \f* you, the all-powerful God.
+\q2 \add I say to myself\add*, "When will I be able to go \add back to the temple in Israel\add*
+\q2 and worship in your presence again?"
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 O God, I need you very much, like a deer needs to drink water from a cool stream.
+\q2 .
+\q1
+\v 2 I desire to be with you, the all-powerful God.
+\q2 I say to myself, "When will I be able to go back to the temple in Israel
+\q2 and worship in your presence again?"
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 42
+ 
+\d For the Chief Musician. Maschil of the sons of Korah.
+\q
+\v 1 As the hart pants after streams of water,
+\q so my soul pants after you, God.
+\q
+\v 2 My soul thirsts for God, for the living God;
+\q when will I come and appear before God?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:korah]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:other:water]]
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:life]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:042|Psalms Chapter 042 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/041/013|<<]] | [[en/bible/notes/psa/042/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

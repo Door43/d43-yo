@@ -1,0 +1,64 @@
+====== Matthew 10:2-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 2 \add Here is a list of us\add* twelve \add disciples whom he called\add* apostles (\add which means 'messengers'\add*): Simon, \add to whom he gave the new name\add* Peter; Andrew, Peter's \add younger\add* brother; James, the son of Zebedee; John, the \add younger\add* brother of James;
+\v 3 Philip; Bartholomew; Thomas; me, Matthew, the tax collector; James, the \add son\add* of Alpheus; Thaddeus;
+\v 4 Simon, a member of the party \add that wanted to overthrow the Roman government;\add* and Judas Iscariot, who \add later\add* enabled \add the Jewish leaders\add* to seize Jesus.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 2 Here is a list of the twelve disciples, whom he called apostles. They were Simon, to whom he gave the new name Peter; Andrew, Peter's younger brother; James, the son of Zebedee; John, the younger brother of James;
+\v 3 Philip; Bartholomew; Thomas; Matthew, the tax collector; James, the son of Alphaeus; Thaddaeus;
+\v 4 Simon the Zealot; and Judas Iscariot, who later made it possible for the Jewish leaders to arrest Jesus.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 2 Now the names of the twelve apostles were these. The first, Simon (whom he also called Peter), and Andrew his brother; James the 
+son of Zebedee, and John his brother;
+\v 3 Philip, and Bartholomew; Thomas, and Matthew the tax collector; James the 
+son of Alphaeus, and Thaddaeus;
+\v 4 Simon the Zealot, and Judas Iscariot, who would betray him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:apostle]]
+  * [[:yo:obe:other:peter]]
+  * [[:yo:obe:other:andrew]]
+  * [[:yo:obe:other:jamessonofzebedee]]
+  * [[:yo:obe:other:johntheapostle]]
+  * [[:yo:obe:other:philip]]
+  * [[:yo:obe:other:thomas]]
+  * [[:yo:obe:other:matthew]]
+  * [[:yo:obe:other:taxcollector]]
+  * [[en:obe:other:jamessonofalphaeus]]
+  * [[:yo:obe:other:judasiscariot]]
+  * [[:yo:obe:kt:betray]]
+
+===== Translation Notes: =====
+
+This continues the account of Jesus' sending out his twelve apostles to do his work that began in [[:yo:bible:notes:mat:10:01|10:1]].
+
+  * **first** - in order, not in rank
+  * **the Zealot** - Possible meanings are 1) "the Zealot" or 2) “the zealous one." The first meaning indicates he was part of the group of people who wanted to free the Jewish people from Roman rule. Alternative translation: “the patriot” or “the nationalist” or "the freedom fighter." The second meaning indicates that he was zealous for God to be honored. Alternative translation: “passionate.”
+  * **Matthew the tax collector** - "Matthew, who had been a tax collector"
+  * **who would betray him** - "who would betray Jesus"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:10|Matthew Chapter 10 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:10:01|<<]] | [[:yo:bible:notes:mat:10:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish apostle andrew thomas matthew  jamessonofalpheus judasascariot betray}}
+
+~~NOCACHE~~

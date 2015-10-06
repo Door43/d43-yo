@@ -1,0 +1,48 @@
+====== 1 Kings 08:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Then the priests then brought the Sacred Chest into the Very Holy Place in the temple, and they placed it under the wings of the \add statues of the\add* winged creatures.
+\v 7 The wings of those statues spread out over the Sacred Chest and over the poles by which it was carried.
+\v 8 The poles were very long, with the result that the ends of the poles could be seen by \add people who were standing at\add* the entrance to the Most Holy Place, but they could not be seen \add by people standing\add* outside the temple. Those poles are still there.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Then the priests then brought the sacred chest into the very holy place in the temple, and they placed it under the wings of the statues of the winged creatures.
+\v 7 The wings of those statues spread out over the sacred chest and over the poles by which it was carried.
+\v 8 The poles were very long, with the result that the ends of the poles could be seen by people who were standing at the entrance to the very holy place, but they could not be seen by people standing outside the temple. Those poles are still there.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 The priests brought in the ark of the covenant of Yahweh to its place, into the inner room of the house, to the most holy place, under the wings of the cherubim.
+\v 7 For the cherubim spread out their wings to the place of the ark, and they covered the ark and the poles by which it was carried.
+\v 8 The poles were so long that their ends were seen from the holy place in front of the most holy place, but they could not be seen from outside. They are there to this day.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:holyofholies|most holy place]]
+  * [[:yo:obe:other:cherubim|cherubim]]
+  * [[:yo:obe:kt:holyplace|holy place]]
+
+===== Translation Notes: =====
+
+  * **For the cherubim spread out their wings**  - AT: "The wings of the cherubim spread out "
+  * **poles by which it was carried**  - In this case, the poles are used in a horizontal not vertical manner.
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1ki:08|1 Kings Chapter 08 Comprehension Questions]]**
+**[[:yo:bible:notes:1ki:08:03|<<]] | [[:yo:bible:notes:1ki:08:09|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

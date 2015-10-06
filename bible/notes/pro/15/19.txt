@@ -1,0 +1,74 @@
+====== Proverbs 15:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Lazy people constantly \add have difficulties\add* \f + \ft metaphor \f*; \add it is as though they are walking\add* through thorns;
+\q2 but those who are honest and hard-working \add will have few difficulties; it is as though they are walking\add* on a level highway \f + \ft metaphor \f*.
+\b
+\q1
+\v 20 Children who are wise cause their parents to be happy;
+\q2 it is foolish children who despise their parents.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 The life of a lazy person is like watching them walk through a hedge of thorns;
+\q2 but those who do what pleases God, their life is like they were walking on a built-up highway.
+\b
+\q1
+\v 20 A wise child brings happiness to his father; 
+\q2 but it is a foolish person who despises his mother. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 The way of the sluggard is like walking through a hedge of thorns,
+\q but the path of the upright is a built-up highway.
+\q
+\v 20 A wise son brings joy to his father,
+\q but a foolish person despises his mother.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:walk]]
+  * [[:En:obe:kt:wise]]
+  * [[:En:obe:kt:son]]
+  * [[:En:obe:kt:joy]]
+  * [[:En:obe:other:father]] 
+  * [[:En:obe:kt:foolish]] 
+===== Translation Notes: =====
+
+
+    * **The way of the sluggard is like walking through a hedge of thorns**  - AT: "The way of the sluggard is like a hedge of thorns" The life of a lazy person has many painful obstacles like a path overgrown with thorns. (See [[:yo:ta:vol1:translate:figs_simile]])
+    * **the path of the upright is a built-up highway** - The life of those who live to please God is smooth and does not have barriers or obstacles. (See [[:yo:ta:vol1:translate:figs_metaphor]])
+    * **bold words**  - explanation
+ 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:15|Proverbs Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/15/17|<<]] | [[en/bible/notes/pro/15/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

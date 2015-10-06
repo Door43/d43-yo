@@ -1,0 +1,71 @@
+====== Psalms 067:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 God, I desire that the people-groups will praise you;
+\q1 I want them all to praise you!
+\b
+\q1
+\v 6 Good crops have grown on our land;
+\q1 God, our God, has blessed us.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 God, I desire that the people groups may praise you;
+\q1 I want them all to praise you!
+\b
+\q1
+\v 6 Good crops have grown on our land;
+\q1 God, our God, has blessed us.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 Let the peoples praise you, God;
+\q let all the peoples praise you.
+\q
+\v 6 The earth has yielded its harvest;
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:harvest]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:067|Psalms Chapter 067 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/067/003|<<]] | [[en/bible/notes/psa/067/007|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

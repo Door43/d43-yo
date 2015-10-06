@@ -1,0 +1,70 @@
+====== Psalms 037:35-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 I have seen that wicked people who act like tyrants\f + \ft Or: terrify people \f* sometimes prosper, like trees that grow well in fertile soil,
+\q1
+\v 36 when I looked later, they were gone!
+\q2 I searched for them, but \add Yahweh had caused\add* them to disappear.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 I have seen that wicked people who act like tyrants sometimes prosper, like trees that grow well in fertile soil,
+\q1
+\v 36 when I looked later, they were gone!
+\q2 I searched for them, but Yahweh had caused them to disappear.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 35 I have seen the wicked and terrifying person
+\q  spread out like a green tree in its native soil.
+\q
+\v 36 But when I passed by again, he was not there.
+\q  I looked for him, but he could not be found.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:terror]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:037|Psalms Chapter 037 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/037/034|<<]] | [[en/bible/notes/psa/037/037|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

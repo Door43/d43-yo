@@ -1,0 +1,70 @@
+====== 2 Samuel 01:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 David asked him, "Why were you not afraid \add that you would be punished if you\add* killed Saul, whom Yahweh had appointed \f + \ft metonymy \f* \add to be the king\add*?\f + \ft Or: You should have been afraid \add that you would be punished if you\add* killed Saul, whom Yahweh had appointed \f + \ft metonymy \f* \add to be the king\add*. \f* \f + \ft rhetorical question \f*
+\v 15-16 You yourself said, 'I killed the man whom Yahweh appointed to be the king.' So you have caused yourself to be guilty \f + \ft metonymy \f* of causing your own death!" Then David summoned one of his soldiers and said to him, "Kill him!" So the soldier killed him by striking him \add with a sword\add*.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 David asked him, "Why were you not afraid that you would be punished if you killed Saul, whom Yahweh made king?
+\v 15-16 You yourself said, 'I killed the man whom Yahweh appointed to be the king.' So you have made yourself guilty; you deserve to die!" Then David summoned one of his soldiers and said to him, "Kill him!" So the soldier killed him.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 David said to him, "Why were  you not afraid to kill Yahweh’s anointed king with your own hand?"
+\v 15 David called one of the young men and said, "Go and kill him." So that man went and struck him down, and the Amalekite died.
+\v 16 Then David said to the dead Amalekite, "Your blood is on your head because your own mouth has testified against you and said, 'I have killed Yahweh's anointed king.' "
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:kt:anoint]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:blood]]
+  * [[:yo:obe:other:head]]
+  * [[:yo:obe:kt:testimony]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2sa:01|2 Samuel Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/01/11|<<]] | [[en/bible/notes/2sa/01/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

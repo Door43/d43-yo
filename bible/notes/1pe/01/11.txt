@@ -1,0 +1,60 @@
+====== 1 Peter 01:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 They wanted to know whom the Spirit of Christ that was in them was referring to, and what time he was talking about, when he told beforehand that the Messiah would suffer \add and die\add*, and that glorious\f + \ft Or: wonderful \f* things would happen \add to him and to us\add* afterwards.
+\v 12 It was revealed to \f + \ft Or:\add God\add* told \f* them that it was not for their own sake that he was revealing these things to them, but that it was for your sake. It was these things that were proclaimed to you by those who told you the message \add about Christ \f + \ft Or:that those who told you the message about Christ proclaimed to you\add* \f*. They proclaimed them to you because the Holy Spirit whom \add God\add* sent from heaven \add enabled them to do that\add*. And even angels would like to know more about these \add truths about how God saves us\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 They wanted to know whom the Spirit of Christ that was in them was referring to, and what time he was talking about, when he said to them beforehand that the Christ would suffer and die, and that glorious things would happen to him and to us afterwards.
+\v 12 God told them that it was not for their own sake that he was revealing these things to them, but that it was for your sake. They proclaimed them to you because the Holy Spirit whom God sent from heaven enabled them to do that. And even angels would like to know more about these truths about how God saves us.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 They searched to know who, and they searched to know the time that the Spirit of Christ, who was in them, was beginning to show to them, as he was telling them beforehand about the sufferings of Christ and the glories that would follow him.
+\v 12 It was revealed to the prophets that they were serving these things, not for themselves, but for us—the telling of these things through those bringing the gospel to you by the Spirit sent from heaven, things that even angels desire to be revealed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:holyspirit]]
+  * [[:yo:obe:kt:christ]]
+  * [[:yo:obe:kt:suffer]]
+  * [[:yo:obe:kt:glory]]
+  * [[en:obe:kt:prophet]]
+  * [[:yo:obe:kt:goodnews]]
+  * [[:yo:obe:kt:angel]]
+  * [[:yo:obe:kt:reveal]]
+
+ 
+===== Translation Notes: =====
+
+  * **They searched to know** - "They tried to know" or "They inquired about" The word "they" refers to the prophets.
+  * **they were serving these things, not for themselves, but for us** - In some languages it is more natural to put the positive befor the negative. "they were serving these things for us not for themselves" 
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:01|1 Peter Chapter 01 Comprehension Questions]]**
+  * **[[:yo:bible:notes:1pe:01:08|<<]] | [[:yo:bible:notes:1pe:01:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,14 @@
+===== Malachi Links: =====
+
+  * [[:yo:ulb:ep:39-mal.usfm|Full ULB text of Malachi]]
+  * [[:yo:udb:ep:39-mal.usfm|Full UDB text of Malachi]]
+  * [[:yo:bible:admin-reports:notes-team-admin:mal|Notes: Malachi Team Admin]]
+  * [[:yo:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages en:bible:notes:mal:01 -title -naturalOrder -exclude:home -textPages="Malachi 1" -nbCol=2> 
+
+<nspages en:bible:notes:mal:02 -title -naturalOrder -exclude:home -textPages="Malachi 2" -nbCol=2> 
+
+<nspages en:bible:notes:mal:03 -title -naturalOrder -exclude:home -textPages="Malachi 3" -nbCol=2> 
+
+<nspages en:bible:notes:mal:04 -title -naturalOrder -exclude:home -textPages="Malachi 4" -nbCol=2> 

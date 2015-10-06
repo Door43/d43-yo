@@ -1,0 +1,50 @@
+====== Exodus 03:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Then Yahweh said, "I have seen how cruelly \add they are treating\add* my people in Egypt. I have heard them wailing\f + \ft Or: crying out \f* \add for help\add* because of what the slave-drivers \add are forcing them to do\add*. I know how my people are suffering.
+\v 8 So I have come down \add from heaven\add* to rescue them from the Egyptians \f + \ft synecdoche \f*. I have come to bring them up from that land \add to the highlands of Canaan\add*. I will bring them to a land that is good\f + \ft Or: fertile \f* and that has plenty of space. It will be very good for raising livestock and growing crops \f + \ft metonymy \f*. It is the land where the descendants of Canaan, Heth, Amor, Periz, Hiv, and Jebus \add live\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Then Yahweh said, "I have seen how badly the Egyptians are treating my people in Egypt. I have heard my people crying out for help because of what the slave drivers are making them do. I know how my people are suffering.
+\v 8 So I have come down from heaven to rescue them from the Egyptians. I will lead them to a good and large land, a land where they can grow many crops and raise much livestock, where the descendants of Canaan, Heth, Amor, Periz, Hiv, and Jebus live.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 Yahweh said, "I have certainly seen the suffering of my people who are in Egypt. I have heard their cries because of their taskmasters, for I know about their suffering.
+\v 8  I have come down to free them from the Egyptians' power and to bring them up from that land to a good, large land, to a land flowing with milk and honey; to the region of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:peopleofgod]]
+  * [[:yo:obe:other:egypt]]
+  * [[:yo:obe:other:canaan]]
+  * [[:yo:obe:other:hittite]]
+  * [[:yo:obe:other:amorite]]
+  * [[:yo:obe:other:perizzite]]
+  * [[:yo:obe:other:hivite|]]
+  * [[:yo:obe:other:jebusites]]
+===== Translation Notes: =====
+
+  * **taskmasters** - "slave drivers" or "masters." These were Egyptians whose job was to force the Israelites to do hard work.
+  * **a land flowing with milk and honey**  - "a land were plenty of milk and honey flow." This means that the land will be rich and productive, so there will be enough food for everyone. AT: "a land that is excellent for cattle and farming" (See: [[:yo:ta:vol1:translate:figs_idiom]]))
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:03|Exodus Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:03:04|<<]] | [[:yo:bible:notes:exo:03:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish egypt canaan hittite}}
+
+~~NOCACHE~~

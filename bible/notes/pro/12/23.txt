@@ -1,0 +1,64 @@
+====== Proverbs 12:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Those with good sense do not reveal all that they know;
+\q2 foolish people show \add clearly\add* by what they say that they are ignorant\f + \ft Or: have not learned much \f*.
+\b
+\q1
+\v 24 Those \f + \ft synecdoche \f* who work hard become rulers of others;
+\q2 those who are lazy become others' slaves.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 Those with good sense do not reveal all that they know;
+\q2 foolish people shout out their foolish thinking.
+\q1
+\v 24 Those who are known for their hard work, will gain authority over others; 
+\q2 those who are lazy will be forced to work, even though they hate it.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 A prudent man conceals his knowledge,
+\q but the heart of fools shouts out folly.
+\q
+\v 24 The hand of the diligent will rule,
+\q but the lazy will be subject to forced labor.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:know|know, knowledge, make known]]
+  * [[:yo:obe:other:heart|heart]]
+  * [[:yo:obe:kt:foolish|fool, foolish]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:subject|subject, be subject to, in subjection to]]
+  * [[:yo:obe:other:labor|labor, laborer]]
+===== Translation Notes: =====
+
+  * **prudent** - "wise" 
+  * **conceals his knowledge** - "does not tell everything he knows" 
+  * **the heart of fools** - "foolish people" (See [[:yo:ta:vol2:translate:figs_synecdoche]])
+  * **The hand of the diligent**  - This could be translated "A person who works hard." The hand represents the whole person. (See [[:yo:ta:vol2:translate:figs_synecdoche]])
+  * **the lazy**  - "the lazy person" or "the deceitful person"
+  * **will be subject to forced labor**  - "will become a slave"
+  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:pro:12|Proverbs Chapter 12 Comprehension Questions]]**
+**[[:yo:bible:notes:pro:12:21|<<]] | [[:yo:bible:notes:pro:12:25|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

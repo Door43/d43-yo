@@ -1,0 +1,62 @@
+====== 2 Kings 08:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 After King Joram, the son of Ahab, had been ruling in Israel for almost five years, Jehoshaphat's son Jehoram became the king of Judah.
+\v 17 He was thirty-two years old when he became the king, and he ruled in Jerusalem for eight years.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 After King Joram son of Ahab, had been ruling in Israel for almost five years, Jehoshaphat's son Jehoram became the king of Judah.
+\v 17 He was thirty-two years old when he became the king, and he ruled in Jerusalem for eight years.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 In the fifth year of Joram, the son of Ahab, king of Israel, Jehoram began to reign. He was the son of Jehoshaphat, king of Judah. He began to reign when Jehoshaphat was king of Judah.
+\v 17 Jehoram was thirty-two years old when he began to reign, and he reigned for eight years in Jerusalem.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:joram]]
+  * [[:yo:obe:other:ahab]]
+  * [[:yo:obe:other:reign]]
+  * [[:yo:obe:other:jehoshaphat]]
+  * [[:yo:obe:other:kingdomofjudah]]
+  * [[:yo:obe:other:jerusalem]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:08|2 Kings Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/08/13|<<]] | [[en/bible/notes/2ki/08/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

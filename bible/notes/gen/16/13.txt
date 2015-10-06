@@ -1,0 +1,55 @@
+====== Genesis 16:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Then she realized that the angel was really Yahweh, so she said to herself, "It is difficult to believe that I have really seen the back of Yahweh, the one who sees me!\f + \ft Or: Have I really seen the back of Yahweh, the one who sees me? \f*" \f + \ft rhetorical question \f* So she called him 'Yahweh, the one who sees me.'
+\v 14 That is why people call the well there 'Beer-Lahai-Roi,' which means, 'the well of the living one who sees us!' It is still there, between Kadesh and Bered.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Hagar said to herself, "I continue to live, even though Yahweh has seen me!" So she called God "Yahweh, the one who sees me."
+\v 14 That is why people call the well there "Beer Lahai Roi," which means, "the well of the living one who sees me!" It is still there, between Kadesh and Bered.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Then she gave this name to Yahweh who spoke to her, "You are the God who sees me," for she said, "Do I really continue to see, even after he has seen me?"
+\v 14 Therefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:kt:god]]
+  * [[:yo:obe:other:well]]
+  * [[en:obe:other:kadesh]]
+  
+ 
+===== Translation Notes: =====
+
+  * **Yahweh who spoke to her**  - This can be translated as "Yahweh, because he spoke to her."
+  * **Do I really continue to see, even after he has seen me?**  - Hagar used this rhetorical question to express her amazement that she was still alive even after she met God. People expected that if they met God, they would die. It can also be translated as an exclamation as in the UDB. (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Do I really continue to see**  - In this verse "see" is metonym that means "live." It can be translated as "Do I really continue to live?" ((See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **Therefore the well was called Beerlahairoi**  - Translators may add a footnote that says "Beerlahairoi means 'the well of the living one who sees me.'" (See: [[en:ta:vol1:translate:translate_names]])
+  * **behold, it is between Kadesh and Bered**  - The word “behold” here draws attention to the fact that the well was in a place that the author and his readers knew. You can also translate it here as "it is between Kadesh and Bered" or "In fact, it is between Kadesh and Bered."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:16|Genesis Chapter 16 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:16:11|<<]] | [[:yo:bible:notes:gen:16:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish kadesh }}
+
+~~NOCACHE~~

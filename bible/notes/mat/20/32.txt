@@ -1,0 +1,50 @@
+====== Matthew 20:32-34 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 Jesus stopped and called them \add to come to him\add*. \add Then\add* he said \add to them\add*, "What do you want me to do for you?"
+\v 33 They said to him, "Lord, heal our eyes \f + \ft idiom \f* \add so that we can see!\add*"
+\v 34 Jesus \add felt\add* sorry \add for them and\add* touched their eyes. Immediately they were able to see, and they went with Jesus.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 Jesus stopped and called them to come to him. Then he said to them, "What do you want me to do for you?"
+\v 33 They said to him, "Lord, heal our eyes so that we can see!"
+\v 34 Jesus felt sorry for them and touched their eyes. Immediately they were able to see, and they went after Jesus.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 32 Then Jesus stood still and called to them and said, "What do you wish me to do for you?"
+\v 33 They said to him, "Lord, that our eyes may be opened."
+\v 34 Then Jesus, being moved with compassion, touched their eyes. Immediately they received their sight and followed him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:lordgod]]
+  * [[:yo:obe:kt:compassion]]
+  * [[:yo:obe:kt:receive]]
+
+===== Translation Notes: =====
+
+This continues the account of Jesus healing two blind men.
+
+  * **called to them** - called to the blind men
+  * **wish** - "want"
+  * **that our eyes may be opened** - AT: "we want you to make us able to see" or "we want to be able to see" (See: [[:yo:ta:vol1:translate:figs_idiom]] and [[en:ta:vol2:translate:figs_ellipsis]])
+  * **being moved with compassion** - "having compassion" or "moved with compassion for them" 
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:20|Matthew Chapter 20 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:20:29|<<]] | [[:yo:bible:notes:mat:21:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

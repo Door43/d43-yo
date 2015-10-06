@@ -1,0 +1,63 @@
+====== Daniel 05:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 I replied and said to the king, "\add I do not want\add* your gifts; keep them, or give them to someone else. But I will read for you the writing on the wall, and I will tell you what it means.
+\p
+\v 18 Your Majesty\f + \ft Or: O king \f*, the Supreme God caused the man who was king before you, Nebuchadnezzar, to become a great ruler, who was greatly praised and honored.
+\v 19 Because God caused him to become very great, people of many \f + \ft hyperbole \f* people-groups and nations and who spoke many different languages were very much afraid of him. He commanded \add his soldiers\add* to kill those whom he wanted to be killed, and he spared\f + \ft Or: allowed to live \f* those whom he wanted to spare. He honored those whom he wanted to honor, and he caused to be disgraced those whom he wanted to be disgraced.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Daniel replied and said to the king, "I do not want your gifts. Keep them for yourself and give the rewards to some other person. I will read what is written on the wall for you, but not because you give me any  reward.
+\p
+\v 18 Your Majesty, the Most High God caused Nebuchadnezzar, the man who was king before you, to become a great ruler. He was greatly praised and honored.
+\v 19 Because God made him very great, everyone—every nation, no matter what language they spoke—was afraid of him, and they trembled at what he could do. He honored those whom he chose to honor, and he brought disgrace to those whom he wanted to humble.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 Then Daniel answered before the king, "Let your gifts be for yourself, and give your rewards to another person. Nevertheless, I will read the writing to you, king, and will tell you the meaning
+\v 18 As for you, king, the most high God gave Nebuchadnezzar your father the kingdom, greatness, honor, and majesty.
+\v 19 Because of the greatness God gave him, all peoples, nations, and languages trembled and feared him. He put to death those he wanted to die, and he kept alive those he wished to live. He raised up those he wanted, and he humbled those he wished.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:god]]
+  * [[:En:obe:kt:fear]]
+  * [[:En:obe:other:humble]] 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:dan:05|Daniel Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/dan/05/15|<<]] | [[en/bible/notes/dan/05/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

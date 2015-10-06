@@ -1,0 +1,55 @@
+====== Romans 02:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 But some people act in a selfish way and refuse to believe that  \add what God says is\add* true, and they do the things that  \add God says\add* are wrong. \add God will\add* punish them very severely \f + \ft doublet, metonymy \f*.
+\v 9 He will cause everyone who habitually does evil deeds to suffer greatly, \add with the result that they will become severely\add* distressed \f + \ft doublet \f*. This certainly will happen to the Jews  \add who refuse to accept God's message, because God gave them the privilege to be his special people\add*, but it will also happen to the non-Jews.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 But some people act in a selfish way and refuse to believe that what God says is true, and they do the things that God says are wrong. God will be very angry and will punish them severely.
+\v 9 He will cause everyone who habitually does evil deeds to suffer greatly and to have many troubles. This certainly will happen to the Jews who refuse to accept God's message, because God gave them the privilege to be his special people, but it will also happen to the non-Jews.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 But to those who are self-seeking, who disobey the truth but obey unrighteousness, wrath and fierce anger will come,
+\v 9 and tribulation and distress, on every human soul that has practiced evil, to the Jew first, and also to the Greek.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:disobey]]
+  * [[:yo:obe:kt:true]]
+  * [[:yo:obe:kt:unjust]]
+  * [[:yo:obe:kt:wrath]]
+  * [[:yo:obe:other:angry]]
+  * [[:yo:obe:other:tribulation]]
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:other:jew]]
+  * [[:yo:obe:other:greek]]
+
+===== Translation Notes: =====
+
+Paul continues his imaginary argument with a Jewish person.
+
+  * **self-seeking**  - "selfish" or "only concerned with what makes themselves happy"
+  * **wrath and fierce anger will come **  - This says the same thing in two different ways to emphasize God's anger. Alternate translation "God will show his terrible anger." (See: [[en:ta:vol2:translate:figs_doublet|Doublet]])
+  * **and tribulation and distress**  - This says the same thing in two different ways to emphasize how bad God's punishment will be. This can be translated as a new sentence: "And awful punishments will fall."
+  * **on every human soul**  - Here, Paul uses the word "soul" to refer to the whole person. Alternate translation: "upon every person." (See: [[en:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **has practiced evil**  - "has continually done evil things"
+  * **to the Jew first, and also to the Greek**  - Alternate translation as a new sentence: "God will judge the Jewish people first, and then those who are not Jewish people."
+  * **first**  - The good news was preached to Jews before the Greeks, so the primary meaning here is probably 1) first in order of time, but it could also mean 2) "most certainly" (see UDB) or "most importantly."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:02|Romans Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:02:05|<<]] | [[:yo:bible:notes:rom:02:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish tribulation}}
+
+~~NOCACHE~~

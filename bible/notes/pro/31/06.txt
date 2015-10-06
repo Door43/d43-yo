@@ -1,0 +1,70 @@
+====== Proverbs 31:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 Give strong\f + \ft Or: alcoholic \f* drinks to those who are dying
+\q2 and to those who are greatly distressed\f + \ft Or: suffering very much \f*.
+\q1
+\v 7 If they drink, they will forget that they are poor,
+\q2 and they will not think about their distress\f + \ft Or: troubles \f* anymore.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Give strong drink to those who are dying
+\q2 and to those who are grieving their loss.
+\v 7 One who drinks will forget he is poor, 
+\q2 and he will not remember his trouble. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Give strong drink to the perishing,
+\q and wine to those in bitter distress. 
+\q
+\v 7 He will drink and he will forget his poverty, 
+\q and he will not remember his trouble.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:perish]]
+  * [[:En:obe:other:trouble]] 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:31|Proverbs Chapter 31 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/31/04|<<]] | [[en/bible/notes/pro/31/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

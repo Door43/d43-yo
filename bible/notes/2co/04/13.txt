@@ -1,0 +1,73 @@
+====== 2 Corinthians 04:13-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 We are not discouraged. We are like \add the person who\add* wrote \add in the Scriptures\add*, "\add God\add*, I trusted \add in you\add* and so I continue speaking \add your message\add*." We\add \f + \ft exclusive \f*\add* also trust \add in God\add*, so we continue speaking \add his message\add*.
+\v 14 \add We do this\add* because we\add \f + \ft exclusive \f*\add* know that \add although people might kill us, God\add*, who caused the Lord Jesus to live again after he died, will also cause us\add \f + \ft exclusive \f*\add* to live again \add after we die. God will do this because we belong to\add* Jesus. \add And then God\add* will bring us\add \f + \ft exclusive \f*\add*, together with you, to be with him.
+\v 15 \add So I say that\add* all these things \add that we\f + \ft exclusive \f* suffer\add* are in order to help you. \add We have suffered all this\add* in order that more and more people, \add as a result of hearing that God will\add* kindly\f + \ft Or: freely \f* \add forgive their sins\add*, will thank \add him and praise him. Then\add* they will greatly honor him \add and worship him\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 We trust in God, just as the Scriptures say: "I trust in God; this is why I speak." We also trust in God, and we also speak about what he has done for us.
+\v 14 We know that God, who raised up the Lord Jesus from the dead, will also raise us up from the dead with him, and that Jesus will take us along with you, and take us to be where God is.
+\v 15 All that I have suffered is to help you, so that more and more people can know how God loves them freely, and so that they may praise him more and more.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 But we have the same spirit of faith according to that which was written: "I believed, and so I spoke." We also believe, and so we also speak.
+\v 14 We know that the one who raised the Lord Jesus will also raise us with him, and will bring us with you into his presence.
+\v 15 Everything is for your sake so that, as grace is spread to many people, thanksgiving may increase to the glory of God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:kt:faith]]
+  * [[:yo:obe:other:written]]
+  * [[:yo:obe:kt:believe]]
+  * [[en:obe:other:know]]
+  * [[:yo:obe:kt:raise]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:grace]]
+  * [[:yo:obe:kt:glory]]
+  * [[en:obe:kt:god]]
+ 
+===== Translation Notes: =====
+Paul and Timothy continue to write to the people of the church in Corinth.
+
+  * **we have the same** - The word "we" refers to Paul, Timothy and the church in Corinth.
+  * **the same spirit of faith** - "the same attitude of faith." The word "spirit" refers to how a person thinks and makes decisions. Paul and Timothy are saying their attitude of trusting God is the same as the Corinthians.
+  * **I believed, and so I spoke** - This is a quote from king David.
+  * **will bring us with you** - The word "us" excludes the Corinthians. (See: [[:yo:ta:vol2:translate:figs_exclusive]])
+  * **thanksgiving** - Understanding the good God has done and thanking him for it.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2co:04|2 Corinthians Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2co/04/11|<<]] | [[en/bible/notes/2co/04/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

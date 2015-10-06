@@ -1,0 +1,73 @@
+====== Colossians 03:12-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Because God has chosen you and reserved you to be his people, and because \add God\add* loves you, be compassionate to one another. Be kind to one another. Be humble. Be meek \f + \ft Or: be considerate toward one another \f*, be patient with one another,
+\v 13 and tolerate one another. Forgive one another, if one of you has a grudge\f + \ft Or: complaint \f* against another. Just like the Lord \add Jesus freely\f + \ft Or: willingly \f*\add* forgave you, you too \add must freely\f + \ft Or: willingly \f* forgive one another\add*.
+\v 14 And what is more important than all of these is that you love one another, because by doing that you will be perfectly united together.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Because God has chosen you and set you apart as his people, and because he loves you, serve others compassionately and mercifully and with kindness. Humbly and gently care for one another with patience
+\v 13 and bear with each other. If anyone complains against someone else, forgive one another. Just as the Lord Jesus has forgiven you, so also you must forgive each other.
+\v 14 And what is most important is to love one another, because by doing that you will tie yourselves together perfectly.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Put on therefore, as God’s chosen ones—holy and beloved—a heart of compassion, kindness, lowliness, meekness, and patience.
+\v 13 Bear with one another. Be gracious to each other. If someone has a complaint against someone else, forgive in the same way that the Lord has forgiven you.
+\v 14 Above all these things, have love, which is the bond of perfection.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:elect]]
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:kt:beloved]]
+  * [[:yo:obe:other:heart]]
+  * ​[[:yo:obe:kt:compassion]]
+  * [[:yo:obe:kt:forgive]]
+  * [[:yo:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+  * **put on…a heart of compassion…**  - As a person puts on clothing while getting dressed, believers are to put on compassion, lowliness, etc. in their behavior towards each other. (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **Put on therefore**  - "Therefore" is a discourse marker used to specify an action or behavior change based on the preceding discussion or teaching. (See: [[en:ta:workbench:discourse:home|Discourse Information]])
+  * **as God’s chosen ones–holy and beloved**  - “as God's holy and dearly loved chosen ones". (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **a heart of compassion, kindness, lowliness, meekness, and patience **  - "an inner being that is compassionate, kind, humble, gentle and patient".
+  * **heart of compassion**  - “heart of empathy” or “heart of consideration”
+  * **kindness **  - “goodness” or “gentleness”
+  * **lowliness**  - “humbleness of mind” or “lowliness of mind” or “modesty”
+  * **meekness**  - “gentleness”. Calmness of the soul toward God rather than outward expression of feelings.
+  * **patience**  - "fortitude" or "long-suffering" or "self-restraint"
+  * **Bear with one another**  – To work together in harmony and love. It can be translated as "to put up with or endure each another".
+  * **has a complaint against **  - "complains against" (See: [[en:ta:vol2:translate:figs_abstractnouns|Abstract Nouns]])
+  * **have love **  - “put on love”
+  * **which is the bond of perfection **  - “which binds us perfectly together” or “which binds us together in perfect harmony”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:col:03|Colossians Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:col:03:09|<<]] | [[:yo:bible:notes:col:03:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish elect forgive }}
+
+~~NOCACHE~~

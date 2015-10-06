@@ -1,0 +1,59 @@
+====== Leviticus 26:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 "But if you will not heed me and obey all these commands,
+\v 15 and if you reject \f + \ft doublet \f* my decrees and laws, and do not do \f + \ft doublet \f* what I commanded you to do in the agreement that I made with you,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 But suppose you pay no attention to me; suppose you refuse to obey what I have told you to do.
+\v 15 Suppose that you reject my decrees and laws, and do not obey me, but that instead you reject the the covenant that I made with you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 But perhaps you will not listen to me, and will not obey all these commandments.
+\v 15 Perhaps you will decide to reject my decrees and detest  my laws, so that you will not obey all my commandments, but break my covenant.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:obey]]
+  * [[:yo:obe:other:reject]]
+  * [[:yo:obe:other:decree]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lev:26|Leviticus Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/26/11|<<]] | [[en/bible/notes/lev/26/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

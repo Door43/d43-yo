@@ -1,0 +1,49 @@
+====== Exodus 09:31-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 31 When the hail fell, the flax was ruined because the buds were forming, and the barley was ruined because its grain was ripe.
+\v 32 But none of the wheat was ruined, because its shoots were still very small.
+\p
+\v 33 So Moses\f + \ft Or: I \f* left the king and went outside the city. He\f + \ft Or: I \f* lifted up his\f + \ft Or: my \f* hands toward Yahweh \add and prayed\add*. Then the thunder and the hail stopped, and the rain also stopped falling on the land \add of Egypt\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 31 When the ice fell, the flax was ruined because the blossoms were forming, and the barley was ruined because its grain was ripe.
+\v 32 But none of the wheat was ruined, because its shoots were still very small.
+\p
+\v 33 So Moses left the king and went outside the city. He lifted up his hands toward Yahweh and prayed. Then the thunder and the ice storm stopped, and the rain also stopped falling on the land of Egypt.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 31 Now the flax and the barley were ruined, for the barley was maturing, in the ear, and the flax was in bloom.
+\v 32 But the wheat and the spelt were not harmed because they were later crops.
+\v 33 When Moses had left Pharaoh and the city, he spread out his hands to Yahweh; the thunder and hail stopped, and the rain came down no more.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:ruin]]
+  * [[:yo:obe:other:wheat]]
+  * [[:yo:obe:other:Pharaoh]]
+  * [[:yo:obe:kt:Yahweh]]
+
+===== Translation Notes: =====
+
+  * **flax** - a plant that produces fibers which can be made into linen cloth
+  * **barley** - a type of grain used for making bread; also used for cattle feed
+  * **spelt** - a kind of wheat
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:09|Exodus Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:09:29|<<]] | [[:yo:bible:notes:exo:09:34|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

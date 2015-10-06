@@ -1,0 +1,76 @@
+====== Psalms 073:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 You are in heaven and I belong to you \f + \ft rhetorical question \f*,
+\q1 and there is nothing on this earth that I desire more than that.
+\q1
+\v 26 My body and my mind may become very weak,
+\q2 but God, you continue to enable me to be strong;
+\q2 I belong to you forever.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 You are in heaven, and I belong to you;
+\q1 and there is nothing on this earth that I desire more than that.
+\q1
+\v 26 My body and my mind may become very weak,
+\q2 but God, you continue to enable me to be strong;
+\q2 I belong to you forever.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 25 Whom have I in heaven but you?
+\q And there is no one on earth that I desire but you.
+\q
+\v 26 My flesh and my heart grow weak;
+\q but God is the strength of my heart for ever.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:flesh]]
+  * [[:yo:obe:kt:forever]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:073|Psalms Chapter 073 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/073/023|<<]] | [[en/bible/notes/psa/073/027|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book3}}
+
+~~NOCACHE~~

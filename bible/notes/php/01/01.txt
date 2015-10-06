@@ -1,0 +1,68 @@
+====== Philippians 01:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add I\add*, Paul, and Timothy, \add who is with me, are\add* men who serve Christ Jesus. I \add am writing this letter\add* to all \add of you who are\add* pastors and deacons in Philippi \add city\add* and to the rest of God's people \add there who have a close relationship\add* with Christ Jesus.
+\v 2 \add We both\add* (OR\add , I\add*) \add pray that\add* God, \add who is\add* our Father, and Jesus Christ, \add who is our\add* Lord, \add will continue to\add* act kindly toward you and \add will continue to\add* cause you to have \add inner\add* peace.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Dear fellow believers in the city of Philippi, this is Paul and Timothy, who are serving Christ Jesus. We are writing this letter to all of you in Philippi whom God has set apart for himself and has joined to Christ Jesus. We are also writing especially to the overseers and deacons there.
+\v 2 We pray that God our Father and Jesus Christ our Lord will be kind to you and give you peace.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 Paul and Timothy, servants of Christ Jesus, to all the ones set apart in Christ Jesus who are at Philippi, with the overseers and deacons.
+\v 2 Grace to you and peace from God our Father and the Lord Jesus Christ.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:paul]]
+  * [[:yo:obe:other:timothy]]
+  * [[:yo:obe:other:servant]]
+  * [[en:obe:kt:jesus]]
+  * [[:yo:obe:kt:setapart]]
+  * [[:yo:obe:kt:inchrist]]
+  * [[:yo:obe:other:philippi]]
+  * [[:yo:obe:other:overseer]]
+  * [[:yo:obe:other:deacon]]
+  * [[:yo:obe:kt:grace]]
+  * [[:yo:obe:other:peace]]
+  * [[:yo:obe:kt:godthefather]]
+  * [[:yo:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+  * **Paul and Timothy **  - This could be translated as "From Paul and Timothy." This could also be translated as "We, Paul and Timothy, wrote this letter." If your language has a particular way of introducing the authors of a letter, use it.
+  * **servants of Christ Jesus**  - “We are servants of Christ Jesus.” The phrase “We are” is implied. (See: [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit Information]])
+  * **to all the ones set apart in Christ Jesus **  - "to all the believers in Christ"
+  * **the overseers and deacons**  - "the leaders of the church"
+  * **Grace to you**  - This is a way to wish a blessing upon other people.
+  * **to you**  - The pronoun “you” refers to the believers in the Philippian Church. (See: [[en:ta:vol1:translate:figs_you]])
+  * **God our Father**  - The pronoun "our" probably refers to all believers in Christ, including Paul, Timothy and the Philippian believers. (See: [[en:ta:vol2:translate:figs_inclusive|Inclusive]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:php:01|Philippians Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:php:01:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish timothy philippi overseer deacon}}
+
+~~NOCACHE~~

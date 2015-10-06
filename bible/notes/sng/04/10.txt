@@ -1,0 +1,83 @@
+====== Song of Solomon 04:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 My bride, your love for me is delightful!
+\q2 It more delightful than wine!
+\q1 And the fragrance of your perfume
+\q2 is more pleasing than any spice!
+\q1
+\v 11 Being kissed by you is \add as enjoyable as eating\add* \f + \ft metonymy \f* honey;
+\q2 your kisses are as sweet as milk \add mixed with\add* honey.
+\q2 The aroma of your clothes
+\q2 is like \f + \ft simile \f* the aroma of \add cedar trees in\add* Lebanon.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 My bride, your love for me is delightful!
+\q2 It more delightful than wine!
+\q1 And the fragrance of your perfume
+\q2 is more pleasing than any spice!
+\q1
+\v 11 Being kissed by you is as enjoyable as eating  honey;
+\q2 your kisses are as sweet as milk mixed with honey.
+\q2 The aroma of your clothes
+\q2 is like  the aroma of cedar trees in Lebanon.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 How beautiful is your love, my sister, my bride!
+\q How much better is your love than wine,
+\q And the fragrance of your perfume than any spice.
+\q
+\v 11 Your lips, my bride, drip honey;
+\q honey and milk are under your tongue;
+\q the fragrance of your garments is like the fragrance of Lebanon.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:sng:04|Song of Solomon Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/sng/04/09|<<]] | [[en/bible/notes/sng/04/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

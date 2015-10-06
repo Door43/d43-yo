@@ -1,0 +1,74 @@
+====== 1 Kings 19:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 He went into a cave there and slept there that night.
+
+\p \add The next morning\add*, Yahweh said to him "Elijah, why are you here?"
+\v 10 Elijah replied, "I have zealously served you, Yahweh, God Almighty. But the Israelite people have rejected the agreement that they made with you. They have torn down your altars, and they have killed all of your prophets. I am the only one whom they have not killed, and now they are trying to kill me, too. \add So I am running away from them\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 He went into a cave there and slept there that night.
+
+\p The next morning, Yahweh said to him "Elijah, why are you here?"
+\v 10 Elijah replied, "I have zealously served you, Yahweh, Commander of angel armies. But the Israelite people have rejected the agreement that they made with you. They have torn down your altars, and they have killed all of your prophets. I am the only one whom they have not killed, and now they are trying to kill me, too. So I am running away from them."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 He went to a cave there and stayed in it. Then the word of Yahweh came to him and said to him, "What are you doing here, Elijah?"
+\v 10 Elijah replied, "I have been very zealous for Yahweh, God of hosts, for the people of Israel have forsaken your covenant, destroyed your altars, and killed your prophets with the sword. Now I, only I, am left, and they are trying to take my life, too."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wordofgod]]
+  * [[:yo:obe:kt:zealous]]
+  * [[:yo:obe:kt:yahwehofhosts]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:kingdomofisrael]]
+  * [[:yo:obe:kt:forsaken]]
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:other:altar]]
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:other:sword]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ki:19|1 Kings Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ki/19/07|<<]] | [[en/bible/notes/1ki/19/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

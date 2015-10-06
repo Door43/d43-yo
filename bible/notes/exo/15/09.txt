@@ -1,0 +1,89 @@
+====== Exodus 15:9-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 \add Our\add* enemies said, 'We will pursue them
+\q2 and catch up to them.
+\q1 We will draw our swords
+\q2 and strike them.
+\q1 After we defeat them,
+\q2 we will divide up the spoils.
+\q1 We will take \add from them\add* all we want.'
+\q1
+\v 10 But you blew on them with your breath,
+\q2 and then the sea covered them.
+\q1 They sank like lead\f + \ft Or: rocks \f* in the big waves.
+\q1
+\v 11 Yahweh, among their gods, there is no god like you \f + \ft rhetorical question \f*!
+\q2 You are glorious, completely different from all that you made.
+\q1 There is no one like you!\f + \ft Or: What god is like you? \f* \f + \ft rhetorical question \f*
+\q2 There is no one who can perform all kinds of miracles \f + \ft doublet \f* like you do \f + \ft rhetorical question \f*!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Our enemies said, 'We will go after them
+\q2 and catch up to them.
+\q1 We will draw our swords
+\q2 and strike them.
+\q1 After we defeat them,
+\q2 we will divide up everything we take from them.
+\q1
+\v 10 But you blew on them with your breath,
+\q2 and then the sea covered them.
+\q1 They sank like lead in the big waves.
+\q1
+\v 11 Yahweh, among their gods, there is no god like you!
+\q2 You are glorious, completely different from all that you made.
+\q1 There is no one like you!
+\q2 Everyone fears and praises you for all the miracles you do!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 The enemy said, 'I will pursue, I will overtake, I will share out the plunder;
+\q my desire will be satisfied on them;
+\q I will draw my sword; my hand will destroy them.'
+\q
+\v 10 But you blew with your wind, and the sea covered them;
+\q they sank like lead in the mighty waters.
+\q
+\v 11 Who is like you, Yahweh, among the gods?
+\q Who is like you, majestic in holiness,
+\q honored in praises, doing miracles?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:sword|sword]]
+  * [[:yo:obe:other:hand|hand]]
+  * [[:yo:obe:other:mighty|mighty]]
+  * [[:yo:obe:kt:majesty|majesty]]
+  * [[:yo:obe:kt:holy|holiness]]
+  * [[:yo:obe:other:praise|praises]]
+  * [[:yo:obe:kt:miracle|miracles]]
+
+===== Translation Notes: =====
+
+  * **plunder** - This is things that are stolen, especially during a war.
+  * **my desire will be satisfied on them;**  - AT: I will satisfy my desire on them. (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **sank like lead in the mighty waters.**  - This means the army sank quickly in the water. (See: [[en:ta:vol1:translate:figs_simile]]) Lead is a heavy and soft metal, gray in color, that sinks very quickly in water. If people in your culture do not know what lead is, you can substitute the phrase "sank like a rock in the mighty waters."
+  * **Who is like you, Yahweh, among the gods?**  - The implied answer is that there is no god like Yahweh. (See: [[en:ta:vol1:translate:figs_rquestion]]) (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Who is like you, majestic in holiness, honored in praises, doing miracles? ** - The implied answer is that there is no god like Yahweh. (See: [[en:ta:vol1:translate:figs_rquestion]]) (See: [[en:ta:vol1:translate:figs_explicit]]) (See:  [[en:ta:vol2:translate:figs_doublet]]).
+
+==== Links: ====
+
+  * **[[:yo:bible:questions:comprehension:exo:15|Exodus Chapter 15 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:15:06|<<]] | [[:yo:bible:notes:exo:15:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

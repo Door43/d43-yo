@@ -1,0 +1,73 @@
+====== Job 20:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Do you not know that from long ago,
+\q2 ever since people were first put on the earth,
+\q1
+\v 5 that wicked people \add like you\add* do not continue to rejoice for a long time,
+\q2 that ungodly people are happy only for a moment\f + \ft Or: very short time \f* \f + \ft hyperbole \f*?
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Do you not know that from long ago,
+\q2 ever since God first put people on the earth,
+\q1
+\v 5 that wicked people like you do not continue to rejoice for a long time,
+\q2 and that people who refuse to honor God are happy only for a moment?
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Do you not know this fact from ancient times,
+\q when God placed man upon earth,
+\q
+\v 5 the triumph of the wicked is short,
+\q and the joy of the godless lasts only for a moment?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:kt:ungodly]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:20|Job Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/20/01|<<]] | [[en/bible/notes/job/20/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

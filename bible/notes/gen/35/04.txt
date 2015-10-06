@@ -1,0 +1,54 @@
+====== Genesis 35:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 So they gave to Jacob all the idols that they had brought, and all their earrings. Jacob buried them in the ground under the big oak tree that was near Shechem town.
+\p
+\v 5 As they prepared to leave there, God caused the people who lived in the cities around them to be extremely afraid of Jacob's family \f + \ft personification \f*, so that they did not pursue and attack them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 So they gave to Jacob all the idols that they had brought, and all their earrings. Jacob buried them in the ground under the big oak tree that was near the city of Shechem.
+\p
+\v 5 As they prepared to leave there, God caused the people who lived in the cities around them to be very afraid of Jacob's family, so that they did not pursue them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 So they gave to Jacob all the foreign gods that were in their hand, and the rings that were in their ears. Jacob buried them under the oak that was near Shechem.
+\v 5 As they traveled, God made panic to fall on the cities that were around them, so those people did not pursue the sons of Jacob.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jacob]]
+  * [[en:obe:kt:falsegod]]
+  * [[en:obe:other:bury]]
+  * [[en:obe:other:oak]]
+  * [[:yo:obe:other:shechem]] 
+  * [[en:obe:kt:fear]]
+
+===== Translation Notes: =====
+
+  * **So they gave**  - "So everyone in Jacob's household" or "So all of his family and servants gave"
+  * **that were in their hand**  - "that were in their possession" or "that they had"
+  * **the rings that were in their ears**  - "their earrings." (UDB) Possible meanings are 1) the gold in the earrings could have been used to make more idols or 2) they took these earrings from the city of Shechem after they attacked it and killed all the people. The earrings would have reminded them of their sin.
+  * **God made panic fall on the cities** - The people were afraid of Jacob, but God was the one who caused the people to fear Jacob.
+  * **the sons of Jacob**  - It is implied that no one attacked anyone in Jacob's family. But two of the sons, Simeon and Levi had attacked the Canaanites relatives of Shechem after he raped Jacob's daughter. Jacob was afraid they would seek revenge in [[en:bible:notes:gen:34:30|34:30]]. Alternate translation: "Jacob's family" or "Jacob's household." (See: [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit Information]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:35|Genesis Chapter 35 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:35:01|<<]] | [[:yo:bible:notes:gen:35:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish oak}}
+
+~~NOCACHE~~

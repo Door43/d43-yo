@@ -1,0 +1,42 @@
+====== Exodus 24:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Moses\f + \ft Or: I \f* went and told the people everything that Yahweh had said and all that he had commanded. The people all replied together, saying, "We will do everything that Yahweh has told us \add to do\add*."
+\v 4 Then Moses\f + \ft Or: I \f* wrote down everything that Yahweh had commanded. Early the next morning Moses\f + \ft Or: I \f* built a \add stone\add* altar. He\f + \ft Or: I \f* also set up twelve stones, one for each of the Israelite tribes.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Moses went and told the people everything that Yahweh had said and all that he had commanded. The people all replied together, saying, "We will do everything that Yahweh has told us to do."
+\v 4 Then Moses wrote down everything that Yahweh had commanded. Early the next morning Moses built a stone altar. He also set up twelve stones, one for each of the Israelite tribes.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 Moses went and told the people all of Yahweh's words and decrees. All the people answered with one voice and said, "We will do all the words that Yahweh has said."
+\v 4 Then Moses wrote down all of Yahweh's words .
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]
+  * [[:yo:obe:other:decree|decree]]
+
+===== Translation Notes: =====
+
+  * **answered with one voice**  - "answered together" or “shouted together" 
+  * **We will do all of the words that Yahweh has said** - AT: "We will do everything Yahweh has told us to do" or "We will obey all the things Yahweh has told us to do" 
+  * **wrote down all of Yahweh's words** - "wrote down everything Yahweh said" or "wrote down everything that Yahweh commanded them to do"
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:24|Exodus Chapter 24 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:24:01|<<]] | [[:yo:bible:notes:exo:24:05|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

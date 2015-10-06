@@ -1,0 +1,62 @@
+====== Matthew 10:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 If the people \add who live in any house or town\add* do not welcome you \add to their home or town\add*, nor listen to your message, leave that house or town. And as you leave, shake off the dust from your feet. \add By doing that, you will warn them that God will punish them for rejecting your message\add*.
+\v 15 Note this carefully: \add At the time when God\add* judges \add all people, he\add* will punish \add the people who lived in\add* Sodom and Gomorrah \f + \ft metonymy \f*, \add the ancient cities which God destroyed because their people were extremely wicked\add*. But in any town where the people \f + \ft metonymy \f* refused to hear your message, God will punish them very severely."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 If the people who live in any house or town do not welcome you, nor listen to your message, leave that place. As you leave, shake off the dust from your feet. By doing that, you will warn them that God will reject them as they rejected what you said.
+\v 15 Note this carefully: At the time when God judges all people, he will punish the wicked people who lived in Sodom and Gomorrah. But if the people of any city reject you, God will punish them even more severely.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 14 As for those who do not receive you or listen to your words, when you depart from that house or city, shake off the 
+dust from your feet.
+\v 15 Truly I say to you, It shall be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:receive]]
+  * [[:yo:obe:kt:amen]]
+  * [[:yo:obe:other:sodom]]
+  * [[:yo:obe:other:gomorrah]]
+  * [[:yo:obe:kt:judgmentday]]
+
+===== Translation Notes: =====
+
+This continues the account of Jesus sending out his twelve apostles to do his work that began in [[:yo:bible:notes:mat:10:01|10:1]].
+
+  * **As for those who do not receive you or listen**  - "If no people in that town will receive you or listen"
+  * **you…your **  - the twelve apostles
+  * **listen to your words **  - "listen to your message" (UDB) or "listen to what you have to say"
+  * **city**  - You should translate this the same way you did in [[:yo:bible:notes:mat:10:11|10:11]].
+  * **shake off the dust from your feet **  - "shake the dust of that house or city off your feet." This is a sign that God had rejected the people of that house or city (see UDB).
+  * **It shall be more tolerable**  - "The suffering shall be less"
+  * **the land of Sodom and Gomorrah **  - "the people who lived in the cities of Sodom and Gomorrah," whom God destroyed with fire sent from heaven (See: [[en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **that city**  - the people in the city that does not receive the apostles or listen to their message (See: [[en:ta:vol2:translate:figs_metonymy|Metonymy]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:mat:10|Matthew Chapter 10 Comprehension Questions]]
+
+**[[:yo:bible:notes:mat:10:11|<<]] | [[:yo:bible:notes:mat:10:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish true sodom gomorrah}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Joshua 15:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 to the hill north of Ekron \add city\add*. From there it extended \add west\add* to Shikkeron \add town\add* and past Baalah Mountain to Jabneel \add town\add*, then \add northwest\add* to the \add Mediterranean\add* Sea.
+\pi
+\v 12 The western border of the land that was allotted to the tribe of Judah was the \add Mediterranean Sea\add*. All the clans of Judah lived inside those borders.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 The border continued northwest to the hill north of Ekron. From there it extended west to Shikkeron and past Mount Baalah, on to Jabneel, and then northwest to the Mediterranean Sea.
+\pi
+\v 12 The western border of the land that was assigned to the tribe of Judah was the Mediterranean Sea. All the clans of Judah lived inside those borders.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 The border went out beside the northern hill of Ekron, and then it bent around to Shikkeron and passed along to Mount Baalah, from where it went to Jabneel. The border ended at the sea.
+\v 12 The western boundary was the Great Sea and its coastline. This was the border around the tribe of Judah, clan by clan.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:ekron]]
+  * [[en:obe:other:tribe]]
+  * [[en:obe:other:judah]]
+  * [[en:obe:other:clan]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **northern, western**  - indicates direction
+    * **Great Sea**  - another name for the Mediterranean Sea (See: [[en:obe:other:mediterranean]])
+    * **Shikkeron, Mount Baalah, Jabneel**  - names of places or locations (See:[[en:ta:vol1:translate:translate_names]])
+    * **coastline** - a line that forms a boundary between land and an ocean or a lake
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:15|Joshua Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/15/09|<<]] | [[en/bible/notes/jos/15/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

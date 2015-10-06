@@ -1,0 +1,66 @@
+====== Romans 06:12-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 So, do not let the \add desire to\add* sin \f + \ft personification \f* control your bodies \f + \ft metaphor \f* with the result that you do the sinful things that you desire to do. \add Remember that\add* your bodies will surely die, \add but your spirits will never die\add*.
+\v 13 Do not let any of your body parts do wicked things, as \add you did\add* \f + \ft metaphor \f* \add when you were spiritually\add* dead. Instead, present yourselves to God as people who are alive \add spiritually\add*. Present all your body parts to God, \add to allow him\add* to use them to \add do\add* righteous things.
+\v 14 Do not let a \add desire to\add* sin control you \f + \ft personification \f*. The laws \add that God gave Moses\add* did not enable you\add to stop sinning\add*. But \add now\add* God controls you and kindly helps you \add not to sin\add*.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 So when you want to sin, do not allow yourselves to do what you want. Remember that your body will die one day.
+\v 13 Do not do or say anything wicked. You were like dead people then, because dead people cannot know anyone, and you did not know God.
+Instead, present yourselves to God as people who are alive and who know him. Everything you do and say, do it for God; allow him to use you to do righteous things.
+\v 14 When you desire to sin, do not do it! The laws that God gave Moses did not enable you to stop sinning. But now God controls you and kindly helps you not to sin.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Therefore do not let sin rule in your mortal body in order that you obey its lusts.
+\v 13 Do not present your body parts to sin as tools for unrighteousness, but present yourselves to God, as
+alive from the dead, and your body parts as tools for righteousness for God.
+\v 14 Do not allow sin to rule over you, for you are not under law, but under grace.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:sin]]
+  * [[:yo:obe:other:obey]]
+  * [[en:obe:other:lust]]
+  * [[:yo:obe:kt:unjust]]
+  * [[:yo:obe:kt:righteous]]
+  * [[en:obe:kt:lawofmoses]]
+  * [[:yo:obe:kt:grace]]
+
+===== Translation Notes: =====
+
+  * **do not let sin rule...Do not allow sin to rule** - "Sin" is described as a person's king or master. (See: [[en:ta:vol2:translate:figs_personification]])
+  * **your mortal body** - This phrase refers to the physical part of a person, which will die. Alternate translation: "you." (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **in order that you obey its lusts** - The master, "sin," wants the sinner to obey the master's commands to do evil things.
+  * **Do not present your body parts to sin as tools for unrighteousness** - The picture is of the sinner offering his "body parts" to his master or king. Alternate translation: "Do not offer yourselves to sin so that you do what is not right." (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **but present yourselves to God, as alive from the dead** -"but offer yourselves to God, because he has given you new spiritual life"
+  * **your body parts as tools for righteousness for God** - "let God use you for what is pleasing to him"
+  * **Do not allow sin to rule over you** - "Do not let sinful desires control what you do" or "Do not allow yourselves to do the sinful things you want to do"
+  * **for you are not under law** - The full meaning can be made explicit: "for you are no longer bound to the Law of Moses, which could not give you the power to stop sinning." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **but under grace** - The full meaning can be made explicit: "but you are bound to God's grace, which does give you the power to stop sinning."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:06|Romans Chapter 06 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:06:10|<<]] | [[:yo:bible:notes:rom:06:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

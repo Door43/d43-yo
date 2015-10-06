@@ -1,0 +1,50 @@
+====== Mark 07:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 After Jesus had left the crowd and then entered a house with the disciples, they questioned him about the parable \add that he had just spoken\add*.
+\v 18 He replied to them, "\add I am disappointed that\add* you also do not understand \add what it means!\add*\f + \ft Or: Why can you not understand \add what it means\add*? \f* \f + \ft rhetorical question \f* You ought to understand that nothing that \add enters us from\add* outside can cause \add God to\add* consider us unacceptable to him.\f + \ft Or: Can you not understand that nothing that \add enters us from\add* outside of us can cause \add God to\add* consider us unacceptable to him? \f* \f + \ft rhetorical question \f*
+\v 19 Instead of entering \add and ruining\add* our minds\f + \ft Or: souls \f*, it goes into our stomachs, and afterwards the refuse passes out \add of our bodies\add*." By saying this, Jesus was declaring that people \add can eat\add* any food without causing \add God\add* to reject them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 After Jesus had left the crowd, he entered a house with the disciples. They questioned him about the parable that he had just spoken.
+\v 18 He replied to them, "Did you not understand what it means? You ought to understand that nothing that enters us from outside can cause God to consider us defiled.
+\v 19 Instead of entering and ruining our minds, it goes into our stomachs, and afterwards the refuse passes out of our bodies." By saying this, Jesus was declaring that people can eat any food without causing God to consider them defiled.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 Now when Jesus left the crowd and entered the house, his disciples asked him about the parable.
+\v 18 Jesus said, "Are you also still without understanding? Do you not see that whatever enters into a person from outside cannot defile him,
+\v 19 because it cannot go into his heart, but it goes into his stomach and then passes out into the toilet." With this statement Jesus made all foods clean.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:disciple]]
+  * [[:yo:obe:other:parable]]
+  * [[:yo:obe:other:defile]]
+  * [[:yo:obe:other:heart]]
+
+===== Translation Notes: =====
+
+  * **Are you still without understanding?** - AT: "After all I have said and done, I would expect you to understand." (See: [[:yo:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:07|Mark Chapter 07 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:07:14|<<]] | [[:yo:bible:notes:mrk:07:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

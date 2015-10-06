@@ -1,0 +1,79 @@
+====== Psalms 015:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, who are allowed to enter your Sacred Tent?
+\q2 Who are allowed to live on your sacred mountain?
+\b
+\q1
+\v 2 Only those who always do what is right and do not sin may do that.
+\q2 They always say what is true
+\q2
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, who are allowed to enter your Sacred Tent?
+\q2 Who are allowed to live on your sacred mountain?
+\q1
+\v 2 Only those who always do what is right and do not sin may do that,
+\q2 those who always speak the truth.
+
+
+\q2
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 15
+\d A Psalm of David.
+\q
+\v 1 Yahweh, who may stay in your tabernacle?
+\q Who may live on your holy hill?
+\q
+\v 2 He who walks blamelessly and does what is right,
+\q and speaks truth from his heart.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:psalm]]
+  * [[:yo:obe:other:david]]
+  * [[:yo:obe:kt:tabernacle]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:kt:true]]
+  * [[:yo:obe:other:heart]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:015|Psalms Chapter 015 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/014/007|<<]] | [[en/bible/notes/psa/015/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

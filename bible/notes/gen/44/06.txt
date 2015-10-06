@@ -1,0 +1,52 @@
+====== Genesis 44:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 When the servant caught up with them, he told them what Joseph had told him to say.
+\v 7 But one of them replied to him, "Sir, why do you say such things? We are your servants, and we would never do anything like that!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 When the servant caught up with them, he told them what Joseph had told him to say.
+\v 7 But one of them replied to him, "Sir, why do you say such things? We are your servants, and we would never do anything like that!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 The steward overtook them and spoke these words to them.
+\v 7 They said to him, "Why does my lord speak such words as these? Far be it from your servants that they would do such a thing.
+</usfm>
+
+
+===== Important Terms: =====
+  * [[en:obe:other:manager]]
+  * [[en:obe:kt:word]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:servant]]
+===== Translation Notes: =====
+
+  * **Why does my lord speak such words as these** - The brothers refer to the steward as "my lord." This is a formal way of speaking to someone with greater authority. Alternate translation: "Why are you saying this, my lord?"
+  * **Far be it from your servants that they would do such a thing** - The brothers refer to themselves as "your servants" and "they." This is a formal way of speaking to someone with greater authority. Alternate translation: "We would never do such a thing."
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:44|Genesis Chapter 44 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/44/03|<<]] | [[en/bible/notes/gen/44/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Hebrews 09:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 A covenant \add is like a will. In the case of a will\add*, \add in order to put its provisions into effect\add*, someone must prove that the one who made it has died.
+\v 17 A will goes into effect \add only when the one who makes the will\add* has died. It is not in effect when the one who made it is still alive.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 A covenant is like a will. In the case of a will, in order to put its provisions into effect, someone must prove that the one who made it has died.
+\v 17 A will goes into effect only when the one who makes the will has died. It is not in effect when the one who made it is still alive.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 For where someone leaves behind a will, it is necessary to prove the death of that person who made it.
+\v 17 For a will is only in force where there has been a death, because it has no force while he who made it lives.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:death]]
+
+===== Translation Notes: =====
+
+
+    * **will** - a legal document in which a person states who should receive that person's possessions when that person dies
+ 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:09|Hebrews Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/09/13|<<]] | [[en/bible/notes/heb/09/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Genesis 16:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 An angel of Yahweh, found her as she was near a spring of water in the desert. It was the spring that was alongside the road to Shur.
+\v 8 He said to her, "Hagar, slave of Sarai, where have you come from, and where are you going?" She replied, "I have run away from Sarai, my mistress."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 The angel of Yahweh went to her as she was near a spring of water in the desert. It was the spring that was alongside the road to Shur.
+\v 8 He said to her, "Hagar, slave of Sarai, where have you come from, and where are you going?" She replied, "I have run away from Sarai, my mistress."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 The angel of Yahweh found her by a spring of water in the wilderness, the spring that is on the way to Shur.
+\v 8 He said, "Hagar, Sarai’s servant, where did you come from and where are you going?" And she said, "I am fleeing from my mistress Sarai."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:angel]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:other:desert]]
+  * [[en:obe:other:hagar]]
+  * [[en:obe:other:sarah]]
+  * [[en:obe:other:servant]]
+===== Translation Notes: =====
+
+  * **the angel of Yahweh**  - Possible meanings are 1) Yahweh made himself look like an angel, or 2) this was one of Yahweh's angels, or 3) this was a special messenger from God (some scholars think it was Jesus). Since the phrase is not well understood, it is best to simply translate it as "the angel of Yahweh" using the normal word that you use for "angel."
+  * **Shur**  - This was the name of a place south of Canaan and east of Egypt.
+  * **wilderness**  - This can be translated here as "desert." The wilderness area she went to was a desert.
+  * **my mistress**  - This was a title for Sarah that showed her authority over her servant, Hagar. This can also be translated as "my owner."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:16|Genesis Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/16/05|<<]] | [[en/bible/notes/gen/16/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,67 @@
+====== 1 Samuel 02:2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 There is no one who is holy like you, Yahweh.
+\q2 There is no other god like you.
+\q2 The is no one like you, our God, who can protect us \add as though you were putting us beneath\add* a huge rock \add where we can hide from danger\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 There is no one who is holy like you, Yahweh.
+\q2 There is no other god like you.
+\q2 The is no one like you, our God, who can protect us as though you were putting us on top of a huge rock where we can be safe from danger.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 2 There is none holy like Yahweh,
+\q For there is none besides you;
+\q There is no rock like our God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1sa:02|1 Samuel Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/02/01|<<]] | [[en/bible/notes/1sa/02/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

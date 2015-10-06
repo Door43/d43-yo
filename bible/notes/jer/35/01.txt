@@ -1,0 +1,65 @@
+====== Jeremiah 35:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Several years earlier\add*, when Jehoiakim was the king of Judah, Yahweh gave me this message:
+\v 2 "Go to the place where families of the Rechab clan live. Invite them to my temple. \add When they arrive\add*, take them into one of the inside rooms and offer them some wine."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Several years earlier, when Jehoiakim son of Josiah was the king of Judah, Yahweh gave me this message:
+\v 2 "Go to the place where families of the Rechab clan live. Invite them to my temple. When they arrive, take them into one of the inside rooms and offer them some wine."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 35
+\p
+\v 1 This is the word that came to Jeremiah from Yahweh in the days of Jehoiakim son of Josiah king of Judah. It said,
+\v 2 “Go to the clan of the Rechabites and speak with them. Then bring them to my house, into one of the rooms there and give them wine to drink.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jer:35|Jeremiah Chapter 35 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/34/20|<<]] | [[en/bible/notes/jer/35/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

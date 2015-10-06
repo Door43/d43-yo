@@ -1,0 +1,46 @@
+====== Exodus 40:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 He\f + \ft Or: I \f* set the golden altar for burning incense inside the Sacred Tent, in front of the curtain \add that separated the Holy Place from the Very Holy Place\add*,
+\v 27 and he\f + \ft Or: I \f* burned some sweet-smelling incense on it, exactly as Yahweh had commanded him\f + \ft Or: me \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Moses's workmen set the gold altar for burning incense inside the sacred tent, in front of the curtain that separated the holy place from the very holy place,
+\v 27 and they burned some sweet-smelling incense on it, exactly as Yahweh had commanded Moses to do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 26 He put the golden incense altar into the tent of meeting in front of the curtain.
+\v 27 He burned fragrant incense on it, as Yahweh had commanded him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:gold]]
+  * [[en:obe:other:altarofincense]]
+  * [[:yo:obe:other:tentofmeeting]]
+  * [[en:obe:kt:Yahweh]]
+  * [[en:obe:other:command]]
+
+===== Translation Notes: =====
+There are no translation notes for these verses.
+  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:40|Exodus Chapter 40 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:40:24|<<]] | [[:yo:bible:notes:exo:40:28|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

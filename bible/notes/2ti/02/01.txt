@@ -1,0 +1,57 @@
+====== 2 Timothy 02:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 You \add are like a\add* son to me. So I urge also that you \add let God\add* empower you \add spiritually\add* as a result of Christ Jesus acting kindly toward you.
+\v 2 \add As you do that\add*, remembering that \add the message\add* that you heard from me is the same message that other people have affirmed\f + \ft Or: declared \f* to you, you must entrust\f + \ft Or: give \f* that message to people whom you can trust, people who will be competent\f + \ft Or: able \f*\f + \ft Or: qualified \f* to teach others.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 You are like a son to me. So I urge also that you let God empower you as a result of Christ Jesus acting kindly toward you.
+\v 2 Command faithful men to teach the things you heard from me and from many others who have testified in the same way to others, too. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 You therefore, my child, be strengthened in the grace that is in Christ Jesus.
+\v 2 And the things you heard from me among many witnesses, entrust to faithful people, who will be able to teach others also.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:grace]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:witness]]
+  * [[en:obe:kt:trust]]
+  * [[en:obe:kt:faithful]]
+
+===== Translation Notes: =====
+
+  * **be strengthened in the grace that is in Christ Jesus**  - Possible meanings are 1) "let God use the grace he gave you in Christ Jesus to make you strong" (see UDB) or 2) "encourage yourself, knowing that God has given you the grace that comes only through Christ Jesus"
+  * **among many witnesses**  - "with many witnesses there to agree that my words were true"
+  * **faithful**  - "trustworthy"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ti:02|2 Timothy Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:2ti:01:15|<<]] | [[:yo:bible:notes:2ti:02:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

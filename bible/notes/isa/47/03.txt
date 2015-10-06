@@ -1,0 +1,97 @@
+====== Isaiah 47:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 You will be naked and very ashamed.
+\q2 I will get vengeance on you and not pity you."
+\b
+\q1
+\v 4 The one who frees us \add people of Judah\add*, whom we call 'the Almighty Commander of the armies of angels,'
+\q2 is the Holy One of Israel.
+\b
+\q1
+\v 5 \add Yahweh says\add*, "You people of Babylon,
+\q2 sit silently in the darkness,
+\q1 because people will never again say that your city is like \f + \ft metaphor \f* a queen that rules many kingdoms.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 You will be naked and very ashamed.
+\q2 I will have vengeance on you and will not pity you."
+\b
+\q1
+\v 4 The one who frees us people of Judah, whom we call 'Yahweh, Commander of the angel armies,'
+\q2 is the Holy One of Israel.
+\b
+\q1
+\v 5 Yahweh says, "You people of Babylon,
+\q2 sit silently in the darkness,
+\q1 because no one will never again say that your city is like a queen that rules many kingdoms.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 3 Your nakedness will be uncovered, yes, your shame will be seen:
+\q1 I will take vengeance and will not spare a man.
+\q1
+\v 4 Our Redeemer, Yahweh of hosts is his name, 
+the Holy One of Israel.
+\q1
+\v 5 Sit in silence and go into darkness, daughter of the Chaldeans; 
+\q1 for you will no longer be called Queen of kingdoms.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:shame]]
+  * [[en:obe:kt:avenge]]
+  * [[:yo:obe:kt:redeem]]
+  * [[:yo:obe:kt:yahwehofhosts]]
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:kt:holyone]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:kt:darkness]]
+  * [[:yo:obe:other:chaldeans]]
+  * [[:yo:obe:other:queen]]
+  * [[:yo:obe:other:kingdom]]
+ 
+
+===== Translation Notes: =====
+Yahweh continues speaking to the people of Babylon.
+
+    * **Your nakedness will be uncovered, yes, your shame will be seen** - AT: "You will be naked, yes, and everyone will see your shame" (See: [[:yo:ta:vol2:translate:figs_activepassive]] and [[:yo:ta:vol2:translate:figs_parallelism]])
+    * **Our Redeemer** - "Our" refers to Isaiah and the people of Israel. See how you translated "Redeemer" in [[en:bible:notes:isa:41:14|41:14]]. (See: [[:yo:ta:vol2:translate:figs_inclusive]])
+    * **Yahweh of hosts** - See how you translated this in [[en:bible:notes:isa:01:24|1:24]].
+    * **Holy One of Israel** - See how you translated this in [[en:bible:notes:isa:05:15|5:16]].
+    * **daughter of the Chaldeans** - See how you translated this in [[en:bible:notes:isa:41:01|47:1]].
+    * **for you will no longer be called** - AT: "for people will no longer call you" 
+    * **Queen of kingdoms** - This means that people will no longer consider Babylon to be the greatest kingdom of all. (See: [[en:ta:vol1:translate:figs_metaphor]])
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:47|Isaiah Chapter 47 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/47/01|<<]] | [[en/bible/notes/isa/47/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

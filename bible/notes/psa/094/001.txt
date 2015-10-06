@@ -1,0 +1,79 @@
+====== Psalms 094:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, you are able to get revenge \add on your enemies\add*.
+\q2 So show them that you are going to punish them!
+\b
+\q1
+\v 2 You are the one who judges all \add people on\add* the earth;
+\q1 so arise, and give\f + \ft Or: punish \f* the proud \add leaders of our\add* people what\f + \ft Or: like \f* they deserve.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, you are able to get revenge on your enemies.
+\q2 So show them that you are going to punish them!
+\b
+\q1
+\v 2 You are the one who judges all people on the earth;
+\q1 so arise and give they deserve.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 94
+\b
+\q
+\v 1 Yahweh, God who avenges,
+\q God who avenges, shine over us.
+\q
+\v 2 Rise up, judge of the earth,
+\q give to the proud what they deserve.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:avenge]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:other:judgeposition]]
+  * [[:yo:obe:other:proud]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:094|Psalms Chapter 094 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/093/005|<<]] | [[en/bible/notes/psa/094/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book4}}
+
+~~NOCACHE~~

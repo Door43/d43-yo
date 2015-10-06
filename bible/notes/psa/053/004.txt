@@ -1,0 +1,88 @@
+====== Psalms 053:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Will all these evil people never learn \add what God will do to them\add*?
+\q1 They act violently toward Yahweh's people while eating the food that he provides),
+\q2 and they never pray to Yahweh.
+\q1
+\v 5 But \add some day\add* those people will become very terrified,
+\q2 like they have never been terrified before,
+\q1 because God will cause those who are separated from God to die,
+\q2 and he will scatter their bones.
+\q1 They have rejected God,
+\q2 so he will cause them to be \add defeated and\add* completely disgraced.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Will all these evil people never learn what God will do to them?
+\q1 They act violently toward Yahweh's people while eating the food that he provides,
+\q2 and they never pray to Yahweh.
+\q1
+\v 5 But some day those people will become very terrified,
+\q2 like they have never been terrified before,
+\q1 because God will cause those who are separated from God to die,
+\q2 and he will scatter their bones.
+\q1 They have rejected God,
+\q2 so he will cause them to be defeated and completely disgraced.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Don't they know, those who commit iniquity,
+\q those who eat up my people as they eat bread,
+\q but do not call on God?
+\q
+\v 5 There were they in great fear, where no fear was;
+\q for God has scattered the bones of him who encamps against you;
+\q you have put them to shame because God has rejected them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:bread]]
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:other:shame]]
+  * [[:yo:obe:other:shame]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:053|Psalms Chapter 053 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/053/001|<<]] | [[en/bible/notes/psa/053/006|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Exodus 30:26-28 ======
+
+===== TFT: =====
+
+<usfm>
+\v 26 Use this oil for anointing the Sacred Tent, the sacred chest,
+\v 27 the table and all the things that are used with it, the lampstand and all the things that are used to take care of it, the altar for \add burning\add* incense,
+\v 28 and the altar for offering sacrifices that will be burned, along with its bases and all the things that are used with it.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 26 Use this oil for anointing the sacred tent, the sacred chest,
+\v 27 the table and all the things that are used with it, the lampstand and all the things that are used to take care of it, the altar for burning incense,
+\v 28 and the altar for offering sacrifices that will be burned, along with its bases and all the things that are used with it.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 26 You must anoint the tent of meeting with this oil, as well as the ark of the covenant decrees,
+\v 27 the table and all its utensils, the lampstand and its equipment, the incense altar,
+\v 28 the altar for burnt offerings with all its equipment, and the basin with its stand.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:anoint]]
+  * [[:yo:obe:other:tentofmeeting]]
+  * [[:yo:obe:other:oil]]
+  * [[:yo:obe:other:ark]]
+  * [[:yo:obe:kt:testimony]]
+  * [[:yo:obe:other:lampstand]]
+  * [[en:obe:other:altarofincense]]
+  * [[en:obe:other:altar]]
+  * [[:yo:obe:other:burntoffering]]
+
+===== Translation Notes: =====
+Yahweh continues speaking to Moses.
+  * **You must anoint** - Here "you" refers to Moses. (See: [[:yo:ta:vol1:translate:figs_you]])
+  * **ark of the covenant decrees** - See how you translated this in [[en:bible:notes:exo:26:31|26:33]].
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:30|Exodus Chapter 30 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:30:22|<<]] | [[:yo:bible:notes:exo:30:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

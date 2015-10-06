@@ -1,0 +1,55 @@
+====== Exodus 31:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 You Israelite people must respect the rest day, and you \add and your descendants\add* must celebrate it throughout all future generations. \add It will remind you\add* of the agreement that I have made with you that will last forever.
+\v 17 It will remind you Israelite people and remind me \add of that agreement because\add* I, Yahweh, created the heavens and the earth in six days, and on the seventh day I stopped doing that work and relaxed.'~"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 You Israelite people must respect the Sabbath days of rest, and you and your descendants must observe them throughout all future generations. I will always require this of you.
+\v 17 The Sabbath days of rest will remind you Israelite people and me of our covenant because I, Yahweh, created the heavens and the earth in six days, and on the seventh day I stopped doing that work and rested.'"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 Therefore the Israelites must keep the Sabbath. They must observe it throughout their people's generations as a permanent law.
+\v 17 The Sabbath will always be a sign between Yahweh and the Israelites, for in six days Yahweh made heaven and earth, and on the seventh day he rested and was refreshed.'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:kt:sabbath]]
+  * [[:yo:obe:other:generation]]
+  * [[:yo:obe:kt:sign]]
+  * [[:yo:obe:kt:heaven]]
+  * [[en:obe:other:earth]]
+  * [[:yo:obe:kt:rest]]
+
+===== Translation Notes: =====
+Yahweh continues speaking to Moses.
+  * **throughout their people's generations** - See how you translated a similar phrase in [[en:bible:notes:exo:12:12|12:14]].
+  * **permanent law** - See how you translated this in [[en:bible:notes:exo:28:42|28:43]].
+  * **Yahweh made heaven and earth** - AT: "Yahweh made everything" (See: [[en:ta:vol2:translate:figs_merism]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:31|Exodus Chapter 31 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:31:12|<<]] | [[:yo:bible:notes:exo:31:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

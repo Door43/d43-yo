@@ -1,0 +1,45 @@
+====== Genesis 40:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 God again told Joseph what the dream meant, so he said, "The three baskets also represent three days.
+\v 19 Within three days the king will command that your head be cut off. Then your body will be hung on a tree, and vultures will come and eat your flesh."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 God again told Joseph what the dream meant, so he said, "The three baskets also represent three days.
+\v 19 Within three days the king will command that your head be cut off. Then your body will be hung on a tree, and vultures will come and eat your flesh."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 18 Joseph answered and said, "This is the interpretation. The three baskets are three days.
+\v 19 Within three days Pharaoh will lift up your head from you and will hang you on a tree. The birds will eat your flesh off you."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:josephot]]
+  * [[:yo:obe:other:pharaoh]]
+  * [[:yo:obe:kt:flesh]]
+
+===== Translation Notes: =====
+
+  * **This is the interpretation**  - "Here is what the dream means"
+  * **will lift up your head from you and will hang you on a tree**  - Joseph also used the phrase "will lift up your head" when he spoke to the cupbearer in [[:yo:bible:notes:gen:40:12|40:13]]. Here it has a different meaning. Possible meanings are 1) "will lift up your head to put a rope around your neck and hang you from a tree" or 2) "will lift up your head to cut it off."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:40|Genesis Chapter 40 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:40:16|<<]] | [[:yo:bible:notes:gen:40:20|>>]]**
+
+{{tag>publish}}
+
+~~NOCACHE~~

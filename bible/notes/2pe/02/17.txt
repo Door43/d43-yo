@@ -1,0 +1,68 @@
+====== 2 Peter 02:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 These \add teachers of false teachings mislead\f + \ft Or: deceive \f* people by promising what they cannot do\add*, as \f + \ft metaphor \f* dried-up springs \add mislead\f + \ft Or: deceive \f* people by causing them to expect to get water from them\add*. They \add mislead\f + \ft Or: deceive \f* people\add* \f + \ft metaphor \f* just like clouds that are blown along by strong winds \add mislead\f + \ft Or: deceive \f* people by causing them to expect rain, but no rain falls. Therefore\add*, God has reserved the darkness of hell \add for those teachers of false teachings\add*.
+\v 18 By boasting proudly as they make speeches that are worthless, they entice people who have recently \add become believers and\add* have ceased to do the things that wicked people do. They entice them \add into sin\add* by encouraging them to \add do the\add* evil deeds that their self-directed nature \add urges them to do\add*.
+\v 19 \add The false teachers\add* tell people that they are free \add to do whatever they want to do, even though\add* they themselves are \add like\add* slaves \f + \ft metaphor \f* \add because their own self-directed nature forces them to do\add* sinful deeds\add . Think about these well-known words: 'Whenever a person is controlled by something\add* \f + \ft Or:\add something controls a person\add* \f*, \add it is as though\add* that person has become a slave of what controls him.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 These people who teach falsely are like springs that give no water; they are like clouds that quickly pass overhead before they can give rain. Therefore, God has reserved the darkness of hell for those teachers.
+\v 18 They boast about themselves, but what they say is worth nothing. They persuade people who have recently become believers and who have just now ceased to do wicked things. They persuade them to sin again by doing whatever sinful people like to do.
+\v 19 They tell them that they are free to do whatever they like. But they theyselves are slaves who must obey whatever their evil minds tell them to do. Certainly a person is a slave to whatever controls him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 These men are like springs without water. They are like clouds that a storm drives. Thick darkness is reserved for them.
+\v 18 They speak with vain arrogance. They entice people through the lusts of the flesh. They entice people who try to escape from those who live in error.
+\v 19 They promise freedom to them, but they themselves are slaves of corruption. For a man is a slave to whatever overcomes him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:fountain]]
+  * [[en:obe:other:water]]
+  * [[en:obe:kt:darkness]]
+  * [[en:obe:other:vain]]
+  * [[en:obe:other:arrogant]]
+  * [[en:obe:other:lust]]
+  * [[en:obe:kt:flesh]]
+  * [[:yo:obe:kt:promise]]
+  * [[en:obe:kt:free]]
+  * [[:yo:obe:other:servant]] 
+  * [[en:obe:kt:corrupt]]
+
+===== Translation Notes: =====
+
+  * **these men are like springs without water**  - Just as a spring that is dried up does not provide water for physical life, their teaching does not lead to spiritual life. "They are a false place of refreshing. An empty oasis." (See: [[en:ta:vol1:translate:figs_simile]])
+  * **They are like clouds that a storm drives**  - Storm clouds carry rain. This rain can bring nourishing water or destructive floods. These men are like those clouds carrying destruction. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **They speak with vain arrogance.** - Their speech is boastful without meaning.
+  * **They entice people through the lusts of the flesh.** - They appeal to the sinful nature to engage people in immoral and sinful actions.
+  * **They entice people who try to escape from those who live in error.** - They pry on people who are new to the faith.
+  * **They promise freedom to them, but they themselves are slaves of corruption.** - They promise a false freedom, a freedom to sin for believers. But this is slavery to sin.
+  * **For a man is a slave to whatever overcomes him.** -  A man will pursue those desires he lacks self-control over. (See: [[:yo:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2pe:02|2 Peter Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2pe/02/15|<<]] | [[en/bible/notes/2pe/02/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish fountain}}
+
+~~NOCACHE~~

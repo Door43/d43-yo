@@ -1,0 +1,53 @@
+====== Zechariah 02:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Yahweh declares \add to the people who were exiled to Babylonia\add*, "Run! Flee from Babylonia \f + \ft metonymy \f*, the country east \add of Israel\add*, and flee in all directions from the places where I caused you to be scattered!"
+\p
+\v 7 You people \add who previously lived in\add* Jerusalem and who now live in Babylon, flee from there!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Yahweh declares to the people who the Babylonians took away as slaves: "Run! Run! Flee from Babylonia, and flee from the places where I scattered you to the four winds!"
+\p
+\v 7 Run! You who now live in Babylon, run here to Jerusalem!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Ho! Ho! Flee from the land of the north'—this is Yahweh's declaration—
+\q 'for I have scattered you like the four winds of the skies!' This is Yahweh's declaration—
+\q
+\v 7 'Ho! Escape to Zion, you who live with the daughter of Babylon!'"
+\q
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh|Yahweh]]
+  * [[:yo:obe:other:declare|declare, declaration]]
+  * [[:yo:obe:other:zion|Zion, Mount Zion]]
+  * [[:yo:obe:kt:life|life, live, living, alive]]
+  * [[:yo:obe:other:babylon|Babylon, Babylonian]]
+
+===== Translation Notes: =====
+
+  * **Ho,**  - See (Hyperbole). This term is an exclamation of urgency used by prophets.  It is often translated as "get up", or "come".  The (UDB) uses "run" and "flee" to indicate the sense of urgency.
+  * **land of the north**  - This refers to Babylon.
+  * **scattered you**  - Could read "spread you abroad." or "exiled you."
+  * **I have scattered you like the four winds of the skies**  - (See: Simile). AT: "I have exiled the people of Judah to many different places."
+  * **Ho!  Escape to Zion,**  - AT: "Quickly leave Babylon and return to Zion (or "Jerusalem"),"** **
+  * **you who live with the ****daughter of Babylon**  - "you people (or "Israelites") that are living in Babylon."
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:zec:02|Zechariah Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:zec:02:01|<<]] | [[:yo:bible:notes:zec:02:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

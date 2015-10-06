@@ -1,0 +1,76 @@
+====== Psalms 027:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh is the one who gives light \add to my soul\f + \ft Or: spirit \f*\add* and the one who saves me,
+\q2 so I do not \f + \ft rhetorical question \f* need to be afraid of anyone.
+\q1 Yahweh is the one to whom I go for refuge,
+\q2 so I will never be afraid.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh is the one who gives light to my soul and the one who saves me,
+\q2 so I do not  need to be afraid of anyone.
+\q1 Yahweh is the one to whom I go for refuge,
+\q2 so I will never be afraid.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 27
+\d A Psalm of David.
+\q
+\v 1 Yahweh is my light and my salvation;
+\q whom should I fear?
+\q Yahweh is my life's refuge;
+\q whom should I dread?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:psalm]]
+  * [[:yo:obe:other:david]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:light]]
+  * [[:yo:obe:kt:salvation]]
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:refuge]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:027|Psalms Chapter 027 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/026/011|<<]] | [[en/bible/notes/psa/027/002|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

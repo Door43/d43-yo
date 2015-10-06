@@ -1,0 +1,65 @@
+====== Mark 12:35-37 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 \add Later\add*, while he was teaching in the Temple \add courtyard\add*, Jesus said \add to the people\add*, "These men who teach the \add Jewish\add* laws, they must be wrong when they say that the Messiah is \add merely\add* a descendant of \add King\add* David!\f + \ft Or: why do they say that the Messiah is \add merely\add* a descendant of \add King\add* David? \f* \f + \ft rhetorical question \f*
+\v 36 The Holy Spirit caused David himself to say \add about the Messiah\add*,
+\q God said to my Lord, 'Sit here beside me at the place where I will highly honor you! Sit here while I completely defeat your enemies! \f + \ft metonymy \f*'
+\p
+\v 37 Therefore, \add because\add* David himself calls \add the Messiah\add* 'my Lord,' the Messiah cannot be \add just\add* a man who descended \add from King David!\add*\f + \ft Or: how can the Messiah be \add just\add* a man who descended \add from King David\add*? \f* \f + \ft rhetorical question \f* \add He must be much greater than David!\add*" Many people listened to him gladly \add as he taught those things\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 Later, while Jesus was teaching in the temple area, he said to the people, "These men who teach the Jewish laws, they must be wrong when they say that the Christ is merely a human descendant of King David!
+\v 36 The Holy Spirit caused David himself to say about the Christ, "God said to my Lord, "Sit here beside me at my right hand, in place where I will highly honor you more than anyone else! Sit here while I completely defeat your enemies!"'
+\v 37 Therefore, because David himself calls the Christ 'my Lord,' the Christ cannot be just a man who descended from King David! He must be much greater than David!" Many people listened to him gladly as he taught those things.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 35 Jesus was teaching in the temple, and he responded to them and said, "How is it that the scribes say the Christ is the son of David?
+\v 36 David himself, in the Holy Spirit, said
+\q 'The Lord said to my Lord,
+\q sit at my right hand,
+\q until I make your enemies your footstool.'
+\m
+\v 37 David himself calls the Christ 'Lord', so how is he David's son?" The great crowd listened to him with gladness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:temple]]
+  * [[:yo:obe:other:scribe]]
+  * [[:yo:obe:kt:holyspirit]]
+
+===== Translation Notes: =====
+
+    * **How is it that the scribes say the Christ is the son of David?** - AT: "These men who teach the Jewish laws, they must be wrong when they say that the Christ is merely a human descendant of King David!  (See: [[:yo:ta:vol1:translate:figs_rquestion]])
+    * **son of David** - The word “son” is used here to refer to a descendant.
+    * **so how is he David's son?** - AT: "so he cannot be David's son!" (See: [[:yo:ta:vol1:translate:figs_rquestion]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:12|Mark Chapter 12 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:12:32|<<]] | [[:yo:bible:notes:mrk:12:38|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

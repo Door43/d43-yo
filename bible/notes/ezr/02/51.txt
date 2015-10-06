@@ -1,0 +1,73 @@
+====== Ezra 02:51-54 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 51 Bakbuk, Hakupha, Harhur,
+\li2
+\v 52 Bazluth, Mehida, Harsha,
+\li2
+\v 53 Barkos, Sisera, Temah,
+\li2
+\v 54 Neziah, and Hatipha.
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 51 Bakbuk, Hakupha, Harhur,
+\v 52 Bazluth, Mehida, Harsha,
+\v 53 Barkos, Sisera, Temah,
+\v 54 Neziah, and Hatipha.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 51 the descendants of Bakbuk, Hakupha, Harhur,
+\v 52 Bazluth, Mehida, Harsha,
+\v 53 Barkos, Sisera, Temah,
+\v 54 Neziah, and Hatipha.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezr:02|Ezra Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/02/47|<<]] | [[en/bible/notes/ezr/02/55|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

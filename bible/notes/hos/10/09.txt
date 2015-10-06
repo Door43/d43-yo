@@ -1,0 +1,69 @@
+====== Hosea 10:9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 You people of Israel, \add ever since your ancestors did evil things\add* at Gibeah,
+\q2 you have continued to sin.
+\q1 \add When the people at\add* \f + \ft personification \f* Gibeah \add did evil things\add*,
+\q2 the result was a war \add in which thousands of people died\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 People of Israel, from the days of Gibeah you have sinned,
+\q2 and in that place you have lived for a long time. 
+\q1 Will not the war against those who hate what is right, come into Gibeah, where you live? You should be attacked, too! 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Israel,
+\q you have sinned from the days of Gibeah;
+\q and there you have remained.
+\q Did not the war overtake the evildoers in Gibeah?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:10|Hosea Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/10/07|<<]] | [[en/bible/notes/hos/10/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

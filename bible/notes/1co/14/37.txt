@@ -1,0 +1,63 @@
+====== 1 Corinthians 14:37-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 37 Those of you who think that you have the ability to speak messages that come directly from God, or think that you have some other ability \add that God's\add* Spirit gives, should realize that the things that I have written about in this letter are things that the Lord has commanded.
+\v 38 But if they are not willing to accept \add my authority\add*, \add God\add* will not accept them \f + \ft Or: they will not be accepted \add by the congregation\add* \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 37 If there is any prophet or any who is spiritual among you, he will understand that the things I write are what the Lord has commanded, and he will follow what I have written.
+\v 38 But if anyone does not acknowledge what I have written, you should not acknowledge him.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 37 If any one thinks himself to be a prophet or spiritual, he should acknowledge that the things I write to you are a command of the Lord.
+\v 38 But if anyone does not recognize this, let him not be recognized.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:kt:lordgod]] 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1co:14|1 Corinthians Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1co/14/34|<<]] | [[en/bible/notes/1co/14/39|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

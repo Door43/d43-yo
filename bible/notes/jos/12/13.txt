@@ -1,0 +1,45 @@
+====== Joshua 12:13-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Debir, Geder,
+\v 14 Hormah, Arad,
+\v 15 Libnah, Adullam,
+\v 16 Makkedah, Bethel,
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Debir, Geder,
+\v 14 Hormah, Arad,
+\v 15 Libnah, Adullam,
+\v 16 Makkedah, Bethel,
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 the king of Debir, the king of Geder,
+\v 14 the king of Hormah, the king of Arad,
+\v 15 the king of Libnah, the king of Adullam,
+\v 16 the king of Makkedah, the king of Bethel,
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:king|king]]
+  * [[:yo:obe:other:bethel|Bethel]]
+
+===== Translation Notes: =====
+
+  * **Makkedah** - called “a place of shepherds”.  A chief city of the Canaanites, near which five confederate kings were defeated, taken in the cave to which they had fled, and killed.  (See:[[en:obe:other:shepherd]], See:[[:yo:obe:other:canaan]], See:[[:yo:obe:other:king]]).
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jos:12|Joshua Chapter 12 Comprehension Questions]]**
+**[[:yo:bible:notes:jos:12:09|<<]] | [[:yo:bible:notes:jos:12:17|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

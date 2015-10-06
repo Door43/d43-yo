@@ -1,0 +1,61 @@
+====== Joshua 09:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 The Israelite leaders tasted the bread, but they did not ask Yahweh what to do.
+\v 15 So Joshua agreed to make a peace agreement with the men from Gibeon to not kill them. All the Israelite leaders solemnly promised to do what Joshua said in the agreement. \add Then the men from Gibeon returned home\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 The Israelite leaders accepted some of their old food and ate a meal with them in order to make a peace treaty. They did not think to ask Yahweh what they should do.
+\v 15 In this way, Joshua agreed to make peace. The Israelites made a treaty with the men from Gibeon, in which they agreed not to kill these strangers. All the Israelite leaders made a solemn vow to this effect. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 So the Israelites took some of their provisions, but they did not consult with Yahweh for guidance.
+\v 15 Joshua made peace with them and made a solemn promise secured with blood, to let them live.  The leaders of the people also made a vow to them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:israel]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:yo:obe:other:joshua]]
+  * [[:yo:obe:other:peace]]
+  * [[:yo:obe:kt:promise]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:kt:vow]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **leaders**  - “leaders” in this verse are the elders (See:[[:yo:obe:other:elder]]).
+     
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:09|Joshua Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/09/11|<<]] | [[en/bible/notes/jos/09/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

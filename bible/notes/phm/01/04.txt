@@ -1,0 +1,70 @@
+====== Philemon 01:4-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 I always thank my God when I pray for you\add \f + \ft singular \f*\add*, because I hear \add people say that\add* you love all God's people \f + \ft chiasmus \f*
+\v 5 and that you continue to trust in the Lord Jesus.
+\v 6 I pray that as a result of your knowing all the good things \add that God\f + \ft Or: Christ \f* has done for\add* us, you may be effective\f + \ft Or: influence many others \f* as you tell others what you believe, in order that \add they may honor\add* Christ.
+\v 7 I have rejoiced greatly and have been greatly encouraged because you, my dear friend, have acted lovingly toward God's people by encouraging them \f + \ft synecdoche \f*.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 When I pray for you, I always thank God,
+\v 5 because I keep hearing about how you trust in the Lord Jesus. I also hear about how you keep on loving and helping all the believers.
+\v 6 I pray that because you trust in Christ the same as we do, you may be able to know every good thing that we have to give you regarding Christ.
+\v 7 I have greatly rejoiced and have much courage  because you, my dear friend, have been loving God's people and helping them.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 4 I thank my God always, making mention of you in my prayers,
+\v 5 hearing of the faith that you have in the Lord Jesus and of your love for all the saints.
+\v 6 I pray that your participation in the faith may be effective for the knowledge of every good thing that is in us in Christ.
+\v 7 For I have had much joy and comfort in your love, because the hearts of the saints have been refreshed by you, brother.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:pray]]
+  * [[:yo:obe:kt:faith]]
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:saint]]
+  * [[:yo:obe:kt:inchrist]]
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:kt:love]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:saint]]
+  * [[:yo:obe:kt:brother]]
+===== Translation Notes: =====
+
+  * **I thank my God always, making mention of you in my prayers**  - "When I pray for you, I always thank God (UDB).
+  * **I**  - Paul wrote this letter. The words "I" and "me" in this letter all refer to Paul.
+  * **you**  - Here and in most of the letter, the word "you" refers to Philemon. (See: [[en:ta:vol1:translate:figs_you]])
+  * **that your participation in the faith may be effective for the knowledge**  - This could also be translated as "that your trusting in Christ as we do will make you able to know" or "that because you joined us in trusting in Christ, you will be able to know"
+  * **your participation in the faith**  - "because you trust in Christ the same as we do" (UDB)
+  * **that is in us in Christ**  - The most likely meaning is "that we have because of Christ."
+  * **the hearts of the saints have been refreshed by you**  - Here the word "hearts" refers to the courage of the believers. Also, "have been refreshed" is a passive clause. This could be translated as an active clause: "you have encouraged the believers." (See: [[en:ta:vol2:translate:figs_metonymy]] and [[en:ta:vol2:translate:figs_activepassive]])
+  * **brother**  - Paul called Philemon "brother" because they were both believers. He was also probably emphasizing their friendship. It can also be translated here as "dear brother" or "dear friend."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:phm:01|Philemon Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:phm:01:01|<<]] | [[:yo:bible:notes:phm:01:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgrphm}}
+
+~~NOCACHE~~

@@ -1,0 +1,89 @@
+====== Psalms 052:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 You \add think that you\add* are strong
+\q2 and brag about the sins that you have committed,
+\q1 while you plan to harm godly people.
+\q1
+\v 2 All during the day you plan to get rid of others;
+\q1 what you say \f + \ft metonymy \f* \add injures others\add* like a sharp razor \f + \ft simile \f*,
+\q2 and you are always deceiving others.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 You proud man, you think that you are strong
+\q2 and brag about the sins that you have committed,
+\q1 while you plan to harm people who honor God.
+\q1
+\v 2 All during the day you plan to get rid of others;
+\q1 what you say is like sharp blade,
+\q2 and you are always deceiving others.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 52
+\d For the Chief Musician. Maschil of David; when Doeg the Edomite came and told Saul, and said to him, “David has come to the
+house of Ahimelech.”
+\q
+\v 1 Why are you proud of making trouble, you mighty man?
+\q The covenant faithfulness of God comes every day.
+\q
+\v 2 Your tongue devises very wickedness,
+\q like a sharp razor, working deceitfully.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:david]]
+  * [[:yo:obe:other:edom]]
+  * [[:yo:obe:other:saul]]
+  * [[:yo:obe:other:house]]
+  * [[:yo:obe:other:proud]]
+  * [[:yo:obe:other:trouble]]
+  * [[:yo:obe:other:mighty]]
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:kt:faithful]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:tongue]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:deceive]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:052|Psalms Chapter 052 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/051/017|<<]] | [[en/bible/notes/psa/052/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== Deuteronomy 09:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 I want you to know that Yahweh our God will go ahead of you. He will be like a raging\f + \ft Or: roaring \f* fire. While you advance, he will defeat and destroy them. As a result, you will quickly be able to expel some of them and kill the others, which is what Yahweh promised that you would do.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 I want you to know that Yahweh our God will go ahead of you. He will be like a raging fire. While you advance, he will defeat and destroy them. As a result, you will quickly be able to drive out some of them and kill the others, which is what Yahweh promised that you would do.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 Know therefore today, that Yahweh your God is he who goes over before you like a devouring fire; he will destroy them, and he will bring them down before you; so will you drive them out and make them to perish quickly, as Yahweh has said to you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:know]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:devour]]
+  * [[:yo:obe:other:fire]]
+  * [[:yo:obe:kt:perish]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:09|Deuteronomy Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/09/01|<<]] | [[en/bible/notes/deu/09/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

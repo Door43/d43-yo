@@ -1,0 +1,48 @@
+====== John 07:50-52 ======
+
+===== TFT: =====
+
+<usfm>
+\v 50 Then Nicodemus spoke. He was the one who earlier went to Jesus \add at night\add*. He was also a member of the Jewish council. He said to \add the rest of the Council members\add*,
+\v 51 "\add We\add* have not listened to what he says to find out what he is doing. It is not permitted in our\add Jewish\add* law \f + \ft personification \f* for us to say, before questioning someone, that we must punish him!\f + \ft Or: Is it permitted in our\add Jewish\add* law \f + \ft personification \f* for us to say, before questioning someone, that we must punish him? \f* \f + \ft rhetorical question \f*"
+\v 52 They replied to him, "Are you another \add disgusting person\add* from Galilee?\f + \ft Or: \add You talk like\add* another \add disgusting person\add* from Galilee! \f* \f + \ft rhetorical question \f* Read \add what is written in the Scriptures\add*! You will find that no prophet comes from Galilee \add province, like he does\add*!" [
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 50 Then Nicodemus spoke. He was the one who had gone to see Jesus at night to speak with him. He was one of the Pharisees, and he said to them,
+\v 51 "It is not permitted in our Jewish law to condemn a man before we have listened to him. First, we give him a hearing, and we must learn about what he has done."
+\v 52 They replied to him, "Are you also from Galilee? Search carefully and read what is written in the Scriptures! You will find that no prophet comes from Galilee." 
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 50 Nicodemus said to them (he who came to Jesus before, being one of the Pharisees),
+\v 51 "Does our law judge a man unless it first hears from him and knows what he does?"
+\v 52 They answered and said to him, "Are you also from Galilee? Search and see that no prophet comes from Galilee."
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:judge]]
+
+===== Translation Notes: =====
+
+  * **our law judge a man** - Nicodemus means that those who follow the law do not judge a man before a trial. (See: [[en:ta:vol2:translate:figs_personification]])
+  * **Does our law judge a man..?** - "Our Jewish law does not allow us to judge a man..." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Are you also from Galilee?** - "You must also be one of those inferior persons from Galilee!" (See: [[en:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:07|John Chapter 07 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:07:47|<<]] | [[:yo:bible:notes:jhn:07:53|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

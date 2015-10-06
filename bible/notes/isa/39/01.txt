@@ -1,0 +1,58 @@
+====== Isaiah 39:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Soon after that, Baladan's son Merodach-Baladan, the king of Babylon, heard a report that Hezekiah had been very sick but that he had recovered. So he wrote some notes and gave them to some messengers to take to Hezekiah, along with a gift.
+\v 2 \add When the messengers arrived\add*, Hezekiah welcomed them gladly. Then he showed them everything that was in his treasure houses\f + \ft Or: places where very valuable things were kept \f*—the silver, the gold, the spices, and the nice-smelling olive oil. He also took them to see the place where they kept their soldiers' weapons, and he showed them the other valuable things that were in the storehouses. Hezekiah showed them everything \f + \ft litotes \f* that was in the palace or in other places \f + \ft hyperbole \f*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Soon after that, Baladan's son Merodach Baladan, the king of Babylon, heard a report that Hezekiah had been very sick but that he had recovered. So he wrote some letters and gave them to some messengers to take to Hezekiah, along with a gift.
+\v 2 When the messengers arrived, Hezekiah welcomed them gladly. Then he showed them everything that was in his treasure houses—the silver, the gold, the spices, and the nice-smelling olive oil. He also took them to see the place where they kept their soldiers' weapons, and he showed them the other valuable things that were in the storehouses. Hezekiah showed them everything  that was in the palace or in other places.
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 39
+\p
+\v 1 At that time Merodach Baladan the son of Baladan, king of Babylon, sent letters and a gift to Hezekiah; for he had heard
+that Hezekiah had been sick and had recovered.
+\v 2 Hezekiah was pleased by these things; he showed the messengers his storehouse of valuable things—the silver, the gold, the spices and precious oil, the storehouse of his weapons, and all that was found in his storehouses. There was nothing in his house, nor in all his kingdom, that Hezekiah did not show them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:babylon]]
+  * [[en:obe:other:letter]]
+  * [[en:obe:kt:gift]]
+  * [[:yo:obe:other:hezekiah]]
+  * [[:yo:obe:other:silver]]
+  * [[:yo:obe:other:gold]]
+  * [[en:obe:other:oil]]
+  * [[:yo:obe:other:house]]
+  * [[:yo:obe:other:kingdom]]
+
+===== Translation Notes: =====
+
+  * **Merodach Baladan...Baladan** - These are names of men. (See: [[:yo:ta:vol1:translate:translate_names]])
+  * **Hezekiah was pleased by these things** - AT: "When the king's messengers arrived, Hezekiah was pleased with what they brought to him." ([[:yo:ta:vol1:translate:figs_explicit]])
+  * **showed the messengers his storehouse of valuable things** - "he showed the messengers everything of value he had"
+  * **storehouse** - a building where goods are kept
+  * **There was nothing in his house, nor in all his kingdom, that Hezekiah did not show them** - AT: "Hezekiah showed them many things in his house and in his kingdom." (See: [[en:ta:vol2:translate:figs_litotes]] and [[en:ta:vol2:translate:figs_hyperbole]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:isa:39|Isaiah Chapter 39 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:38:21|<<]] | [[:yo:bible:notes:isa:39:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

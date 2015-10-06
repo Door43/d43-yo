@@ -1,0 +1,51 @@
+====== 2 Thessalonians 02:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Now \add I want to write to you\add* about the time when our Lord Jesus Christ will return and when \add God\add* will gather us together to \add where Jesus\add* is. My fellow believers, I urge you
+\v 2 that you think calmly \add about any message\add* that \add claims\f + \ft Or: says \f*\add* that the Lord has \add already\add* come again. Do not be shaken or alarmed\f + \ft Or: worried \f* by any such message. \add It does not matter\add* if \add it is a message that someone claims God's Spirit\add* revealed to him, or if \add it is some other message that someone\add* has spoken, or whether \add it is a message that someone claims\add* that I wrote in a letter.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Now I want to write to you about the time when our Lord Jesus Christ will return and when God will gather us together with Jesus. My fellow believers, I urge you
+\v 2 to think calmly about any message that may have come to you. It does not matter if it is a message that someone claims God's Spirit revealed to him, or if it comes from some person, or if it is a letter that someone claims that I wrote: I do not want you to believe that the Lord Jesus has already returned to earth.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 Now we request you, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to him,
+\v 2 that you be not easily shaken in your mind nor troubled, either by spirit, by word, or by letter as from us—so as to believe that the day of the Lord has already come.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:kt:believe]]
+  * [[:yo:obe:kt:dayofthelord]]
+
+===== Translation Notes: =====
+
+  * **Now** - "Now" marks a change in topic.
+  * **we request you ** - "I urge you" (UDB)
+  * **we request ** - "we" refers to Paul, Silas, and Timothy. (See: [[en:ta:vol2:translate:figs_exclusive]])
+  * **you** - “You” refers to the Thessalonian believers. (See: [[en:ta:vol1:translate:figs_you]])
+  * **that you be not easily shaken ** - that these events do not easily shake your minds. (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **by word, or by letter as from us** - "by spoken word or by written letter as coming from us"
+  * **so as to believe** - "telling you"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2th:02|2 Thessalonians Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:2th:01:11|<<]] | [[:yo:bible:notes:2th:02:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

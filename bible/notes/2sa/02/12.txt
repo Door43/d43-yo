@@ -1,0 +1,63 @@
+====== 2 Samuel 02:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add One day\add* Abner and the officials of Isbosheth went from Mahanaim \add across the Jordan River\add* to Gibeon \add city\add*.
+\v 13 Joab, whose mother was Zeruiah, and some of David's officials \add went from Hebron to Gibeon\add*, and they met at the pool there. They all sat down, the one group on one side of the pool and the other group on the other side.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 One day Abner and the officials of Isbosheth went from Mahanaim across the Jordan River to the city of Gibeon.
+\v 13 Joab, whose mother was Zeruiah, and some of David's officials went from Hebron to Gibeon, and they met at the pool of water there. They all sat down, one group on one side of the pool and the other group on the other side.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Abner the son of Ner, and the servants of Ish Bosheth, the son of Saul, went out from Mahanaim to Gibeon.
+\v 13 Joab the son of Zeruiah and the servants of David went out and met them by the pool of Gibeon. There  they sat down, one group on one side of the pool and the other on the other side.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:gibeon]]
+  * [[:en;obe:other:joab]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2sa:02|2 Samuel Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/02/10|<<]] | [[en/bible/notes/2sa/02/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

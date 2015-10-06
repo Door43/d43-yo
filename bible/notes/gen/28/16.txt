@@ -1,0 +1,56 @@
+====== Genesis 28:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 During the night, when Jacob woke up from sleeping, he thought, "Surely Yahweh is in this place, and until now I was not aware of it!"
+\v 17 He was afraid, and he said, "This place is very awesome! This is surely the place where God lives, and this is the entrance to heaven!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 During the night, when Jacob woke up from sleeping, he thought, "Surely Yahweh is in this place, and until now I was not aware of it!"
+\v 17 He was afraid, and he said, "This place is terrifying! This is surely the place where God lives, and this is the entrance to heaven!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 Jacob awoke out of his sleep, and he said, "Surely Yahweh is in this place, and I did not know it."
+\v 17 He was afraid and said, "How terrifying is this place! This is none other than the house of God. This is the gate of heaven."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:other:awe]]
+  * [[:yo:obe:kt:houseofgod]]
+  * [[:yo:obe:kt:gate]]
+  * [[en:obe:kt:heaven]]
+ 
+
+===== Translation Notes: =====
+
+  * **awoke out of his sleep**  - "woke up from his sleep"
+  * **the house of God. This is the gate of heaven** - Jacob was expressing why he considered the place to be very holy. (see: [[en:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:28|Genesis Chapter 28 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/28/14|<<]] | [[en/bible/notes/gen/28/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish awe houseofgod}}
+
+~~NOCACHE~~

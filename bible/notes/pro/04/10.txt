@@ -1,0 +1,79 @@
+====== Proverbs 04:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 \add So now I say\add*, "My son, heed what I say.
+\q2 If you do that, you will live a good long life.
+\q1
+\v 11 I am teaching you the way to live wisely;
+\q2 I am leading you on the roads of acting justly toward others.
+\q1
+\v 12 If you live wisely,
+\q2 when you decide to do something, you will succeed \f + \ft litotes \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Hear my child,  listen and understand what I say to you— 
+\q1 do this and you will live a long life. 
+\q1
+\v 11 I directed you in the way you should walk and to use the wisdom you were taught;
+\q2 I led you by the hand down the roads, roads that are the right way for you to go.
+\v 12 When you live, you do not have anyone to blame; if you live wisely,
+\q2 when you use all your effort, you will succeed .
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Hear my child and pay attention to my words
+\q and you will have many years in your life.
+\q
+\v 11 I direct you in the way of wisdom;
+\q I lead you down straight paths.
+\q
+\v 12 When you walk, no one will stand in your way
+\q and if you run, you will not stumble.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:word]] 
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:kt:walk]]
+  * [[:En:obe:other:run]]
+  * [[:En:obe:other:stumble]]
+  ===== Translation Notes: =====
+
+
+    * **pay attention to my words**  - "listen to what I teach you"
+    * **direct**  - to guide, or to show the way
+    * **no one will stand in your way**  - "nothing will stop you from living wisely"
+    
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:04|Proverbs Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/04/07|<<]] | [[en/bible/notes/pro/04/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,54 @@
+====== Joshua 10:33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 King Horam from Gezer \add city and his army\add* came to help \add the soldiers of\add* Lachish, but Joshua's \add army\add* defeated Horam and his army, and did not allow any of them to remain alive.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 King Horam from Gezer and his army came to help the soldiers of Lachish, but Joshua's army defeated Horam and his army, and did not allow even one of them to remain alive.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 33 Then Horam, king of Gezer, came up to help Lachish.  Joshua attacked him and his army until there was not even one survivor left.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:joshua]]
+ 
+===== Translation Notes: =====
+
+    * **Lachish**  - "Lachish" - generally regarded as the second most important city in the southern kingdom of Judah. The city was surrounded by two walls including a lower retaining wall. 
+    * **Gezer**  - "Gezer" - a Canaanite city-state in the foothills of the Judaean Mountains.  (See:[[en:obe:other:canaan]]), (See:[[en:obe:other:judea]]).
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:10|Joshua Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/10/31|<<]] | [[en/bible/notes/jos/10/34|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

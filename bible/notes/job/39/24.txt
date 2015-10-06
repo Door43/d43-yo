@@ -1,0 +1,77 @@
+====== Job 39:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 The horses paw the ground fiercely\f + \ft Or: excitedly \f* \add wanting the battle to begin\add*,
+\q2 and they rush into the battle when the trumpet is blown.
+\q1
+\v 25 They neigh \add joyfully\add* when they hear someone blowing the trumpet.
+\q2 They can smell a battle even when they are far away,
+\q2 and they understand what it means when the commanders shout their commands \add to their soldiers\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 The horses run very quickly, and they speedily cover the ground;
+\q2 they rush into battle as soon as the trumpet is blown.
+\q1
+\v 25 They neigh joyfully when they hear someone blowing the trumpet.
+\q2 They can smell a battle even when they are far away,
+\q2 and they understand what it means when the commanders shout their commands to their soldiers.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 24 He swallows up ground with fierceness and rage; (runs fast)
+\q at the trumpet’s sound, he cannot stand in one place.
+\q
+\v 25 Whenever the trumpets sounds, he says, ‘Aha!’
+\q He smells the battle from far away—
+\q the thunderous shouts of the commanders, and the outcries.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:trumpet]]
+  * [[:yo:obe:other:commander]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:39|Job Chapter 39 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/39/21|<<]] | [[en/bible/notes/job/39/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

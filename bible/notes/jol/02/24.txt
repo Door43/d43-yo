@@ -1,0 +1,61 @@
+====== Joel 02:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 The ground where you thresh the grain will be covered with grain,
+\q2 and your vats where you store grape juice and \add olive\add* oil will be full.
+\b
+\q1
+\v 25 \add Yahweh said\add*, "I will repay you for everything that was destroyed by those great swarms of locusts
+\q2 that I sent to attack you.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 The ground where you thresh the grain will be covered with grain,
+\q2 and your vats where you store the fresh grape juice and olive oil will overflow.
+\b
+\q1
+\v 25 Yahweh said, "I will repay you for everything that was destroyed by those great swarms of locusts,
+\q2 that enormous army that I sent to attack you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 24 The threshing floors will be full of wheat,
+\q and the vats will overflow with new wine and oil.
+\q
+\v 25 "I will restore to you the years of crops that the swarming locust has eaten,
+\q the great locust, the grasshopper and the caterpillar,
+\q my mighty army that I sent among you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:thresh]]
+  * [[:yo:obe:other:wheat]]
+  * [[:yo:obe:other:wine]]
+  * [[:yo:obe:other:oil]]
+  * [[:yo:obe:kt:restore]]
+
+===== Translation Notes: =====
+
+  * ** vats** - large containers for liquids
+  * **the years of crops that the swarming locust has eaten** - AT: “the crops that you took care of for years and that the swarming locusts have eaten”
+  * **swarming locust...the great locust, the grasshopper and the caterpillar** - See how you translated these words in [[en:bible:notes:jol:01:04|1:4]].
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jol:02|Joel Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:jol:02:21|<<]] | [[:yo:bible:notes:jol:02:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

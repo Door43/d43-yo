@@ -1,0 +1,81 @@
+====== Isaiah 59:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 \add In our courts\add*, the judges do not decide cases\f + \ft Or: matters \f* fairly;
+\q2 no one is acting righteously.
+\q1 In plazas where people gather together, no one tells the truth \f + \ft personification \f*;
+\q2 \add it seems that people\add* are not allowed to say what is true.
+\q1
+\v 15 No one tells the truth,
+\q2 and people try to ruin \add the reputations of\add* those who quit doing evil.
+\b
+\q1 Yahweh looked around, and he saw that no one was doing what is just\f + \ft Or: fair \f*,
+\q2 and he was very displeased.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 In our courts, the judges do not decide cases fairly;
+\q2 no one is acting righteously.
+\q1 In plazas where people gather together, no one tells the truth;
+\q2 it seems that people are not allowed to say what is true.
+\q1
+\v 15 No one tells the truth,
+\q2 and people try to ruin the reputations of those who quit doing evil.
+\b
+\q1 Yahweh looked around, and he saw that no one was doing what is just;
+\q2 he was very displeased.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 14 Justice is driven back, and righteousness stands far off; 
+\q1 for truth stumbles in the public square, and right cannot come.
+\q1
+\v 15 Trustworthiness has gone away, and he who turns away from evil makes himself a victim. 
+\q1 Yahweh saw it and was displeased that there was no justice.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:justice]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:true]]
+  * [[:yo:obe:other:stumble]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:trust]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **Justice is driven back, and righteousness stands far off, for truth stumbles in the public square, and right cannot come** – "Justice and righteousness have been pushed far away from the courts and truth is not valued in the center of the city, and what is right is shut out”
+  * **Trustworthiness has gone away, and he who turns away from evil makes himself a victim** - “Truth has no place, and he who turns away from evil makes himself open to being robbed”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:59|Isaiah Chapter 59 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/59/12|<<]] | [[en/bible/notes/isa/59/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

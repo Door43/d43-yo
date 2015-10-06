@@ -1,0 +1,67 @@
+====== 2 Kings 13:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 King Hazael of Syria \add sent soldiers to\add* oppress the Israelite people all during the years that Jehoahaz \add ruled Judah\add*.
+\v 23 But Yahweh was very kind \f + \ft doublet \f* to the Israelite people. He helped them because of the agreement that he had made with \add their ancestors\add* Abraham, Isaac, and Jacob. He would not get rid of the Israelites, and he still has not rejected them.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 King Hazael of Aram sent soldiers to oppress the Israelite people during all the years that Jehoahaz ruled Judah.
+\v 23 But Yahweh was very kind to the Israelite people. He helped them because of the covenant that he had made with their ancestors Abraham, Isaac, and Jacob. He would not get rid of the Israelites, and he still has not rejected them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 Hazael king of Aram oppressed Israel all the days of Jehoahaz.
+\v 23 But Yahweh was gracious to Israel, and had compassion on them and concern for them, because of his covenant with Abraham, Isaac, and Jacob. So Yahweh did not destroy them, and he still has not driven them away from his presence.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:oppress]]
+  * [[:yo:obe:kt:grace]]
+  * [[:yo:obe:kt:compassion]]
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:other:isaac]]
+  * [[:yo:obe:other:jacob]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:13|2 Kings Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/13/20|<<]] | [[en/bible/notes/2ki/13/24|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

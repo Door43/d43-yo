@@ -1,0 +1,54 @@
+====== Exodus 33:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 When the people saw the tall cloud at the entrance of the Sacred Tent, they would all prostrate themselves on the ground and worship Yahweh.
+\v 11 Yahweh would speak to Moses\f + \ft Or: me \f* directly, like someone speaks to his friend. Then Moses\f + \ft Or: I \f* would return to the camp. But his\f + \ft Or: my \f* young helper, Joshua, the son of Nun, stayed in the Sacred Tent.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 When the people saw the tall cloud at the entrance of the tent of meeting, they would all worship Yahweh at their own tent entrances.
+\v 11 Yahweh would speak to Moses face to face like someone speaks to his friend. Then Moses would return to the camp.  But his young helper, Joshua son of Nun, would stay in the tent of meeting.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 Whenever all the people saw the pillar of cloud stand at the door of tent entrance, they would get up and worship, every man at his own tent entrance.
+\v 11 Yahweh would speak to Moses face to face, as a man speaks to his friend. Then Moses would return to the camp, but his servant Joshua, son of Nun, a young man, would stay in the tent.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:peoplegroup]]
+  * [[en:obe:other:pillar]]
+  * [[en:obe:other:tent]]
+  * [[:yo:obe:kt:worship|worship]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:other:Moses]]
+  * [[:yo:obe:kt:face|face]]
+  * [[:yo:obe:other:servant|servant, slave, slavery]]
+  * [[:yo:obe:other:joshua|Joshua]]
+
+
+===== Translation Notes: =====
+
+  * **young man** - old enough to be a soldier ([[:yo:bible:notes:exo:17:08|17:9-10]]), but much younger than Moses
+===== Links: =====
+
+**[[:yo:bible:questions:comprehension:exo:33|Exodus Chapter 33 Comprehension Questions]]**
+
+**[[:yo:bible:notes:exo:33:07|<<]] | [[:yo:bible:notes:exo:33:12|>>]]**
+
+~~DISCUSSION~~{{tag>text}}
+
+~~NOCACHE~~

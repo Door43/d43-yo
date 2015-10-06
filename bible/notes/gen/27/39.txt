@@ -1,0 +1,72 @@
+====== Genesis 27:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 His father Isaac answered and said to him,
+\q "The place where you will live will be far from the fertile soil and from the dew that God sends from heaven to water the fields.
+\q
+\v 40 You will \add rob and\add* kill people \f + \ft metonymy \f* in order to \add get what you need to\add* live,
+\q and you will be as though you are your brother's slave.
+\q But when you decide to rebel against him, you will free yourself from\f + \ft Or: no longer be under \f* his control."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 His father Isaac answered and said to him,
+"The place where you will live will be far from the fertile soil and from the dew that God sends from heaven to water the fields.
+\v 40 You will rob and kill people in order to get what you need to live,
+\q and you will be as though you are your brother's slave.
+\q But when you decide to rebel against him, you will free yourself from his control."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 39 Isaac his father answered and said to him,
+\q "Look, the place where you live will be far from the richness of the earth,
+\q away from the dew of the sky above.
+\q
+\v 40 By your sword you will  live, and you will serve your brother.
+\q But when you rebel,
+\q you will  shake his yoke from off your neck."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:isaac]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:other:sword]]
+  * [[en:obe:other:serve]]
+  * [[en:obe:other:rebel]]
+  * [[:yo:obe:other:yoke]]
+ 
+
+===== Translation Notes: =====
+
+  * **said to him** - "said to Esau"
+  * **Look** - "Listen" or "Pay attention to what I am about to tell you"
+  * **fatness of the earth**  - See how this was translated in [[en:bible:notes:gen:27:28|27:28]].
+  * **your...you** - In 27:39-40 these pronouns are singular and refer to Esau, but what Isaac says also applies to Esau's descendants (See: [[en:ta:vol2:translate:figs_synecdoche]]).
+  * **dew of heaven**  - See how this was translated in [[en:bible:notes:gen:27:28|27:28]].
+  * **By your sword you will live** - Here "sword" refers to violence or war. This could be translated as "You will fight all of your life." (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:27|Genesis Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:27:38|<<]] | [[:yo:bible:notes:gen:27:41|>>]]**
+
+~~DISCUSSION~~{{tag>publish  sword yoke}}
+
+~~NOCACHE~~

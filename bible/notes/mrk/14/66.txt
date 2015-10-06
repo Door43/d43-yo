@@ -1,0 +1,51 @@
+====== Mark 14:66-68 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 66 While Peter was outside in the courtyard \add of the high priest's house\add*, one of the girls who worked for the high priest came \add near him\add*.
+\v 67 When she saw Peter warming himself \add beside the fire\add*, she looked at him \add closely\add*. Then she said, "You also were with Jesus, that man from Nazareth \add town\add*!"
+\v 68 But he denied it by saying, "I do not know or understand \f + \ft doublet \f* what you are talking about!" Then he went away \add from there\add* to the gate \add of the courtyard\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 66 While Peter was outside in the courtyard of the high priest's house, one of the girls who worked for the high priest came near him.
+\v 67 When she saw Peter warming himself beside the fire, she looked at him closely. Then she said, "You also were with Jesus, that man from Nazareth!"
+\v 68 But he denied it by saying, "I do not know what you are talking about! I understand nothing of it!" Then he went away from there to the gate of the courtyard.
+\f + \ft Some manuscripts add, "And the rooster crowed," but the best manuscripts do not have this phrase. \f*
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 66 As Peter was below in the courtyard, one of the servant girls of the high priest came to him.
+\v 67 She saw Peter as he stood by a fire to keep warm, and she looked closely at him. Then she said, "You were also with the Nazarene, Jesus."
+\v 68 But he denied it, saying, "I neither know nor understand what you are talking about." Then he went out into the courtyard.
+\f + \ft Some manuscripts add, "And the rooster crowed," but the best manuscripts do not have this phrase.\f*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:peter]]
+
+===== Translation Notes: =====
+
+Jesus had been arrested and brought before the high priest.
+
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:14|Mark Chapter 14 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:14:63|<<]] | [[:yo:bible:notes:mrk:14:69|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

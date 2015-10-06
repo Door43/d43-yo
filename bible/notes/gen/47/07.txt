@@ -1,0 +1,55 @@
+====== Genesis 47:7-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Then Joseph brought his father Jacob into the palace and introduced him to the king. Jacob asked God to bless the king.
+\v 8 Then the king asked Jacob, "How old are you?"
+\v 9 Jacob replied, "I have been traveling around for 130 years. I have not lived as long as my ancestors, but my life has been full of troubles."
+\v 10 Then Jacob again asked God to bless the king and left him.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Then Joseph brought his father Jacob into the palace and introduced him to the king. Jacob asked God to bless the king.
+\v 8 Then the king asked Jacob, "How old are you?"
+\v 9 Jacob replied, "I have been traveling around for 130 years. I have not lived as long as my ancestors, but my life has been full of troubles."
+\v 10 Then Jacob again asked God to bless the king and left him.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 Then Joseph brought in Jacob his father and presented him to Pharaoh. Jacob blessed Pharaoh.
+\v 8 Pharaoh said to Jacob, "How long have you lived?"
+\v 9 Jacob said to Pharaoh, "The years of my travels are a hundred and thirty. The years of my life have been few and painful. They have not been as long as those of my ancestors." 
+\v 10 Then Jacob blessed Pharaoh and went out from his presence.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:jacob]]
+  * [[:yo:obe:kt:bless]] 
+
+===== Translation Notes: =====
+
+  * **How long have you lived?** - "How old are you?"
+  * **The the years of my travels are a hundred and thirty** - The phrase "years of my travels" refers to how long he has lived on the earth. Alternate translation: "I have traveled on the earth for 130 years" or "I am 130 years old." (See: [[en:ta:vol2:translate:translate_numbers]])
+  * **have been few and painful** - Jacob is referring to his father's lineage living even longer than himself. Jacob also reflects on his life having been filled with much hardship.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:47|Genesis Chapter 47 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:47:05|<<]] | [[:yo:bible:notes:gen:47:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

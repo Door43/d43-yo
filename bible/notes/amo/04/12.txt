@@ -1,0 +1,81 @@
+====== Amos 04:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 So now, you people of Israel, I am going to punish you.
+\q2 Prepare to stand in front of me, your God, \add when I judge you\add*!
+\b
+\q1
+\v 13 I created the mountains,
+\q2 and I created the winds.
+\q1 I reveal to humans what I am thinking.
+\q2 I \add sometimes\add* cause the daylight to become dark like the night.
+\q1 I \add rule over everything\add*;
+\q2 I even walk on the highest mountains on the earth!
+\q2 I am the Almighty Commander of the armies of angels!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 So now, you people of Israel, I am going to punish you.
+\q2 Prepare to stand in front of me, your God, when I judge you!
+\b
+\q1
+\v 13 I created the mountains,
+\q2 and I created the winds.
+\q1 I reveal to humans what I am thinking.
+\q2 I sometimes cause the daylight to become dark like the night.
+\q1 I rule over everything;
+\q2 I even walk on the highest mountains on the earth!
+\q2 I am Yahweh, commander of the angel armies!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 12 "Therefore I will do something terrible to you, Israel;
+\q and because I will do something terrible to you,
+\q prepare to meet your God, Israel!
+\q
+\v 13 For, look, he who forms the mountains, 
+\q creates the wind,
+\q reveals his thoughts to mankind,
+\q makes the morning darkness,
+\q and treads upon the high places of the Earth—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:israel]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:reveal]]
+  * [[:yo:obe:other:highplaces]]
+ 
+
+===== Translation Notes: =====
+
+    * **he who forms the mountains, ... and treads upon the high places of the Earth**  - See: [[:yo:ta:vol2:translate:figs_doublet]]
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:amo:04|Amos Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/amo/04/10|<<]] | [[en/bible/notes/amo/05/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,78 @@
+====== 2 Kings 21:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Manasseh was twelve years old when he began to rule. He ruled Judah for 55 years from Jerusalem. His mother was Hephzibah.
+\v 2 He did many things that Yahweh said were evil. He imitated the disgusting things that were formerly done by the people of the nations that Yahweh had expelled from the land of Israel as his people advanced \add through the land\add*.
+\v 3 He commanded his workers to rebuild the shrines \add for worshiping Yahweh\add* that his father Hezekiah had destroyed \add because they were not in the place that Yahweh had said they should worship him\add*. He directed his workers to build altars for worshiping Baal. He made \add a statue of the goddess\add* Asherah, like Ahab the king of Israel had done \add previously\add*. And Manasseh worshiped \f + \ft doublet \f* the stars.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Manasseh was twelve years old when he began to rule. He ruled Judah for fifty-five years in Jerusalem. His mother was Hephzibah.
+\v 2 He did many things that Yahweh said were evil. He imitated the disgusting things that were formerly done by the people of the nations that Yahweh had driven out from the land of Israel as his people advanced through the land.
+\v 3 He commanded his workers to rebuild the shrines for worshiping Yahweh that his father Hezekiah had destroyed because they were not in the place that Yahweh had said they should worship him, in the temple. He directed his workers to build altars for worshiping Baal. He made a statue of the goddess Asherah, as Ahab the king of Israel had done previously. And Manasseh worshiped the stars.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 21
+\p
+\v 1 Manasseh was twelve years old when he began to reign; he reigned fifty-five years in Jerusalem. His mother’s name was Hephzibah.
+\v 2 He did what was evil in the sight of Yahweh, like the disgusting things of the nations whom Yahweh had driven out before the people of Israel.
+\v 3 For he rebuilt the shrines that Hezekiah, his father, had destroyed, and he built altars for Baal, made an Asherah pole, as Ahab, king of Israel, had done, and he bowed down to all the stars of heaven and worshiped them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:manasseh]]
+  * [[:yo:obe:other:reign]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:kingdomofisrael]]
+  * [[:yo:obe:other:hezekiah]]
+  * [[:yo:obe:other:altar]]
+  * [[:yo:obe:other:baal]]
+  * [[:yo:obe:other:asherim]]
+  * [[:yo:obe:other:ahab]]
+  * [[:yo:obe:other:kingdomofisrael]]
+  * [[:yo:obe:kt:bow]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:worship]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:21|2 Kings Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/20/19|<<]] | [[en/bible/notes/2ki/21/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

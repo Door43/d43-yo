@@ -1,0 +1,65 @@
+====== Revelation 08:12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 When the fourth angel blew his trumpet, \add God\add* struck the sun, the moon, and the stars, so that they lost a third of their light. The \add sun\add* also did not shine during a third of the day, and \add the moon and stars did not shine during a third\add* of the night.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Then the fourth angel blew his trumpet, and God struck the sun, the moon, and the stars so that they lost their light for one third of the time. The sun did not shine during one third of the day, and the moon and stars did not shine during one third of the night.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 The fourth angel sounded his trumpet, and a third of the sun was struck, as well as a third of the moon and a third of the stars. So a third of them turned dark, a third of the day and a third of the night had no light.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:angel]]
+  * [[:yo:obe:other:trumpet]]
+  * [[:yo:obe:kt:darkness]]
+  * [[:yo:obe:kt:light]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rev:08|Revelation Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/08/10|<<]] | [[en/bible/notes/rev/08/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

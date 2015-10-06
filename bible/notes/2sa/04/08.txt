@@ -1,0 +1,75 @@
+====== 2 Samuel 04:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 They took the head of Ishbosheth to David at Hebron. They said to him, "Here is the head of Ishbosheth, the son of your enemy Saul, who tried to kill you. Your majesty, today Yahweh has allowed you to get revenge on Saul and his descendants!"
+\p
+\v 9 But David replied to them, "Yahweh is the one who has rescued me from all my enemies\f + \ft Or: difficulties \f*. And just as surely as Yahweh lives, what I am now saying is also true.
+\v 10 When a messenger came to Ziklag and told me 'Saul is dead!' and he thought that the news that he was bringing to me was good news, I seized him and \add commanded one of my soldiers to\add* kill him. That was the reward I gave to him for his news!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 They took the head of Ishbosheth to David at Hebron. They said to him, "Here is the head of Ishbosheth, the son of your enemy Saul, who tried to kill you. Your Majesty, today Yahweh has allowed you to get revenge on Saul and his descendants!"
+\p
+\v 9 But David replied to them, "Just as surely as Yahweh lives—and he is the one who has rescued me from all trouble, I will tell you this:
+\v 10 When a messenger came to Ziklag and told me 'Saul is dead!' (and he thought that the news that he was bringing to me was good news), I told one of my soldiers to kill him. That was the reward I gave to him for his news!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 They brought the head of Ish Bosheth to David at Hebron, and they said to the king, "Look, this is the head of Ish Bosheth, the son of Saul, your enemy, who sought your life. Today Yahweh has avenged our master the king against Saul and his descendants."
+
+\v 9 David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite; he said to them, "As Yahweh lives, who has redeemed my soul out of all adversity,
+\v 10 when someone told me, 'Look, Saul is dead,' thinking he was bringing good news, I seized him and killed him
+at  Ziklag. That was the reward I gave him for his news.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:david]]
+  * [[:yo:obe:other:hebron]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:avenge]]
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:other:descendant]]
+  * [[:yo:obe:other:rimmon]]
+  * [[:yo:obe:kt:redeem]]
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:goodnews]]
+  * [[:yo:obe:kt:reward]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2sa:04|2 Samuel Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/04/05|<<]] | [[en/bible/notes/2sa/04/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

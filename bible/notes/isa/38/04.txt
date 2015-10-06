@@ -1,0 +1,63 @@
+====== Isaiah 38:4-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 \add I left his room, but\add* Yahweh gave me this message:
+\v 5 "Go back to Hezekiah and tell him that this is what I, the God to whom your ancestor King David belonged, say: 'I have heard what you prayed, and I have seen you crying. So listen: I will enable you to live fifteen years more.
+\v 6 And, I will rescue and this city from the power \f + \ft metonymy \f* of the king of Assyria. I will defend this city.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Then Yahweh gave Isaiah this message:
+\v 5 "Go back to Hezekiah and tell him that this is what I, the God to whom your ancestor King David belonged, say: 'I have heard what you prayed, and I have seen you crying. So listen: I will enable you to live fifteen years more.
+\v 6 And I will rescue and this city from the power of the king of Assyria. I will defend this city.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 Then the word of Yahweh came to Isaiah, saying,
+\v 5  "Go and say to Hezekiah, the leader of my people, 'This is what Yahweh, the God of David your ancestor, says: I have heard your prayer, and I have seen your tears. See, I am about to add fifteen years to your life.
+\v 6 And I will rescue you and this city from the power of the king of Assyria, and I will defend this city.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wordofgod]]
+  * [[:yo:obe:other:isaiah]]
+  * [[:yo:obe:other:hezekiah]]
+  * [[en:obe:kt:peopleofgod]]
+  * [[:yo:obe:other:david]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:assyria]]
+
+===== Translation Notes: =====
+
+  * **See, I will add fifteen years** - "Pay attention, I will add 15 years" (See: [[en:ta:vol2:translate:translate_numbers]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:38|Isaiah Chapter 38 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/38/01|<<]] | [[en/bible/notes/isa/38/07|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

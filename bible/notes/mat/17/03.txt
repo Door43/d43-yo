@@ -1,0 +1,45 @@
+====== Matthew 17:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Suddenly Moses and Elijah, \add who were important prophets many years ago\add*, appeared and started talking with him.
+\v 4 Peter \add saw them and\add* said to Jesus, "Lord, it is wonderful for us to be here! If you want \add me to\add*, I will make three shelters, one for you, one for Moses, and one for Elijah."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Suddenly Moses and Elijah, who were important prophets many years ago, appeared and started talking with him.
+\v 4 Peter saw them and said to Jesus, "Lord, it is excellent for us to be here! If you want me to, I will make three shelters for shrines, one for you, one for Moses, and one for Elijah."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 Behold, there appeared to them Moses and Elijah talking with him.
+\v 4 Peter answered and said to Jesus, "Lord, it is good for us to be here. If you desire, I will make here three shelters—one for you, and one for Moses, and one for Elijah."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:moses]]
+  * [[:yo:obe:other:elijah]]
+  * [[:yo:obe:other:peter]]
+  * [[:yo:obe:kt:jesus]] 
+===== Translation Notes: =====
+
+This continues the account of Jesus showing his glory to three of his disciples.
+
+  * **Behold** - This word alerts us to pay attention to the surprising information that follows. 
+  * **to them** - to the disciples who were with Jesus
+  * **answered and said** - "said." Peter is not responding to a question. 
+  * **it is good for us to be here** - Possible meanings: 1) "it is good that we disciples are here with you, Moses, and Elijah" or 2) "it is good that you, Moses, Elijah, and we disciples are all here together" (See: [[en:ta:vol2:translate:figs_exclusive]])
+  * **shelters** - Possible meanings: 1) places for people to come for worship (see UDB) or 2) temporary places for people to sleep.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:17|Matthew Chapter 17 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:17:01|<<]] | [[:yo:bible:notes:mat:17:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

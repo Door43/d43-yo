@@ -1,0 +1,51 @@
+====== John 12:46-47 ======
+
+===== TFT: =====
+
+<usfm>
+\v 46 I have come into the world \add to show people God's truth\add*, as a light \add shows people what is around them\add*. I have come in order that people who believe in me will not remain \add ignorant of God's truth\add* \f + \ft metaphor \f*, \add as those who are\add* in the darkness \add are ignorant of what is around them\add*.
+\p
+\v 47 As for those who hear my message but do not obey \add its commands\add*, I am not \add the one who\add* judges them. \add The main reason\add* that I came \add into the world\f + \ft Or: from heaven\add* \f* was not to judge \add the people of\add* \f + \ft metonymy \f* the world. Instead, I came to save them \add from being punished for their sins\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 46 I have come into the world as the light of the world; whoever puts his trust in me will not remain in the darkness.
+\p
+\v 47 I do not judge those who listen to my words but refuse to obey me. I did not come into the world to condemn the world.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 46 I have come as a light into the world so that whoever believes in me may not remain in the darkness.
+\v 47 If anyone hears my words but does not keep them, I do not judge him; for I have come, not to judge the world, but to save the
+world.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:light]]
+  * [[en:obe:kt:world]]
+  * [[en:obe:kt:believe]]
+  * [[:yo:obe:kt:darkness]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:save]]
+
+===== Translation Notes: =====
+
+
+  * **I have come as a light**  - Jesus again contrasts himself as the light with the darkness of the world. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **remain in the darkness**  - "continue in a state of spiritual blindness" (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **If anyone hears my words but does not keep them, I do not judge him; for I have come, not to judge the world, but to save the world.**  - AT: "If anyone hears my teaching and rejects it, I have no need to condemn him. My teaching, which he has rejected, has condemned him. As for me, I have come not to condemn but to save those who believe in me." (See: [[en:ta:vol2:translate:figs_ellipsis]])
+
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:12|John Chapter 12 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:12:44|<<]] | [[:yo:bible:notes:jhn:12:48|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

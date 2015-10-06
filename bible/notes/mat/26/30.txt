@@ -1,0 +1,65 @@
+====== Matthew 26:30-32 ======
+
+===== TFT: =====
+
+<usfm>
+\v 30 After we sang a hymn, we started out towards Olive \add Tree\add* Hill.
+
+
+\p
+\v 31 \add On the way\add*, Jesus told us, "This night all of you will desert me because of \add what will happen to\add* me! \add This is certain to happen\add* because \add these words that God said\add* are written \add in the Scriptures:\add* 'I will \add cause\add* the shepherd to be killed, and \add all\add* the sheep will be scattered \f + \ft Or:scatter \f*.'
+\v 32 But after I have \add died and\add* become alive again, I will go ahead of you to Galilee \add district and meet you there\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 30 After we sang a hymn, we started out towards the Mount of Olives.
+
+
+\p
+\v 31 On the way, Jesus told us, "This night all of you will desert me because of what will happen to me! This is certain to happen because these words that God said are written in the Scriptures: 
+\q 'I will cause men to kill the shepherd, 
+\q and they will scatter all the sheep.'
+\v 32 But after I have died and become alive again, I will go ahead of you to Galilee and meet you there."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 30 When they had sung a hymn, they went out to the Mount of Olives.
+\v 31 Then Jesus said to them, "All of you will fall away tonight because of me, for it is written, 
+\q 'I will strike the shepherd 
+\q and the sheep of the flock will be scattered.'
+\v 32 But after I am raised up, I will go ahead of you into Galilee."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:mountofolives]]
+  * [[:yo:obe:other:written]]
+  * [[:yo:obe:other:shepherd]]
+  * [[:yo:obe:other:sheep]]
+  * [[:yo:obe:other:galilee]]
+
+===== Translation Notes: =====
+
+Jesus continues to teach his disciples as they walk to the Mount of Olives.
+
+  * **hymn **- A hymn is a type of song. It was traditional for them to sing an Old Testament Psalm at this point.
+  * **fall away **- "run away" or "abandon me"
+  * **for it is written** - Here Jesus quotes Zechariah the prophet in the Old Testament.
+  * **strike the shepherd** - "strike down the shepherd" or "cause men to kill the shepherd" (UDB) (See: [[en:bible:team-info:training:quick-reference:figures:metaphor]])
+  * **sheep of the flock will be scattered **- "sheep of the flock will scatter" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **sheep of the flock** - This refers to the disciples who would forsake Jesus. (See: [[en:bible:team-info:training:quick-reference:figures:metaphor]])
+  * **after I am raised up** - "after God raises me up"  (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **raised up** - In this context, "raised up" means being raised back to life from the dead.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:26|Matthew Chapter 26 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:26:27|<<]] | [[:yo:bible:notes:mat:26:33|>>]]**
+
+~~DISCUSSION~~{{tag>check mountofolives shepherd }}
+
+~~NOCACHE~~

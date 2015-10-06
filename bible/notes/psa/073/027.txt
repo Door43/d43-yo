@@ -1,0 +1,72 @@
+====== Psalms 073:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 Those who remain far from you will be destroyed;
+\q1 you will get rid of those who abandon you.
+\q1
+\v 28 But as for me, it is wonderful to be near to God
+\q2 and to be protected by Yahweh,
+\q2 and to proclaim to others all that he has done \add for me\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 Those who remain far from you will be destroyed;
+\q1 you will get rid of those who abandon you.
+\q1
+\v 28 But as for me, it is wonderful to be near to God
+\q2 and to be protected by Yahweh,
+\q2 and to proclaim to others all that he has done for me.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 27 But those  who are far from you will perish;
+\q you will destroy all those who are unfaithful
+to you.
+\q
+\v 28 But as for me, all I need to do is to draw near to God.
+\q I have made the Lord Yahweh my refuge.
+\q I will declare all your deeds.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:perish]]
+  * [[:yo:obe:kt:unfaithful]]
+  * [[:yo:obe:kt:works]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:073|Psalms Chapter 073 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/073/025|<<]] | [[en/bible/notes/psa/074/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book3}}
+
+~~NOCACHE~~

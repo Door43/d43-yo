@@ -1,0 +1,58 @@
+====== Hebrews 12:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 It is in order that God may discipline you that he requires you to endure the disagreeable things \add that happen to you\add*. \add When God disciplines you\add* he is treating you as a father treats his children. All fathers \f + \ft rhetorical question \f* discipline their children \f + \ft litotes \f*.
+\v 8 So, if you have not experienced God disciplining you just like he disciplines all his other children, you are \add not true children of God\add* \f + \ft metaphor \f*. \add You are like\add* illegitimate children; \add no father disciplines them\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 God may discipline you by requiring you to endure difficult things that happen to you. When God disciplines you, he is treating you as a father treats his children. All fathers discipline their children.
+\v 8 So if you have not experienced God disciplining you like he disciplines all his children, you are not true children of God. You are like illegitimate children who have no father to correct them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 Endure trials as discipline. God deals with you as with sons, for what son is there whom his father does not discipline?  
+\v 8 But if you are without discipline, which we are all  to share in, then you are illegitimate children and not his children.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:endure]]
+  * [[en:obe:other:trial]]
+  * [[en:obe:kt:discipline]]
+  * [[:En:obe:kt:god]]
+  * [[en:obe:kt:son]]
+  * [[:En:obe:other:father]] 
+  * [[en:obe:kt:children]]
+===== Translation Notes: =====
+
+    * **Endure trials as discipline** - think of hard times as though they were times of discipline. (See [[:yo:ta:vol1:translate:figs_simile]])
+    * **what son is there whom his father does not discipline?** - AT: "every father disciplines his children" (See [[:yo:ta:vol1:translate:figs_rquestion]])
+    * **illegitimate children** - children born to a man and woman who are not married to each other
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:12|Hebrews Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/12/04|<<]] | [[en/bible/notes/heb/12/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

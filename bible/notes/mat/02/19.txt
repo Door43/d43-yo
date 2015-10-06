@@ -1,0 +1,60 @@
+====== Matthew 02:19-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 After Herod died \add and while Joseph and his family were still in Egypt\add*, an angel that the Lord \add had sent\add* appeared to Joseph in Egypt in a dream.
+\v 20 He said to Joseph, "Take the child and his mother and go back to \add the country of\add* Israel \add to live\add*, because the people who were looking for the child \f + \ft euphemism \f* \add in order to kill him\add* have died."
+\v 21 So Joseph took the child and his mother, and they went back to Israel.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 After Herod died and while Joseph and his family were still in Egypt, an angel that the Lord had sent appeared to Joseph in a dream.
+\v 20 He said to Joseph, "Get up and take the child and his mother and go back to the country of Israel to live, because the people who were trying to kill the child have died."
+\v 21 So Joseph took the child and his mother, and they went back to Israel.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 When Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt and said,
+\v 20 "Get up and take the young child and his mother and go to the land of Israel, for those who tried to take the young child's life are dead."
+\v 21 Joseph rose, took the young child and his mother, and came into the land of Israel.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:herodthegreat]]
+  * [[en:obe:kt:angel]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:dream]]
+  * [[en:obe:other:josephnt]]
+  * [[en:obe:other:egypt]]
+  * [[en:obe:other:israel]]
+
+===== Translation Notes: =====
+
+This continues the account of what happened when Jesus was born as the King of the Jews.
+
+  * **behold**  - This marks the beginning of another event in the larger story. It may involve different people than the previous events. Your language may have a way of doing this.
+  * **who tried to take the young child's life **- "who tried to kill the young child." (See: [[en:ta:vol2:translate:figs_euphemism|Euphemism]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:02|Matthew Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:02:17|<<]] | [[:yo:bible:notes:mat:02:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish herodthegreat dream josephnt}}
+
+~~NOCACHE~~

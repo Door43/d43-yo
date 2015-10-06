@@ -1,0 +1,68 @@
+====== Deuteronomy 33:20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 I say this about \add the tribe of\add* Gad:
+\q1 Praise \add Yahweh\add*, the one who made their \add territory\add* large.
+\q2 The people of their tribe \add will attack their enemies fiercely\add* \f + \ft simile \f* like a lion that crouches,
+\q2 waiting to tear off the arm or the scalp \add of some animal\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 I say this about the tribe of Gad:
+\q Praise Yahweh, the one who made their territory large.
+\q The people of their tribe will attack their enemies fiercely like a lion that crouches,
+\q waiting to tear off the arm or the scalp of some animal.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 About Gad, Moses said,
+\q “Blessed be he who enlarges Gad.
+\q He will live there like a lioness,
+\q and he will tear off an arm or a head.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:gad]]
+  * [[:yo:obe:other:lion]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/18|<<]] | [[en/bible/notes/deu/33/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Isaiah 33:2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 Yahweh, act kindly toward us,
+\q2 because we have patiently waited for you \add to help us\add*.
+\q1 Enable us to be strong every day,
+\q2 and rescue us when we have troubles.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 Yahweh, act kindly toward us,
+\q2 because we have patiently waited for you to help us.
+\q1 Enable us to be strong every day,
+\q2 and rescue us when we have troubles.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 2 Yahweh, be gracious to us; we wait for you; 
+\q1 be our arm every morning, our salvation in the time of trouble.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:grace]]
+  * [[:yo:obe:kt:salvation]]
+ 
+
+===== Translation Notes: =====
+
+  
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:33|Isaiah Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/33/01|<<]] | [[en/bible/notes/isa/33/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

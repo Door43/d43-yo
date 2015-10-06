@@ -1,0 +1,43 @@
+====== Mark 05:35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 While Jesus was still speaking \add to that woman\add*, some people arrived who had come from Jairus' house. They said \add to Jairus\add*, "Your daughter has \add now\add* died. So it is useless that you bother the teacher any longer \add by urging him to go to your house\add*!\f + \ft Or: why do you bother the teacher any longer \add by urging him to go to your house\add*? \f* \f + \ft rhetorical question \f*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 While Jesus was still speaking to that woman, some people arrived who had come from Jairus' house. They said to Jairus, "Your daughter has now died. So there is no need to bother the teacher any longer bringing him to your house!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 35 While he spoke to her, people came from the synagogue leader's house, saying, "Your daughter is dead. Why trouble the teacher any more?"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:synagogue]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:teacher]]
+
+===== Translation Notes: =====
+
+  * **Why trouble the teacher any more?** - AT: "We should not bother the teacher any more" (See: [[:yo:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:05|Mark Chapter 05 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:05:33|<<]] | [[:yo:bible:notes:mrk:05:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Job 08:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 So, it is evident that your children have sinned against him,
+\q2 therefore he has caused them to be punished for evil things that they have done.
+\q1
+\v 5 But, if you will now earnestly request \f + \ft doublet \f* Almighty God to help you,
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 So it is evident that your children have sinned against him;
+\q2 that is why he has punished them for evil things that they have done.
+\q1
+\v 5 But now, if only you will earnestly request  Almighty God to help you!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 If your children have sinned against him,
+\q it is because he has given them over to their sins.
+\q
+\v 5 But suppose you diligently sought God,
+\q and presented your request to the Almighty.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:almighty]]
+
+===== Translation Notes: =====
+
+  * **If your children have sinned against him** - "If your children are sinning against God"
+  * **then he has given them over to the power their sins** - "it is because God has allowed the power of their sin to control them"
+  * **But if you diligently seek God and seek the favor of the Almighty** - Here the writer expresses the single idea of seeking God using two different statements.  (See: [[en:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:job:08|Job Chapter 08 Comprehension Questions]]**
+**[[:yo:bible:notes:job:08:01|<<]] | [[:yo:bible:notes:job:08:06|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

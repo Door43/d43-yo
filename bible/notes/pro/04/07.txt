@@ -1,0 +1,88 @@
+====== Proverbs 04:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 The most important thing that you can do is to get wisdom.
+\q2 Even if you obtain many other things,
+\q2 the best thing is to know what things are wise.
+\q1
+\v 8 If you consider being wise to be very valuable,
+\q2 people will think very highly of you.
+\q1 If you cling to wisdom \add like you would cling to a woman you love\add*,
+\q2 many people will honor you.
+\q1
+\v 9 If you become wise, that will for you be like a beautiful wreath that is put \f + \ft Or:someone puts \f* on your head;
+\q2 it will be like a king's glorious crown."
+\q3 \add That is what my father told me\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 The most important thing you can do is to study the principles of wisdom
+\q2 and spend all you own so you can grow more and more in your understanding. 
+\q1
+\v 8 Wisdom is to be loved more than anything that is valuable, and she will raise you to a high position—
+\q2 and wisdom will honor you have when you show how much you love it. 
+\q1
+\v 9 When you have attained wisdom, it will be like a beautiful wreath of honor on your head;
+\q2 she will give you a beautiful crown."
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Wisdom is the most important; so acquire wisdom 
+\q and spend all your own so you can get understanding.
+\q
+\v 8 Cherish wisdom and she will exalt you—
+\q she will honor you when you embrace her.
+\q
+\v 9 She will put a wreath of honor on your head;
+\q she will give you a beautiful crown."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:wise]]
+  * [[:En:obe:kt:exalt]]
+  * [[:En:obe:other:honor]]
+  * [[:yo:obe:other:crown]]
+ 
+
+===== Translation Notes: =====
+
+Verse 9 concludes the quote that started in verse 4.
+
+    * **acquire wisdom**  - Translate as in verse 5.
+    * **spend all you own so you can get understanding**  - "value understanding more than all you own"
+    * **cherish**  - to feel or show great love for someone or something
+    * **she will honor you when you embrace her**  - "wisdom will honor you when you accept it gladly" (See: [[:yo:ta:vol2:translate:figs_personification]])(See: [[:yo:ta:vol1:translate:figs_metaphor]])
+    * **embrace**  - to hold someone in your arms as a way of expressing love or friendship    
+    * * **She will put a wreath of honor on your head; she will give you a beautiful crown** - "You will be honored" (See: [[:yo:ta:vol2:translate:figs_parallelism]])(See: [[:yo:ta:vol1:translate:figs_metaphor]])
+    * **wreath**  - a circular arrangement of leaves or flowers 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:04|Proverbs Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/04/05|<<]] | [[en/bible/notes/pro/04/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

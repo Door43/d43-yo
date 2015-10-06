@@ -1,0 +1,70 @@
+====== Numbers 26:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26-27 They counted 60,500 men from the tribe of Zebulun. They were in clans descended from Sered, Elon, and Jahleel.
+\li
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26-27 These are the descendents of Zebulun:
+\li the Seredites descended from his son Sered,
+\li the Elonites descended from his son Elon,
+\li the Jahleelites descended from his son Jahleel,
+\pi The Israelite leaders counted 60,500 men from the tribe of Zebulun. 
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 The clans of Zebulun’s descendants were these:
+\q1
+By Sered, the clan of the Seredites, 
+q1 by Elon, the clan of the Elonites, and 
+q1 by Jahleel, the clan of the Jahleelites.
+\v 27 These were the clans of the Zebulunites, who numbered60,500 men.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:num:26|Numbers Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/num/26/23|<<]] | [[en/bible/notes/num/26/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

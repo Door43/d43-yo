@@ -1,0 +1,78 @@
+====== Isaiah 58:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Yahweh said to me\add*,
+\q1 "Shout loudly!
+\q2 Shout like \f + \ft simile \f* a loud trumpet!
+\q1 Shout to warn my Israelite people about their sins \f + \ft doublet \f*!
+\q1
+\v 2 They worship me every day;
+\q2 \add they come to my temple because they say that\add* they are eager to know what I want them to do.
+\q1 They act as though they are a nation that does things that are righteous,
+\q2 who would never abandon the commands of me, their God.
+\q1 They request me to decide matters justly,
+\q2 and they delight to come to worship me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh said to me,
+\q1 "Shout loudly!
+\q2 Shout like a loud trumpet!
+\q1 Shout to warn my Israelite people about their sins!
+\q1
+\v 2 They worship me every day;
+\q2 they come to my temple because they say that they are eager to know what I want them to do.
+\q1 They act as though they were a nation that does things that are righteous,
+\q2 that would never abandon the commands of me, their God.
+\q1 They request me to decide matters justly,
+\q2 and they delight to come to worship me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 58
+\p
+\q1
+\v 1 Cry loudly, do not hold back, lift up your voice like a trumpet, 
+\q1 confront my people with their rebellion, and the house of Jacob with their sins.
+\q1
+\v 2 Yet they seek me daily and delight in the knowledge of my ways, 
+\q1 like a nation that practiced righteousness and did not abandon the law of their God. 
+\q1 They ask me for righteous judgments; they take pleasure in God drawing near.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:peopleofgod]]
+  * [[:yo:obe:other:rebel]]
+  * [[:yo:obe:other:house]]
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:other:know]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:other:law]]
+  * [[:yo:obe:kt:god]]
+
+===== Translation Notes: =====
+
+  * **lift up your voice like a trumpet** - Here Yahweh is commanding the prophet to be bold and shout loudly to the people about their sin just as loud as a trumpet is when it is blown. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **confront my people with their rebellion, and the house of Jacob with their sins** - This is saying the same thing in two ways for emphasis. Yahweh wants to warn his people, the Israelites of their sins. (See: [[en:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:58|Isaiah Chapter 58 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:57:20|<<]] | [[:yo:bible:notes:isa:58:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

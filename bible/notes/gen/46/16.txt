@@ -1,0 +1,63 @@
+====== Genesis 46:16-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16-18 Gad and his sons Zephon, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli; \li Asher and his sons Imnah, Ishvah, Ishvi, and Beriah; and their sister Serah; \li Beriah's sons Heber and Malkiel; \li (Those were the children and grandchildren of Jacob and Zilpah, the slave girl whom Laban gave to his daughter Leah: They were sixteen people, altogether.) \li
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Gad and his sons Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli;
+\li
+\v 17 Asher and his sons Imnah, Ishvah, Ishvi, and Beriah; and their sister Serah;
+\li Beriah's sons: Heber and Malkiel;
+\li
+\v 18 (Those were the children and grandchildren of Jacob and Zilpah, the slave woman whom Laban had given to his daughter Leah. These were sixteen people altogether.)
+
+\li
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 the sons of Gad Ziphion and Haggi, Shuni and Ezbon, Er, Arodi, and Areli;
+\v 17 the sons of Asher Imnah and Ishvah, Ishvi, and Beriah, and Serah their sister; and the sons of Beriah Heber and Malchiel
+\v 18 (these were the sons of Zilpah, whom Laban gave to Leah his daughter. These she bore to Jacob, sixteen persons);
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:gad]]
+  * [[:yo:obe:other:asher]]
+  * [[:yo:obe:other:laban]] 
+  * [[en:obe:other:leah]]
+
+===== Translation Notes: =====
+
+
+
+    * **Ziphion..Haggi, Shuni...Ezbon, Er, Arodi...Areli...Imnah...Ishvah, Ishvi...Beriah...Heber...Malchiel** - These are the names of men. (See: [[en:ta:vol1:translate:translate_names]])
+    * **Serah** - This is the name of a woman. 
+    * **Zilpah** - See how you translated this name in [[en:bible:notes:gen:29:23|29:24]].
+    * **These she bore to Jacob, sixteen persons** - This refers to 16 children, grandchildren, and great-grandchildren that were related to Zilpah. 
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:46|Genesis Chapter 46 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/46/12|<<]] | [[en/bible/notes/gen/46/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

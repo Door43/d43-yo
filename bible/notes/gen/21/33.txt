@@ -1,0 +1,49 @@
+====== Genesis 21:33-34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 Abraham planted a tamarisk tree\f + \ft Or: kind of tree called esel \f* there, and he worshiped the eternal God there.
+\v 34 Abraham lived in the land of the Philistine people-group for a long time.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 Abraham planted a tamarisk tree there, and there he worshiped Yahweh, the eternal God.
+\v 34 Abraham stayed as an outsider in the land of the Philistine people for a long time.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 Abraham planted a tamarisk tree in Beersheba. There he worshiped Yahweh, the eternal God.
+\v 34 Abraham remained as a foreigner in the land of the Philistines many days.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:beersheba]]
+  * [[en:obe:kt:worship]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:kt:eternity]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:philistines]]
+ 
+
+===== Translation Notes: =====
+
+  * **a tamarisk tree** - This refers to an evergreen tree that can grow in the desert. It can also be translated as "a tree."
+  * **the eternal God** -  "the God who lives forever"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:21|Genesis Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:21:31|<<]] | [[:yo:bible:notes:gen:22:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

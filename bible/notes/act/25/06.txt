@@ -1,0 +1,58 @@
+====== Acts 25:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 After Festus had been \add in Jerusalem\add* eight or ten days, he went back down to Caesarea. \add Several of the Jewish leaders also went there\add*. The next day Festus \add commanded\add* that Paul be brought \f + \ft Or:someone to bring Paul \f* to him \add in the assembly hall\add* so that he could judge him.
+\v 7 \add After\add* Paul was brought to \add the assembly hall\add*, the Jewish \add leaders\add* from Jerusalem gathered around him \add to accuse him\add*. They told \add Festus\add* that Paul had committed many crimes. But they could not prove \add that Paul had done the things about which they accused him\add*.
+\v 8 Then Paul \add spoke\add* to defend himself. He said, "I have done nothing wrong against the laws of us\add \f + \ft exclusive \f*\add* Jews, and I have not disobeyed the rules concerning our Temple. I have also done nothing wrong against your government \f + \ft metonymy \f*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Festus remained in Jerusalem with the Temple leaders eight or ten more days. Then he went back down to the city of Caesarea. The next day Festus commanded that Paul be brought to him, where he sat in the judge's seat.
+\v 7 After Paul was brought before the judge's seat, the Jewish leaders who had come down from Jerusalem gathered around him to accuse him of many serious charges, but they were not able to prove any of them.
+\v 8 Then Paul spoke for himself. He said, "I have done nothing against the law of the Jews, nor against the Temple, nor against the Emperor."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 After he stayed eight or ten more days, he went down to Caesarea. And on the next day, he sat in the judgment seat and commanded Paul to be brought to him.
+\v 7 When he arrived, the Jews from Jerusalem stood nearby, and they brought many serious charges which they could not prove.
+\v 8 Paul defended himself and said, “Not against the name of the Jews, not against the temple, and not against Caesar, have I done wrong.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:Caesarea]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:other:Paul]]
+  * [[:yo:obe:other:jew]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:temple]]
+  * [[:yo:obe:other:caesar]]
+
+===== Translation Notes: =====
+
+  * **After he stayed** - "After Festus stayed"
+  * **sat in the judgment seat** - "sat upon the seat where he acted as judge"
+  * **Paul to be brought to him** - "that they bring Paul to him" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **When he arrived** - "When Paul came and stood before Festus"
+  * **the name of the Jews** - "the law of the Jews" (UDB)
+  * **not against the temple** - This means he did not break any rules about who could enter the Jerusalem Temple (See: [[en:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:25|Acts Chapter 25 Comprehension Questions]]**
+**[[:yo:bible:notes:act:25:04|<<]] | [[:yo:bible:notes:act:25:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish caesar}}
+
+~~NOCACHE~~

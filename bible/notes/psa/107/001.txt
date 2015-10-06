@@ -1,0 +1,92 @@
+====== Psalms 107:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Give thanks to Yahweh, because he always does good \add things for us\add*!
+\q2 His faithful love for us lasts forever!
+\q1
+\v 2 Those whom Yahweh has saved should tell others
+\q2 that he has rescued them from their enemies.
+\q1
+\v 3 He has gathered those of you who were exiled\f + \ft Or: taken forcefully \f* to many lands;
+\q2 he has gathered you together from the east and the west,
+\q2 from the north and from the south.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Give thanks to Yahweh, because he always does good things for us!
+\q2 His faithful love for us lasts forever, as he has promised us!
+\q1
+\v 2 Those whom Yahweh has saved should tell others
+\q2 that he has rescued them from their enemies.
+\q1
+\v 3 He has gathered those of you who were exiled to many lands;
+\q2 he has gathered you together from the east and the west,
+\q2 from the north and from the south.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 107
+\ms BOOK V
+\q
+\v 1  Give thanks to Yahweh, for he is good,
+\q and his covenant faithfulness endures forever.
+\q
+\v 2 Let the redeemed of Yahweh speak out,
+\q whom he has rescued from the power of the enemy.
+\q
+\v 3 He has gathered them out of foreign lands,
+\q from the east and from the west,
+\q from the north and from the south.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:kt:faithful]]
+  * [[:yo:obe:kt:forever]]
+  * [[:yo:obe:kt:redeem]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:other:foreigner]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:107|Psalms Chapter 107 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/106/047|<<]] | [[en/bible/notes/psa/107/004|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

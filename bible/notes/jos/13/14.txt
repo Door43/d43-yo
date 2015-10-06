@@ -1,0 +1,59 @@
+====== Joshua 13:14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 The tribe of Levi was the only tribe that did not get any land. Instead, just like Yahweh promised, they continued to receive \add food from\add* the sacrifices that were given to Yahweh, the God whom the Israelites \add worship\add*, the sacrifices that were burned \add on the sacred altar\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 The Levite received no assignment of lands; they were the only tribe that received no land. Moses gave them no possessions. Yahweh, the God of Israel, told them that the offerings given to himself would be their possession. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 To the tribe of Levi alone Moses gave no inheritance. "The offerings of Yahweh, the God of Israel, made by fire," are their inheritance, as God said to Moses.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:tribe]]
+  * [[en:obe:other:levite]]
+  * [[en:obe:other:moses]]
+  * [[en:obe:kt:inherit]]
+  * [[:yo:obe:other;sacrifice]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:israel]]
+ 
+
+===== Translation Notes: =====
+
+  * **offerings of Yahweh**  - The things the people were instructed to bring to Yahweh. (See: [[en:obe:other:sacrifice]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:13|Joshua Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/13/13|<<]] | [[en/bible/notes/jos/13/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

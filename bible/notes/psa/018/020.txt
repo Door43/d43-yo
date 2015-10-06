@@ -1,0 +1,69 @@
+====== Psalms 018:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Yahweh has rewarded me because I do what is right;
+\q2 he has blessed me because I am innocent\f + \ft Or: have not done things that are wrong \f*.
+\q1
+\v 21 I have obeyed Yahweh's laws;
+\q2 I have not abandoned him.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Yahweh has rewarded me because I do what is right; he has blessed me because I am innocent.
+\q1
+\v 21 I have obeyed Yahweh's laws; I have not abandoned him.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 Yahweh has rewarded me because of my righteousness; he has restored me because my hands were clean.
+\q
+\v 21 For I have kept the ways of Yahweh and have not wickedly turned away from my God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:reward]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:turn]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/018/018|<<]] | [[en/bible/notes/psa/018/022|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

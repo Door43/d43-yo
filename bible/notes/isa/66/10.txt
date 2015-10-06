@@ -1,0 +1,74 @@
+====== Isaiah 66:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 You people in \f + \ft apostrophe \f* Jerusalem, rejoice!
+\q2 And all you people who love Jerusalem should also be happy.
+\q1 You people who were sad because of \add what happened to Jerusalem\add*,
+\q2 you should now be glad.
+\q1
+\v 11 \add You people in Jerusalem\add* will \add have everything that you need\add*
+\q2 like \f + \ft metaphor \f* a baby that gets all it needs from its mother's breasts.
+\q1 You will enjoy all the abundant and glorious things \f + \ft metaphor \f* in the city.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 You people in Jerusalem, rejoice!
+\q2 And all you people who love Jerusalem should also be happy.
+\q1 You people who were sad because of what happened to Jerusalem,
+\q2 you should now be glad.
+\q1
+\v 11 You people in Jerusalem will have everything that you need,
+\q2 like a baby that gets all it needs from its mother's breasts.
+\q1 You will enjoy all the abundant and glorious things in the city.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 10 Rejoice with Jerusalem and be glad for her, all you who love her; 
+\q1 rejoice with her, all you who mourned over
+her!
+\q1
+\v 11 For you will nurse and be satisfied; with her breasts you will be comforted;
+\q1 for you will drink them to the full and be delighted with the abundance of her glory.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rejoice]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:love]]
+  * [[:yo:obe:other:mourn]]
+  * [[:yo:obe:other:comfort]]
+  * [[:yo:obe:kt:glory]]
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:66|Isaiah Chapter 66 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/66/09|<<]] | [[en/bible/notes/isa/66/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

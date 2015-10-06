@@ -1,0 +1,52 @@
+====== Joshua 02:14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 The two men replied, "We desire that God will cause us to die if we do not do as we say! If you do not tell others what we are \add planning to\add* do, we will act kindly toward you all when Yahweh enables us to possess the land."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 The two men replied, "We will give up our lives if we do not do as we say! If you do not tell others what we are planning to do, then we will have to act kindly toward all your family, when Yahweh gives us this land."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 The men said to her, "Our life for yours, even to death! If you do not speak about our business, then, when Yahweh gives us this land we will be merciful and faithful to you."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:life]]
+  * [[:En:obe:kt:death]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:En:obe:kt:mercy]]
+  * [[:yo:obe:kt:faithful]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **"our life for yours"** - This was a promise, or an oath made by the two men to Rahab.  (See:[[:yo:obe:kt:promise]], [[:yo:obe:other:oath]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:02|Joshua Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/02/12|<<]] | [[en/bible/notes/jos/02/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

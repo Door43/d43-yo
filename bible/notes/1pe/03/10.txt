@@ -1,0 +1,83 @@
+====== 1 Peter 03:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10  \add Consider what the Psalmist wrote about the proper way of conducting our lives\add*,
+\q As for those who want to enjoy life\f + \ft Or: to live happily \f* and experience good  \add things happening to them every\add* day, 
+\q they must not speak \f + \ft metonymy \f* what is evil or speak \f + \ft metonymy \f* words that deceive others. 
+\q
+\v 11 They must continually turn away from  \add doing\add* evil, and must do what is good  \add instead\add*. 
+\q They must deeply desire to enable  \add people to act\add* peacefully toward each other; 
+\q they must zealously  \add urge people to act in a\add* peaceful way, 
+\q
+\v 12 because the Lord sees \f + \ft metonymy \f* what righteous people do  \add and he appreciates\f + \ft Or: likes \f* what they do\add*. 
+\q He listens to righteous people when they pray  \add and he answers them\add*. 
+\q But he is \f + \ft metonymy \f* opposed to those who do evil.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Consider what the Psalmist wrote about the proper way of conducting our lives:
+\q "As for those who want to enjoy life and for good things to happen to them, 
+\q they must not say what is evil or speak words that deceive others. 
+\q
+\v 11 They must continually stop doing evil, and do what is good instead. 
+\q They must try to help people act peacefully toward each other; 
+\q they must earnestly urge people to act in a peaceful way, 
+\q
+\v 12 because the Lord accepts what righteous people do. 
+\q He listens to righteous people when they pray, and he answers them. 
+\q But he rejects those who do evil."
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 "The one who wants to love life and to see good days should stop his tongue from evil and his lips from speaking deceit.
+\q
+\v 11 Let him turn away from what is bad and do what is good. Let him seek peace and pursue it.
+\q
+\v 12 The eyes of the Lord see the righteous, and his ears hear their requests. But the face of the Lord is against those who do evil."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:tongue]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:good]]
+  * [[:yo:obe:other:peace]]
+  * [[:yo:obe:kt:lordgod]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:face]]
+ 
+
+===== Translation Notes: =====
+
+Peter has just instructed all believers on how to treat each other.
+
+  * **should stop his tongue from evil and his lips from speaking deceit.** - "stop speaking evil and lies" (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **the face of the Lord is against** - "the Lord opposes." (See: [[:yo:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:03|1 Peter Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1pe:03:08|<<]] | [[:yo:bible:notes:1pe:03:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

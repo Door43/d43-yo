@@ -1,0 +1,41 @@
+====== Exodus 27:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 \add They must\add* put the grating under the rim that is around the altar. \add They must\add* make it so that it is \add inside the altar\add*, halfway down.
+\v 6 For \add carrying\add* the altar, \add they must\add* make poles from acacia wood and cover them with bronze.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 They must put the grating under the rim that is around the altar. They must make it so that it is inside the altar, halfway down.
+\v 6 For carrying the altar, they must make poles from acacia wood and cover them with bronze.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 5 You must put the grate under the ledge of the altar, halfway down to the bottom.
+\v 6 You must make poles for the altar, poles of acacia wood, and you must cover them with bronze.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:altar]]
+  * [[en:obe:other:acacia]]
+  * [[en:obe:other:bronze]]
+
+===== Translation Notes: =====
+Yahweh continues to tell Moses what the people need to do.
+  * **grate** - See how you translated this in [[en:bible:notes:exo:27:03|27:4]].
+ 
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:27|Exodus Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:27:03|<<]] | [[:yo:bible:notes:exo:27:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

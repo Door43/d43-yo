@@ -1,0 +1,47 @@
+====== Acts 25:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 The next day Agrippa and Bernice came very ceremoniously to the assembly hall. Some \add Roman\add* commanders and prominent men in \add Caesarea\add* came with them. Then, Festus told an officer to bring Paul. So after the officer \add went\add* \add to the prison and\add* brought him,
+\v 24 Festus said, "King Agrippa, and all \add the rest of you\add* who are here, you see this man. Many \f + \ft hyperbole \f* Jews in Jerusalem and also those here \add in Caesarea\add* appealed to me, screaming that we\add \f + \ft exclusive \f*\add* should not let him live any longer.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 The next day Agrippa and Bernice entered the hall of judgment, and all the other people were honoring them. Some Roman commanders and important men in Caesarea came with them. Then Festus commanded that the guards should bring Paul in.
+\v 24 After Paul entered, Festus said, "King Agrippa and all the rest of you who are here, you see this man! Many leaders of the Jews, both in Jerusalem and here, asked me not to let him live any longer.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 So on the next day, Agrippa and Bernice came with much ceremony; they came into the hall with the military officers and with the prominent men of the city. And when Festus spoke the command, Paul was brought to them.
+\v 24 Festus said, "King Agrippa, and all you men who are here with us, you see this man; all the multitude of Jews consulted with me in Jerusalem and here also, and they shouted to me that he should no longer live.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:paul]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:jew]]
+  * [[:yo:obe:other:jerusalem]]
+===== Translation Notes: =====
+
+  * **Agrippa and Bernice came** - See how you translated Agrippa and Bernice in verse [[en:bible:notes:act:25:13|25:13]].
+  * **Paul was brought to them** - They brought Paul to appear before them. (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **they shouted to me** - "the Jews spoke very strong to me"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:25|Acts Chapter 25 Comprehension Questions]]**
+**[[:yo:bible:notes:act:25:21|<<]] | [[:yo:bible:notes:act:25:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

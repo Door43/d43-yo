@@ -1,0 +1,57 @@
+====== 2 Samuel 02:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Zeruiah's three sons were there \add on that day\add*: Joab, Abishai, and Asahel. Asahel was able to run very fast; he could run as fast as a wild gazelle\f + \ft Or: antelope \f*.
+\v 19 Asahel started to pursue Abner. He ran straight toward Abner, without stopping.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Zeruiah's three sons were there on that day: Joab, Abishai, and Asahel. Asahel was able to run very fast. He could run as fast as a wild gazelle.
+\v 19 Asahel started to pursue Abner. He ran straight toward Abner, without stopping.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 The three sons of Zeruiah were there: Joab, and Abishai, and Asahel. Asahel was swift in his feet like a wild gazelle.
+\v 19 Asahel closely pursued Abner and followed him without turning away in any direction.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:turn]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2sa:02|2 Samuel Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/02/16|<<]] | [[en/bible/notes/2sa/02/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

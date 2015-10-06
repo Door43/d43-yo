@@ -1,0 +1,66 @@
+====== Ecclesiastes 02:21-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 Some people work wisely and skillfully, using the things that they have learned. But \add when they die\add*, they leave everything, and someone who has not worked hard acquires those things. And that also seemed to be senseless and caused me to be discouraged.
+\v 22 So, it seems that people do not \f + \ft rhetorical question \f* get much for all the hard work that they do and for worrying.
+\v 23 Every day the work that they do causes them to experience pain and to be worried. And during the night their minds are not able to rest. That also is very frustrating.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Some people work wisely and skillfully, using the things that they have learned. But when they die, they leave everything, and someone who has not worked for those things acquires them. That fact also seemed to be senseless and caused me to be discouraged.
+\v 22 So it is useless for people to work for all they do.
+\v 23 Every day the work that they do causes them to experience pain and to be worried. And during the night their minds are not able to rest. That also shows how temporary everything is.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 For there might be someone who works with wisdom, with knowledge, and skill, but he will leave everything he has to a man who has not built it. This also is vapor and a great tragedy.
+\v 22 For what will become of the person who works so hard and tries in his heart to complete his labors under the sun?
+\v 23 Every day his work is painful and stressful, so at night his soul does not find rest.This also is vapor.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ecc:02|Ecclesiastes Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ecc/02/19|<<]] | [[en/bible/notes/ecc/02/24|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

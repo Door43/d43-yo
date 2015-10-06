@@ -1,0 +1,62 @@
+====== Nehemiah 12:46-47 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 46 Ever since the time that David had been the king and Asaph had been his chief musician, the musicians had led the people while they sang songs to praise and thank God.
+\v 47 During the years that Zerubbabel and I governed the Israelite people, they all contributed the food that the singers and temple gatekeepers needed each day. They gave a tithe\f + \ft Or: 10% \f* of their crops to the descendants of Levi \add who helped the priests\add*, and the descendants of Levi gave a tithe\f + \ft Or: 10% \f* of that to \add the priests, who were\add* descendants of Aaron \add the first supreme priest\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 46 Ever since the time of David and Asaph, there have been directors and singers, and they sang songs to praise and thank God.
+\v 47 During the years of Zerubbabel and in the days of Nehemiah the governor, all Israel contributed the food that the singers and temple gatekeepers needed every day. They set aside what the Levites needed to live on, and the Levites set aside for the descendants of Aaron, the first leader of all the priests, what they needed.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 46 For long ago, in the days of David and Asaph, there were directors of singers, and there were songs of praise and thanksgiving to God.
+\v 47 In the days of Zerubbabel and in the days of Nehemiah, all Israel gave the daily portions for the singers and the gatekeepers. They set aside the portion that was for the Levites, and the Levites set aside a portion for  the descendants of Aaron.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:david]]
+  * [[en:obe:other:asaph]]
+  * [[:yo:obe:other:praise]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:nehemiah]]
+  * [[en:obe:other:israel]]
+  * [[en:obe:other:levite]]
+  * [[en:obe:kt:son]]
+  * [[:yo:obe:other:aaron]]
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:12|Nehemiah Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/12/44|<<]] | [[en/bible/notes/neh/13/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

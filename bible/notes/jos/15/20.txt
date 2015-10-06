@@ -1,0 +1,54 @@
+====== Joshua 15:20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 \add Here is a list of the towns in\add* the land that God had promised to give to the tribe of Judah. Each clan was allotted some of the land.
+\m
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Here is a list of the towns in the land that God had promised to give to the tribe of Judah. Each clan was assigned some of the land.
+\m
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 This was the inheritance of the tribe of the tribe of Judah, given to their clans.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:inherit]]
+  * [[en:obe:other:tribe]]
+  * [[en:obe:other:judah]]
+  * [[en:obe:other:clan]]
+ 
+
+===== Translation Notes: =====
+
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:15|Joshua Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/15/19|<<]] | [[en/bible/notes/jos/15/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

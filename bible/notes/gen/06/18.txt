@@ -1,0 +1,46 @@
+====== Genesis 06:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 But I will make my agreement with you\f + \ft singular \f*: You and your wife, your sons and their wives will enter the boat.
+\v 19 And I want to save all kinds of creatures. So you must also bring two of all living creatures, a male and a female, into the boat with you, so that they also may remain alive.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 But I will make my covenant with you. You and your wife, your sons and their wives will enter the boat.
+\v 19 You must also bring two of all living creatures, a male and a female, into the boat with you, so that they also may remain alive.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 But I will establish my covenant with you. You will go into the ark, you, and your sons, and your wife, and your sons’ wives with you.
+\v 19 Of every living creature of all flesh, two of every kind you must bring into the ark, to keep them alive with you, both male and female.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:covenant]]
+
+===== Translation Notes: =====
+
+  * **but I will establish my covenant with you**  - This covenant was a promise that God made to Noah. God would fulfill the covenant. He did not require Noah to do anything as part of the covenant.
+  * **with you**  - The word "you" is singular. God was making his covenant with Noah. (See: [[en:ta:vol1:translate:figs_you]])
+  * **Of every living creature of all flesh, two of every kind you must bring into the ark**  - "You must bring into the ark two of every kind of very living creature"
+  * **of all flesh**  - "of every kind of animal"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:06|Genesis Chapter 06 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:06:16|<<]] | [[:yo:bible:notes:gen:06:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

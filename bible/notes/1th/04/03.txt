@@ -1,0 +1,63 @@
+====== 1 Thessalonians 04:3-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 God wants you to live pure lives that will show that you completely belong to him. He wants you to avoid doing any sexually immoral acts \f + \ft Or: avoid being sexually immoral in any way \f*.
+\v 4 \add That is, he wants\add* each one of you to know how to control your own sexual desires \f + \ft euphemism \f*. He wants you to live pure lives that all people will see as good.
+\v 5 You must not lustfully desire \add to do\add* immoral acts as unbelievers \f + \ft metonymy \f* \add do\add* who do not obey God.
+\v 6 \add God wants each one of you to control your sexual desires, in order that\add* no one of you sin against your fellow believer and take advantage of him or her by doing things like that. Remember that we strongly warned you previously \f + \ft doublet \f* that the Lord \add Jesus\add* will punish all \add people who do\add* sexually immoral acts.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 God wants you to do no sin, living in a way that will show that you completely belong to him. He wants you to avoid doing any sexually immoral acts.
+\v 4 That is, he wants each one of you to know how to live with your wife, in a way that honors her and you do not sin against her.
+\v 5 You must not use her to satisfy your lustful desires (as non-Jews do because they do not know God).
+\v 6 God wants each one of you to control your sexual desires, in order that no one of you sin against your fellow believer and take advantage of him or her by doing things like that. Remember that we strongly warned you previously that the Lord Jesus will punish all people who commit sexually immoral acts.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 This is the will of God, your sanctification—that you abstain from sexual immorality,
+\v 4 that each of you know how to possess his own wife in holiness and honor,
+\v 5 not in lustful passion (as the Gentiles who do not know God),
+\v 6 and that no man transgress and wrong his brother in this matter, because the Lord is an avenger in all these things, just as we forewarned you and testified.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:willofgod]]
+  * [[:yo:obe:kt:sanctify]]
+  * [[:yo:obe:kt:fornication]]
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:other:honor]]
+  * [[:yo:obe:other:lust]]
+  * [[:yo:obe:other:gentile]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:transgression]]
+
+===== Translation Notes: =====
+
+  * **you abstain from sexual immorality** - "you stay away from sexually immoral acts"
+  * **know how to possess** - "know how to live with"
+  * **lustful passion** - "wrongful sexual desire"
+  * **no man** - "no one" or "no person" (See: [[en:ta:vol2:translate:figs_gendernotations]])
+  * **transgress and wrong** - This is a doublet stating the same idea in two ways to reinforce the concept. Alternate translation: "wrong".  (See: [[en:ta:vol2:translate:figs_doublet]])
+  * **the Lord is an avenger** - "the Lord will punish the one who transgressed and will defend the one who was wronged"
+  * **forewarned you and testified** - "told you and strongly warned you against"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1th:04|1 Thessalonians Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:1th:04:01|<<]] | [[:yo:bible:notes:1th:04:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish willofgod sanctify transgression}}
+
+~~NOCACHE~~

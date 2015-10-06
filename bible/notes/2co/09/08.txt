@@ -1,0 +1,76 @@
+====== 2 Corinthians 09:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Moreover, God can enable you to \add give to others cheerfully. If you give that way\add*, God will \add in return\add* give you many good blessings. He will do that so that at all times you will always have all that you need. Indeed, you will have even more \add than you need. As a result, you will be able to do\add* many more good things \add to help others\add*.
+\v 9 \add Those who give willingly and cheerfully will be rewarded like the man about whom\add* it is written \f + \ft Or:\add about whom\add* someone\f + \ft Or: the Psalmist \f* wrote \f* in the Scriptures,
+\q He generously \add helps others\add*,
+\q \add he gives to those\add* who are poor.
+\q \add God will remember\add* the good things that he did,
+\q \add and reward him with\add* good things forever.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 God can give you all kinds of gifts more and more, so that you will always have what you yourselves need, and also enough to do good things with.
+\v 9 As it is written in the Scriptures:
+\q "He gives good things to people everywhere, 
+\q and he gives to the poor what they need.
+\q He does these things forever.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 And God is able to make all grace increase in you, so that, always, in all things, having all you need, you may increase in every good deed.
+\v 9 As it is written,
+\q "He has distributed his riches and given them to the poor;
+\q1 Hhs righteousness lasts forever."
+\m
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:En:obe:kt:grace]]
+  * [[:yo:obe:other:written]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:forever]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **As it is written,
+
+
+
+"He has distributed his riches and given them to the poor; 
+
+Hhs righteousness lasts forever
+**  - Paul is quoting Psalm 112:9.
+     
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2co:09|2 Corinthians Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2co/09/06|<<]] | [[en/bible/notes/2co/09/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

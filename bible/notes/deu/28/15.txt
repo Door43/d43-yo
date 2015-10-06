@@ -1,0 +1,59 @@
+====== Deuteronomy 28:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 But if you do not do what Yahweh our God is telling you to do, and if you do not faithfully obey all his rules and regulations that I am giving to you today, this is what he will do to curse you:
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 But if you do not do what Yahweh our God is telling you to do, and if you do not faithfully obey all his rules and regulations that I am giving to you today, this is what he will do to curse you:
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 But if you do not listen to the voice of Yahweh your God, so as to keep all his commandments and his statutes that I am commanding you today, then all these curses will come on you and overtake you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:statute]]
+  * [[:yo:obe:kt:curse]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/28/13|<<]] | [[en/bible/notes/deu/28/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

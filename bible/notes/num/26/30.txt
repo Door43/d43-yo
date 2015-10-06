@@ -1,0 +1,74 @@
+====== Numbers 26:30-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30-32 Theses are the descendents of Gilead:
+\li the Iezerites descended from his son Iezer,
+\li the Helekites descended from his son Helek,
+\li the Asrielites descended from his son Asriel,
+\li the Shechemites descended from his son Shechem,
+\li the Shemidaites descended from his son Shemida,
+\li the Hepherites descended from his son Hepher.
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 30 Gilead’s descendants were these:
+\q1
+By Iezer, the clan of the Iezerites, 
+q1 by Helek, the clan of the Helekites,
+\q1
+\v 31 by Asriel, the clan of the Asrielites, 
+\q1 by Shechem, the clan of the Shechemites,
+\q1
+\v 32 by Shemida, the clan of the Shemidaites, 
+\q1 by Hepher, theclan of the Hepherites.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:num:26|Numbers Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/num/26/28|<<]] | [[en/bible/notes/num/26/33|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

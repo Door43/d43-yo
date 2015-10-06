@@ -1,0 +1,50 @@
+====== Mark 13:30-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 Keep this in mind: You have observed the things that I have done and said, but all of those events \add that I have just told you about\add* will happen before all of you will die.
+\v 31 You can \add be certain that\add* these things \add that I have prophesied\add* will happen. \add You can be more certain of that than\add* you can \add be certain that\add* the earth and what is in the sky will stay in place.
+\v 32 But no one knows the exact time \add when I will return\add*. The angels in heaven also do not know. Even \add I, God's\add* son, do not know. Only my Father knows.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 Keep this in mind: this generation will not die until these things take place.
+\v 31 You can be certain that these things that I have prophesied will happen. The earth and what is in the sky will one day be destroyed, but these things that I have told you will certainly happen.
+\v 32 But no one knows the exact time when I will return. The angels in heaven also do not know. Even I, God's Son, do not know. Only my Father knows.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 30 Truly, I say to you, this generation will not pass away until all of these things occur.
+\v 31 Heaven and earth will pass away, but my words will never pass away.
+\v 32 But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but the Father.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:generation]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:angel]]
+  * [[:yo:obe:kt:sonofman]]
+  * [[:yo:obe:kt:godthefather]]
+
+===== Translation Notes: =====
+
+  * **Truly I say to you** - Jesus is emphasizing that everything he is teaching them will really happen, just the way he says it will.
+  * **pass away** - "end" (See: [[:yo:ta:vol2:translate:figs_euphemism]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:13|Mark Chapter 13 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:13:28|<<]] | [[:yo:bible:notes:mrk:13:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

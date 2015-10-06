@@ -1,0 +1,95 @@
+====== Hosea 13:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Previously, when the leaders of Israel spoke,
+\q2 the people trembled;
+\q2 those leaders were highly respected by the Israelite people.
+\q1 But the people sinned greatly by \add worshiping\add* Baal,
+\q2 so now they will be killed \add by their enemies\add*.
+\q1
+\v 2 Now they sin more and more;
+\q2 they make idols for themselves
+\q2 and \add cover them\add* with their silver.
+\q1 Those idols are statues that are very cleverly made,
+\q2 but those statues are made by \add mere\add* humans.
+\q1 But \add the people are told\add*, "Kiss those idols \add that resemble a\add* calf,
+\q2 and offer sacrifices to them!"
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 When Ephraim spoke, the people trembled;
+\q2 he was respected in Israel.
+\q1 But because he worshiped Baal, he became guilty, 
+\q2 and he died. 
+\q1
+\v 2 Now they sin more and more;
+\q2 they make cast metal figures out of silver, 
+\q1 in the shape of their idols,
+\q2 Those idols are statues that are very cleverly made,
+\q2 but those statues are made by craftsmen who formed them.
+\q1 But the people are told, 
+\q2, "Everyone who sacrifices to the idols we have made, 'Kiss the calves!'" 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 13
+\p
+\q
+\v 1 When Ephraim spoke there was trembling.
+\q He exalted himself in Israel,
+\q but he became guilty because of Baal worship, and he died.
+\q
+\v 2 Now they sin more and more.
+\q They made cast metal figures from their silver,
+\q even idols matching their own skillfulness,
+\q all of them the work of the craftsmen.
+\q They say of them,
+\q "The men who sacrifice will kiss the calves."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:13|Hosea Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/12/13|<<]] | [[en/bible/notes/hos/13/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

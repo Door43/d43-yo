@@ -1,0 +1,47 @@
+====== Genesis 30:43 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 43 As a result, Jacob became very rich. He owned many large flocks and many male and female slaves and camels and donkeys.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 43 As a result, Jacob became very rich. He owned many large flocks. He also owned many male and female slaves, camels, and donkeys.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 43 The man became very prosperous. He had large flocks, female servants and male servants, and camels and donkeys.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:flock]]
+  * [[en:obe:other:servant]]
+  * [[:yo:obe:other:camel]]
+  * [[:yo:obe:other:donkey]]
+
+
+===== Translation Notes: =====
+
+
+    * **The man**  - "Jacob"
+    * **became very prosperous**  - "greatly prospered" or "became very wealthy"
+    * **donkeys** - an animal that is like a small horse with long ears (See: [[en:ta:vol1:translate:translate_unknown]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:30|Genesis Chapter 30 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:30:41|<<]] | [[:yo:bible:notes:gen:31:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

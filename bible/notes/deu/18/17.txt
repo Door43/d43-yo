@@ -1,0 +1,61 @@
+====== Deuteronomy 18:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Then Yahweh said to me, 'What they have said is true\f + \ft Or: wise \f*.
+\v 18 So I will send from among them a prophet like you. I will tell him what to say, and then he will tell people everything that I tell him to say.
+\v 19 He will speak for me. And I will punish anyone who does not heed what he says.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Then Yahweh said to me, 'What they have said is true.
+\v 18 So I will send from among them a prophet like you. I will tell him what to say, and then he will tell people everything that I tell him to say.
+\v 19 He will speak for me. And I will punish anyone who does not heed what he says.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 Yahweh said to me, ‘What they have said is good.
+\v 18 I will raise them up a prophet from among their brothers like you; I will put my words in his mouth, and he will speak to them all that I command him.
+\v 19 It will happen that if anyone does not listen to the words of mine that he speaks in my name, I will require it of him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:18|Deuteronomy Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/18/15|<<]] | [[en/bible/notes/deu/18/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

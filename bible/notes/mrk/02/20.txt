@@ -1,0 +1,48 @@
+====== Mark 02:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 But some day, he will be taken away \f + \ft Or:his \add enemies\add* will take him away \f* from them. Then, in those days, they will abstain from food, \add because they will be sad\add*."
+\p
+\v 21 \add Jesus wanted to show that those who desire to live in accordance with his new message should not try to continue to obey the old religious traditions like fasting. So he also said to them\add*, "People do not sew a patch of unshrunken cloth on an old garment \add in order to mend a hole\add*. If they did that, \add when they washed the garment, the patch would shrink\add* and the new \add piece of cloth\add* would tear off more of the old cloth. As a result, the hole would become bigger!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 But some day, the groom will be taken away from them. Then in those days, they will abstain from food."
+\p
+\v 21 Jesus went on to say to them, "People do not sew a patch of unshrunken cloth on an old garment in order to mend a hole. If they did, when they washed the garment, the patch would shrink and the new piece of cloth would tear off more of the old cloth. As a result, the hole would become even bigger!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 But the days will come when the bridegroom will be taken away from them, and in those days, they will fast.
+\v 21 No man sews a piece of new cloth on an old garment, for the patch will tear away from the old, and a worse tear will be made.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:bridegroom]]
+  * [[en:obe:other:fast]]
+
+===== Translation Notes: =====
+
+  * **the bridegroom will be taken away** - Jesus is speaking of his death and resurrection and ascension, but neither those who kill Jesus nor God who raises him and takes him up to heaven are the ones who take the bridegroom away. If your language requires you to specify the actor, be as general as possible. Alternate translations: "they will take the bridegroom away" or "people will take the bridegroom away" or "the bridegroom will go away." (See: [[en:ta:vol1:translate:figs_metaphor]] and [[en:ta:vol2:translate:figs_activepassive]])
+  * **them...they** - the wedding attendants
+  * **No man sews a piece of new cloth on an old garment** - Sewing a piece of new cloth on an old garment will make the hole on an old garment worse if the piece of new cloth is not yet shrunk. Both the new cloth and old garment will be ruined. (See: [[en:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:02|Mark Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:02:18|<<]] | [[:yo:bible:notes:mrk:02:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish bridegroom }}
+
+~~NOCACHE~~

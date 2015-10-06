@@ -1,0 +1,43 @@
+====== Exodus 09:25-26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 The hail struck everything that was in the fields all over Egypt—every person and every animal. The hail destroyed the plants in the fields and stripped \add the leaves off\add* the trees.
+\v 26 Only in Goshen region, where the Israelite people were \add living\add*, was there no hail.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 The ice struck everything that was in the fields all over Egypt—every person and every animal. The ice destroyed the plants in the fields and stripped the leaves off the trees.
+\v 26 Only in the region of Goshen, where the Israelite people were living, was there no ice.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 25 Throughout all the land of Egypt, the hail struck everything in the fields, both people and animals. It struck every plant in the fields and broke every tree.
+\v 26 Only in the land of Goshen, where the Israelites lived, was there no hail.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:Egypt]]
+  * [[:yo:obe:other:goshen]]
+  * [[:yo:obe:other:Israel]]
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:09|Exodus Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:09:22|<<]] | [[:yo:bible:notes:exo:09:27|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

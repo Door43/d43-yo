@@ -1,0 +1,60 @@
+====== Isaiah 59:16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 He was disgusted when he saw that no one tried to help \add those who were being treated cruelly\add*.
+\q2 So he used his own power \f + \ft metonymy \f* to rescue them;
+\q1 it is because he is always righteous that he did that \f + \ft personification \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 He was disgusted when he saw that no one tried to help those who were being treated cruelly.
+\q2 So he used his own power to rescue them;
+\q1 it is because he is always righteous that he did that.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 16 He saw that there was no man, and wondered that there was no one to intervene. 
+\q1 Therefore his own arm brought salvation
+for him, and his righteousness sustained him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:awe]]
+  * [[:yo:obe:kt:salvation]]
+  * [[:yo:obe:kt:righteous]]
+
+===== Translation Notes: =====
+
+  * **He saw that there was no man, and wondered that there was no one to intervene** - “ Yahweh looked for someone to stop the evil, and he was surprised when He did not find anyone”
+  * **Therefore his own arm brought salvation for him, and his righteousness sustained him** - "Yahweh used his power to save the people, and his righteousness kept him going until all was made right" (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:59|Isaiah Chapter 59 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/59/14|<<]] | [[en/bible/notes/isa/59/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

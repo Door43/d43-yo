@@ -1,0 +1,87 @@
+====== Deuteronomy 33:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 I say this about \add the tribes of\add* Zebulun \add and Issachar:\add*
+\q1 I desire\f + \ft Or: hope \f* that the people of Zebulun will prosper in their travels \add across the seas\add*,
+\q2 and that the people of Issachar will prosper while they stay at home \add and take care of their cattle and crops\add*.
+\q1
+\v 19 They will invite people \add from the other Israelite tribes\add* to the mountain where they \add worship Yahweh\add*,
+\q2 and they will offer the correct\f + \ft Or: proper \f* sacrifices to him.
+\q1 They will become rich from \add the work that they do on\add* the seas
+\q2 and from \add the things that they make from\add* \f + \ft Or: \add find in\add* \f* the sand \add on the beaches\add*.
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 I say this about the tribes of Zebulun and Issachar:
+\q I desire that the people of Zebulun will prosper in their travels across the seas,
+\q and that the people of Issachar will prosper while they stay at home and take care of their cattle and crops.
+\q
+\v 19 They will invite people from the other Israelite tribes to the mountain where they worship Yahweh,
+\q and they will offer the correct sacrifices to him.
+\q They will become rich from the work that they do on the seas
+\q and from the things that they make from  the sand on the beaches.
+\b
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 About Zebulun, Moses said,
+\q “Rejoice, Zebulun, in your going out,
+\q and you, Issachar, in your tents.
+\q
+\v 19 They will call the peoples to the mountains.
+\q There will they offer sacrifices of righteousness.
+\q For they will suck the abundance of the seas,
+\q and from the sand hidden in the seashore.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:zebulun]]
+  * [[:yo:obe:other:rejoice]]
+  * [[:yo:obe:other:issachar]]
+  * [[:yo:obe:other:tent]]
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:other:sacrifice]]
+  * [[:yo:obe:kt:righteous]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/17|<<]] | [[en/bible/notes/deu/33/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

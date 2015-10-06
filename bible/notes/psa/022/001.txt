@@ -1,0 +1,82 @@
+====== Psalms 022:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 My God, my God, why have you abandoned\f + \ft Or: deserted \f* me?
+\q2 Why do you stay so far from me,
+\q2 and why do you not hear\f + \ft Or: help \f* me \f + \ft rhetorical question \f*?
+\q1 Why do you not hear me when I am groaning?
+\q1
+\v 2 My God, every day I call to you during the daytime, but you do not answer me.
+\q2 I call to you during the night, but I am not able to rest\f + \ft Or: sleep \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 My God, my God, why have you abandoned me?
+\q2 Why do you stay so far from me,
+\q2 and why do you not listent to me?
+\q1 Why do you not hear me when I am suffering and groaning?
+\q1
+\v 2 My God, every day I call to you during the daytime, but you do not answer me.
+\q2 I call to you during the night; I am not silent at all.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 22
+\d For the Chief Musician; set to "The rhythm of the deer." A Psalm of David.
+\q
+\v 1 My God, my God, why have you abandoned me?
+\q Why are you so far from saving me, and far from the words of my anguish?
+\q
+\v 2 My God, I cry out in the daytime, but you do not answer;
+\q and at night, I am not silent!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:psalm]]
+  * [[:yo:obe:other:david]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:save]]
+  * [[:yo:obe:kt:word]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:022|Psalms Chapter 022 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/021/013|<<]] | [[en/bible/notes/psa/022/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

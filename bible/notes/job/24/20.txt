@@ -1,0 +1,77 @@
+====== Job 24:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Not even their mothers remember them now;
+\q2 wicked people are destroyed like trees that are cut down,
+\q2 and maggots eat their corpses.
+\q1
+\v 21 They mistreat women who have been unable to give birth to children and women who no longer have children \add to take care of them\add*,
+\q2 and they never do good things for widows.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Not even their mothers will remember them;
+\q2 wicked people will be destroyed like trees that are cut down,
+\q2 and maggots will eat their corpses.
+\q1
+\v 21 The wicked mistreat women who have been unable to give birth to children who would have grown up to take care of them;
+\q2 the wicked they never help widows.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 The womb that bore him will forget him;
+\q the worm will feed sweetly on him;
+\q he will be remembered no more;
+\q in this way, wickedness will be broken like a tree.
+\q
+\v 21 The wicked one devours the barren women who have not born children;
+\q he does no good to the widow.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:womb]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:other:devour]]
+  * [[:yo:obe:kt:barren]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:24|Job Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/24/18|<<]] | [[en/bible/notes/job/24/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

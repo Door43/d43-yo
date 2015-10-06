@@ -1,0 +1,58 @@
+====== Ezekiel 13:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 So, you human, show that you are angry with [IDI] the women of Jerusalem who prophesy things that they themselves have imagined.
+\v 18 Tell them, 'This is what Yahweh the Lord says: Terrible things will happen to you women who fasten magic charms on your wrists and make veils of various sizes to put on your heads in order to deceive the people. \add You think that\add* \f + \ft rhetorical question \f* you will deceive others \add by telling them that you know what will happen in the future\add*, and you will save your own lives.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 So you, Son of man, show that you are angry with the women of Jerusalem who prophesy things that they themselves have imagined, and speak true prophesy against them.
+\v 18 Tell them, 'This is what Yahweh the Lord says: Terrible things will happen to you women who fasten magic charms on your wrists and make veils of various sizes to put on your heads in order to deceive the people. You think that  you will deceive others by telling them that you know what will happen in the future, and you will save your own lives.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 So you, Son of man, set your face against the daughters of your people who prophesy out of their own minds, and
+prophesy against them.
+\v 18 Say, 'The Lord Yahweh says this: "Woe to the women who sew magic charms onto every part of their hand and make veils
+for their heads of every size in order to trap people. Will you trap the lives of my people but save your own lives?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:sonofman]]
+  * [[:yo:obe:kt:face|face]]
+  * [[en:obe:other:peoplegroup]]
+  * [[en:obe:kt:prophet]]
+  * [[:yo:obe:other:mind|mind]]
+  * [[:yo:obe:kt:lordyahweh|Lord Yahweh]]
+  * [[:yo:obe:kt:woe|woe]]
+  * [[:yo:obe:other:magic|magic, magician]]
+  * [[en:obe:kt:veil]]
+  * [[:yo:obe:kt:save|save]]
+  * [[:yo:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+  * **Son of man**  - See how you translated this in [[en:bible:notes:ezk:02:01|2:3]].
+  * **set your face against**  - See how you translated this in [[en:bible:notes:ezk:04:01|4:3]].
+  * **daughters of your people** - women of Israel
+  * **prophesy out of their own minds**  - This means they are creating prophecies from their own imaginations. AT: "imagining their own prophecies" (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+  * **prophesy against**  - See how you translated this in [[en:bible:notes:ezk:04:06|4:7]].
+  * **Thus says the Lord Yahweh**  - See how you translated this in [[en:bible:notes:ezk:05:05|5:5]].
+  * **charms**  - objects believed to have magical powers.
+  * **in order to trap people...Will you trap the lives of my people ** - The decorations worn by prophetesses were like a "trap" because they were using beauty, mystery and lies to trick the people so they would believe them and sin against God. (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:13|Ezekiel Chapter 13 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:13:15|<<]] | [[:yo:bible:notes:ezk:13:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

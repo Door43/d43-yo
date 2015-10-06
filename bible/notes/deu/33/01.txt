@@ -1,0 +1,90 @@
+====== Deuteronomy 33:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Before God's prophet Moses died, he \add asked God to\add* bless the Israelite people.
+\v 2 This is what he said:
+\b
+\q1 "Yahweh came \add and spoke\add* to us at Sinai \add Mountain\add*;
+\q2 he \add came like\add* \f + \ft metaphor \f* the sun rises in the Edom \add region\add*
+\q2 and like his light shone on us when we were \add in the desert\add* near Paran Mountain \add after we left Sinai Mountain\add*.
+\q1 He came with ten thousand angels,
+\q2 and there was a flaming fire at his right side.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Before God's prophet Moses died, he asked God to bless the Israelite people.
+\v 2 This is what he said:
+\b
+\q "Yahweh came and spoke to us at Mount Sinai;
+\q he came like the sun rises in the region of Edom
+\q and like his light shone on us when we were in the desert near Mount Paran after we left Mount Sinai.
+\q He came with ten thousand angels,
+\q and there was a flaming fire at his right side.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 33
+\p
+\v 1 This is the blessing with which Moses the man of God blessed the people of Israel before his death.
+\v 2 He said,
+\q “Yahweh came from Sinai
+\q and rose from Seir upon them.
+\q He shined out from Mount Paran,
+\q and he came with ten thousands of holy ones.
+\q In his right hand were flashes of lightning.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:other:moses]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:sinai]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:other:edom]]
+  * [[:yo:obe:other:paran]]
+  * [[:yo:obe:kt:holy]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/32/50|<<]] | [[en/bible/notes/deu/33/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

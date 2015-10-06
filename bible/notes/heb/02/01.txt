@@ -1,0 +1,50 @@
+====== Hebrews 02:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 So, \add since that is true\add*, we must pay very great attention to what we have heard \add about God's Son\add*, in order that we do not drift away from it, \add as a boat drifts off its course when people do not guide it\add* \f + \ft metaphor \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 So, since that is true, we must pay very great attention to what we have heard about God's Son, so that we do not gradually stop believing it.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 Therefore we must give far more attention to what we have heard, so that we do not drift away from it.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:angel]]
+  * [[:yo:obe:kt;transgression]]
+  * [[:En:obe:other:disobey]]
+  * [[:En:obe:kt:receive]]
+  * [[:yo:obe:kt:justice]]
+  * [[:En:obe:other:punish]]
+ 
+
+===== Translation Notes: =====
+
+  * **drift**  - go astray
+  * **valid**  - proved to be true
+  * **every transgression and disobedience receives just punishment** -  AT: "every person who sins and disobeys will receive just punishment." (See: [[:yo:ta:vol2:translate:figs_hendiadys]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:heb:02|Hebrews Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:heb:01:13|<<]] | [[:yo:bible:notes:heb:02:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

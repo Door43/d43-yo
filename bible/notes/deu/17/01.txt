@@ -1,0 +1,65 @@
+====== Deuteronomy 17:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Do not sacrifice to Yahweh our God any cattle or sheep or goats that have any defects, because Yahweh hates that kind of gift."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Do not sacrifice to Yahweh our God any cattle or sheep or goats that have any defects, because Yahweh detests that kind of gift.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 17
+\p
+\v 1 You must not sacrifice to Yahweh your God an ox or a sheep in which is any blemish or anything bad, for that would be disgusting to Yahweh your God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:sacrifice]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:ox]]
+  * [[:yo:obe:other:sheep]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:17|Deuteronomy Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/16/21|<<]] | [[en/bible/notes/deu/17/02|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== Exodus 13:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Moses\f + \ft Or: I \f* said to the people, "Do not forget this day! This is the day that you left Egypt. This is the day you \add were freed from\add* being their slaves. Yahweh has brought you out of Egypt by his great power \f + \ft metonymy \f*. Do not eat any bread that has yeast in it \add whenever you celebrate\add* this day.
+\v 4 You are leaving Egypt on this day, which is the first day of the month that is \add named\add* Abib.
+\v 5 Later, when Yahweh brings you into the land where the descendants of Canaan, Heth, Amor, Hiv, and Jebus \add now live\add*, the land that he solemnly promised to give to you, a land that will be very good for raising livestock and growing crops \f + \ft metonymy \f*, you must celebrate this festival in this month \add every year\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Moses said to the people, "Do not forget this day! This is the day that you left Egypt. This is the day you were freed from being their slaves. Yahweh has brought you out of Egypt by his great power. Do not eat any bread that has yeast in it whenever you celebrate this day.
+\v 4 You are leaving Egypt on this day which is the first day of the month of Abib.
+\v 5 Later, when Yahweh brings you into the land where the descendants of Canaan, Heth, Amor, Hiv, and Jebus now live, the land that he promised to give to you, a land that will be very good for raising livestock and growing crops, you must celebrate this festival in this month every year.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 3 Moses said to the people, "Call this day to mind, the day on which you came out from Egypt, out of the house of slavery, for by Yahweh's strong hand he brought you out from this place. No bread with yeast may be eaten.
+\v 4 You are going out of Egypt on this day, in the month of Abib.
+\v 5 When Yahweh brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and the Jebusites, the land that he swore to your ancestors to give you, a land flowing with milk and honey—then you must observe this act of worship in this month.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:peopleofgod|people]]
+  * [[:yo:obe:other:mind]]
+  * [[:yo:obe:other:egypt|Egypt]]
+  * [[:yo:obe:other:servant|slavery]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:bread]]
+  * [[:yo:obe:other:yeast|yeast]]
+  * [[:yo:obe:other:canaan|Canaanite]]
+  * [[:yo:obe:other:hittite]]
+  * [[:yo:obe:other:amorite]]
+  * [[:yo:obe:other:hivite]]
+  * [[:yo:obe:other:jebusites|Jebusite]]
+  * [[:yo:obe:other:oath|swore]]
+  * [[:yo:obe:other:honey|honey]]
+  * [[:yo:obe:kt:worship]]
+===== Translation Notes: =====
+
+  * **Call this day to mind**  - AT: "Remember and celebrate this day" (See: [[:yo:ta:vol1:translate:figs_idiom|Idiom]] and [[:yo:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  * **house of slavery**  - AT: "place where you were slaves"
+  * **Yahweh's strong hand**  - The word "hand" refers to power. (See: Metonymy)
+  * **No bread with yeast may be eaten**  - AT: "You must not eat bread with yeast" (See: [[:yo:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **Abib**  - This is the name of a month. (See: [[:yo:ta:vol1:translate:translate_names|Translate Names]])
+  * **a land flowing with milk and honey**  - See how you translated this in [[:yo:bible:notes:exo:03:07|3:8]].
+  * **you must observe this act of worship**  - This sentence introduces what the people must do each year to worship God by remembering this day. AT: "you must worship me by doing this" or "you must have this festival."
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:13|Exodus Chapter 13 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:13:01|<<]] | [[:yo:bible:notes:exo:13:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,60 @@
+====== Genesis 29:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 So that is what Jacob did. After the week of celebration was ended, Laban gave him his daughter, Rachel, to be his wife.
+\v 29 Laban gave his slave girl, Bilhah, to Rachel to be her maid\f + \ft Or: servant \f*.
+\v 30 Jacob had sex \f + \ft euphemism \f* with Rachel also, and he loved Rachel more than he loved Leah. And Jacob worked for Laban for another seven years.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 So that is what Jacob did. After the week of celebration was ended, Laban gave him his daughter, Rachel, to be his wife.
+\v 29 Laban gave his slave girl, Bilhah, to Rachel to be her servant.
+\v 30 Jacob slept with Rachel also, and he loved Rachel more than he loved Leah. He worked for Laban for another seven years.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 Jacob did so, and completed Leah's week. Then  Laban gave him Rachel his daughter as his wife also.
+\v 29 Laban also gave to his daughter Rachel Bilhah, his female servant, to be her servant.
+\v 30 So Jacob married Rachel, too,  but he loved Rachel more than Leah.  So Jacob served Laban for seven more years.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:other:leah]]
+  * [[:yo:obe:other:laban]]
+  * [[:yo:obe:other:rachel]]
+  * [[en:obe:other:servant]]
+  * [[:yo:obe:kt:love]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Jacob did so, and completed Leah's week** - "And Jacob did what Laban asked, and finished celebrating Leah's bridal week"
+    * **Bilhah** - This is the name of Rachel's female servant. (See: [[en:ta:vol1:translate:translate_names]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:29|Genesis Chapter 29 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:29:26|<<]] | [[:yo:bible:notes:gen:29:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish leah rachel}}
+
+~~NOCACHE~~

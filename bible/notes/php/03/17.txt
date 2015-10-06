@@ -1,0 +1,61 @@
+====== Philippians 03:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 My fellow believers, \add all of\add* you should unitedly imitate me, and observe those people who act as I do, \add in order that you may imitate them also\add*.
+\v 18 \add Keep in mind that\add* there are many people \add who say that they believe in Christ, but\add* who act \add in such a way that shows\add* that they are opposed to \add the teaching about\add* Christ \add dying on\add* the cross \f + \ft metonymy \f*. I have told you about those people many times \add before\add*, and now I am sad, even crying, as I tell you \add about them again\add*.
+\v 19 \add God\add* will severely punish them. The things their bodies desire \f + \ft metonymy \f* have become \add like\add* gods to them \f + \ft metaphor \f*. They are proud of the things they should be ashamed of. They think only about what unbelievers \f + \ft metonymy \f* think about.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 My fellow believers, join with me and imitate me, and observe closely those people who live as I do, and imitate our example.
+\v 18 There are many people who say that they believe in Christ, but they really oppose what he did on the cross for us. I have told you about those people many times before, and now I am sad, even crying, as I tell you about them again.
+\v 19 God will destroy them in the end because their god is their desire to eat, and they live shamefully and think about things of the earth.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 Brothers, join me and imitate me, and watch closely those who are walking by our example.
+\v 18  I have often told you, and tell you now with tears, that many are living as enemies of the cross of Christ.
+\v 19 Their destiny is destruction because their god is their belly and their glory is in their shame. They are thinking about earthly things.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:brother]]
+  * [[en:obe:kt:cross]]
+  * [[en:obe:kt:christ]]
+  * [[:yo:obe:other:destiny]]
+  * [[en:obe:kt:falsegod]]
+  * [[en:obe:kt:glory]]
+===== Translation Notes: =====
+
+
+  * **Brothers, join me** - Paul is expressing that he considers the Philippian believers as his brothers in Christ.
+  * **imitate me**  - "do what I do" or "live as I live"
+  * **watch closely** - "look carefully at"
+  * **those who are walking by our example** - "those who already are living as I live" or "those who already are doing what I do"
+  * **I have often told you** - "I have told you many times"
+  * **and tell you now with tears,**  - "and tell you now with great sadness" 
+  * **that many are living as enemies of the cross of Christ**  - Here, "the cross of Christ" refers to Christ's suffering and death. The enemies are those who say they believe in Jesus but are not willing to suffer or die like Jesus did. This can be translated as "that many people say they believe in Jesus, but the way they act shows they are actually against Jesus who was willing to suffer and die on a cross.  (See: [[en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **Their destiny is destruction**  - "Someday God will destroy them"
+  * **their god is their belly**  - Here, the word "belly" refers to a person's desires for physical pleasure. This could be translated as "they desire food and other physical pleasures more than they desire to obey God."
+  * **their glory is their shame**  - "they are proud of the things that should cause them shame"
+  * **They are thinking about earthly things**  - Here "earthly" refers to everything that gives physical pleasure and does not honor God. This could be translated as "All they think about is what will please themselves rather than what will please God."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:php:03|Philippians Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:php:03:15|<<]] | [[:yo:bible:notes:php:03:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

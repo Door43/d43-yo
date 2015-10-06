@@ -1,0 +1,61 @@
+====== Malachi 03:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 When that happens, Yahweh will again accept the offerings brought to him by \add the people of\add* Jerusalem and \add other places in\add* Judah, as he did previously.
+\p
+\v 5 This is what the Almighty Commander of the armies of angels says: "At that time, I will come to you to judge you. I will quickly testify against all those who practice sorcery\f + \ft Or: witchcraft \f*, all those who have committed adultery, and all liars. I will testify against those who have not given their workers the pay\f + \ft Or: wages \f* that they promised, those who oppress\f + \ft Or: treat cruelly \f* widows and orphans, and those who do not allow foreigners who live among you to be treated justly, Or: fairly. \add I will testify that\add* all the people who do those things do not revere me.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 When that happens, Yahweh will again accept the offerings that the people of Jerusalem and Judah bring to him, as he did previously.
+\p
+\v 5 This is what Yahweh, Commander of the angel armies, says: "At that time, I will come to you to judge you. I will quickly testify against all those who practice sorcery, against those who mistreat helpless widows and orphans, against those who do not treat the foreigners among you justly, and against those who refuse to honor me."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 4 Then the offering of Judah and Jerusalem will be pleasing to Yahweh, as in the days of old, and as in ancient years.
+\v 5 "Then I will draw near to you for judgment. I will be a swift witness against the sorcerers, the adulterers, the false witnesses, and against those who oppress the hired worker in his wages, those who oppress the widow and the fatherless, and who turn away the foreigner from his rights, and against those who do not honor me," says Yahweh of hosts.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:judah]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:witness]]
+  * [[:yo:obe:other:sorcery]]
+  * [[:yo:obe:kt:adultery]]
+  * [[:yo:obe:other:falsewitness]]
+  * [[:yo:obe:kt:oppress]]
+  * [[:yo:obe:other:foreigner]]
+  * [[:yo:obe:other:honor]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking to the people of Israel.
+
+  * **as in the days of old, and as in ancient years** - AT: "as it was in the past" (See: [[en:ta:vol2:translate:figs_doublet]]) 
+  * **draw near** - "come close"
+  * **oppress the hired worker in his wages** - "do not pay the hired worker the wages due him"
+  * **turn away the foreigner from his rights** - deny foreigners living in the community the rights that the local people have
+  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:mal:03|Malachi Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:mal:03:01|<<]] | [[:yo:bible:notes:mal:03:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

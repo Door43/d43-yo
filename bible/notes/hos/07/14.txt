@@ -1,0 +1,79 @@
+====== Hosea 07:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 They do not cry out to me sincerely [IDI];
+\q2 they \add only\add* lie on their beds and wail.
+\q1 They gather together and request \add me to give them\add* grain and wine,
+\q2 but they turn away from me.
+\q1
+\v 15 I trained\f + \ft Or: taught \f* them and enabled them to become strong,
+\q2 but now they plan \add to do\add* evil things to me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 They do not cry out to me, they do not call from deep within themselves, 
+\q2 but they only lie on their beds and howl and cry out.
+\q1 They cut themselves to try to get the attention of their idols, so they may receive grain and new wine from their gods. 
+\q2 They rebelled against me. 
+\q1
+\v 15 Even though I trained them and helped them become strong,
+\q2 even now they are plotting to do evil against me. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 They have not cried to me with their heart,
+\q but they wail on their beds.
+\q They assemble themselves for grain and new wine,
+\q but they turn away from me.
+\q
+\v 15 Though I instructed them and made them strong,
+\q now they are plotting evil against me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:07|Hosea Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/07/12|<<]] | [[en/bible/notes/hos/07/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

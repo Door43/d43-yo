@@ -1,0 +1,50 @@
+====== John 18:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Simon Peter and \add I\add* were following Jesus. Because the high priest knew \add me\add*, \add his doorkeeper permitted me\add* to enter the courtyard.
+\v 16 But Peter \add had to\add* wait outside near the doorway. However, since I knew the high priest, I went back to the doorway and spoke to the girl who was guarding the entrance. Then \add she allowed\add* Peter to come in.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Simon Peter followed Jesus and so did another disciple. The other disciple was known to the high priest, so he had permission to enter the high priest's courtyard when the soldiers took Jesus.
+\v 16 Peter had to stop outside at the gate. So the other disciple went out again and spoke to the servant girl who was watching the gate, and she let Peter in.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Simon Peter followed Jesus, and so did another disciple. Now that disciple was known to the high priest, and
+he entered with Jesus into the court of the high priest;
+\v 16 but Peter was standing at the door outside. So the other disciple, who was known to the high priest, went out and spoke to the woman servant who was guarding the door and brought in Peter.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:peter]]
+  * [[:yo:obe:kt:highpriest]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:disciple]]
+  * [[:yo:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+  * **another disciple. Now that disciple**  - This is the Apostle John, the writer of this gospel.
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:18|John Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:18:12|<<]] | [[:yo:bible:notes:jhn:18:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

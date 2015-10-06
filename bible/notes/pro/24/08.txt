@@ -1,0 +1,72 @@
+====== Proverbs 24:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Those who are always planning to do evil things will be called troublemakers.
+\q1
+\v 9 It is sinful to plan to do foolish things,
+\q2 and people hate those who make fun of \add everything that is good\add*.
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 There is one special man who does evil and makes plots—he is called the Master of Schemes.
+\q1
+\v 9 A foolish plan is not only folly, it is sin. 
+\q2 and when people tell the truth, they hate those who are conceited and mock everyone.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 There us one who plans to do evil—
+\q people call him a master of schemes.
+\q
+\v 9 A foolish plan is sin,
+\q and men despise a mocker.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:evil]]
+  * [[:En:obe:kt:lord]]
+  * [[:En:obe:kt:Sin]]
+  * [[:En:obe:other:mock]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:24|Proverbs Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/24/07|<<]] | [[en/bible/notes/pro/24/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

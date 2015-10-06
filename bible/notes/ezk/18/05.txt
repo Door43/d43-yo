@@ -1,0 +1,65 @@
+====== Ezekiel 18:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 So, suppose there is a righteous person
+\q2 who \add always\add* does what is fair and right \f + \ft doublet \f*.
+\q1
+\v 6 He does not eat \add meat sacrificed to idols\add* on the hilltops,
+\q2 he does not request help from idols.
+\q1 He does not have sex with someone else's wife
+\q2 or have sex with a woman during her monthly menstrual period.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 So suppose that there is a righteous person,
+\q2 one who always does what is fair and right.
+\q1
+\v 6 He does not eat meat sacrificed to idols on the hilltops;
+\q2 he does not request help from idols as the rest of Israel has been doing.
+\q1 He does not sleep with someone else's wife
+\q2 or with a woman during her monthly menstrual period.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 5 For a man, if he is righteous and carries out justice and righteousness—
+\v 6 if he has not eaten at the mountain shrines, and has not lifted up his eyes to the idols of the house of Israel—if he has not defiled his neighbor’s wife, 
+nor approached a woman during her monthly period—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:justice]]
+  * [[en:obe:other:shrine]]
+  * [[:yo:obe:other:idol]]
+  * [[:yo:obe:other:house]] 
+  * [[en:obe:other:defile]]
+  * [[:yo:obe:other:neighbor]]
+  * [[:yo:obe:kt:unclean]]
+===== Translation Notes: =====
+
+  * **and has not eaten on the mountains...nor lifted up his eyes to the idols** - These are both phrases referring to idol worship.  People ate the food at the mountain temples to honor the idols.  The phrase "lifted up his eyes" refers to looking at the idols and honoring them.  AT: "and has not honored idol" (See: [[:yo:ta:vol2:translate:figs_parallelism]], [[:yo:ta:vol2:translate:figs_metonymy]])
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:18|Ezekiel Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:18:03|<<]] | [[:yo:bible:notes:ezk:18:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

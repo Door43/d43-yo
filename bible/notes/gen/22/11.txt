@@ -1,0 +1,55 @@
+====== Genesis 22:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 But an angel who was really Yahweh called to him from heaven and said, "Abraham! Abraham!" Abraham replied, "I'm here!"
+\v 12 The angel said, "Do not harm the boy or do anything to injure him, because now I know that you respect and obey God. I know that because you have not held back your son, the only son \add who is still with you\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 But the angel of Yahweh called to him from heaven and said, "Abraham! Abraham!" Abraham replied, "I am here!"
+\v 12 The angel said, "Do not harm the boy, because now I know that you respect and obey God. I know this because you have not refused to sacrifice your only son."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 Then the angel of Yahweh called to him from heaven and said, "Abraham, Abraham!" and he said, "Here I am."
+\v 12 He said, "Do not lay your hand upon the lad, nor do anything to harm him, for now I know that you fear God, seeing that you have not withheld your son, your only son, from me."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:angel]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:kt:fear]]
+===== Translation Notes: =====
+
+  * **the angel of Yahweh**  - See the note about this phrase in [[:yo:bible:notes:gen:16:07|16:7]].
+  * **Here I am**  - See how you translated this in [[:yo:bible:notes:gen:22:01|22:1]].
+  * **Do not lay your hand upon the lad, nor do anything to harm him**  - Both of these phrases mean basically the same thing: "Do not hurt the boy in any way." God made sure that Abraham would hear and understand him. (See: [[en:ta:vol2:translate:figs_doublet]])
+  * **now I know … from me**  - The words "I" and "me" refer to Yahweh. When translating what is in the quote, do it as the angel of Yahweh did and use the words “I” and "me" when referring to Yahweh.
+  * **seeing that**  - "because I see that"
+  * **have not withheld your son…from me**  - "have not held back your son…from me" or "have not refused to give your son…to me"
+  * **your son, your only son**  - See how you translated this in [[:yo:bible:notes:gen:22:01|22:2]].
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:22|Genesis Chapter 22 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:22:09|<<]] | [[:yo:bible:notes:gen:22:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

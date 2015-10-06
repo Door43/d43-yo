@@ -1,0 +1,38 @@
+====== Exodus 21:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Here are some \add other\add* instructions to give to \add the Israelite people\add*:
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 "Here are some other instructions to give to the Israelite people.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 21
+\p
+\v 1 "Now these are the decrees that you must set before them:
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:decree|decree]]
+
+===== Translation Notes: =====
+Yahweh continues speaking to Moses.
+
+  * **you must set before them**- "you must give them" or "you must tell them"
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:21|Exodus Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:20:24|<<]] | [[:yo:bible:notes:exo:21:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Isaiah 50:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 But you people who \add oppose me\add*,
+\q2 \add who would like to throw\add* me into a blazing fire,
+\q1 walk in your own fires
+\q2 and burn yourselves with your own torches!
+\q1 This is what Yahweh will cause to happen to you:
+\q2 you will be enduring great torment when you die \f + \ft euphemism \f*!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 But you people who oppose me,
+\q2 who would like to throw me into a blazing fire:
+\q1 walk in the light of your own fires
+\q2 and burn yourselves with your own torches!
+\q1 This is what Yahweh will cause to happen to you:
+\q2 you will endure great torment!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 11 Look, all you who light a fire, who gird on flames: 
+\q1 walk in the light of your fire and in the flames that you have ignited. 
+\q1 From my hand this will come to you: you will lie down in a place of pain.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:fire]]
+  * [[:yo:obe:kt:walk]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **you will lie down in a place of pain**  - Here "place of Pain" refers to when a person dies. They will endure great torment when they die. (See: [[en:ta:vol2:translate:figs_euphemism]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:50|Isaiah Chapter 50 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/50/10|<<]] | [[en/bible/notes/isa/51/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

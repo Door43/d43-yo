@@ -1,0 +1,58 @@
+====== Isaiah 54:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh says, "You \add people of Jerusalem\add* \f + \ft metaphor \f*, start to sing!
+\q2 You who are like \f + \ft metaphor \f* women who have never given birth to children, sing loudly and shout joyfully,
+\q1 because you, who are like \f + \ft metaphor \f* childless women who have been abandoned \add by their husbands\add*, will soon have more children
+\q2 than women who have never had any children.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh says, "You people of Jerusalem, start to sing!
+\q2 You who are like  women who have never given birth to children, sing loudly and shout joyfully,
+\q1 because you, who are like childless women who have been abandoned by their husbands, will soon have more children
+\q2 than women who have never had any children.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 54
+\p
+\q1
+\v 1 "Sing, you barren woman, you who have not given birth; break into  joyful singing and cry aloud, you who have never been in birth labor.
+\q1 For the children of the desolate one are more than the children of the married woman," says Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:barren]]
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:other:laborpains]]
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:other:desolate]]
+  * [[:yo:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **you barren woman** - Here Yahweh is comparing the people of Jerusalem to a barren woman. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **you who have not given birth** - This too is a comparison of the people of Jerusalem to a woman who has never given birth to children. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **you who have never been in birth labor** - Yahweh, says that they are like a childless woman who has been abandoned by her husband, but will have more children now than the married woman. (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:54|Isaiah Chapter 54 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:53:12|<<]] | [[:yo:bible:notes:isa:54:02|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

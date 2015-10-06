@@ -1,0 +1,38 @@
+====== Zechariah 03:10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 At that time, each of you will invite his friends \add to come and sit\add* under his grapevine and under his fig tree. That is what the Almighty Commander of the armies of angels declares."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 At that time, each of you will invite his friends to come and sit under his grapevine and under his fig tree. That is what Yahweh, Commander of the angel armies, declares."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 In that day'—this is Yahweh of hosts' declaration—'each man will invite his neighbor to relax under his vine and under his fig tree.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:declare]]
+  * [[:En:obe:other:neighbor]]
+
+
+===== Translation Notes: =====
+
+  * **In that day**  - See the latter part of v9
+  * **relax under his vine**  - could read "rest in the shade of the vine"
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:zec:03|Zechariah Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:zec:03:08|<<]] | [[:yo:bible:notes:zec:04:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

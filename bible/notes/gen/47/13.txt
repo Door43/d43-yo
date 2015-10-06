@@ -1,0 +1,50 @@
+====== Genesis 47:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 There was no food growing in the whole region, because the famine was very severe. The people of Egypt and Canaan \f + \ft metonymy \f* became weak because they did not have enough food to eat.
+\v 14 Joseph collected all the money that the people in Egypt and Canaan paid for the grain they were buying from him, and he brought the money to the king's palace.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 There was no food growing in the whole country because the famine was very severe. The people of Egypt and Canaan became weak because they did not have enough food to eat.
+\v 14 Joseph received all the money that the people in Egypt and Canaan paid for the grain he sold them, and he brought it to the king's palace.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 Now there was no food in all the land; for the famine was severe. The land of Egypt and the land of Canaan wasted away because of the famine.
+\v 14 Joseph gathered all the money that was in the land of Egypt and in the land of Canaan, by selling grain to the inhabitants. Then Joseph brought the money to Pharaoh’s palace.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:famine]]
+  * [[:yo:obe:other:canaan]]
+  * [[:En:obe:other:grain]] 
+
+===== Translation Notes: =====
+
+  * **Now** - This word is used here to mark a change from the story to background information about the famine in Canaan and Egypt.
+  * **The land of Egypt and the land of Canaan** - This refers to the people living in these lands. Alternate translation: "The people of Egypt and the people of Canaan." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **wasted away** - "became thin and weak"
+  * **to Pharaoh's palace** - "into Pharaoh's house"
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:47|Genesis Chapter 47 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:47:11|<<]] | [[:yo:bible:notes:gen:47:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

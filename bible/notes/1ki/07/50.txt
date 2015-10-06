@@ -1,0 +1,56 @@
+====== 1 Kings 07:50 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 50 the cups, the gold lamp wick snuffers, the small lamp bowls, the dishes for incense, the pans \add for carrying the hot coals\add*, and the hinges for the doors at the entrance to the Very Holy Place and for the doors at the entrance \add to the main room\add* of the temple.
+\li1 Those things were all made of gold.
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 50 the cups, the gold lamp wick snuffers, the small lamp bowls, the dishes for incense, the pans for carrying the hot coals, and the sockets for the doors at the entrance to the very holy place and for the doors at the entrance to the main room of the temple.
+\li1 Those things were all made of gold.
+\b
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 50 The cups, lamp trimmers, basins, spoons, and incense burners were all made of pure gold. Also the sockets of the doors of the inner room, which was the most holy place, and of the doors of the main hall of the temple, were all made of gold.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:incense]]
+  * [[:yo:obe:kt:holyplace]]
+ 
+
+===== Translation Notes: =====
+
+The author continues to list items for the temple that were made of gold.
+
+    * **socket** - a hinge or joint that allows a door to swing open or to close
+    * **were all made** - AT: "The workers had made the cups, lamp trimmers, basins, spoons and incense burners of pure gold. The workers had also made the gold sockets for the doors of the most holy place and gold sockets for the doors of the main hall of the temple." Since this is a listing of items that the workers already completed, use "the workers had made" instead of "the workers made." (See [[en:ta:vol2:translate:figs_activepassive]] and [[en:ta:vol2:translate:figs_verbs]])
+    * **verse 50** - The list of gold items continues. The following AT can be used instead of the AT noted above. If you ended the previous verse (49) with a semicolon (;), the first word of this verse does not need to be capitalized. A semicolon (;) can also be used after "incense burners" to separate the items of "pure gold" that were listed from those noted as just "gold" items. AT: "the pure gold cups, lamp trimmers, basins, spoons and incense burners; the gold hinges for the most holy place and the gold hinges for the doors of the main hall of the temple."
+   
+  
+  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1ki:07|1 Kings Chapter 07 Comprehension Questions]]**
+**[[:yo:bible:notes:1ki:07:48|<<]] | [[:yo:bible:notes:1ki:07:51|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

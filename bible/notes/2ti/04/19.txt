@@ -1,0 +1,60 @@
+====== 2 Timothy 04:19-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Greet \add for me\add* Priscilla and \add her husband\add* Aquila and the family of Onesiphorus.
+\v 20 Erastus stayed in Corinth \add city\add*. Trophimus, I left in Miletus \add city\add* because he was sick.
+\v 21 Do your best\f + \ft Or: Try hard \f* to come to me before the stormy season\f + \ft Or: winter \f*. Eubulus, Pudens, Linus, Claudia, and many other fellow believers \add in this city\add* send their greetings to\f + \ft Or: say that they are thinking affectionately about \f* you.
+\v 22 \add I pray that\add* the Lord will \add help you in\add* your spirit, \add Timothy, and\add* that\add he\add* will act kindly toward all of you \add believers who are there\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Greet Priscilla and Aquila. Greet the the people in the home of Onesiphorus.
+\v 20 Erastus stayed in Corinth city. As for Trophimus, I left him in Miletus city because he was sick.
+\v 21 Try to come before winter. Eubulus greets you, also Pudens, Linus, Claudia, and all the brothers.
+\v 22 May the Lord be with your spirit. May he be kind to all of you. Amen.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 Greet Priscilla, Aquila, and the house of Onesiphorus.
+\v 20 Erastus remained at Corinth, but Trophimus I left sick at Miletus.
+\v 21 Do your best to come before winter. Eubulus greets you, also Pudens, Linus, Claudia, and all the brothers.
+\p
+\v 22 May the Lord be with your spirit. May grace be with you. Amen.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:priscilla]]
+  * [[en:obe:other:aquila]]
+  * [[en:obe:other:corinth]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:spirit]]
+  * [[en:obe:kt:grace]]
+
+===== Translation Notes: =====
+
+  * **Greet **- "Say hello to ... for me" or "Tell ... that I am thinking of them"
+  * **house of Onesiphorus**  ​ - "family of Onesiphorus"
+  * **Do your best to come** - This can also be translated "Make a way to come."
+  * **also Pudens, Linus, Claudia, and all the brothers **- "Pudens, Linus, Claudia and all the brothers also greet you"
+  * **all the brothers**  - "all the believers here," male and female
+  * **May the Lord be with your spirit**  - "I am asking God to make your spirit strong"
+  * **May grace be with you **- "I am asking the Lord to show his kindness to all of you there" or "I am asking the Lord to show favor to all of you there"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ti:04|2 Timothy Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:2ti:04:17|<<]]**
+
+~~DISCUSSION~~{{tag>publish pricilla aquila corinth}}

@@ -1,0 +1,77 @@
+====== Isaiah 59:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 When that happens, people everywhere, from the east to the west, will respect and honor Yahweh \f + \ft metonymy \f*,
+\q2 because he will come like \f + \ft simile \f* a rushing river that is pushed along by the strong wind that Yahweh sent.
+\b
+\q1
+\v 20 And Yahweh says that he will come to Jerusalem to free his people;
+\q2 he will come to rescue those in Judah who have quit doing sinful things\f + \ft Or: their sinful behavior \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 When that happens, people everywhere, from the east to the west, will respect and honor Yahweh,
+\q2 because he will come like a rushing river that is pushed along by the strong wind that Yahweh sent.
+\b
+\q1
+\v 20 And Yahweh says that he will come to Jerusalem to free his people;
+\q2 he will come to rescue those in Judah who have stopped doing sinful things.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 19 So they will fear the name of Yahweh from the west, and  his glory from the sun's rising; for he will come as a
+rushing stream, driven by the breath of Yahweh.
+\q1
+\v 20 "A redeemer will come to Zion and to those who turn from their rebellious deeds in Jacob"—this is the declaration of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:kt:breath]]
+  * [[:yo:obe:kt:redeem]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:other:rebel]]
+  * [[:yo:obe:kt:works]]
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:other:declare]]
+
+===== Translation Notes: =====
+
+  * **for he will come as a rushing stream, driven by the breath of Yahweh** - "When the enemy shall come in like a rushing stream, the Spirit of the Lord will cause him to be put to flight” **  (See: [[en:ta:vol1:translate:figs_simile]])
+
+
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:59|Isaiah Chapter 59 Comprehension Questions]]**
+
+ 
+
+  * **[[en/bible/notes/isa/59/17|<<]] | [[en/bible/notes/isa/59/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

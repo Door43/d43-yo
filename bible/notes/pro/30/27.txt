@@ -1,0 +1,68 @@
+====== Proverbs 30:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 Locusts do not have a king,
+\q2 but they march like \add the soldiers in\add* an army.
+\q1
+\v 28 Lizards\f + \ft Or: Geckos \f* \add are very small and\add* you can hold them in your hand,
+\q2 but they are \add cleverly able to get\add* inside kings' palaces.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 Locusts do not have a king,
+\q2 but they march in rank like soldiers in the army.
+\q1
+\v 28 Lizards are very small and you can hold them in your hand,
+\q2 but they get inside kings' palaces.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 27 locusts have no king,
+\q but all of them march in rank;
+\q
+\v 28 the lizard you can hold in your two hands, 
+\q yet they are found in kings' palaces.
+</usfm>
+
+
+===== Important Terms: =====
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:30|Proverbs Chapter 30 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/30/24|<<]] | [[en/bible/notes/pro/30/29|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

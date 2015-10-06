@@ -1,0 +1,84 @@
+====== Psalms 084:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Even sparrows and swallows have built nests \add near your temple\add* \f + \ft doublet \f*;
+\q2 they take care of their young babies near the altars \add where people offer sacrifices to\add* you,
+\q2 who are the commander of the armies of heaven, and my king and my God.
+\q1
+\v 4 Happy are\f + \ft Or: You are pleased with \f* those who live\f + \ft Or: continually worship \f* in your temple,
+\q2 constantly singing to praise you.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Even sparrows and swallows have built nests near your temple ;
+\q2 they take care of their young babies near the altars where people offer sacrifices to you,
+\q2 who are the Commander of the angel armies, and my King and my God.
+\q1
+\v 4 Happy are in your temple,
+\q2 constantly singing to praise you.
+
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Even as the sparrow has found her a house,
+\q and the swallow a nest for herself, where she may lay her young,
+\q near your altars, Yahweh of hosts,
+\q my King, and my God.
+\q
+\v 4 Blessed are they who live in your house;
+\q they praise you continually. 
+\qs [Selah\qs*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:altar]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:other:praise]]
+  * [[:yo:obe:other:selah]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:084|Psalms Chapter 084 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/084/001|<<]] | [[en/bible/notes/psa/084/005|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book3}}
+
+~~NOCACHE~~

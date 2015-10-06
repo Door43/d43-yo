@@ -1,0 +1,85 @@
+====== Psalms 112:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 Happy are\f + \ft Or: He is pleased with \f* those who have an awesome respect for him,
+\q2 those who happily obey his commands.
+\b
+\q1
+\v 2 Their children will prosper in their land;
+\q1 and their descendants will be blessed \add by God\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 Happy are those who have an awesome respect for him,
+\q2 those who happily obey his commands.
+\b
+\q1
+\v 2 Their children will prosper in their land,
+\q1 and their descendants will be blessed by God.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 112
+\q
+\v 1 Praise Yahweh.
+\q Blessed is the man who obeys Yahweh,
+\q who greatly delights in his commandments.
+\q
+\v 2 His descendants will be powerful on earth;
+\q the godly will be blessed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:praise]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:other:obey]]
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:other:descendant]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:kt:godly]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:112|Psalms Chapter 112 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/111/010|<<]] | [[en/bible/notes/psa/112/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

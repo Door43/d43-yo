@@ -1,0 +1,65 @@
+====== Ezra 03:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Then the Israelites hired masons and carpenters, and they bought \add logs from\add* cedar trees from the people of Tyre and Sidon \add cities\add*, and they gave those people food and wine and olive oil for the logs. They brought the logs down from \add the mountains in\add* Lebanon \add to the Mediterranean seacoast and then floated them along the coast of the Sea\add*, to Joppa. King Cyrus permitted them to do that. Then the logs were brought from Joppa inland up to Jerusalem.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v6 But even though they started bringing burned offerings to Yahweh at the beginning of autumn, they had not yet started building the temple building.
+\v 7 So the Israelites hired masons and carpenters, and they bought logs from cedar trees from the people of Tyre and Sidon. They gave those people food, wine, and olive oil as payment. 
+They brought the logs down from the mountains in Lebanon to the Mediterranean seacoast and then floated them along the coast of the sea to Joppa. King Cyrus permitted them to do that. 
+Then the logs were brought from Joppa inland up to Jerusalem.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 They began to offer up burnt offerings to Yahweh on the first day of the seventh month, although the temple had not been founded.
+\v 7 So they gave silver to stoneworkers and craftsmen; and food, drink, and oil to people of Sidon and Tyre, for them to send cedar trees from Lebanon to Joppa by sea, as 
+authorized for them by Cyrus, king of Persia.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezr:03|Ezra Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/03/03|<<]] | [[en/bible/notes/ezr/03/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

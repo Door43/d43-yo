@@ -1,0 +1,61 @@
+====== Genesis 41:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 When the king heard that, he told some servants to bring Joseph to him, and they quickly brought Joseph out of the prison. Joseph shaved and put on better clothes, and then he went and stood in front of the king.
+\v 15 The king said to Joseph, "I had two dreams, and no one can tell me what they mean. But someone told me that when you hear someone tell about a dream he has had, you can tell that person what the dream means."
+\v 16 But Joseph replied to the king, "No, I cannot do that. It is God who knows the meaning of dreams, but he will enable me to tell you their meaning, and they will mean something good."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 When the king heard that, he told some servants to bring Joseph to him, and they quickly brought Joseph out of the prison. Joseph shaved and put on better clothes, and then he went and stood in front of the king.
+\v 15 The king said to Joseph, "I had two dreams, and no one can tell me what they mean. But someone told me that when you hear someone tell about a dream he has had, you can tell that person what the dream means."
+\v 16 But Joseph replied to the king, "No, I cannot do that. It is God who knows the meaning of dreams, but he will enable me to tell you their meaning, and they will mean something good."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Then Pharaoh sent and called for Joseph.  They quickly took him out of the dungeon. He shaved himself, changed his clothes, and came in to Pharaoh.
+\v 15 Pharaoh said to Joseph, "I had a dream, but there is no interpreter for it. But I have heard about you, that when you hear a dream you can interpret it."
+\v 16 Joseph answered Pharaoh, saying, "It is not in me. God will answer Pharaoh with favor.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:pharaoh]]
+  * [[en:obe:other:josephot]]
+  * [[en:obe:other:dream]]
+  * [[en:obe:kt:god]]
+  * [[:yo:obe:kt:favor]] 
+
+===== Translation Notes: =====
+
+  * **Pharaoh sent and called for** - "Pharaoh sent his servants to get Joseph"
+  * **out of the dungeon** - "out of the jail" or "out of the prison"
+  * **He shaved himself** - It was common practice to shave both the facial and head hair.
+  * **came in to Pharaoh** - "appeared before Pharaoh"    
+  * **there is no interpreter for it** - "no one can explain the meaning"
+  * **you can interpret it** - "you can explain its meaning"
+  * **It is not in me** - "I am not the one who can explain the meaning"
+  * **God will answer Pharaoh with favor** - "God will answer Pharaoh favorably"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:41|Genesis Chapter 41 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:41:12|<<]] | [[:yo:bible:notes:gen:41:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish favor}}
+
+~~NOCACHE~~

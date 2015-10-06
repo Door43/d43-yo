@@ -1,0 +1,44 @@
+====== Exodus 39:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Bezalel, Oholiab, and the other skilled workmen made the beautiful clothes for Aaron to wear while he did his work as a priest in the Holy Place. They made them from blue, purple, and red cloth, just as Yahweh had commanded Moses\f + \ft Or: me \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Bezalel, Oholiab, and the other skilled workmen made the beautiful clothes for Aaron to wear while he did his work as a priest in the holy place. They made them from blue, purple, and red woolen cloth, just as Yahweh had commanded Moses.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 39
+\p
+\v 1 With the blue, purple, and scarlet wool, they made finely woven garments for service in the holy place. They made Aaron's garments for the sanctuary, as Yahweh had commanded Moses.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:serve]]
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:other:aaron]]
+  * [[en:obe:kt:sanctuary]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:other:moses]]
+
+===== Translation Notes: =====
+Bezalel's work crew shifts to making the priestly garments.
+
+  * **they made** - 'they' refers to Bezalel, Oholiab, and the other workmen.
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:39|Exodus Chapter 39 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:38:30|<<]] | [[:yo:bible:notes:exo:39:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

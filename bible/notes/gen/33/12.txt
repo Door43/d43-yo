@@ -1,0 +1,49 @@
+====== Genesis 33:12-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 Then Esau said, "Let's continue traveling together, and I will show the road to you."
+\v 13 Jacob \add had no intention to go with Esau\add*, but he said, "You know, sir, that the children are weak, and that I must take care of the female sheep and cows that are sucking their mother's milk\f + \ft Or: nursing their young \f*. If I force them to walk fast for a long distance in just one day, the animals will all die.
+\v 14 You go ahead of me. I will lead the animals slowly, but I will walk as fast as the children and animals can walk. I will catch up with you in Seir, \add in the land where the descendants of Edom live\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 Then Esau said, "Let's continue traveling together, and I will lead you on the road."
+\v 13 Jacob had no intention to go with Esau, but he said, "You know, sir, that the children are weak, and that I must take care of the female sheep and cows that are sucking their mother's milk. If I force them to walk fast for a long distance in just one day, the animals will all die.
+\v 14 You go ahead of me. I will lead the animals slowly, but I will walk as fast as the children and animals can walk. I will catch up with you in Seir."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 Then Esau said, "Let us be on our way. I will go before you."
+\v 13 Jacob said to him, "My lord knows that the children are young, and that the flocks and herds with me have their young. If they overdrive them even one day, all the flocks will die.
+\v 14 May my lord go ahead of his servant.  I will travel more slowly, at the pace of the livestock that are before me, and at the pace of the children, until I come to my lord in Seir."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lord]]
+  * [[en:obe:other:flock]]
+  * [[:yo:obe:other:servant]]
+  * [[en:obe:other:edom]]
+
+===== Translation Notes: =====
+
+  * **my lord** - This is a polite and formal way of referring to Esau. Alternate translation: “you.” (See: [[en:ta:vol1:translate:figs_123person|First, Second or Third Person]])
+  * **the children are young** - "the children are too young to travel fast"
+  * **the flocks and herds with me have their young** - "the flocks and herds that are with me are nursing their young"
+  * **overdrive them** - "drive them too hard"
+  * **his servant** - This is a polite and formal way of Jacob referring to himself. Alternate translation: "me."
+  * **at the pace of the cattle that are before me** - "at the speed the animals I am looking after can go"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:33|Genesis Chapter 33 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:33:09|<<]] | [[:yo:bible:notes:gen:33:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

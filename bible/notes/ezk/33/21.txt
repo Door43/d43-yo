@@ -1,0 +1,55 @@
+====== Ezekiel 33:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Almost twelve years \add after we had been taken to Babylonia\add*, on the fifth day of the tenth month \add of that year\add*, a man who had escaped from Jerusalem came to me \add in Babylon\add* and said, "Jerusalem has been captured!"
+\v 22 The evening before that man arrived, Yahweh took control \f + \ft metonymy \f* of me. So when that man arrived, Yahweh enabled me to speak again; I was no longer forced to be silent.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Almost twelve years after the Babylonians had taken us Israelites to their land, on the fifth day of the tenth month of that year, a man who had escaped from Jerusalem came to me in Babylon and said, "Jerusalem has been captured!"
+\v 22 The evening before that man arrived, Yahweh took control of me. So when that man arrived, Yahweh enabled me to speak again; I was no longer forced to be silent.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 It happened in the twelfth year, on the fifth day of the tenth month of our captivity, that a fugitive came to me from Jerusalem and said, “The city has been captured!”
+\v 22 The hand of Yahweh had been on me in the evening before the fugitive came, and my mouth was opened by the time that he came to me in the dawn. So my mouth was open; I was no longer mute!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:captive]]
+  * [[:yo:obe:other:criminal]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:other:hand]]
+  * [[en:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+
+  * **of our captivity** - "after we became captives." AT: "after the Babylonians took us as captives to Babylon." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **a fugitive came to me from Jerusalem** - "someone escaped from Jerusalem and came to me." The Babylonians had destroyed Jerusalem and killed the people of Jerusalem, but a few people escaped.
+  * **The city has been captured** - AT: "The Babylonians have destroyed the city." The phrase "the city" refers to "Jerusalem." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **The hand of Yahweh had been on me**  - See how you translated "the hand of Yahweh came upon him" in [[en:bible:notes:ezk:01:01|1:3]].
+  * **dawn**  - "Dawn" is the time early in the morning when the light of the sun first appears.
+  * **my mouth was open** - AT: "Yahweh opened my mouth." See how you translated "I will open your mouth" in [[en:bible:notes:ezk:03:26|3:27]].
+  * **I was no longer mute**  - "I was no longer unable to speak" or "I was now able to speak"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:33|Ezekiel Chapter 33 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:33:17|<<]] | [[:yo:bible:notes:ezk:33:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

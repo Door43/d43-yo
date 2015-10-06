@@ -1,0 +1,79 @@
+====== Proverbs 24:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add If it is unjustly decided\add* that someone must be executed, try hard to rescue them \f + \ft doublet \f*.
+\q1
+\v 12 If you say, "I did not know anything about it, \add so it is not my concern\f + \ft Or: I did not try to help him \f*\add*,"
+\q2 remember that God knows what we have done,
+\q1 and he knows what we were thinking [IDI, RHQ],
+\q2 and he will certainly \f + \ft rhetorical question \f* repay us as we deserve for what we have done or for not doing what we should have done.
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Rescue the ones who are being carried away to the slaughter—
+\q2 they stagger and fall—hold them back from the one who would kill them.
+\q1
+\v 12 If you say, "I did not know anything about it."
+\q2 Does not God, who knows our motives, also know what you meant when you said it? 
+\q2 And the God who guards your life, how could he not know what you said? 
+\q2 Will he not give to each one according to what he deserves?
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Rescue those who are being taken away to death—
+\q those who are staggering to the slaughter—if you can hold them back.
+\q
+\v 12 If you say, "There! we knew nothing about this."
+\q Does not the One who weighs the heart understand what you are saying?
+\q And the One who guards your life, does he not know it?
+\q And will God not give to each one what he deserves?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:death]]
+  * [[:En:obe:other:heart]]
+  * [[:En:obe:kt:life]]
+  * [[:En:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:24|Proverbs Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/24/10|<<]] | [[en/bible/notes/pro/24/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

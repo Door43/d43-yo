@@ -1,0 +1,42 @@
+====== Acts 27:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17-18 After the sailors \add hoisted\f + \ft Or: lifted \f*\add* the lifeboat onto the ship, they tied ropes around the ship's hull to strengthen the ship. The sailors were afraid that, \add because the wind was pushing the ship\add*, it might run onto the sandbanks off the coast of Libya to the south \add and get stuck there. So\add* they lowered the largest sail \add so that the ship would move slower. Even so\add*, the wind continued to move the ship along. \add The wind and the waves\add* continued to toss the ship about roughly, so on the next day the sailors began to throw overboard the things that the ship was carrying.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17-18 After the sailors hoisted the lifeboat onto the ship, they used cables to reinforce the ship. They passed them under the ship's hull to strengthen the ship. The sailors were afraid that we would run aground on the sandbars called  Syrtis, so they lowered the sea anchor and in this manner the wind drove us along. The wind and the waves continued to toss the ship about roughly, so on the next day the sailors began to throw things overboard.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 When they had hoisted it up, they used its ropes to bind the hull of the ship. They were afraid that we should run upon the sandbars of Syrtis, so they let down the sea anchor and were driven along.
+
+\v 18 We were very battered by the storm, so the next day the sailors began to throw the cargo overboard.
+</usfm>
+
+
+===== Important Terms: =====
+ 
+
+===== Translation Notes: =====
+
+  * **they had hoisted it up** - "they had uplifted it"
+  * ** sandbars of Syrtis** - Sandbars are very shallow areas in the sea where ships can get stuck in the sand. "Syrtis" is located on the coast of Libya, northern Africa. (See: [[:yo:ta:vol1:translate:translate_names]])
+  * **were driven along** - “had to go in whatever direction the wind blew us" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:act:27|Acts Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:act:27:14|<<]] | [[:yo:bible:notes:act:27:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

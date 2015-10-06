@@ -1,0 +1,54 @@
+====== Genesis 24:61-62 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 61 Then Rebekah and her maid servants got ready and got on their camels and went with Abraham's servant. He took Rebekah and went.
+\p
+\v 62 Isaac was living in the Negev desert. He had gone there from Beer-Lahai-Roi.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 61 Then Rebekah and her servant girls got ready. They got on their camels and went with Abraham's servant. He took Rebekah and left.
+\p
+\v 62 Now Isaac was living in the southern Judean wilderness. He had come from Beerlahairoi.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 61 Then Rebekah arose, and she and her servant girls mounted the camels, and followed the man. Thus the servant took Rebekah, and went his way.
+\p
+\v 62 Now Isaac was living in the Negev, and had just returned from Beerlahairoi.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:rebekah]]
+  * [[en:obe:other:servant]]
+  * [[en:obe:other:isaac]]
+  * [[en:obe:other:negev]]
+ 
+
+===== Translation Notes: =====
+
+    * **Then Rebekah arose and she and her servant girls mounted the camels**  - "Then Rebekah and her servant girls went and got on the camels"
+    * **Thus the servant took Rebekah, and went his way** - "In this way Abraham's servant took Rebekah and went back to where he had come from"
+    * **Now** - This word marks a change in the story. It was telling about the servant finding a wife, and now it will tell about Isaac.
+    * **Beerlahairoi** - This is the name of a water well in the Negev. See how you translated it in [[en:bible:notes:gen:16:13|16:14]].
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:24|Genesis Chapter 24 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:24:59|<<]] | [[:yo:bible:notes:gen:24:63|>>]]**
+
+~~DISCUSSION~~{{tag>publish negev }}
+
+~~NOCACHE~~

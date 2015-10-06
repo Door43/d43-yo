@@ -1,0 +1,65 @@
+====== Revelation 12:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 There was a battle in heaven. Michael and the angels that he  \add commanded\add* fought against the dragon. The dragon and his angels fought back  \add against Michael and his angels\add*.
+\v 8 But the dragon did not win the battle, so  \add God\add* did not allow the dragon and his angels to stay in heaven any longer.
+\v 9 The huge dragon was thrown \f + \ft Or:\add Michael and his angels\add* threw the huge dragon \f* out  \add of heaven\add*. The dragon is the ancient serpent, \add the one\add* who is called the Devil and Satan. He is the one who deceives  \add people all over\add* the earth. He was thrown to the earth, along with all his angels.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Then there was a battle in heaven. Michael and the angels that he commanded fought against the dragon. The dragon and his angels fought back against Michael and his angels.
+\v 8 But the dragon did not win the battle; nor did God allow the dragon and his angels to stay in heaven any longer.
+\v 9 Instead, God threw the huge dragon out of heaven. The dragon is the ancient serpent, the one whose names are the Devil and Satan. He is the one who deceives people all over the earth. He was thrown to the earth along with all his angels.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 Now there was war in heaven. Michael and his angels fought against the dragon; and the dragon and his angels fought back.
+\v 8 But the dragon was not strong enough to win. So there was no longer any place in heaven for him and his angels.
+\v 9 The great dragon—that old serpent called the devil or Satan who deceives the whole world—was thrown down to the earth, and his angels were thrown down with him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:angel|angel]]
+  * [[:yo:obe:other:serpent|serpent, snake]]
+  * [[:yo:obe:kt:satan|Satan, devil, evil one]]
+  * [[:yo:obe:kt:deceive|deceive, deceived, deceiver, deception]]
+  * [[:yo:obe:other:earth]]
+  * [[:yo:obe:kt:world]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rev:12|Revelation Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/12/05|<<]] | [[en/bible/notes/rev/12/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

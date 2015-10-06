@@ -1,0 +1,72 @@
+====== Proverbs 13:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 Sinners have trouble \f + \ft personification \f* wherever they go,
+\q2 but things will go well for righteous people.
+\b
+\q1
+\v 22 When good people \add die\add*, they have money to leave to their grandchildren;
+\q2 but when sinners die, the money that they had will end up in the hands of righteous people.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Sinners run away and disasters after chase them; 
+\q2 but those who do what is right find the good is their reward. 
+\q1
+\v 22 A good person sets apart money to give his grandchildren when he dies; 
+\q2 but a sinful person will store up his wealth, not knowing that it will be given to the one who does right.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 Disaster runs after sinners, 
+\q but those who do right are rewarded with good.
+\q
+\v 22 A good person leaves an inheritance for his grandchildren,
+\q but a sinner's wealth is stored up for the one who does right.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:sin]]
+  * [[:En:obe:kt:inherit]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:13|Proverbs Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/13/19|<<]] | [[en/bible/notes/pro/13/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

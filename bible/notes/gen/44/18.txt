@@ -1,0 +1,60 @@
+====== Genesis 44:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Then Judah came near to Joseph and said, "Sir, please let me say something to you. You are equal to the king himself, so you could command that I be executed; but do not be angry with me for speaking to you.
+\v 19 You asked us, 'Is your father still living, and do you have another brother?'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Then Judah came near to Joseph and said, "Sir, please let me say something to you. You are equal to the king himself, so you could command that I be executed; but do not be angry with me for speaking to you.
+\v 19 You asked us, 'Is your father still living, and do you have another brother?'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 Then Judah came near to him and said, "My lord, please let your servant speak a word in my lord’s ears, and do let your anger burn against your servant, for you are just like Pharaoh.
+\v 19 My lord asked his servants, saying, 'Do you have a father or a brother?'
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:judah]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:servant]]
+  * [[en:obe:kt:word]]
+  * [[en:obe:other:angry]]
+  * [[:yo:obe:other:pharaoh]]
+
+===== Translation Notes: =====
+
+    * **came near to** - "approached"
+    * **let your servant** - Judah refers to himself as "your servant." This is a formal way of speaking to someone with more authority. Alternate tranlsation: "let me, your servant"
+    * **speak a word in my lord’s ears** - "speak to you, my lord" (See: [[:yo:ta:vol2:translate:figs_synecdoche]])
+    * **do let your anger burn against your servant** - "please do not be angry with me, your servant." (See: [[en:ta:vol1:translate:figs_idiom]])
+    * **for you are just like Pharaoh** - "for you are as powerful as Pharaoh" or "for you are equal to Pharaoh"
+    * **My lord asked his servants** - Judah refers to Joseph with the words "my lord" and "his." He also refers to himself and his brothers as "his servants." Alternate translation: "You, my lord, asked us, your servants" or "You asked us"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:44|Genesis Chapter 44 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/44/16|<<]] | [[en/bible/notes/gen/44/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish }}
+
+~~NOCACHE~~

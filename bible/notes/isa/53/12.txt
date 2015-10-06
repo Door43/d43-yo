@@ -1,0 +1,53 @@
+====== Isaiah 53:12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 So Yahweh will consider him to be one of the truly great people;
+\q2 he will \add be like a king who\add* divides up \add among his soldiers\add* the spoils\f + \ft Or: things they took from their enemies after defeating them \f* \f + \ft metaphor \f*,
+\q1 because he will sacrifice himself and die.
+\q2 \add Even though people\add* will consider him to be a sinner,
+\q1 he will remove the guilt of many people,
+\q2 and he will intercede\f + \ft Or: pray \f* for those who have done things that are wrong.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 So Yahweh will share out the spoils he has won from his enemies with many other people.
+\q2 His servant will be like a king who divides up among his soldiers the spoils,
+\q1 because he will sacrifice himself and die.
+\q2 Even though people had considered him to be a sinner,
+\q1 he removed the guilt of many people,
+\q2 and he interceded for those who have done things that are wrong.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 Therefore will I give him his portion among the multitudes, and he will divide the spoils with the many, 
+\q1 because he poured out his soul to death and was numbered with the transgressors. 
+\q1 He bore the sin of many, and made intercession for the transgressions.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:transgression]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:intercede]]
+
+===== Translation Notes: =====
+
+  * **Therefore will I give him his portion among the multitudes, and he will divide the spoils with the many** - Here "his portion" describes what God will give his servant that he is to share with all the people, just as a King divides "the spoils" among his soldiers after a victorious battle. The words "portion" and "spoils" basically mean the same thing.
+  * **He bore the sin of many, and made intercession for the transgressions** - The word "intercession" means to do something on behalf of another. AT: "On behalf of all people, he bore their sins."
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:isa:53|Isaiah Chapter 53 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:53:10|<<]] | [[:yo:bible:notes:isa:54:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

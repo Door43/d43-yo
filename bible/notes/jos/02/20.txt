@@ -1,0 +1,55 @@
+====== Joshua 02:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 But if you tell anyone what we are \add planning to\add* do, we are not required to do what we have solemnly promised."
+\v 21 Rahab said, "I agree to do what you say." So they climbed down the rope and left. And she left the red cord tied in the window.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Also, if you tell anyone what we are planning to do, we are not required to do what we had promised to do for you and your family."
+\v 21 Rahab said, "I agree to do what you say." So she sent them away, and they left her. And she tied the red cord so it would hang out of the window.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 But if you speak of this business of ours, then we shall not be bound to the promise we swore on oath to you, to promise you made us swear."
+\v 21 Rahab replied, "May what you say be done. She sent them away and they left. Then she tied the scarlet rope in the window.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:promise]]
+  * [[:yo:obe:other:oath]]
+  * [[:En:obe:other:rahab]]
+  
+
+===== Translation Notes: =====
+
+    * **rope**- a piece of strong cord made by twisting material together
+    * **window**- an opening in the wall or roof of a building to let in light
+    * **if you speak**  - "You" refers to Rahab.  (See:[[en:ta:vol1:translate:figs_yousingular]])
+  
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:02|Joshua Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/02/18|<<]] | [[en/bible/notes/jos/02/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

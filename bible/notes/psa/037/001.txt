@@ -1,0 +1,80 @@
+====== Psalms 037:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Do not be bothered\f + \ft Or: upset \f* by what wicked people do.
+\q2 Do not desire to have the things that people who do wrong\f + \ft Or: evil \f* things have,
+\q1
+\v 2 because they will soon disappear, like grass withers \add in the hot sun\add* and dries up.
+\q2 Just like some green plants \add come up but\add* die \add during the hot summer\add*,
+\q2 evil people will soon die also.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Do not be bothered by what wicked people do.
+\q2 Do not desire to have the things that people who do wrong things have,
+\q1
+\v 2 because they will soon disappear, like grass withers in the hot sun and dries up.
+\q2 Just like some green plants come up but die during the hot summer,
+\q2 evil people will soon die also.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 37
+\d A Psalm of David.
+\q
+\v 1 Do not be irritated because of evildoers;
+\q do not be envious of those  who act  unrighteously.
+\q
+\v 2 For they will soon dry up  like the grass
+\q and wither as the green plants.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[;en:obe:other:psalm]]
+  * [[:yo:obe:other:david]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:other:envy]]
+  * [[:yo:obe:kt:unjust]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:037|Psalms Chapter 037 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/036/010|<<]] | [[en/bible/notes/psa/037/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

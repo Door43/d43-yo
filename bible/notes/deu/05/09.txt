@@ -1,0 +1,69 @@
+====== Deuteronomy 05:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 You must not bow down to any idol and worship it, because I am Yahweh God, and I am very jealous\f + \ft Or: want you to worship me only \f*. I punish those who sin and hate me. I punish not only them, but I will punish their descendants, down to the third and fourth generation\f + \ft Or: their children and grandchildren and great-grandchildren \f*.
+\v 10 But I will steadfastly love thousands of generations\f + \ft Or: all the descendants \f* of those who love me and obey my commandments \f + \ft Or: I will love for thousands of generations \f*.
+\li
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 You must not bow down to any idol and worship it, because I am Yahweh God, and I will not tolerate that. I will punish anyone who does that, and their children and the children and grandchildren of them as wel..
+\v 10 But I will steadfastly love thousands of generations of those who love me and obey my commandments.
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 You will not bow down to them or serve them, for I, Yahweh, your God, am a jealous God. I punish the
+ancestors' wickedness by bringing punishment on the children, to the third and fourth generation of those who hate me,
+\v 10 and showing covenant faithfulness to thousands of them who love me and keep my commandments.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:bow]]
+  * [[:yo:obe:other:serve]]
+  * [[:yo:obe:kt:jealous]]
+  * [[:yo:obe:other:punish]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:other:generation]]
+  * [[:yo:obe:kt:faithful]]
+  * [[:yo:obe:kt:love]]
+  * [[en:obe:other:command]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:05|Deuteronomy Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/05/07|<<]] | [[en/bible/notes/deu/05/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

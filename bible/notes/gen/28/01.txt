@@ -1,0 +1,56 @@
+====== Genesis 28:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Isaac summoned Jacob, and gave him a blessing. He told him this: "Do not marry a woman from the women of the Canaan people-group.
+\v 2 Instead, go right away to Paddan-Aram\f + \ft Or: Mesopotamia \f*, to the house of your mother's father Bethuel. Ask one of the daughters of your mother's brother Laban to marry you.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Isaac summoned Jacob and gave him a blessing. He told him this: "Do not marry a woman from the women of the Canaanite people.
+\v 2 Instead, go right away to Paddan Aram, to the house of your mother's father Bethuel. Ask one of the daughters of your mother's brother Laban to marry you.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 28
+\p
+\v 1 Isaac called Jacob, blessed him, and commanded him, "You must not take a wife from the Canaanite women.
+\v 2 Arise, go to Paddan Aram, to the house of Bethuel your mother’s father, and take a wife from there, one of the daughters of Laban, your mother’s brother.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:isaac]]
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:other:canaan]]
+  * [[:yo:obe:other:paddanaram]]
+  * [[:yo:obe:other:house]]
+  * [[:yo:obe:other:bethuel]]
+  * [[:yo:obe:other:laban]]
+  * [[:yo:obe:kt:brother]]
+
+===== Translation Notes: =====
+
+  * **You will not take**  - "Do not take"
+  * **a wife from the Canaanite women **- "from the daughters of Canaan"
+  * **Arise, go **- "Go right away"
+  * **Paddan Aram**  - See how this was translated in [[:yo:bible:notes:gen:25:19|25:20]].
+  * **Bethuel**  - See how you translated this man's name in [[:yo:bible:notes:gen:22:20|22:22]].
+  * **your mother’s father**  - "your grandfather"
+  * **one of the daughters**  - "from the daughters"
+  * **your mother’s brother**  - "your uncle"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:28|Genesis Chapter 28 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:27:46|<<]] | [[:yo:bible:notes:gen:28:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish isaac}}
+
+~~NOCACHE~~

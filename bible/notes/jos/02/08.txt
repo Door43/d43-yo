@@ -1,0 +1,49 @@
+====== Joshua 02:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Before the two men lay down \add to sleep\add* that night, Rahab went up to the roof
+\v 9 and said to them, "We know that Yahweh is \add about to\add* give this land to you Israelites, and as a result all the people living in this land are terrified because of you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Before the Israelites men lay down to sleep that night, Rahab went up to the roof
+\v 9 and said to them, "We know that Yahweh has given you this land. All our people are terrified of you—we are so afraid of you that we will not resist you at all.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 The men had not yet laid down for the night, and she came up to them on the roof.
+\v 9 She said, "I know that Yahweh has given you the land and that the fear of you has come upon us. All those who live in the land will melt away before you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[;en:obe:other:rahab]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:fear]]
+ 
+
+===== Translation Notes: =====
+
+Rehab talks to the two Israelite spies.
+
+  * **melt away before you**  - A figure of speech describing the people's reaction to the Israelites, like ice melting into water. AT: "not resist you." (See: [[:yo:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jos:02|Joshua Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:jos:02:06|<<]] | [[:yo:bible:notes:jos:02:10|>>]]**
+
+~~DISCUSSION~~{{tag>inspect text}}
+
+~~NOCACHE~~

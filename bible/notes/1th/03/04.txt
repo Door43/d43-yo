@@ -1,0 +1,62 @@
+====== 1 Thessalonians 03:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Remember that when we were present with you, we kept telling you that we would be persecuted \f + \ft Or:that \add people\add* would cause us to suffer \f*. And because that is what happened, you know that \add what we said\add* was true!
+\v 5 \add I was\add* afraid that \add Satan\add*, the one who tempts us, had caused you \add to stop trusting in Christ. If that had happened\add*, we would have worked uselessly \add while we were present with you! So\add* I sent \add Timothy to you\add* in order to find out whether or not you were \add still\add* trusting \add in Christ\add*. I sent him because I could no longer endure \add not knowing about your spiritual condition\f + \ft Or: whether or not you were still trusting in Christ\add* \f*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Remember that when we were present with you, we kept telling you that others would mistreat us. And this is what happened!
+\v 5 This is why I sent Timothy to you: because I wanted so badly to know whether you were still trusting in Christ. I was afraid that Satan, the one who tempts us, had caused you to stop trusting in Christ. I was afraid that everything we had done with you was useless. 
+
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 Truly, when we were with you, we told you in advance that we were about to suffer affliction, and it came about, as you know.
+\v 5 For this reason, when I could no longer stand it, I sent that I might know about your faith, lest somehow the tempter had tempted you and our labor would be in vain.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:true]]
+  * [[:yo:obe:kt:suffer]]
+  * [[:yo:obe:kt:afflict]]
+  * [[:yo:obe:kt:faith]]
+  * [[:yo:obe:kt:satan]]
+  * [[:yo:obe:kt:tempt]]
+  * [[:yo:obe:other:labor]]
+
+===== Translation Notes: =====
+
+  * **we were with you**  - The pronoun "we" refers to Paul, Silvanus, and Timothy but not his audience.   (See: [[en:ta:vol2:translate:figs_exclusive]])
+  * **to suffer affliction** - "to be mistreated by others"
+  * **I could no longer stand it** - The pronoun I refers to Paul.  "I wanted so badly to know". (UDB) 
+  * **I could no longer stand it** - "Stand it" is an idiom for "wanted to know with great desire."  (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **I sent** - "I sent Timothy"
+  * **in vain** - "useless"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1th:03|1 Thessalonians Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1th:03:01|<<]] | [[:yo:bible:notes:1th:03:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish true tempt labor}}
+
+~~NOCACHE~~

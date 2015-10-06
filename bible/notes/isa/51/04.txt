@@ -1,0 +1,80 @@
+====== Isaiah 51:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 My people of Judah, listen carefully \f + \ft doublet \f* to me,
+\q2 because \add I want you to\add* proclaim my laws;
+\q1 the just\f + \ft Or: right \f* things that I do will be like \f + \ft metaphor \f* a light for the people of the nations.
+\q1
+\v 5 I will soon\f + \ft Or: quickly \f* rescue you \f + \ft doublet \f*;
+\q2 by my power \f + \ft metonymy \f* I will bring you back \add from being exiled in Babylonia\add* \f + \ft doublet \f*.
+\q1 The people who live on islands in the ocean will wait for me \add to help them\add*,
+\q2 confidently expecting for me to use my power \f + \ft metonymy \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 My people of Judah, listen carefully  to me,
+\q2 because I want you to proclaim my laws;
+\q1 the right things that I will do will be like a light for the people of all the nations.
+\v 5 I will soon rescue you and them;
+\q2 by my power I will rule over the people of the earth and bless them.
+\q1 The people who live on islands in the ocean will wait for me to help them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 4 "Be attentive to me, my people; and listen to me, my people!  
+\q1 For I will issue a decree, and I will make my justice to be a light for the nations.
+\q1
+\v 5 My righteousness is near; my salvation will go out, and my arm will judge the nations; 
+\q1 the isles will wait for me, and for my arm they will eagerly wait.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:decree]]
+  * [[:yo:obe:kt:justice]]
+  * [[:yo:obe:kt:light]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:salvation]]
+  * [[:yo:obe:kt:judge]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **and I will make my justice to be a light for the nations** - Yahweh is comparing his justice to a light. The right things that Yahweh will do will be like a light for the people of all the nations. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **and my arm will judge the nations** - "arm" is a shorter way of referring to Yahweh's power. With power Yahweh will rule over all the nations. (See: [[en:ta:vol2:translate:figs_metonymy]])
+    * **and for my arm they will eagerly wait** - This is also referring to the power of Yahweh. The people eagerly wait for Yahweh to help them. (See: [[en:ta:vol2:translate:figs_metonymy]]) 
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:51|Isaiah Chapter 51 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/51/03|<<]] | [[en/bible/notes/isa/51/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

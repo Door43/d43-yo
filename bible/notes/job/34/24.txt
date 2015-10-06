@@ -1,0 +1,71 @@
+====== Job 34:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 He destroys mighty people without \add needing to\add* investigate \add what they have done\add*,
+\q2 and he appoints others to take their places.
+\q1
+\v 25 Because he already knows what they have done,
+\q2 he removes them at night and gets rid of them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 He destroys important people without needing to investigate what they have done,
+\q2 and he appoints others to take their places.
+\q1
+\v 25 Because he already knows what they have done,
+\q2 he removes them at night and gets rid of them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 24 He breaks mighty men into pieces for their ways that need no further investigation;
+\q he puts others in their places.
+\q
+\v 25 In this way he has knowledge of their deeds;
+\q he overthrows these people in the night; they are destroyed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:know]]
+  * [[:yo:obe:kt:works]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:34|Job Chapter 34 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/34/21|<<]] | [[en/bible/notes/job/34/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

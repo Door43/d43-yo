@@ -1,0 +1,63 @@
+====== Judges 02:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 They buried his body in the area he had received \add from Moses\add*, at Timnath-Serah, in the area where the descendants of Ephraim lived, north of Gaash Mountain.
+
+\p
+\v 10 After all the people who lived at the same time as Joshua died \f + \ft euphemism \f*, a group of people grew up who did not know Yahweh, and did not know what great things he had done for the Israelite people.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 They buried his body in the land that he had received from Moses, at Timnat Heres, in the area where the descendants of Ephraim lived, north of Mount Gaash.
+
+\p
+\v 10 After all the people who lived at the same time as Joshua died, more people grew up who did not know Yahweh, and had not seen do great things he had done for the Israelite people.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 They buried him within the border of the land he was assigned in Timnath Heres, in the hill country of Ephraim, north of Mount Gaash.
+\v 10 All that generation was also gathered to their fathers. And another generation grew up after them who did not know Yahweh or what he had done for Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:inherit]]
+  * [[:En:obe:other:ephraim]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:yo:obe:other:israel]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jdg:02|Judges Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/02/06|<<]] | [[en/bible/notes/jdg/02/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

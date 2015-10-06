@@ -1,0 +1,44 @@
+====== Exodus 18:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Jethro rejoiced when he heard all that Yahweh had done for the Israelite people.
+\v 10 He said, "Praise Yahweh, who has rescued you from the powerful \f + \ft metonymy \f* Egyptian king and his army!
+\v 11 Now I realize that Yahweh is greater than all other gods, because he rescued you from the power \f + \ft metonymy \f* of the proud Egyptians when \add they\add* were causing you \add to suffer\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Jethro was happy when he heard all that Yahweh had done for the Israelite people.
+\v 10 He said, "Praise Yahweh, who has rescued you from the Egyptian king and his army and from the hand of the Egyptians!
+\v 11 Now I know that Yahweh is greater than all other gods because he rescued you from the power of the proud Egyptians when they were causing you to suffer."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Jethro rejoiced over all the good that Yahweh had done for Israel, in that he had rescued them from the Egyptians' power.
+\v 10 Jethro said, "May Yahweh be praised, for he has rescued you from the Egyptians and from Pharaoh's power, and he has set the people free from their  control.
+\v 11 Now I know that Yahweh is greater than all the gods, because when the Egyptians treated the Israelites arrogantly, God rescued his people."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rejoice|rejoice]]
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:18|Exodus Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:18:07|<<]] | [[:yo:bible:notes:exo:18:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

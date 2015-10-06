@@ -1,0 +1,80 @@
+====== Hebrews 12:14-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Try to live peacefully with all people. Seek to be holy, since no one will see the Lord if he is not holy.
+\v 15 Beware that none of you stops \add trusting in\add* God, \add who has done kind things for us that we did not deserve\add* \f + \ft Or: Beware that you have never \add experienced\add* God kindly \add saving you\add* \f*. Be on guard lest any of you \add act evilly towards others\add*, because that will \add grow like\add* \f + \ft metaphor \f* a root \add grows into a big plant\add*, and the result \add of your\add* doing that will be that many believers will sin and become unacceptable to God.
+\v 16 Do not let anyone be immoral, or be irreligious as Esau was. He exchanged the rights he had as a firstborn son for only one meal.
+\v 17 You know that after he did that, he wanted to receive \add what his father would promise to give him if\add* he blessed him. But \add his father\add* refused \add to do what he requested\add*. And Esau found no way to change what he had done, even though he sought tearfully to do that.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Try to live peacefully with all people. Do your best to be holy, since no one will see the Lord if he is not holy.
+\v 15 Beware that none of you stops trusting in God, who has done kind things for us that we did not deserve. Be on guard lest any of you act in an evil way toward others, because that will grow like a root grows into a big plant, leading many believers to sin.
+\v 16 Do not let anyone be immoral or disobey God like Esau. He exchanged the rights he had as a firstborn son for only one meal.
+\v 17 Esau later wanted to get back his birth rights and all that his father Isaac's blessing would give him. But Isaac refused to do what Esau requested. So Esau found no way to get back his birth rights and blessing, even though he sought it tearfully.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Pursue peace with all people, and also the holiness without which no one will see the Lord.
+\v 15 Be careful so that no one is excluded from God's grace, and that no root of bitterness grows up to cause trouble and pollute many.
+\v 16 Be careful that there not be any sexually immoral or ungodly person such as Esau, who for one meal sold his own birthright.
+\v 17 For you know that afterwards, when he desired to inherit the blessing, he was rejected, because he found no opportunity for repentance with his father, even though he sought it earnestly with tears.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:peace]]
+  * [[en:obe:kt:holy]]
+  * [[:En:obe:kt:lordgod]]
+  * [[:yo:obe:kt:grace]]
+  * [[:En:obe:kT:fornication]]
+  * [[:En:obe:kt:ungodly]]
+  * [[:En:obe:other:esau]]
+  * [[:yo:obe:kt:birthright]]
+  * [[:En:obe:kt:inherit]]
+  * [[:En:obe:kt:bless]]
+  * [[:En:obe:kt:repent]]
+ 
+
+===== Translation Notes: =====
+
+    * **also the holiness** - AT: "also pursue the holiness" (See: [[:yo:ta:vol2:translate:figs_ellipsis]])
+    * **Be careful...that no one is excluded...that no root of bitterness grows up...that there not be** - The readers are to "be careful" of three things. AT: "Do not let anyone be excluded...Do not let any root of bitterness grow up...Do not let there be"
+    * **is excluded from God's grace** - AT: "receives God's grace and then lets go of it"
+    * **root of bitterness**  - person who causes others to do evil, like a bitter root put into food (See: [[en:ta:vol1:translate:figs_metaphor ]])
+    * **Be careful...as Esau** - AT: "Be careful...as Esau among you" (See: [[:yo:ta:vol1:translate:figs_explicit]]) 
+    * **sought it earnestly with tears** - "asked for it sincerely while crying"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:12|Hebrews Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/12/12|<<]] | [[en/bible/notes/heb/12/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

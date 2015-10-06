@@ -1,0 +1,48 @@
+====== Mark 15:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 It was the governor's custom \add each year\add* during the \add Passover\add* celebration to release \add one person who was in prison. He customarily released\add* whichever prisoner the people requested.
+\v 7 \add At that time\add* there was a man called Barabbas who had been \f + \ft Or:whom \add the soldiers had\add* \f* \add put in prison with some other men\add*. Those men had murdered\add some soldiers\add* when they rebelled \add against the Roman government\add*.
+\v 8 A crowd approached \add Pilate\add* and asked him \add to release someone\add*, just like he customarily did for them \add during the Passover celebration\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Now it was the governor's custom each year during the Passover celebration to release one person who was in prison. He usually released any prisoner the people requested.
+\v 7 At that time there was a man called Barabbas who was in prison with some other men. They had committed murder when they rebelled against the Roman government.
+\v 8 A crowd approached Pilate and asked him to release someone, just as in the past.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 Now at the time of the feast Pilate usually released to them one prisoner, a prisoner they requested.
+\v 7 There with the rebels in prison, among the murderers held for their part in the rebellion, was a man named Barabbas.
+\v 8 The crowd came to Pilate and began to ask him do for them as he had done in the past.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:prison]]
+  * [[:yo:obe:other:pilate]]
+  * [[:yo:obe:other:barabbas]]
+
+===== Translation Notes: =====
+
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:15|Mark Chapter 15 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:15:04|<<]] | [[:yo:bible:notes:mrk:15:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

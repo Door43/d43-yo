@@ -1,0 +1,75 @@
+====== Proverbs 02:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Call out \add to God\add* to get insight;
+\q2 plead with him to help you to understand more \add of what he wants you to know\add*.
+\q1
+\v 4 Search eagerly for wisdom, like you would search for silver,
+\q2 like you would search for a treasure that someone has hidden.
+\q1
+\v 5 If you do that, you will understand how to revere Yahweh,
+\q2 and you will succeed in knowing God.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Call out to God to get insight,
+\q2 plead with him to help you understand more of what he wants you to know.
+\q1
+\v 4 Search eagerly for wisdom, like you would search for silver—
+\q2 like you would search for a treasure that someone has hidden.
+\q1
+\v 5 If you do that, you will understand how to give Yahweh the respect he deserves,
+\q2 and you will succeed in knowing God.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 If you cry out for understanding
+\q and raise your voice for it;
+\q
+\v 4 if you seek it like you would seek silver
+\q and search for understanding as you would seek hidden treasures;
+\q
+\v 5 then you will understand the fear of Yahweh
+\q and you will find the knowledge of God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:voice]]
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]] 
+
+===== Translation Notes: =====
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:02|Proverbs Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/02/01|<<]] | [[en/bible/notes/pro/02/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

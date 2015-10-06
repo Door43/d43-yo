@@ -1,0 +1,48 @@
+====== John 05:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 \add My\add* Father has \add power to\add* make things live. Similarly, he has given me the \add power to enable\add* people to live \add eternally\add*.
+\v 27 Because I am the one who came from heaven, he has given me the authority to judge people \add concerning their sins\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 For as the Father is able to cause people to live, in the same way he has given power to me, the Son, to cause them to live.
+\v 27 The Father has given me authority to do whatever he knows is just, because I am the Son of Man.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 26 For as the Father has life in himself, thus he has given to the Son also to have life in himself,
+\v 27 and the Father has given the Son authority to exercise judgment because he is the Son of Man.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:godthefather]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:authority]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:sonofman]]
+ 
+
+===== Translation Notes: =====
+
+Jesus continues speaking to the Jewish leaders ([[:yo:bible:notes:jhn:05:16|5:16]]).
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:05|John Chapter 05 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:05:25|<<]] | [[:yo:bible:notes:jhn:05:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

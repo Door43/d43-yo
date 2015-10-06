@@ -1,0 +1,48 @@
+====== Malachi 03:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add I reply\add*, "People should certainly not \f + \ft rhetorical question \f* cheat God; but you people have cheated me!"
+\p You ask, "In what way did we cheat you?"
+\p \add I reply\add*, "You have cheated me \add by not bringing to me each year\add* the tithes\f + \ft Or: one tenth of all your crops and animals \f* and other offerings \add that you are required to give to me\add*.
+\v 9 All that you do is cursed, because all you people in this country have been cheating me.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 I reply, "People should certainly not  cheat God; but you people have cheated me!"
+\p You ask, "In what way did we cheat you?"
+\p I reply, "You have cheated me by not bringing to me each year the tithes and other offerings that I have required you to give me.
+\v 9 I have cursed everything that you do, because all you people in this country have been cheating me.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 Will a man rob God? Yet you are robbing me. But you say, "How have we robbed you?" In tithes and offerings.
+\v 9 You are cursed with a curse, for you rob me, this whole nation of you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:tenth]]
+  * [[:yo:obe:kt:curse]]
+  * [[:yo:obe:other:nation]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking to the people of Israel.
+
+  * **Will a man rob God?** - This is a rebuke. AT: "A man should certainly not rob God!" (See: [[:yo:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:mal:03|Malachi Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:mal:03:06|<<]] | [[:yo:bible:notes:mal:03:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

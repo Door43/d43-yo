@@ -1,0 +1,51 @@
+====== John 11:51-53 ======
+
+===== TFT: =====
+
+<usfm>
+\v 51 He said that, not because he thought of it himself. Instead, since he was the high priest that year, he was prophesying that Jesus would die for the whole \add Jewish\add* nation.
+\v 52 But he was also prophesying that Jesus would die, not just for the Jews, but for all the people living in other lands who \add would belong\add* to God, in order that he would unite \add all of them into\add* one \add group\add*.
+\v 53 So from that day the \add Jewish leaders\add* started to make plans how they could kill Jesus.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 51 He said that, not because he thought of it himself. Instead, since he was the high priest that year, he was prophesying that Jesus would die for the Jewish nation.
+\v 52 But he was also prophesying that Jesus would die, not just for the Jewish nation only, but also so he could gather into one nation from all the children of God, those who live in other lands everywhere.
+\v 53 So from that day forward, the Council began to look for any way to arrest Jesus and put him to death.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 51 Now this he said not of his own accord; instead, being high priest that year, he prophesied that Jesus should die for the nation;
+\v 52 and not for the nation only, but that Jesus might also gather together into one the children of God that are scattered in various places.
+\v 53 So from that day onward they planned how to put Jesus to death.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:highpriest]]
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:kt:death]]
+
+===== Translation Notes: =====
+
+  * **Now this he said**  - Caiaphas's suggestion is now being explained and identified as a prophecy even though Caiaphas did not realize he was prophesying. This is background information; write it using whatever markers you need to make that clear in your language. (See: [[en:ta:vol2:translate:writing_background]])
+  * **die for the nation** - The word "nation" is used to refer to the people of the nation of Israel. (See [[:yo:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:11|John Chapter 11 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:11:49|<<]] | [[:yo:bible:notes:jhn:11:54|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

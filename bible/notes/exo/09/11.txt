@@ -1,0 +1,51 @@
+====== Exodus 09:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Even the men who worked magic had boils. The result was that they were not able to come to \f + \ft Or: oppose \f* Moses\f + \ft Or: me \f*, because the men who worked magic had boils just like all \add the rest of\add* the Egyptian people.
+\v 12 But Yahweh caused the king to \add continue to\add* be stubborn [IDI]. He did not pay any attention to what they\f + \ft Or: we \f* \add said\add*, just as Yahweh had told Moses\f + \ft Or: me \f* \add would happen\add*.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Even the men who worked magic had boils. Because of this, they were not able to face Moses because the men who worked magic had boils just like all the rest of the Egyptian people.
+\v 12 But Yahweh caused the king to continue to be stubborn. He did not pay any attention to what Moses and Aaron said, just as Yahweh had told Moses would happen.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 The magicians could not resist Moses because of the blisters, because the blisters were on the them and on all the other Egyptians.
+\v 12 Yahweh hardened Pharaoh's heart, so Pharaoh he did not listen to Moses and Aaron. This was just as Yahweh had said to Moses that Pharaoh would do.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:magic]]
+  * [[:yo:obe:other:Moses]]
+  * [[:yo:obe:kt:Yahweh]]
+  * [[:yo:obe:other:Pharaoh]]
+  * [[:yo:obe:other:aaron]]
+  * [[:yo:obe:other:heart]]
+
+===== Translation Notes: =====
+
+
+  * **hardened the heart of Pharaoh**  - Yahweh caused Pharaoh to remain stubborn and resist the message he sent through Moses. (See: [[:yo:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:09|Exodus Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:09:08|<<]] | [[:yo:bible:notes:exo:09:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

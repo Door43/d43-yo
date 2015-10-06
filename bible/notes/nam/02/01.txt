@@ -1,0 +1,91 @@
+====== Nahum 02:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add You people of\add* \f + \ft apostrophe \f* Nineveh,
+\q2 your enemies are coming to attack you.
+\q2 So place guards on the tops of the walls around the city!
+\q2 Guard the roads \add into the city\add*!
+\q2 Get ready to fight!
+\q2 Gather your troops\f + \ft Or: soldiers \f* \f + \ft metonymy \f* together!
+\b
+\q1
+\v 2 Even though your soldiers have destroyed the descendants of \f + \ft metonymy \f* Jacob,
+\q2 Yahweh will cause them to be honored again.
+\q1 Invaders \add from your country\add* have ruined the grapevines in Israel,
+\q2 but they will grow and produce grapes again.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 You people of Nineveh,
+\q2 your enemies are coming to attack you.
+\q2 So place guards on the tops of the walls around the city!
+\q2 Guard the roads into the city!
+\q2 Get ready to fight!
+\q2 Gather your troops together!
+\b
+\q1
+\v 2 Even though your soldiers have destroyed the descendants of Jacob,
+\q2 Yahweh will cause other nations to honor them again.
+\q1 Invaders from your country have ruined the grapevines in Israel,
+\q2 but they will grow and produce grapes again.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 He who will dash you to pieces is coming up against you. Man the city walls, guard the roads, make yourselves strong, assemble your armies.
+\v 2 For Yahweh is restoring the majesty of Jacob, like the majesty of Israel, although the plunderers emptied them out and destroyed their vines.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:Yahweh]]
+  * [[:yo:obe:kt:restore]]
+  * [[:yo:obe:kt:majesty]]
+  * [[:yo:obe:other:Jacob]]
+  * [[:yo:obe:other:Israel]]
+  * [[:yo:obe:other:vine]]
+ 
+
+===== Translation Notes: =====
+
+Nahum continues describing the destruction of Nineveh in poetry that began in [[:yo:bible:notes:nam:01:01|1:1]]. (See: UDB and [[en:ta:vol2:translate:figs_parallelism]])
+
+  * **He who will dash you to pieces** - The picture is of someone breaking a pot. Alternate translation: "He who will destroy you" (See: [[en:ta:vol1:translate:figs_metaphor]]).
+  * **He who will dash** - Who this is is not clear, so translate using a general term: "Someone who will dash."
+  * **Man the city walls, guard the roads, make yourselves strong, assemble your armies.** - prepare for war
+  * **Man the city walls** - "Set guards on the walls for protection"
+  * **For Yahweh is restoring the majesty of Jacob, like the majesty of Israel** - This means that Yahweh will make Jacob and Israel great, and people will admire them again.
+  * **plunderers** - people who steal things by force, usually in war
+  * **emptied them out** - taken away everything, meaning 1) poured water out of a pot or 2) stripped the leaves off a tree or vine
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:nam:02|Nahum Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/nam/01/15|<<]] | [[en/bible/notes/nam/02/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

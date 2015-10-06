@@ -1,0 +1,64 @@
+====== 2 Kings 25:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 But in October of that year, Ishmael, whose grandfather Elishama was one of the relatives of the descendants of King David, went to Mizpah along with ten other men and assassinated\f + \ft Or: killed \f* Gedaliah and all the men who were with him. There were also men from Judah and men from Babylon whom they assassinated.
+\v 26 Then many \f + \ft hyperbole \f* of the people from Judah, important people and unimportant ones, and the army captains, were very afraid of what the Babylonians \add would do to them\add*, so they fled to Egypt.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 But in the seventh month of that year, Ishmael, whose grandfather Elishama was in the family descended from King David, went to Mizpah along with ten other men. They  assassinated Gedaliah and all the men with him. There were also men from Judah and men from Babylon whom they assassinated.
+\v 26 Then many of the people from Judah, important people and unimportant ones, and the army commanders were very afraid of what the Babylonians would do to them, so they fled to Egypt.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 But it happened that in the seventh month Ishmael the son of Nethaniah, the son of Elishama, from the royal family, came with ten men and attacked Gedaliah. Gedaliah died, along with the men of Judah and the Babylonians who were with him at Mizpah.
+\v 26 Then all the people, from the least to the greatest, and the commanders of the soldiers, arose and went to Egypt, because they were afraid of the Babylonians.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:royal]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:other:egypt]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:25|2 Kings Chapter 25 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/25/22|<<]] | [[en/bible/notes/2ki/25/27|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

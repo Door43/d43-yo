@@ -1,0 +1,68 @@
+====== 1 Corinthians 14:26-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 So, my fellow believers, I will tell you \f + \ft rhetorical question \f* what I think that you should be doing. When you come together \add to worship God\add*, some of you may have a hymn to sing. Others may have something to teach \add the congregation\add*. Others may have \add something to say that God has\add* revealed to them. Others may give messages in languages \add that they have not learned\add*. Others will explain the meaning of those messages. Make sure that all of these things that you do will make the congregation become more mature spiritually.
+\v 27 \add It is all right\add* if two people, or at the most three people, speak in languages \f + \ft metonymy \f* \add that they have not learned\add*. But they must speak one at a time, and someone must explain the meaning of what the others have said.
+\v 28 If \add those who want to speak in a language that they have not learned realize that\add* there is no one \add there\add* who will be able to explain the meaning \add of what they will say\add*, they should not speak in that language during the meeting. Instead, they should speak to God by themselves, \add somewhere else\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 It should be this way when you worship God together. Each of you should come with a psalm to sing, or something to teach from the Scriptures, or something that God has told you, or with a message in a language that God has given, or with an interpretation of such a message. Everything you do together should encourage each other, for you are Christ's church.
+\v 27 If there are any who wish to speak a message in a language from God, there should be no more than two or three such persons. They should speak one at a time, and someone should interpret the messages.
+\v 28 However, if there is no able to interpret those messages, then those who speak in languages from God should keep silent and speak only to God.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 What is next then, brothers? When you come together, each one has a psalm, a teaching, a revelation, a tongue, or an interpretation. Do everything so that you build up the church.
+\v 27 If any speaks in a tongue, let there be two or at most three, and each one in turn; and someone should interpret what is said.
+\v 28 But if there is no one to interpret, let each of them keep silent in the church and let him speak to himself alone and to God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:other:psalm]]
+  * [[:yo:obe:kt:teacher]]
+  * [[:yo:obe:kt:reveal]]
+  * [[:yo:obe:other:tongue]]
+  * [[:yo:obe:kt:buildup]]
+  * [[:yo:obe:kt:church]] 
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1co:14|1 Corinthians Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1co/14/24|<<]] | [[en/bible/notes/1co/14/29|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

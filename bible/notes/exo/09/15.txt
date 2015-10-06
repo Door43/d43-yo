@@ -1,0 +1,49 @@
+====== Exodus 09:15-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 By this time I could have used my power \f + \ft metonymy \f* to strike you and your people with terrible diseases that would have wiped you all from the earth.
+\v 16 But I have let you live. The reason I have let you live is to show you my power, with the result that \add people\add* all over the earth \f + \ft hyperbole \f* will know how great I \f + \ft metonymy \f* am.
+\v 17 You are still acting proudly and refusing to let my people go.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 By this time I could have used my power to strike you and your people with terrible diseases that would have killed you all.
+\v 16 But I have let you live. The reason I have let you live is to show you my power so that people all over the earth will know how great I am.
+\v 17 You are still acting proudly and refusing to let my people go.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 By now I could have reached out with my hand and attacked you and your people with disease, and you would have been eradicated from the land.
+\v 16 However, it was for this reason that I allowed you to survive: in order to show you my power, so that my name may be spread throughout all the earth.
+\v 17 You are still vaunting yourself against my people by not letting them go.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:other:earth]]
+  * [[:yo:obe:kt:peopleofgod]]
+
+===== Translation Notes: =====
+
+  * **I could have reached out with my hand** - This means that God could have used his power (See UDB). (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+  * **you would have been eradicated** - AT: "diseases that would have killed you all" (UDB); (See: [[:yo:ta:vol2:translate:figs_hyperbole]] and [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **so that my name may be spread throughout all the earth** - AT: "so that all people will know how great I am"; (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:09|Exodus Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:09:13|<<]] | [[:yo:bible:notes:exo:09:18|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

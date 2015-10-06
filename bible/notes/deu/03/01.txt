@@ -1,0 +1,70 @@
+====== Deuteronomy 03:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Then we turned \add north\add* and went toward the Bashan region. Og, the king \add of that area\add*, and all his soldiers marched \add south\add* to fight against us at Edrei \add town\add*.
+\v 2 Yahweh said to me, 'Do not be afraid of him, because I will enable your \add army\add* to defeat \f + \ft metonymy \f* him and all his army and to capture all their land. Do to him what you did to Sihon, the king of the Amor people-group, who ruled in Heshbon \add city\add*.'
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 "Then we turned north and went toward the region of Bashan. Og, the king of that area, and all his soldiers marched south to fight against us at the city of Edrei.
+\v 2 Yahweh said to me, 'Do not be afraid of him, because I will enable your army to defeat  him and all his army and to capture all their land. Do to him what you did to Sihon, the king of the Amor people group, who ruled in Heshbon.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 3
+\p
+\v 1 Then we turned and went up the way to Bashan. Og, the king of Bashan, came and attacked us, he and all his people, to fight at Edrei.
+\v 2 Yahweh said to me, ‘Do not fear him; for I have given you victory over him and have put all his people and his land under your control. You will do to him as you did to Sihon, king of the Amorites, who lived at Heshbon.’
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:bashan]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:kt:deliverer]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:amorite]]
+  * [[:yo:obe:kt:life]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:03|Deuteronomy Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/02/36|<<]] | [[en/bible/notes/deu/03/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

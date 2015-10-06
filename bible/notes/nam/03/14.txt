@@ -1,0 +1,74 @@
+====== Nahum 03:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Store up water \add now to use when\add* your enemies surround the city!
+\q2 Repair the forts!
+\q1 Dig up clay and trample it \add to make it soft\add*,
+\q2 and put it into molds to make bricks \add to repair the walls\add*!
+\q1
+\v 15 Nevertheless, \add your enemies\add* will burn your \add city\add*;
+\q2 they will kill you with their swords;
+\q2 they will kill you like \f + \ft simile \f* locusts destroy crops.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Store up water now to use when your enemies surround the city!
+\q2 Repair the forts!
+\q1 Dig up clay and trample it to make it soft,
+\q2 and put it into molds to make bricks to repair the walls!
+\q1
+\v 15 Nevertheless, your enemies will burn your city;
+\q2 they will kill you with their swords;
+\q2 they will kill you as locusts destroy crops.
+\q2 Go ahead and increase your population like swarms of locusts and grasshoppers.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 Go draw water for the siege; strengthen your fortresses; go into the clay and tread the mortar; repair the brick walls.
+\v 15 Fire will devour you, and the sword will cut you off. It will devour you like the locusts.  Multiply yourselves like locusts, like grasshoppers.
+</usfm>
+
+
+===== Important Terms: ===== 
+
+  * [[en:obe:other:siege]]
+  * [[en:obe:other:sword]]
+
+
+===== Translation Notes: =====
+
+Nahum speaks to the people of Nineveh as though they were the city itself. (See: [[en:ta:vol2:translate:figs_apostrophe]])
+
+    * **It will devour you like the locusts**  - there will be nothing left. (See: [[en:ta:vol1:translate:figs_simile]])
+    * **It** - the "fire" and "sword"
+    * **Multiply yourselves like locusts, like grasshoppers** - "Multiply yourself like locusts! Multiply yourself like grasshoppers!" These words seem to go more with [[:yo:bible:notes:nam:03:16|3:16]] than with 3:15.
+    * **Multiply...like locusts** - This means they would become a very large city with many people and destroy many lands. (See: [[en:ta:vol1:translate:figs_simile]])
+  
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:nam:03|Nahum Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/nam/03/12|<<]] | [[en/bible/notes/nam/03/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

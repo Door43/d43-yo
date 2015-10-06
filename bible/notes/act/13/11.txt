@@ -1,0 +1,61 @@
+====== Acts 13:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Right now the Lord \add God\add* \f + \ft metonymy \f* is going to punish you! You will become blind and not \add even\add* be able to see the sun for \add some\add* time." At once he became \add blind, as though he was\add* in a dark mist, and he groped about, searching for someone \add to hold him by the\add* hand and lead him.
+\v 12 When the governor saw what had happened \add to Elymas\add*, he believed \add in the Lord Jesus\add*. He was amazed by \add what Paul and Barnabas\add* were teaching about the Lord \add Jesus\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Right now the Lord God is going to punish you! You will become blind and you will not be able to see the sun for a while." At once he became blind, as though he were in a dark mist, and he groped about, searching for someone to hold him by the hand and lead him.
+\v 12 When the governor saw what had happened to Elymas, he believed in Jesus. He was amazed by what Paul and Barnabas were teaching about the Lord Jesus.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 Now look, the hand of the Lord is upon you, and you will become blind. You will not see the sun for a while." Immediately there fell on Elymas a mist and darkness; he started going around asking people to lead him by the hand.
+\v 12 After the proconsul saw what had happened, he believed, because he was astonished at the teaching about the Lord.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:hand]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:governor]]
+ 
+===== Translation Notes: =====
+
+  * (Paul continues speaking to Elymas in verse 11.)
+  * **the hand of the Lord is upon you** - This is an expression for the power of God is ready to punish you. This can be translated as "The Lord will punish you." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **you will become blind** - "God will make you blind"
+  * **You will not see the sun** - Elymas will be completely blind. He will not even see the light of the sun.
+  * **for a while** - "for a period of time" or "until the time appointed by God"
+  * **there fell on Elymas a mist and darkness** - "a mist and darkness fell on Elymas" or "a dark mist fell on Elymas" or "the eyes of Elymas became blurry and then darkness" or "Elymas started not to see clearly and then he cannot see anything anymore"
+  * **he started going around** - "Elymas wondered around" or "Elymas started feeling around"
+  * **proconsul** - The governor in charge of the Roman province. This can be translated as “governor.”
+  * **he believed** - "the proconsul believed" or "the proconsul believed in Jesus"
+  * **he was astonished at** - "the proconsul was astonished by" or "the proconsul felt with great wonder"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
+**[[:yo:bible:notes:act:13:09|<<]] | [[:yo:bible:notes:act:13:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,78 @@
+====== Acts 26:15-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Then I asked, 'Who are you, Lord?' The Lord said to me, 'I am Jesus. You\add \f + \ft singular \f*\add* are harming me \add by harming my followers\add*.
+\v 16 But instead \add of continuing to do that\add*, stand up now! I have appeared to you\add \f + \ft singular \f*\add* to tell you that I have chosen you to serve me. You must tell people about \add what I am showing you\add* as you are seeing me \add now\add*, and about what I \add will show you when\add* I will \add later\add* appear to you.
+\v 17 I will protect you \add from those who will try to harm you, both\add* your own people and \add also\add* those who are not Jewish. I am sending you to them
+\v 18 to help them to realize \f + \ft metonymy \f* what is true and to stop believing what is false \f + \ft metaphor \f*. I am sending you to them so that they may let God control them and not let Satan control them anymore. \add Then God\add* will forgive their sins and will accept them as his people because they believe in me.' \add That is what Jesus said to me\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Then I said, 'Who are you, Lord?' He said, 'I am Jesus, whom you are hurting.
+\v 16 But get up and stand on your feet! I have appeared to you in order to make you into a servant and a witness both of what you have seen of what you know about me now and what I iwill show you later.
+\v 17 I will protect you from the people and the non-Jews to whom I will send you,
+\v 18 in order to open their eyes, to turn them from darkness to light, and from the power of the enemy to God.  In this way God will forgive their sins and give to them the things that all my people will have forever, the people who belong to me by faith.
+
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 Then I said, 'Who are you, Lord?' The Lord replied, 'I am Jesus whom you persecute.
+\v 16 Now get up and stand on your feet; because for this purpose I appeared to you, to appoint you to be a servant and a witness concerning the things that you know about me now and the things that I will show to you later;
+\v 17 and I will rescue you from the people and from the Gentiles to whom I am sending you,
+\v 18 to open their eyes and to turn them from darkness to light and from the power of Satan to God, so that they may receive from God the forgiveness of sins and the inheritance that I give to them whom I set apart for myself by faith in me.'
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:persecute]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:kt:witness]]
+  * [[:yo:obe:other:gentile]]
+  * [[:yo:obe:kt:darkness]]
+  * [[:yo:obe:kt:light]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:kt:satan]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:forgive]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:inherit]]
+  * [[:yo:obe:kt:faith]]
+
+
+ 
+
+===== Translation Notes: =====
+
+Paul continues to speak.
+
+  * **set apart for myself** - "made my own" (UDB) or "consecrated to myself"
+  * **by faith in me** - This refers to the faith in God of those God set aside for himself.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:26|Acts Chapter 26 Comprehension Questions]]**
+**[[:yo:bible:notes:act:26:12|<<]] | [[:yo:bible:notes:act:26:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish inherit}}
+
+~~NOCACHE~~

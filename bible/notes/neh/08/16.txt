@@ -1,0 +1,70 @@
+====== Nehemiah 08:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 So the people went out \add of the city\add* and cut branches and used them to build shelters. They built shelters on the \add flat\add* roofs \add of their houses\add*, in their courtyards, in the courtyards of the temple, in the plazas\f + \ft Or: squares \f* close to the Water Gate and the Ephraim Gate.
+\v 17 All of the Israelite people who had returned from Babylon built shelters and lived in them \add for one week\add*. The Israelite people had not celebrated that festival like that since the time that Joshua lived. And they were very joyful.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 So the people went out of the city and cut branches and used them to build shelters. They built shelters on the flat roofs of their houses, in their courtyards, in the courtyards of the temple, and in the plazas close to the Water Gate and the Ephraim Gate.
+\v 17 All of the Israelite people who had returned from Babylon built shelters and lived in them for one week. The Israelite people had not celebrated that festival like that since the time that Joshua lived. And the people had very great joy.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 So the people went out and brought the branches back and made themselves tents, each on their own roofs, in their courtyards, in the courts of the house of God, in the open place by the Water Gate, and in the square at the Gate of Ephraim.
+\v 17 And all the assembly of those who had returned from captivity made tents and lived in them. For since the days of Jeshua the son of Nun to that day, the people of Israel had not celebrated this feasts. And the joy was very great.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:tent]]
+  * [[:yo:obe:other:courtyard]]
+  * [[:yo:obe:other:house]]
+  * [[ en:obe:kt:god]]
+  * [[en:obe:other:water]]
+  * [[en:obe:kt:gate]]
+  * [[:yo:obe:other:ephraim]]
+  * [[ en:obe:kt:assembly]]
+  * [[en:obe:other:captive]]
+  * [[en:obe:kt:life]]
+  * [[en:obe:other:israel]]
+  * [[en:obe:other:feast]]
+  * [[:yo:obe:kt:joy]]
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:08|Nehemiah Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/08/13|<<]] | [[en/bible/notes/neh/08/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

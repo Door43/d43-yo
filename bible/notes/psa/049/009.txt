@@ -1,0 +1,79 @@
+====== Psalms 049:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 with the result that he will live forever
+\q2 and never \add die and\add* be buried!
+\b
+\q1
+\v 10 We see that foolish and stupid people die,
+\q1 but we see that wise people also die;
+\q2 they all leave their wealth, and others inherit it.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 with the result that he will live forever
+\q2 and never die and be buried!
+\b
+\q1
+\v 10 We see that foolish and stupid people die,
+\q1 but we see that wise people also die;
+\q2 they all leave their wealth, and others inherit it.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 No one can live forever,
+\q so that his body should not decay.
+\q
+\v 10 For he will see decay. Wise men die;
+\q the fool and the brute alike perish
+\q and leave their wealth to others.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:forever]]
+  * [[:yo:obe:kt:body]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:foolish]]
+  * [[:yo:obe:kt:perish]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:049|Psalms Chapter 049 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/049/006|<<]] | [[en/bible/notes/psa/049/011|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

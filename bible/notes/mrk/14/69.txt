@@ -1,0 +1,46 @@
+====== Mark 14:69-70 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 69 \add Another\add* servant girl saw him there and said again to the people who were standing nearby, "This man is one of \add those who have been with that man they arrested\add*."
+\v 70 But he denied it again. After a little while, one of those who were standing there said to Peter again, "\add The way you speak shows that\add* you also are from Galilee \add district\add*. So it is certain that you are one of those \add who accompanied Jesus!\add*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 69 The servant girl saw him there and said again to the people who were standing nearby, "This man is one of those who have been with that man they arrested."
+\v 70 But he denied it again. After a little while, those who were standing there said to Peter again, "You also are from Galilee. So it is certain that you are one of those who accompanied Jesus!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 69 But the maid there saw him and began to say again to those who stood there, "This man is one of them!"
+\v 70 But he denied it again. After a little while those who stood there were saying to Peter, "Surely you are one of them, for you also are a Galilean."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:peter]]
+  * [[en:obe:other:galilee]]
+
+===== Translation Notes: =====
+
+At this time Peter had already once denied that he had been with Jesus.
+
+  * **one of them** - "one of the disciples"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:14|Mark Chapter 14 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:14:66|<<]] | [[:yo:bible:notes:mrk:14:71|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

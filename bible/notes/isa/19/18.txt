@@ -1,0 +1,47 @@
+====== Isaiah 19:18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 At that time, people in five cities in Egypt will solemnly declare that they will serve Yahweh. They will \add learn to\add* speak the Hebrew language. One of those cities will be called 'City of the Sun.'
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 At that time, people in five cities in Egypt will solemnly declare that they will serve Yahweh. They will learn to speak the Hebrew language. One of those cities will be called "City of the Sun."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 18 In that day there will be five cities in the land of Egypt that speak the language of Canaan and swear allegiance to Yahweh of hosts.
+One of these cities will be called The City of the Sun.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:Canaan]]
+  * [[en:obe:other:oath]]
+
+
+===== Translation Notes: =====
+
+  * **there will be five cities in the land of Egypt that speak** - This refers to the people. AT: "all the people in 5 cities in the land of Egypt will speak"
+  * **swear allegiance** - "promise to be loyal"
+  * **Yahweh of Hosts** - See how you translated this in [[en:bible:notes:isa:01:09|1:9]].
+  * **One of these cities will be called** - "People will call one of these cities" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **The City of the Sun** - The meaning of this phrase is unclear. AT: "The City of Destruction" or "The City that destroys" or "The City of Righteousness"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:19|Isaiah Chapter 19 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:19:16|<<]] | [[:yo:bible:notes:isa:19:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

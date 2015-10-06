@@ -1,0 +1,52 @@
+====== 1 Thessalonians 02:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 My fellow believers, you know that our time with you was very worthwhile\f + \ft Or: effective \f* \f + \ft litotes \f*.
+\v 2 Although \add people\add* in Philippi \add city\add* previously mistreated us\add \f + \ft exclusive \f*\add* and insulted us, as you know, our God caused us to be courageous. As a result, we told you the good message \add that originates\f + \ft Or: comes \f* from\add* God, even though some \add people in your city\add* also strongly opposed \add us\f + \ft Or: tried to prevent us from telling God's message\add* \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 My fellow believers, you know that our time with you was very worthwhile.
+\v 2 Although people in Philippi city previously mistreated us and insulted us, as you know, God caused us to be courageous. As a result, we told you the good news that God sent us to tell you, even though some people in your city also  opposed us/.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 For you yourselves know, brothers, that our coming to you was not useless,
+\v 2 but we previously suffered and were shamefully treated at Philippi, as you know. We were bold in our God to speak to you the gospel of God among much conflict.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:suffer]]
+  * [[:yo:obe:other:philippi]]
+  * [[:yo:obe:other:bold]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:goodnews]]
+
+===== Translation Notes: =====
+
+  * **you yourselves** - The word "you" refers to the Thessalonian believers. (See: [[en:ta:vol1:translate:figs_youdual]])
+  * **our coming** - The word "our" refers to Paul, Silvanus and Timothy but not the believers. (See: [[en:ta:vol2:translate:figs_exclusive]])
+  * **was not useless** - "was very worthwhile" (See: [[en:ta:vol2:translate:figs_litotes]])
+  * **suffered and were shamefully treated** - Paul was beaten and put into jail at Philippi. Alternate translation: " were mistreated and insulted."
+  * **among much conflict** - "while meeting with great opposition"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1th:02|1 Thessalonians Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:1th:01:08|<<]] | [[:yo:bible:notes:1th:02:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

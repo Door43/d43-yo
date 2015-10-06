@@ -1,0 +1,52 @@
+====== Joshua 24:31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 The Israelite people served\f + \ft Or: worshiped \f* Yahweh as long as Joshua was alive. After Joshua died, they continued serving\f + \ft Or: worshiping \f* Yahweh while the elders who had experienced everything that Yahweh had done for the Israelite people were still alive.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 The people of Israel worshiped Yahweh as long as the elders who had served with Joshua were alive; they had seen everything that Yahweh had done for Israel.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 31 Israel worshiped Yahweh all of Joshua's day, and all the days of the elders who outlived Joshua, those who had experienced everything that Yahweh had done for Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:kt:worship]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:yo:obe:other:joshua]]
+  
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+ 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:24|Joshua Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/24/29|<<]] | [[en/bible/notes/jos/24/32|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

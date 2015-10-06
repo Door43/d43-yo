@@ -1,0 +1,55 @@
+====== John 03:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Nicodemus replied to him, "How can that happen?"
+\v 10 Jesus replied to him, "You\add \f + \ft singular \f*\add* are a \add well-known\add* teacher among \add us\add* Israelite people, so I am surprised that you do not understand these things!\f + \ft Or: how is it that you do not understand these things? \f* \f + \ft rhetorical question \f*
+\v 11 Listen to this carefully: My disciples and I\f + \ft Or: I \f* tell you\add \f + \ft plural \f*\add* about the things that my disciples and I have seen and know \add are true\add*, but you\add \f + \ft plural \f*\add* do not admit that what my disciples and I are saying \add is true\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Nicodemus replied to him, "How can this be true?"
+\v 10 Jesus replied to him, "You are an important teacher in Israel, and yet you do not understand what I am saying?
+\v 11 I am telling you the truth, we say the things that we know to be true, and we are telling you what we have seen, yet none of you to whom we speak these things trusts what we are saying.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Nicodemus replied, saying, "How can these things be?"
+\v 10 Jesus answered him, "Are you a teacher of Israel, and yet you do not understand these things?
+\v 11 Truly, truly, we speak that which we know, and we testify of that which we have seen. Yet you people do not accept
+our testimony.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:teacher]]
+  * [[en:obe:other:israel]]
+  * [[en:obe:kt:testimony]]
+ 
+
+===== Translation Notes: =====
+
+    * **How can these things be?** - This is a rhetorical question adding emphasis to the statement. Alternate Translation: "This cannot be!" or "This is not able to happen!" (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **Are you a teacher of Israel, and yet you do not understand these things?** - This is a rhetorical question adding emphasis to the statement. Alternate Translation: "You are a teacher of Israel, so I am surprised you do not understand these things!" (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **Truly, truly** -  Translate this as you did in [[en:bible:notes:jhn:01:49|1:51]].
+    * **we speak** - When Jesus said "we", he did not include Nicodemus. (See: [[en:ta:vol2:translate:figs_exclusive]])
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:03|John Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:03:07|<<]] | [[:yo:bible:notes:jhn:03:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Acts 04:36-37 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 \add For example, there was\add* Joseph. \add He was\add* a descendant of Levi \add and he was born\add* on Cyprus \add Island\add*. The apostles called him Barnabas; \add in the Jewish language\add* that name means a person who \f + \ft idiom \f* always encourages \add others\add*.
+\v 37 He sold one of his fields, and brought the money to the apostles \add for them to distribute to other believers\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 Now there was a man named Joseph, who belonged to the tribe of Levi, and who came from the Island of Cyprus. The apostles called him Barnabas; in the language of the Jews that name means a person who always encourages others.
+\v 37 He sold a field and brought the money to the apostles for them to give to other believers.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 36 Joseph, a Levite, a man from Cyprus, was given the name Barnabas by the apostles.  (that is, being interpreted, Son of encouragement).
+\v 37 Having a field, he sold it and brought the money and laid it at the apostles' feet.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:barnabas]]
+  * [[en:obe:other:levite]]
+  * [[en:obe:other:cyprus]]
+  * [[en:obe:other:jew]]
+  * [[en:obe:kt:apostle]]
+  * [[en:obe:kt:believer]]
+ 
+===== Translation Notes: =====
+
+  * **Joseph, a Levite, a man from Cyprus** - Barnabas is being introduced into the story. It isn't until later that he has a bigger part in Luke's book of Acts. you may need to consider how your language introduces new participants in a story.
+  * **laid it at the apostles’ feet** - This was the common way for believers to give and it symbolizes giving the apostles the authority over the use of the gift.
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:act:04:34|<<]] | [[:yo:bible:notes:act:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish barnabas levite cyprus }}
+
+~~NOCACHE~~

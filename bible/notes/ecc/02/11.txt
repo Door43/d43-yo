@@ -1,0 +1,81 @@
+====== Ecclesiastes 02:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 But then I thought about all the hard work that I \f + \ft synecdoche \f* had done \add to get all those things\add*,
+\q2 and none of it seems to bring any lasting benefit \f + \ft doublet \f*.
+\q1 It was all like chasing the wind.
+
+\q1
+\v 12 Then I started to think about being wise, and also about being foolish \f + \ft doublet \f*.
+\q2 \add I said to myself, "I certainly do not think that\add* \f + \ft rhetorical question \f* the next king will be able to do anything better than I can."
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 But then I thought about all the hard work that I had done to obtain all those things.
+\q2 I saw that none of my work brought me any lasting benefit.
+\q1 It was all like trying to control the wind.
+
+\q1
+\v 12 Then I started to think about being wise, and also about being foolish .
+\q2 I said to myself, "I certainly do not think that anybody  will be able to do anything better than I can."
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1 
+\v 11 Then I looked on all the deeds that my hands had accomplished, 
+\q2 and on the work that I had done, 
+\q1 but again, everythng was vapor and an attempt to shepherd the wind.
+\q2 There was no profit under the sun in it.
+\q1 
+\v 12 Then I turned to consider wisdom, 
+\q2 and also madness and folly. 
+\q1 For what can the next king do who comes after the king,  
+\q2 which has not already been done?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ecc:02|Ecclesiastes Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ecc/02/09|<<]] | [[en/bible/notes/ecc/02/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

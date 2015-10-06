@@ -1,0 +1,60 @@
+====== 2 Corinthians 01:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 \add I follow the example of\add* God's Son, Jesus Christ. When I, along with Silas and Timothy, taught you \add about Christ\add*, we told you that he was not \add someone who said that he\add* would do \add something\add* and \add then\add* did not \add do it\add*. Jesus Christ never \add said to anyone\add*, "Yes, \add I will do what you desire\add*," and \add then did\add* not \add do it\add*.
+\v 20 \add We\f + \ft inclusive \f* know that is true\add*, because everything that God promised to do \add for his people\add*, he has done completely by \add sending\add* Christ \add to save us\add*. That is why we say, "Yes, it is true! \add God has done everything that he promised to do!\add*" And we praise him!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Our "Yes" comes from the Son of God, Jesus Christ—the one we proclaimed to you; and there has never been any confusion in him—with him there is no "Yes and then No." Instead, it has always been simply "Yes" in him.
+\v 20 For the promises of God are "Yes" because they come from him. And we add our confirmation to his "Yes." And we say about God's honor: "It is True! Yes!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 For the Son of God, Jesus Christ, whom Silvanus, Timothy and I proclaimed among you, is  not "Yes" and "No," but is always "Yes."
+\v 20 For all the promises of God are "Yes" in him.   So also through him we say "Amen" to the glory of God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sonofgod]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:silas]]
+  * [[:yo:obe:other:timothy]]
+  * [[en:obe:other:proclaim]]
+  * [[:yo:obe:kt:promise]]
+  * [[:yo:obe:kt:amen]]
+  * [[:yo:obe:kt:glory]]
+ 
+===== Translation Notes: =====
+
+
+    * **is not** - Paul and Timothy are referring to how Jesus answers a request. AT: "does not answer" (See: [[:yo:ta:vol1:translate:figs_explicit]])
+    * **are "Yes" in him** - The word "Yes" refers to a person knowing God will deliver what he has promised. AT: "are sure to be given because of what Jesus Christ has done" (See: [[:yo:ta:vol1:translate:figs_explicit]])
+    * **"Yes" in him... him we say **  - The word "him" refers to Jesus Christ.
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2co:01|2 Corinthians Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2co/01/17|<<]] | [[en/bible/notes/2co/01/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

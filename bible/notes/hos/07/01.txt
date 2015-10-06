@@ -1,0 +1,91 @@
+====== Hosea 07:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "and when I wanted to heal them again,
+\q2 \add I did not do it\add*
+\q1 because I saw the wicked things that \add the people of\add* Samaria \add city\add* and \add other places in\add* Israel \f + \ft doublet \f* have done.
+\q1 They constantly deceive others;
+\q2 bandits rob people in the streets.
+\q1
+\v 2 But they do not realize that I do not forget all the evil deeds that they do.
+\q2 \add It is as though\add* they are surrounded by all the sins that they commit;
+\q2 and \add it is though\add* those sins are always right in front of me \f + \ft metonymy \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 When I decide to heal Israel, 
+\q2 that will be the time I will show to everyone how great is the wickedness of Ephraim (the other name for Israel).
+\q1 The evil deeds done in Samaria, they will also be healed—
+\q2 they lie and cheat in their buying and selling, 
+\q1 they are like lawless men who beat up people only because they were walking in the streets. 
+\q1
+\v 2 But they do not take a moment to think that I, Yahweh, see and remember everything they have done. 
+\q2 What they have done now surrounds them, 
+\q1 accusing them as they stand before Yahweh, and I have seen all of them.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 7
+\p
+\q
+\v 1 When I wanted to heal Israel,
+\q the corruption of Ephraim is exposed
+\q and the evil deeds of Samaria.
+\q For they practice deceit.
+\q A thief comes in,
+\q and a marauding band attacks in the street.
+\q
+\v 2 They do not consider in their hearts
+\q that I remember all their evil.
+\q Now their deeds surround them,
+\q they are before my face.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:07|Hosea Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/06/10|<<]] | [[en/bible/notes/hos/07/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

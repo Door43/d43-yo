@@ -1,0 +1,45 @@
+====== Romans 11:25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 My \add non-Jewish\add* fellow believers, I certainly want you to understand \f + \ft litotes \f* this truth that God has now revealed \add about my fellow Jews who are refusing to believe\add*. You should not proudly think \add that\add* God \add now favors you\add* more \add than the Jews\add* \f + \ft Or: \add that you understand God's further plans for the Jews\add* \f*. Many \add people of\add* Israel will continue to be stubborn until all the non-Jews \add whom God has chosen have believed in Jesus\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 My non-Jewish fellow believers, I certainly want you to understand this secret truth, so that you do not think you know everything: Many people of Israel will continue to be stubborn until all the non-Jews whom God has chosen have believed in Jesus.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 25 For I do not want you to be unaware, brothers, of this mystery, in order that you will not be wise in your own thinking: that a partial hardening has occurred in Israel, until the completion of the Gentiles come in.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:other:mystery]]
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:other:gentile]]
+
+===== Translation Notes: =====
+
+  * **I**  - The pronoun "I" refers to Paul.
+  * **you…you…your**  - The pronouns "you" and "your" refer to the Gentile believers.
+  * **in order that you will not be wise in your own thinking**  - "so that you will not think you are wiser than you are:" The Gentile believers may believe they are wiser than the Jewish unbelievers. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **a partial hardening has occurred in Israel**  - Some Jews have refused to accept salvation through Jesus. (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **until the completion of the Gentiles come in**  - The word "until" here implies that many Jews will believe after God has finished bringing the Gentiles into the church.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:11|Romans Chapter 11 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:11:23|<<]] | [[:yo:bible:notes:rom:11:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

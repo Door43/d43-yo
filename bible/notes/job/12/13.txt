@@ -1,0 +1,87 @@
+====== Job 12:13-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 but God is wise and very powerful;
+\q2 he has good sense and understands \add everything\add*.
+\q1
+\v 14 If he tears something down, no one can rebuild it;
+\q2 if he puts someone in prison, no one can open \add the prison doors to allow that person to escape\add*.
+\q1
+\v 15 When he prevents rain from falling, everything dries up.
+\q2 When he causes a lot of rain to fall, \add the result is that\add* there are floods.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 And God is wise and very powerful;
+\q2 he has good sense and understands everything.
+\q1
+\v 14 If he tears something down, no one can rebuild it;
+\q2 if he puts someone in prison, no one can open the door to let that person to escape.
+\q1
+\v 15 When he prevents rain from falling, everything dries up.
+\q2 When he causes a lot of rain to fall, the result is that there are floods.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 With God are wisdom and might;
+\q he has good thoughts and understanding.
+\q
+\v 14 See, he breaks down, and it cannot be built again;
+\q if he imprisons someone, there can be no release.
+\q
+\v 15 See, if he withholds the waters, they dry up;
+\q and if he sends them out, they overwhelm the land.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:wise]]
+  * [[en:obe:other:mighty]]
+  * [[en:obe:kt:good]]
+  * [[en:obe:other:prison]]
+  * [[:yo:obe:other:water]]
+  * [[:yo:obe:other:send]]
+ 
+===== Translation Notes: =====
+
+
+    * **With God are wisdom and might**  - "God is wise and very powerful"
+    * **he has good thoughts and understanding**  - AT: "he has advice and understands everything"
+    * **See, he breaks down**  - "If he breaks something down"
+    * **See**  - "Behold" This word marks the beginning of new information.
+    * **it cannot be built again**  - This passive clause can be translated as an active clause: "no one can rebuild it" (UDB) (See: Active and Passive)
+    * **if he imprisons someone, there can be no release**  - Here Job is saying that none can free a person if God doesn't want that person freed. "if God shuts someone in, no one can release that person" (See: Hypothetical Situation)
+    * **See, if he withholds the waters, they dry up** - It is unclear what type of waters Job is writing about. It may be rain, flood, rivers or wells. AT: "If he blocks up the places where water comes from, they dry up"
+    * **See** - see above
+    * **if he withholds the waters, they dry up** - Here Job is saying that God has power over the waters.
+    * **and if he sends them out, they overwhelm the land"** - Here Job is again saying that God can control the waters. "and if he makes them flow out, they flood the land"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:12|Job Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/12/11|<<]] | [[en/bible/notes/job/12/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

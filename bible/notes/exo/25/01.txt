@@ -1,0 +1,48 @@
+====== Exodus 25:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh said to Moses\f + \ft Or: me \f*, "There \add are many things that I want\add* you to tell to the Israelite people.
+\p
+\v 2 Tell them that they must give offerings\f + \ft Or: gifts \f* to me. Receive from the people every offering\f + \ft Or: gift \f* that they want to give to me.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh said to Moses,
+\p
+\v 2 "Tell the Israelites that they must give offerings to me. Receive from the people every offering that they want to give to me.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 25
+\p
+\v 1 Yahweh said to Moses,
+\v 2 "Tell the Israelites to take an offering for me from every person who is motivated by a willing heart. You must receive these offerings for me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh|Yahweh]]
+  * [[:yo:obe:other:moses|Moses]]
+  * [[:yo:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:yo:obe:other:sacrifice|sacrifice, offering]]
+  * [[:yo:obe:other:heart|heart]]
+  * [[:yo:obe:kt:receive|receive]]
+
+===== Translation Notes: =====
+
+  * **who is motivated by a willing heart** - AT: "who wants to give an offering"
+  * **You must receive** - The word "you" refers to Moses and the leaders. (See: [[en:bible:team-info:training:quick-reference:grammar:formsofyou]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:25|Exodus Chapter 25 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:24:16|<<]] | [[:yo:bible:notes:exo:25:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

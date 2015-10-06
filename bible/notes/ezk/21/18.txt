@@ -1,0 +1,53 @@
+====== Ezekiel 21:18-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 Yahweh gave me another message. He said,
+\v 19 "You human, mark \add on a map\add* two roads for the king of Babylonia to march on \add along with his army, carrying\add* their swords. When they depart from their country, they will come to a sign post where the road divides.
+\v 20 \add If they continue on the one road\add*, they will attack Rabbah \add city\add*, the capital of the Ammon people-group. \add If they continue on the other road\add*, they will come to Judah and Jerusalem, a city with walls around it.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Yahweh gave me another message. He said,
+\v 19 "Son of man, draw on a map two roads for the king of Babylonia to march on along with his army. When they depart from their country, they will come to a sign post where the road divides.
+\v 20 If they continue on the one road, they will attack the city of Rabbah, the capital of the Ammon people group. If they continue on the other road, they will come to Judah and Jerusalem, a city with walls around it.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 The word of Yahweh came to me again and said, 
+\v 19 “Now you, Son of man, assign two roads for the sword of the king of Babylon to come. The two roads will start in the same land, and a signpost will mark them as leading to the city.
+\v 20 Mark one road for the sword to come to Rabbah, the city of the Ammonites. Mark the other to come Judah and Jerusalem, which is fortified.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:babylon]]
+  * [[:yo:obe:other:Rabbah]]
+  * [[:yo:obe:other:ammon]]
+  * [[:yo:obe:other:judah]]
+  * [[:yo:obe:other:jerusalem]]
+
+===== Translation Notes: =====
+
+  * **The word of Yahweh came to me again and said**  - Alternate translation: "God came to Ezekiel again and said."
+  * **sword**  - This means "army" (see Metonymy).
+  * **The two**  - This refers to two armies from Babylon (See: Metonymy).
+  * **way**  - This can also be translated "road."
+  * **The two will come out from one land and a hand will clear it; it will clear the beginning of the city road** - Alternate Translation: "The two will come out from one land. Also make a sign to mark the beginning of the city road."
+  * **but Judah and Jerusalem will be fortified** - Alternate translation: "and in Judah, into fortified Jerusalem"
+  * **fortified**  - This means built up, made strong, and protected. Often times, this refers to a wall around a city to protect the city from attack.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:21|Ezekiel Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:21:15|<<]] | [[:yo:bible:notes:ezk:21:21|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,14 @@
+===== 1 John =====
+  * [[:yo:ulb:ep:62-1jn.usfm|Full ULB text of 1 John]]
+  * [[:yo:udb:ep:62-1jn.usfm|Full UDB text of 1 John]]  
+  * [[en:bible:admin-reports:notes-team-admin:1jn]]
+  * [[:yo:bible:team-info:training:notes-training|Notes Training]]
+<nspages en:bible:notes:1jn:01 -title -naturalOrder -exclude:home -textPages="1 John 1" -nbCol=2> 
+
+<nspages en:bible:notes:1jn:02 -title -naturalOrder -exclude:home -textPages="1 John 2" -nbCol=2> 
+
+<nspages en:bible:notes:1jn:03 -title -naturalOrder -exclude:home -textPages="1 John 3" -nbCol=2> 
+
+<nspages en:bible:notes:1jn:04 -title -naturalOrder -exclude:home -textPages="1 John 4" -nbCol=2> 
+
+<nspages en:bible:notes:1jn:05 -title -naturalOrder -exclude:home -textPages="1 John 5" -nbCol=2> 

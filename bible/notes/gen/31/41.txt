@@ -1,0 +1,62 @@
+====== Genesis 31:41-42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 41 I lived in your household for twenty years. I worked for you for fourteen years to buy your two daughters, and for six more years to buy some of your sheep and goats. During that time, you changed and reduced my wages many times \f + \ft hyperbole \f*.
+\v 42 If God, the one whom my grandfather Abraham worshiped and before whom my father Isaac trembled in fear, had not been with me and helped me, you would have sent me away with nothing in my hands\f + \ft Or: owning nothing \f*! But God saw how much I was suffering and how hard I was working, so last night he told you that what you have done to me was wrong."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 41 I lived in your household for twenty years. I worked for you for fourteen years to marry your two daughters, and for six more years to buy some of your sheep and goats. During that time, you changed and reduced my wages ten times.
+\v 42 If God, the one whom my grandfather Abraham worshiped and before whom my father Isaac trembled in fear, had not been with me and helped me, you would have sent me away with nothing in my hands! But God saw how much I was suffering and how hard I was working, so last night he told you that what you have done to me was wrong."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 41 These twenty years I have been in your household. I worked for you fourteen years for your two daughters, and six years for your flock. You have changed my wages ten times.
+\v 42 Unless the God of my father, the God of Abraham, and the one Isaac fears, had been with me, surely now you would have sent me away empty-handed. God has seen my  oppression and how hard I worked, and he rebuked you last night."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:household]]
+  * [[en:obe:other:flock]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:father]]
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:other:isaac]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:oppress]]
+  * [[en:obe:other:rebuke]]
+ 
+
+===== Translation Notes: =====
+Jacob continues to speak to Laban.
+  * **These twenty years**  - "These last 20 years" (See: [[en:ta:vol2:translate:translate_numbers]])
+  * **fourteen years** - "14 years"
+  * **changed my wages ten times** - See how you translated this in [[en:bible:notes:gen:31:07|31:7]].
+  * **and the one Isaac fears** - "and the same God my father Isaac fears"
+  * **sent me away empty-handed**  - Alternate translation: "with absolutely nothing" (See: [[en:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:31|Genesis Chapter 31 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:31:38|<<]] | [[:yo:bible:notes:gen:31:43|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

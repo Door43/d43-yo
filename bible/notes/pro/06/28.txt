@@ -1,0 +1,66 @@
+====== Proverbs 06:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 Can you walk on burning coals and not scorch\f + \ft Or: burn \f* your feet?
+\q1
+\v 29 \add No\add*! And the same way, anyone who sleeps with\f + \ft Or: has sex with \f* another man's wife will \add suffer for doing that\add*.
+\q2 He will certainly \f + \ft litotes \f* be punished severely.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Can you walk on burning coals and not scorch your feet?
+\q1
+\v 29 So it anyone who sleeps with another man's wife, he will suffer for doing that; 
+\q2 it is certain he will be punished severely.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 28 Can a man walk on hot coals
+\q and his feet not be scorched?
+\q
+\v 29 So is the man who goes into his neighbor’s wife;
+\q the one who has relations with her will not go unpunished.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:neighbor]]
+  * [[:En:obe:other:punish]]
+
+===== Translation Notes: =====
+
+
+    * **Can a man walk on hot coals and his feet not be scorched?**  - The feet of a man who walks on hot coals will be burned. (See: [[:yo:ta:vol1:translate:figs_rquestion]])
+    * **has relations with her**  - has sex with her (See: [[:yo:ta:vol2:translate:figs_euphemism]])
+    * **will not go unpunished**  - will be punished (See: [[:yo:ta:vol2:translate:figs_litotes]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:06|Proverbs Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/06/26|<<]] | [[en/bible/notes/pro/06/30|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

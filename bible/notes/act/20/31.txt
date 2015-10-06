@@ -1,0 +1,64 @@
+====== Acts 20:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 So watch out \add that none of you stops believing the true message about our Lord Jesus\add*! Remember that day and night for \add about\add* three years I repeatedly taught you that message, and warned you with tears\add in my eyes not to believe any other message\add*."
+
+
+\p
+\v 32 "\add Now as I leave you\add* I ask God to protect you and to keep you believing the message \add that he saves us\f + \ft inclusive \f*\add* by doing for us what we do not deserve. \add If you continue believing\add* the message \add that I told you\add*, you will become \add spiritually mature\add*, and God will give you the blessings that he has promised to give to all of those who belong to him.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 So watch out that none of you stops believing the true message about our Lord Jesus! Remember that day and night for three years I taught you that message and warned you with tears to be faithful to the Lord."
+
+
+\p
+\v 32 "Now as I leave you I ask God to protect you and to keep you believing the message that he saves us by doing for us what we do not deserve. If you continue believing the message that I told you, you will become strong, and God will give you forever the good things that he has promised to give to all of those who belong to him.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 31 So be on guard. Remember that for three years I did not stop instructing every one of you with tears night and day.
+
+\v 32 And now I entrust you to God, and to the word of his grace, which is able to build you up and to give you the inheritance among all the ones who are set apart.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:kt:grace]]
+  * [[:yo:obe:kt:inherit]]
+  * [[:yo:obe:kt:Setapart]]
+ 
+===== Translation Notes: =====
+
+Paul continues to speak.
+
+  * **be on guard.** - "be awake and alert" or "watch out." (UDB) or "stay alert,"
+  * **Remember** - "Continue to remember" or "Do not forget."
+  * **be on guard. Remember** - These can be translated as 1) "be on guard and remember" or 2) "be on guard as you remember" or 3) "be on guard by remembering"
+  * **for three years I did not stop instructing** - Paul did not teach them continuously for three years, but over the space of three years. (See: [[en:ta:vol2:translate:figs_hyperbole]])
+  * **I did not stop instructing** - Possible meanings 1) "I did not stop warning" or 2) "I did not stop encouraging with corrections."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:20|Acts Chapter 20 Comprehension Questions]]**
+**[[:yo:bible:notes:act:20:28|<<]] | [[:yo:bible:notes:act:20:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

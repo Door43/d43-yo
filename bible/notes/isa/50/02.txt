@@ -1,0 +1,90 @@
+====== Isaiah 50:2-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 When I came to you \add to rescue you\add*,
+\q2 why did no one answer when I called out to you \f + \ft rhetorical question \f*?
+\q1 Was there no one there \f + \ft rhetorical question \f*?
+\q2 Or, did you think that I do not have the power \f + \ft metonymy \f* to rescue you \f + \ft doublet \f*?
+\q1 Think about this:
+\q2 I can speak to a sea and cause it to become dry!
+\q1 I can cause rivers to become deserts
+\q2 with the result that the fish in the rivers die from thirst and rot.
+\q1
+\v 3 I cause the sky to become dark,
+\q2 as though \f + \ft metaphor \f* it was wearing black clothes because it was mourning \add because someone had died\add*."
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 When I came to you to rescue you,
+\q2 why did no one answer when I called out to you?
+\q1 Was there no one there?
+\q2 Did you think that I do not have the power to rescue you?
+\q1 Think about this:
+\q2 I can speak to a sea and cause it to become dry!
+\q1 I can cause rivers to become deserts
+\q2 with the result that the fish in the rivers die from thirst and rot.
+\q1
+\v 3 I cause the sky to become dark,
+\q2 as though it was wearing black clothes because it was mourning because someone had died."
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 2 Why did I come but there was no one there? Why did I call but no one answered?
+\q1 Was my hand too short to ransom you? Was there no power in me to rescue you? 
+\q1 Look, at my rebuke I dry up the sea; I make the rivers a desert; 
+\q1 their fish die for lack of water and rot.
+\q1
+\v 3 I clothe the sky with darkness; I cover it with sackcloth."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:kt:ransom]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:other:rebuke]]
+  * [[:yo:obe:other:desert]]
+  * [[:yo:obe:kt:darkness]]
+  * [[:yo:obe:other:sackcloth]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Why did I come but there was no one there? Why did I call but no one answered?** - When Yahweh asked these rhetorical questions, he is indicating that when he came to rescue them no one responded. He is also saying the same thing in two different ways for emphasis. (See: [[en:ta:vol1:translate:figs_rquestion]] and [[en:ta:vol2:translate:figs_doublet]]) 
+    * **Was my hand too short to ransom you? Was there no power in me to rescue you?** - This is a rhetorical question and Yahweh is not expecting an answer. Yahweh uses the word "hand" as a shorter way of describing his power to help them. AT: "Did you think that I do not have the power to rescue you?" (UDB) (See: [[en:ta:vol1:translate:figs_rquestion]] and [[en:ta:vol2:translate:figs_metonymy]])
+    * **I clothe the sky with darkness; I cover it with sackcloth** - Here Yahweh is comparing the darkening of the skies to dark clothes worn when mourning the dead. (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:50|Isaiah Chapter 50 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/50/01|<<]] | [[en/bible/notes/isa/50/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

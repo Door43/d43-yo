@@ -1,0 +1,59 @@
+====== 1 Peter 02:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 You people whom I love, I urge you to consider that you are like foreigners \f + \ft metaphor, doublet \f* \add whose real home is in heaven\add*. As a result, avoid doing the things that your self-directed nature desires, because those desires fight against\f + \ft Or: always oppose \f* your souls.
+\v 12 Keep conducting your lives in a good way among those who do not know God. \add If you do that\add*, although they may accuse you, saying that you are people who do what is evil, they will see your good behavior, and at the time when God comes \add to judge people\add*, they will give honor to him\f + \ft Or: say that what he does is right \f*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 You people whom I love, I urge you to think about this: you are like foreigners whose real home is in heaven. So you should not do the sinful things you used to want to do, because if you do them, you will not be able to live well with God.
+\v 12 Keep behaving in a good way among those who do not know God. If you do that, although they may say that you do what is evil, they will see that you are doing things, and at the time when God comes to judge everyone, they will honor him.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Beloved, I call you as foreigners and wanderers to abstain from sinful desires, which war against your soul.
+\v 12 You should have good behavior among the Gentiles, so that, if they speak of you as having done evil things, they may observe and praise God on the day of his coming.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:beloved]]
+  * [[:yo:obe:other:foreigner]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:other:Gentile]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:other:praise]]
+ 
+
+===== Translation Notes: =====
+
+  * **war against your soul** - "seek to destroy your faith in God"
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:02|1 Peter Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:1pe:02:09|<<]] | [[:yo:bible:notes:1pe:02:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

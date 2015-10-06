@@ -1,0 +1,80 @@
+====== Ezra 02:55-58 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 55 These descendants of \add King\add* Solomon's servants \add returned\add*:
+\b
+\li2 Sotai, Hassophereth, Peruda,
+\li2
+\v 56 Jaalah, Darkon, Giddel,
+\li2
+\v 57 Shephatiah, Hattil, Pokereth-Hazzebaim, and Ami.
+\b
+\p
+\v 58 Altogether, there were 392 temple workers and descendants of Solomon's servants who returned.
+\b
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 55 The following descendants of King Solomon's servants returned to Jerusalem:
+Sotai, Hassophereth, Peruda,
+\v 56 Jaalah, Darkon, Giddel,
+\v 57 Shephatiah, Hattil, Pochereth Hazzebaim, and Ami.
+\p
+\v 58 Altogether, there were 392 descendants of temple workers and Solomon's servants who returned.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 55 The descendants of Solomon’s servants: 
+The descendants of Sotai, Hassophereth, Peruda,
+\v 56 Jaalah, Darkon, Giddel,
+\v 57 Shephatiah, Hattil, Pochereth Hazzebam, and Ami.
+\v 58 There were 392 total descendants of those assigned to serve in the temple and descendants of Solomon's servants.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezr:02|Ezra Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/02/51|<<]] | [[en/bible/notes/ezr/02/59|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

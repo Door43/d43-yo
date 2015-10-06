@@ -1,0 +1,72 @@
+====== Hosea 12:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 \add Many years later\add*, Yahweh enabled a prophet to bring the \add ancestors of you\add* people of Israel here from Egypt;
+\q2 that prophet, \add Moses\add*, took care of them.
+\q1
+\v 14 \add But now the people of\add* Israel have caused Yahweh to become very angry;
+\q2 Yahweh says that they deserve to die because they caused \add many others\add* to die \f + \ft metonymy \f*;
+\q2 he will pay them back for the sins that they have committed against him and for insulting him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Yahweh raised up a prophet (Moses), who brought Israel out of Egypt,
+\q2 and God took care of them by the prophet who led them. 
+\q1
+\v 14 Ephraim has caused Yahweh to become very angry;
+\q2 His Lord says he is guilty of the death of many, and that his guilt remains on him. 
+\q2 Yahweh will pay them back, because their sins have insulted him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Yahweh brought Israel out of Egypt by a prophet,
+\q and by a prophet he took care of them.
+\q
+\v 14 Ephraim has bitterly provoked Yahweh to anger.
+\q so his Master will leave the guilt of his blood on him,
+\q and will repay him for his disgraceful deeds.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:12|Hosea Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/12/11|<<]] | [[en/bible/notes/hos/13/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

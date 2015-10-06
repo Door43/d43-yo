@@ -1,0 +1,53 @@
+====== Ezekiel 16:53-55 ======
+
+===== TFT: =====
+
+<usfm>
+\v 53 However, \add some day\add* I will cause \add the people of\add* Sodom and Samaria and the cities near to them \f + \ft metaphor \f* to prosper again. And I will cause you to prosper again, too.
+\v 54 You will be very ashamed \f + \ft doublet \f* of the wicked things that you have done, and that will cause the people +of those cities to be encouraged.
+\v 55 \add The people of\add* Sodom and Samaria will prosper again, and you and the people in nearby cities will prosper also.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 53 However, some day I will cause the people of Sodom and Samaria and the cities near to them  to prosper again. And I will cause you to prosper again, too.
+\v 54 You will be very ashamed  of the wicked things that you have done, and that will cause the people of those cities to be encouraged.
+\v 55 The people of Sodom and Samaria will prosper again, and you and the people in nearby cities will prosper also.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 53 For I will restore their fortunes—he fortunes of Sodom and her daughters, and the fortunes of Samaria and her
+daughters; but your fortunes will be among them.
+\v 54 On account of these things you will show your shame; you will be humiliated because of everything that you have done, and in this way you will be a comfort to them.
+\v 55 So your sisters Sodom and her daughters will be restored to their former condition,  and Samaria and her daughters will be restored to their former estate. Then you and your daughters will be restored to your former condition.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:restore]]
+  * [[:yo:obe:other:Sodom]]
+  * [[en:obe:other:samaria]]
+  * [[en:obe:other:shame]]
+  * [[en:obe:other:humble]]
+  * [[:yo:obe:other:comfort]]
+  * [[:yo:obe:kt:restore]]
+===== Translation Notes: =====
+Yahweh continues to refer to other nations as relatives of Jerusalem.
+  * **fortunes** - "wealth"
+  * **you will show your shame; you will be humiliated**- Both of these phrases refer to Yahweh punishing Jerusalem in public. (See: [[:yo:ta:vol2:translate:figs_parallelism]])
+  
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:16|Ezekiel Chapter 16 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:16:51|<<]] | [[:yo:bible:notes:ezk:16:56|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish}}
+
+~~NOCACHE~~

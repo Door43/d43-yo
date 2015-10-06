@@ -1,0 +1,59 @@
+====== Acts 08:25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 After \add Peter and John\add* told \add people there\add* what they knew personally \add about the\add* Lord\add Jesus\add* and declared to them the message about Jesus, they both returned to Jerusalem. \add Along the way\add* they preached the good message \add about Jesus to people\add* in many villages in Samaria \add province\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 After Peter and John told people there what they knew personally about the Lord Jesus and declared to them the message of the Lord, they both returned to Jerusalem. Along the way they preached the good word about Jesus to people iin the district of Samaria.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 25 When Peter and John had born witness and spoken the word of the Lord, they returned to Jerusalem; along the way, they preached the gospel to many villages of the Samaritans.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:peter]]
+  * [[en:obe:other:johntheapostle]]
+  * [[en:obe:kt:witness]]
+  * [[en:obe:kt:wordofgod]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:other:proclaim]]
+  * [[en:obe:kt:goodnews]]
+  * [[en:obe:other:samaria]]
+ 
+
+===== Translation Notes: =====
+
+    * **born witness**  - Peter and John told what they personally knew about Jesus to the Samaritans.
+    * **Spoken the word of the Lord**  - Peter & John explained how the scriptures spoke of Jesus to the Samaritan.
+    * **...to many villages of the Samaritans **  - "to the people in many Samaritan villages" (See: [[en:ta:vol2:translate:figs_synecdoche]])  
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:08|Acts Chapter 08 Comprehension Questions]]**
+**[[:yo:bible:notes:act:08:24|<<]] | [[:yo:bible:notes:act:08:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish peter goodnews  }}
+
+~~NOCACHE~~

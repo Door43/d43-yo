@@ -1,0 +1,60 @@
+====== Proverbs 07:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 He crossed the street near \add the house of\add* an immoral woman.
+\q2 He was walking along the path toward her house
+\q1
+\v 9 at twilight, when it was getting dark \f + \ft doublet \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 He walked down the street near the house on the corner of the road, 
+\q2 and he walked toward the house of the adultress. 
+\q1
+\v 9 it was the time of day when night and darkness were coming near.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 That young man passed through the street near her corner
+\q and he went toward her house—
+\q
+\v 9 it was twilight, in the evening of the day,
+\q at the time of the night and darkness.
+</usfm>
+
+
+===== Important Terms: =====
+
+===== Translation Notes: =====
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:07|Proverbs Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/07/06|<<]] | [[en/bible/notes/pro/07/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,69 @@
+====== Isaiah 59:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 We growl like \f + \ft simile \f* hungry bears;
+\q2 we continually moan like \f + \ft simile \f* doves.
+\q1 We seek \add people who do\add* what is just\f + \ft Or: fair \f*,
+\q2 but we cannot find any \add anywhere\add*.
+\q1 \add We want God\add* to rescue us,
+\q2 but \add it seems that\add* he is far away.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 We growl like hungry bears;
+\q2 we continually moan like doves.
+\q1 We seek people who do what is just,
+\q2 but we cannot find any anywhere.
+\q1 We want God to rescue us,
+\q2 but it seems that he is far away.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 11 We growl like bears and moan like doves; 
+\q1 we wait for justice, but there is none; for salvation, but it is far  from us.
+</usfm>
+
+
+===== Important Terms: =====
+
+  *  [[:yo:obe:other:dove]]
+  *  [[:yo:obe:kt:justice]]
+  *  [[:yo:obe:kt:salvation]]
+
+ 
+
+===== Translation Notes: =====
+
+  * **We growl like bears and moan like doves** - "The people are hungry and their stomachs growl like a bear and they cry out in their suffering like the moaning sound of doves." (See: [[en:ta:vol1:translate:figs_simile]])
+  * ·**we wait for justice, but there is none; for salvation, but it is far from us** – “ We wait for God as a just judge to save us, but He is far from us”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:59|Isaiah Chapter 59 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/59/09|<<]] | [[en/bible/notes/isa/59/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

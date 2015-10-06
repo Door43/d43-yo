@@ -1,0 +1,50 @@
+====== John 03:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Jesus answered, "Note this: Being born naturally is not \add enough\add*; people need to also be born \add spiritually\add* by God's Spirit. If that does not happen, they cannot experience God ruling \f + \ft metaphor \f* \add their lives\add*.
+\v 6 If someone is born as a result of what humans \add do\add*, that person becomes a human being. But those who are born \add again\add* as a result of what \add God's\add* Spirit \add does receive a new\add* spiritual \add nature from God\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Jesus answered, "I guarantee that this also is true, no one can enter God's kingdom unless he is born both by water and the Spirit.
+\v 6 If someone is born from a human, that person is a human being. But those who are born again by the work of God's Spirit have a new spiritual nature that God makes within them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 Jesus replied, "Truly, truly, unless one is born of water and the Spirit, he cannot enter into the kingdom of God.
+\v 6 That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:kt:kingdomofgod]]
+  * [[en:obe:kt:flesh]]
+  * [[en:obe:kt:spirit]] 
+
+===== Translation Notes: =====
+
+
+    * **Truly, truly** - You can translate it the same way you did in [[en:bible:notes :jhn:03:03|3:3]].
+    * **born of water and the Spirit** - There are 3 possible meanings: 1) "baptised in water" or 2) "born physically" or 3) "born of the Holy Spirit" - AT: "born spiritually by the Holy Spirit" (See: [[en:ta:vol1:translate:figs_metaphor]] and [[en:ta:vol2:translate:figs_doublet]]) 
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:03|John Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:03:03|<<]] | [[:yo:bible:notes:jhn:03:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

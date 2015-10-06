@@ -1,0 +1,59 @@
+====== John 06:50-51 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 50 But the bread \add I am talking about\add* is something that came down from heaven. If people eat that bread, their \add spirits\add* will never die.
+\v 51 I am the one who came down from heaven to enable people to have \add spiritual\add* life. If people take what I will give them, they will live forever. What I will give them is my flesh, which I will give to \add all the people in\add* \f + \ft metonymy \f* the world in order that they may have \add spiritual\add* life."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 50 However, the bread that I am speaking of is the bread that comes down from heaven, and the one who eats it will never die.
+\v 51 I am the bread that makes people truly live, the bread that came down from heaven. If anyone eats this bread, he will live forever. The bread that I give for the life of the world is the death of my physical body."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 50 This is the bread which comes down out of heaven, so that a person may eat some of it and not die.
+\v 51 I am the living bread that came down out of heaven. If anyone eats some of this bread, he will live forever. The
+bread that I will give is my flesh for the life of the world."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:forever]]
+  * [[:yo:obe:other:bread]]
+  * [[:En:obe:kt:flesh]]
+  * [[en:obe:kt:world]]
+
+===== Translation Notes: =====
+
+Jesus continues speaking to all those listening to him ([[:yo:bible:notes:jhn:06:32|6:32]]).
+
+  * **This is the bread** - See [[:yo:bible:notes:jhn:06:35|6:35]].
+  * **living bread** - This can mean 1) the same as "the bread of life" ([[:yo:bible:notes:jhn:06:35|6:35]]) or 2) "bread that is alive," as people or animals are alive, the opposite of "dead."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:06|John Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/06/48|<<]] | [[en/bible/notes/jhn/06/52|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

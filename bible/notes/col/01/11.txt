@@ -1,0 +1,63 @@
+====== Colossians 01:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 And we pray that \add God\add* will greatly strengthen you \add spiritually\add* to the extent of the mighty power that he has shown \add to people\add*, in order that you will always be steadfast and patient \add when you experience difficulties\add*, while \add at the same time\add* you will be rejoicing.
+\v 12 And we pray that you will be thanking God our Father, because he has qualified you\f + \ft Or: us \f* so that you\f + \ft Or: we \f* are also worthy to receive the things that he will give to his people in heaven \f + \ft synecdoche \f*.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 We pray that God will strengthen you with all his mighty power, so that you will patiently endure every difficulty.
+\v 12 We pray that you will be rejoicing and thanking God our Father, because he has declared us worthy to be with the others whom He has set apart for himself; this is so he can give us all the things that he is keeping for us when we are with him in the light of his presence.
+
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 We pray you may be strengthened in every ability according to the power of his glory that should lead you into all perseverance and patience.
+\v 12 We pray that this may happen as you joyfully give thanks to the Father, who has qualified us for a share in the inheritance in light for those set apart for him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:pray]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:other:perseverance]]
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:kt:godthefather]]
+  * [[:yo:obe:kt:inherit]]
+
+===== Translation Notes: =====
+
+  * **We pray you** - "we" Paul and Timothy but not the Colossians (See: [[en:ta:vol2:translate:figs_exclusive]]) "pray you" the Colossian believers (See: [[en:ta:vol1:translate:figs_you]])
+  * **may be strengthened in every ability according ​to the power of his glory** - "may be given strength in every ability by his glorious might".
+  * **into all perseverance and patience** - "to never quit  believing and to be patient"
+  * **as you joyfully give thanks to the Father** - "as you give thanks with a joyful attitude to the Father" 
+  * **has qualified us for a share** - The Father has accepted us to share
+  * **has qualified us** - Paul is including the colossian believers. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **for a share in the inheritance** - "to receive a part of the inheritance"
+  * **in light** - "in the glory of his presence"
+  * **for those set apart** - “for those without moral fault” or "selected for special use". Can be translated as “saints”.
+  * **for him** - "for the Father"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:col:01|Colossians Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:col:01:09|<<]] | [[:yo:bible:notes:col:01:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish power perseverance  }}
+
+~~NOCACHE~~

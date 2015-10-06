@@ -1,0 +1,55 @@
+====== Deuteronomy 03:18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 At that time, I told you three tribes, 'Yahweh our God is giving you this land \add east of the Jordan River\add*, for you to occupy\f + \ft Or: capture \f*. So now, give your soldiers weapons, and send them \add across the Jordan River\add* ahead of the men from the other Israelite tribes \add to help them to conquer\f + \ft Or: capture \f* the land that has been allotted to\add* them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 At that time, I told you three tribes, 'Yahweh our God is giving you this land east of the Jordan River, for you to occupy.  So now, your soldiers must take their weapons and go across the Jordan River ahead of the men from the other Israelite tribes to help them to conquer the land that God is going to give to them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 I commanded you at that time, saying, ‘Yahweh your God has given you this land to possess it; you, all the men of war, will pass over armed before your brothers, the people of Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:other:israel]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:03|Deuteronomy Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/03/17|<<]] | [[en/bible/notes/deu/03/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

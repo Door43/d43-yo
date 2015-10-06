@@ -1,0 +1,43 @@
+====== Matthew 10:42 ======
+
+===== TFT: =====
+
+<usfm>
+\v 42 \add Note this\add*: Suppose people \add see that you are thirsty\add* \f + \ft metonymy \f* \add and\add* give you a drink of cold water because they know that \f + \ft metonymy \f* you are one of my disciples. \add God\add* will certainly reward people who do that\add . They might consider that what they did\add* is insignificant, \add but God will consider it very significant\add*." \f + \ft litotes \f*
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 42 Note this: Suppose people see that you are thirsty and give you a drink of cold water because they know that you are one of my disciples, even if you are not an important person at all. God will certainly reward people who do that.”
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 42 Whoever gives to one of these unimportant ones, even a cup of cold water to drink, because he is a disciple, 
+truly I say to you, he will in no way lose his reward."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:disciple]]
+  * [[en:obe:kt:amen]]
+  * [[en:obe:kt:reward]]
+
+===== Translation Notes: =====
+
+Jesus finishes explaining to his apostles that he will reward people who help them as they go.
+
+  * **Whoever gives ** - "Anyone who gives."
+  * **one of these unimportant ones, even a cup of cold water to drink, because he is a disciple **- This can also be translated "one of these little ones a cup of cold water because he is a disciple of mine" or "one of the least of my disciples even a drink of cold water."
+  * **he will in no way lose his reward** - "that person will certainly receive his reward" (See: [[en:ta:vol2:translate:figs_litotes]])
+  * **lose** - "be denied." This has nothing to do with having a possession taken away.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:10|Matthew Chapter 10 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:10:40|<<]] | [[:yo:bible:notes:mat:11:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

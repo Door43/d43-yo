@@ -1,0 +1,57 @@
+====== Genesis 23:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 After that, Abraham buried his wife Sarah's body in the cave in the field in the Machpelah area near Mamre, which is now called Hebron \add city\add*, in Canaan land.
+\v 20 So the field and the cave in it were officially sold to Abraham by the descendants of Heth, to be used as a burial ground.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 After that, Abraham buried his wife Sarah's body in the cave in the field in the Machpelah area near Mamre, which is now called Hebron, in  the land of Canaan.
+\v 20 So the field and the cave in it were officially sold to Abraham by the descendants of Heth, for him to use as a burial ground.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 After this, Abraham buried Sarah his wife in the cave of the field of Machpelah, which is next to Mamre, that is, Hebron, in the land of Canaan.
+\v 20 So the field and the cave in it  passed to Abraham as a property for a burial place from the sons of Heth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:abraham]]
+  * [[en:obe:other:sarah]]
+  * [[en:obe:other:hebron]]
+  * [[en:obe:other:canaan]]
+  * [[en:obe:other:tomb]]
+ 
+===== Translation Notes: =====
+
+  * **After this**  - "After he bought the field"
+  * **the cave of the field** - This can be translated as "the cave in the field"
+  * **the field of Machpelah** - This can be translated as "the field in Machpelah."
+  * **that is, Hebron** - Possible meanings are 1) Mamre was another name for Hebron or 2) Hebron was formerly called Mamre or 3) Mamre was very near the larger Hebron, so people usually called it Heborn.
+  * **So the field and the cave in it passed to Abraham as a property for a burial place from the sons of Heth**  - This can also be translated as "So the field and the cave in it became Abraham's property for a burial ground when he bought it from the sons of Heth."
+  * **sons of Heth**  - See how you translated this in [[en:bible:notes:gen:23:03|23:3]]
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:23|Genesis Chapter 23 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/23/17|<<]] | [[en/bible/notes/gen/24/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,44 @@
+====== John 12:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Then, \add to show them that he must die in order to give eternal life to non-Jews like those Greeks\add*, Jesus replied to them, "It is time for \add God\add* to honor me, the one who came from heaven. \add That will happen when I die\add*.
+\v 24 Listen to this carefully: \add My life is like a seed\add* \f + \ft metaphor \f*. If \add someone\add* does not plant a kernel of grain in the ground, it does not change. It remains only one \add seed\add*. But if it changes \add after it is planted in the ground, it will grow and\add* produce many seeds.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 Jesus answered Philip and Andrew, "It is time for God to show the people everything that I, the Son of Man, have done and to tell them all that I have said.
+\v 24 I am telling you the truth: unless a seed of wheat is planted in the earth and dies, it remains only one seed; but after it dies in the ground, then it will grow and produce a harvest of many seeds.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 Jesus answered them and said, "The hour has come for the Son of man to be glorified.
+\v 24 Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains by itself alone; but if it dies, it will bear much fruit.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:hour]]
+  * [[:yo:obe:kt:sonofman]]
+  * [[:yo:obe:kt:glorify]]
+  * [[:yo:obe:kt:amen]]
+  * [[en:obe:other:wheat]]
+  * [[en:obe:kt:fruit]]
+
+===== Translation Notes: =====
+
+  * **Truly, truly**** I say to you,, unless a grain of wheat falls into the earth and dies, it will remain by itself alone; but if it dies, it will bear much fruit. **- AT: "Pay close attention to this parable that I tell to you. My life is like a seed that is planted in the earth and dies. Unless it is planted, it remains as only one seed. But when it is planted, it changes and grows to produce a harvest of many seeds."
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:12|John Chapter 12 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:12:20|<<]] | [[:yo:bible:notes:jhn:12:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

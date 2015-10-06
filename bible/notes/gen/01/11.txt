@@ -1,0 +1,54 @@
+====== Genesis 01:11-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then God said, "I want the earth to produce plants, including plants that produce seeds and trees that will produce fruit. Each kind of tree will bear its own kind of fruit."
+\v 12 Then plants grew on the earth; each kind of plant began to produce its own kind of seed.
+\v 13 Then there was another evening which was followed by another morning. God called that period of time 'the third day.'
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then God said, "I command the earth to produce many kinds of plants that reproduce themselves—plants that will produce seeds and trees that will produce fruit with their seed in it." And that is what happened.
+\v 12 Then plants grew on the earth. Each kind of plant began to produce its own kind of seed, and each kind of tree produced fruit with its seed in it. God was pleased with the plants and trees.
+\v 13 This was an evening and morning, the third day.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 God said, "Let the earth sprout vegetation, plants yielding seed and fruit trees bearing fruit whose seed is in it, after their kind, upon the earth." It was so.
+\v 12 The earth produced vegetation, plants producing seed after their kind, and trees bearing fruit whose seed was in it, after their kind. God saw that it was good.
+\v 13 This was evening and morning, the third day.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:seed]]
+  * [[en:obe:kt:fruit]]
+  * [[en:obe:kt:good]]
+
+===== Translation Notes: =====
+
+  * **Let the earth sprout vegetation**  - This can be translated as "Let vegetation sprout up on the earth" or "Let vegetation grow on the earth."
+  * **vegetation, plants yielding seed and fruit trees bearing fruit**  - "vegetation" is used here as a general term that includes all plants and trees. This can be translated as "vegetation, each plant that bears seed and each tree that bears fruit" or "vegetation. Let them be plants that produce seeds and fruit trees that produce fruit."
+  * **plants**  - These are kinds of vegetation that have soft stems, rather than woody stems.
+  * **fruit trees bearing fruit whose seed is in them**  - This can also be translated as "trees that bear fruit with seeds in them."
+  * **after their kind**  - The seeds would produce plants and trees that would be like the ones they came from. In this way, the plants and trees would "reproduce themselves" (UDB).
+  * **It was so**  - See how you translated this in [[:yo:bible:notes:gen:01:06|1:7]].
+  * **God saw that it was good**  - See how you translated this in [[:yo:bible:notes:gen:01:09|1:10]].
+  * **This was evening and morning**  - See how you translated this in [[:yo:bible:notes:gen:01:03|1:5]].
+  * **the third day**  - See how you translated this in [[:yo:bible:notes:gen:01:06|1:8]].
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:01|Genesis Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:01:09|<<]] | [[:yo:bible:notes:gen:01:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish seed fruit good}}

@@ -1,0 +1,63 @@
+====== Deuteronomy 19:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 If someone is accused of committing a crime, one witness\f + \ft Or: person who says, 'I saw him do it' \f* is not enough. There must be at least two witnesses\f + \ft Or: people who say, 'We saw him do it' \f*. \add If there is only one witness\add*, the judge must not believe that what he says is true.
+\p
+\v 16 If someone tries to do wrong to another person by falsely accusing him,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 If someone is accused of committing a crime, one person who says, ‘I saw him do it’ is not enough to find him guilty. There must be at least two people who say, ‘We saw him do it.' If there is only one witness, the judge must not believe that what he says is true.
+\p
+\v 16 Or suppose that someone tries to do wrong to another person by falsely accusing him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 One sole witness must not rise up against a man for any iniquity, or for any sin, in any matter that he sins; at the mouth of two witnesses, or at the mouth of three witnesses, must any matter be confirmed.
+\v 16 Suppose that an unrighteous witness rises up against any man to testify against him of wrongdoing.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:witness]]
+  * [[:yo:obe:kt:iniquity]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:unjust]]
+  * [[:yo:obe:kt:testimony]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:19|Deuteronomy Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/19/14|<<]] | [[en/bible/notes/deu/19/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

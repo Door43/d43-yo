@@ -1,0 +1,87 @@
+====== Hosea 10:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Then they will say, 'It is because we did not revere Yahweh
+\q2 that we no longer have a king.
+\q1 But \add even if we had\add* a king,
+\q2 he certainly could not \f + \ft rhetorical question \f* do anything to help us.'
+\q1
+\v 4 They falsely promise \add that they will do many things\add*;
+\q2 they solemnly promise and make agreements
+\q2 but they do not do what they promise.
+\q1 So people accuse and sue each other in the courts;
+\q2 they are like \f + \ft simile \f* poisonous weeds that grow in a plowed field.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 They say, "We have no king now because we did not give honor or respect Yahweh.
+\q2 But even if we had a king,
+\q2 how could a king help us?"
+\q1
+\v 4 The people of Israel make lying promises and false agreements; 
+\q2 and because their promises are not kept, 
+\q1 lawsuits spring up everywhere like poisonous weeds that grow in the furrow of a farmer's field.
+\q2 The weeds grow and there is no room for his crop to grow, 
+\q1 and the weeds leave him with nothing.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 For now they will say,
+\q "We have no king,
+\q for we do not fear not Yahweh.
+\q And a king—what could he do for us?"
+\p
+\q
+\v 4 They make empty promises,
+\q and with lies they make binding agreements. 
+\q Therefore, judgment springs up 
+\q like poisonous weeds in a plowed field.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:10|Hosea Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/10/01|<<]] | [[en/bible/notes/hos/10/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

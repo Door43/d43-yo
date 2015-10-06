@@ -1,0 +1,70 @@
+====== Job 33:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 God does all these things for us many times;
+\q1
+\v 30 he preserves us \f + \ft synecdoche \f* from \add dying and\add* going to the place where the dead are,
+\q2 in order that we can continue to enjoy being alive [IDI].
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 God does all these things for us many times;
+\q1
+\v 30 he preserves us from dying and going to the place where the dead are,
+\q2 in order that we can continue to enjoy being alive.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 29 See, God does all these things with a person,
+\q twice, yes, even three times,
+\q
+\v 30 to bring [his life back from the pit,
+\q so that he may be enlightened with the light of living people.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:peoplegroup]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:33|Job Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/33/27|<<]] | [[en/bible/notes/job/33/31|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

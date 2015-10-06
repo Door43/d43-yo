@@ -1,0 +1,84 @@
+====== Job 36:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 If that happens, it certainly will not \f + \ft rhetorical question \f* help you to cry out when you are distressed;
+\q2 all of your strength will not help you.
+\q1
+\v 20 Do not wish that it would be nighttime \add in order that God will not see you and punish you\add*,
+\q2 because night is the time when even people-groups are destroyed!
+\q1
+\v 21 Be careful not to turn to \add begin doing\add* evil deeds,
+\q2 because \add God\add* has caused you to suffer to prevent you from doing evil.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 If that happens, it certainly will not help you to cry out when you are distressed;
+\q2 none of your strength will help you in that case.
+\q1
+\v 20 Do not wish that it would be nighttime in order that you might mistreat others without anyone knowing it;
+\q2 night is the time when even entire people groups are destroyed!
+\q1
+\v 21 Be careful not to begin doing evil deeds,
+\q2 because God has caused you to suffer to prevent you from doing evil.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 Can your wealth benefit you, so that you will not be in distress,
+\q or can all the force of your strength help you?
+\q
+\v 20 Do not desire the night, to commit sin against others,
+\q when peoples are cut off in their place..
+\q
+\v 21 Be careful that you do not turn to sin, 
+\q because you are being tested by suffering so that you will stay away from sinning.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:kt:cutoff]]
+  * [[:yo:obe:kt:test]]
+  * [[:yo:obe:kt:suffer]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:36|Job Chapter 36 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/36/17|<<]] | [[en/bible/notes/job/36/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,53 @@
+====== Ezekiel 23:46-47 ======
+
+===== TFT: =====
+
+<usfm>
+\v 46 So this is what I, Yahweh the Lord, say: Bring a mob to attack Samaria and Jerusalem, and allow that mob to cause the people of those cities to be terrified, and to rob them.
+\v 47 The mob will throw stones at them \add to kill them\add*; they will cut them into pieces with their swords, they will kill their sons and daughters, and burn down their houses.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 46 So this is what I, Yahweh the Lord, say: Bring a mob to attack Samaria and Jerusalem, and allow that mob to cause the people of those cities to be terrified; allow the mob to rob them.
+\v 47 The mob will throw stones at them to kill them; they will cut them into pieces with their swords, they will kill their sons and daughters, and they burn down their houses.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 46 So the Lord Yahweh says this: "I will raise up a company against them and give them over to be terrorized and and plundered.
+\v 47 Then that company will stone them with stones and cut them down with their swords. They will kill their sons and daughters and burn down their houses!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:other:terror]]
+  * [[:yo:obe:other:stone]]
+  * [[:yo:obe:other:sword]]
+  * [[:yo:obe:other:fire]]
+
+===== Translation Notes: =====
+
+  * **a company**  - A "company" refers to a group that has a purpose, such as a part of an army, but here it is more general in meaning.
+  * I - This pronoun refers to Yahweh.
+  * **give them over**  - "allow"
+  * **them - **  This refers to both the evil sisters and the people of Jerusalem (See UDB.)
+  * **to be terrorized and plundered**  - God will alow the company to terrorize and plunder them. (See: Passive)
+  * Their - This pronoun refers to Oholah and Oholibah.
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:ezk:23|Ezekiel Chapter 23 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:23:43|<<]] | [[:yo:bible:notes:ezk:23:48|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

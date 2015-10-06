@@ -1,0 +1,66 @@
+====== Proverbs 07:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 My son, listen to what I say;
+\q2 pay careful attention to my words.
+\q1
+\v 25 Do not allow your inner being to arouse\f + \ft Or: persuade \f* you to go with an immoral woman like that.
+\q2 Do not go where she goes.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 My son, listen to me, 
+\q2 and pay careful attention to what I say to you.
+\q1
+\v 25 You must resist her from within you, from deep inside. Do not make the decision, a decision that is made in your desires, to follow her.
+\q2 You must decide that you will never follow her where she goes.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 24 And now, my sons, listen to me
+\q and pay attention to what I say.
+\q
+\v 25 Do not let your heart turn aside to her ways;
+\q do not go astray into her paths.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:heart]]
+  * [[:En:obe:kt:astray]]
+===== Translation Notes: =====
+
+
+    * **pay attention**  - Translate as you did in [[en/bible/notes/pro/01/23|1:23]].
+    * **to her ways**  - to the ways of the adulterous woman 
+    
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:07|Proverbs Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/07/22|<<]] | [[en/bible/notes/pro/07/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

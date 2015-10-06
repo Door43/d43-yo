@@ -1,0 +1,65 @@
+====== 1 Kings 18:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Obadiah objected. He said, "Sir, I have not \f + \ft rhetorical question \f* harmed you at all. So why are you sending me back to Ahab? He will kill me!
+\v 10 Yahweh your God \add knows that I am telling the truth when\add* I solemnly declare that King Ahab has searched in every kingdom all over the world \f + \ft hyperbole \f* to find you. Each time that some king said to him, 'Elijah is not here,' Ahab demanded that the king of that country solemnly swear\f + \ft Or: declare \f* that the king was telling the truth.
+\v 11 Now you say to me, 'Go and tell your master that Elijah is here!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Obadiah objected. He said, "Sir, I have not harmed you at all. So why are you sending me back to Ahab? He will kill me!
+\v 10 Yahweh your God knows that I am telling the truth when I solemnly declare that King Ahab has searched in every kingdom to find you. Each time that some king said to him, ‘Elijah is not here,’ Ahab demanded that the king of that country solemnly swear  that the king was telling the truth.
+\v 11 Now you say to me, 'Go and tell your master that Elijah is here!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Obadiah replied, "How have I sinned, that you would give your servant into the hand of Ahab, for him to kill me?
+\v 10 As Yahweh your God lives, there is no nation or kingdom where my master has not sent men to find you. Whenever a nation or kingdom says, 'Elijah is not here,' Ahab makes them take an oath swearing that they could not find you.
+\v 11 Yet now you say, 'Go, tell your master  that Elijah is here.'
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:other:kingdom]]
+  * [[:yo:obe:other:send]]
+  * [[:yo:obe:other:oath]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ki:18|1 Kings Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ki/18/07|<<]] | [[en/bible/notes/1ki/18/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

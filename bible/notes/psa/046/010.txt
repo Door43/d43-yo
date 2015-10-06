@@ -1,0 +1,72 @@
+====== Psalms 046:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 \add God says\add*, "Be quiet, and remember that I am God!
+\q2 I will be honored by the people of all nations.
+\q2 I will be honored all over the earth."
+\b
+\q1
+\v 11 \add So never forget that\add* Yahweh, the commander of the armies of heaven, is with us;
+\q2 the God whom Jacob worshiped \f + \ft Or: we Israelite people worship \f* is our refuge.
+\qr (Think about that!)
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 God says, "Be quiet and remember that I am God!
+\q2 People of all nations will honor me.
+\q2 People all over the earth will honor me."
+\b
+\q1
+\v 11 So never forget that Yahweh, the commander of the angel armies, is with us;
+\q2 the God whom Jacob worshiped is our refuge.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 Be quiet and know that I am God;
+\q I will be exalted among the nations, I will be exalted on the earth.
+\q
+\v 11 Yahweh of hosts is with us;
+\q the God of Jacob is our refuge. 
+\qs [Selah\qs*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:exalt]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:046|Psalms Chapter 046 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/046/008|<<]] | [[en/bible/notes/psa/047/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,57 @@
+====== Deuteronomy 26:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Then by your great power \f + \ft metonymy \f* and by performing many kinds of miracles \f + \ft doublet \f*, and other terrifying things, you brought them out of Egypt.
+\v 9 You brought us to this land and gave it to us, a land that is very fertile [IDI].
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Then by your great power and by performing many kinds of miracles, and other terrifying things, you brought them out of Egypt.
+\v 9 You brought us to this land and gave it to us, a land that is very fertile.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 Yahweh brought us out of Egypt with a mighty hand, with a display of his power, with great fearsomeness, with signs, and with wonders;
+\v 9 and he has brought us to this place and has given us this land, a land that flows with milk and honey.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sign]]
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:26|Deuteronomy Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/26/06|<<]] | [[en/bible/notes/deu/26/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

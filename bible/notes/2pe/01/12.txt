@@ -1,0 +1,63 @@
+====== 2 Peter 01:12-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 I intend to keep on reminding you very frequently \f + \ft hyperbole \f* about these \add matters\add*, even though you \add already\add* know them and are firmly convinced that they are true.
+\v 13 I consider it right that I should help you \add to continually think about these matters\add* by reminding you \add about them\add* as long as I am alive \f + \ft euphemism \f*,
+\v 14 because I know that I shall die \f + \ft euphemism \f* soon, just like our Lord Jesus Christ clearly has revealed to me.
+\v 15 Moreover, I will make every effort\f + \ft Or: try hard \f* \add by writing these things down\add* to enable you to remember them at all times after I have died \f + \ft euphemism \f*.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 I intend to keep on reminding you very frequently about these matters, even though you already know them and are firmly convinced that they are true.
+\v 13 I consider it right that I should help you to continually think about these matters by reminding you about them as long as I am alive,
+\v 14 because I know that I shall die soon, just like our Lord Jesus Christ clearly has revealed to me.
+\v 15 Moreover, I will make every effort by writing these things down to enable you to remember them at all times after I have died.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Therefore I will  be ready always to remind you of these things, although you know them, and you are strong in the truth now.
+\v 13 I think it is right for me to wake you up and to remind you about these things, as long as I am in this tent.
+\v 14 For I know that soon I will remove my tent, as our Lord Jesus Christ has shown me.
+\v 15 I will do my best for you to always remember these things after my departure.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:true]]
+  * [[en:obe:kt:lordgod]]
+  * [[en:obe:kt:jesus]]
+
+===== Translation Notes: =====
+
+  * **Therefore** - The writer is about to make a statement based on what he previously wrote. (See: discourse information talink)
+  * **I will be ready always to remind you of these things** - Peter is expressing that he will continue to remind the believers in how to follow christ.
+  * **of these things**  - how the believers are to grow in Christ.
+  * **to wake you up** - This is an expression for "to bring to your attention." (See [[:yo:ta:vol1:translate:figs_idiom]])
+  * **I am in this tent** - This is an expression for "for as long as I am alive." (See [[:yo:ta:vol1:translate:figs_idiom]])
+  * **I will remove my tent** - This is an expression for "I will die." (See [[:yo:ta:vol1:translate:figs_idiom]])
+  * **I will do my best for you to always remember these things** - "I will do my best to teach you these things so that you will always remember them" (See: [[:yo:ta:vol1:translate:figs_explicit]])
+  * ** after my departure** - This is an expression for "after my death." (See [[:yo:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2pe:01|2 Peter Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:2pe:01:10|<<]] | [[:yo:bible:notes:2pe:01:16|>>]]**
+
+
+~~DISCUSSION~~{{tag>publish talink}}
+
+~~NOCACHE~~

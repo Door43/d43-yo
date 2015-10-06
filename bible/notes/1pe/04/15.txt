@@ -1,0 +1,46 @@
+====== 1 Peter 04:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 If you suffer, do not let that suffering be the result of your being a murderer or a thief or as a result of doing some other evil deed, or as a result of interfering in someone else's affairs.
+\v 16 But if you suffer because of being a Christian, do not be ashamed about it. Instead, praise God that you are suffering because of belonging to Christ \f + \ft metonymy \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 If you suffer, do not let it be because you murdered anyone, or stole anything or did some other kind of evil thing, or because you interfered in someone else's affairs.
+\v 16 But if you suffer because you are a Christian, do not be ashamed about it. Instead, praise God that you are suffering because you belong to Christ.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 But let none of you suffer as a murderer, a thief, an evildoer, or a meddler.
+\v 16 Yet, if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in that name.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:evildoer]]
+  * [[:yo:obe:kt:christian]]
+  * [[:yo:obe:other:shame]]
+  * [[:yo:obe:kt:glorify]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:name]]
+ 
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:04|1 Peter Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:1pe:04:12|<<]] | [[:yo:bible:notes:1pe:04:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

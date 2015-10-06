@@ -1,0 +1,57 @@
+====== Psalms 001:6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 because Yahweh guides and protects righteous people,
+\q2 but the path that the wicked walk on leads them to where they will be destroyed\f + \ft Or: punished \f* \add by God forever\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 For Yahweh guides and protects righteous people,
+\q2 but the path that the wicked walk on leads them to where God will destroy them forever.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 For Yahweh knows the way of the righteous;
+\q but the way of the wicked will perish.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:perish]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:001|Psalms Chapter 001 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/001/004|<<]] | [[en/bible/notes/psa/002/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

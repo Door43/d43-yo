@@ -1,0 +1,71 @@
+====== 2 Peter 03:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Because God will certainly destroy all these things like \add I just said\add*, you certainly know how you should behave.\f + \ft Or: do you know how you should behave? \f* \f + \ft rhetorical question \f* You should behave in a \add godly manner\f + \ft Or: \add*in a \add manner that pleases God\add* \f*
+\v 12 while you \add eagerly\f + \ft Or: expectantly \f*\add* wait for\add Christ\add* to return on the day that God \add has appointed\f + \ft Or: planned \f*\add* \f + \ft metonymy \f*, and you should try to make that day come soon. Because of what \add God\add* \f + \ft personification \f* \add will do on that day\add*, the heavens will be destroyed. The elements\f + \ft Or: The parts of which the universe consist \f* will melt and burn up.
+\v 13 Although \add all those events\f + \ft Or: things \f* will happen, we rejoice because\add* we are waiting for the new heavens and new earth that \add God\add* has promised. The \add only people who will be\add* in the new heavens and on this new earth will be \add people who are\add* \f + \ft personification \f* righteous.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Because God will certainly destroy all these things like I just said, you certainly know how you should behave. You should behave in a way that honors God,
+\v 12 while you eagerly wait for Christ to return on the day that God has appointed, and you should try to make that day come soon. Because of what God will do on that day, the heavens will perish. The elements will melt and burn up.
+\v 13 Although all those events will happen, we rejoice because we are waiting for the new heavens and new earth that God has promised. The only people who will be in the new heavens and on this new earth will be people who are righteous.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 Since all these things will be destroyed in this way, what kind of people should you to be in respect to holy living and godliness?
+\v 12 Expect and hurry forward the coming of the day of God, on which the heavens will be destroyed by fire and the elements will be melted, intensely hot.
+\v 13 However, we expect the new heavens and the new earth that he has promised, in which righteousness will live.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:kt:godly]]
+  * [[en:obe:kt:dayofthelord]]
+  * [[en:obe:kt:heaven]]
+  * [[en:obe:other:fire]]
+  * [[en:obe:other:earth]]
+  * [[:yo:obe:kt:promise]] 
+  * [[en:obe:kt:righteous]]
+  * [[en:obe:kt:life]]
+
+===== Translation Notes: =====
+
+  * **all these things will be destroyed in this way** - "all things will be destroyed by fire"
+  * **what kind of people should you to be in respect to holy living and godliness?**  - Peter challenges the  Believers to think how they should be living a holy and godly life knowing that the earth and the deeds of people will be judged. (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **However, we expect the new heavens and the new earth that he has promised** - Believers have hope and can be sure that the new heaven and new earth that the Lord has promised will come.
+
+   
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2pe:03|2 Peter Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2pe/03/10|<<]] | [[en/bible/notes/2pe/03/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,64 @@
+====== Genesis 03:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Then he said to the man, "You heeded what your wife said, and you ate some of the fruit \add of the tree\add* concerning which I commanded you saying, 'Do not eat it.' So I will make it difficult \add to grow things in\add* the ground because of what you did. You will have to work hard as long as you live to produce things from the ground to eat.
+\v 18 Thornbushes and thistle plants and other weeds will grow \add and prevent what you have planted from growing\add*. And for food, you will have to eat things that just grow in your fields.
+\v 19 \add All your life\add* you will sweat as you work hard to produce food to eat. Then you will die \f + \ft euphemism \f*, and your \add body will be buried\add* in the ground. I made you from soil, so, since I made your body from soil, when you \add die and are buried your body will decay\add* and become soil again."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Then he said to the man, "You listened to what your wife said, and you ate some of the fruit of the tree about which I commanded you, 'Do not eat it.' So I will make it difficult to grow things in the ground because of what you did. You will have to work hard as long as you live to produce things from the ground to eat.
+\v 18 Thornbushes and thistle plants and other weeds will grow and prevent what you have planted from growing. And for food, you will have to eat things that just grow in your fields.
+\v 19 All your life you will sweat as you work hard to produce food to eat. Then you will die, and your body will be buried in the ground. I made you from soil, so your body will become soil again."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 To Adam he said, "Because you have listened to the voice of your wife, and have eaten from the tree, concerning which I commanded you, saying, 'You may not eat from it,' cursed is the ground because of you. In painful toil you will eat from it all the days of your life.
+\v 18 It will produce thorns and thistles for you, and you will eat the plants of the field.
+\v 19 By the sweat of your face you will eat bread, until you return to the ground. For out of it you were taken. For dust you are, and to dust you will return."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:adam]]
+  * [[en:obe:kt:curse]]
+  * [[en:obe:other:bread]]
+
+ 
+===== Translation Notes: =====
+
+  * **Adam**  - The name Adam is the same as the Hebrew word for "man." Some translations say "Adam" and some say "the man." Either form is acceptable as it refers to the same person.
+  * **you have listened to the voice of your wife**  - "you have obeyed what your wife said"
+  * **have eaten from the tree**  - "have eaten the fruit of the tree" or "have eaten some of the fruit of the tree"
+  * **You may not eat from it**  - This could be translated as "You must not eat from it" or "Do not eat its fruit."
+  * **Cursed is the ground**  - "The ground is cursed" or "I am cursing the ground." This is a curse formula in Hebrew, with the word "curse" coming first in the sentence. If possible, translate it in a way that emphasizes the curse.
+  * **In painful toil**  - This could be translated as "By doing hard work."
+  * **you will eat from it**  - The word "it" refers to the ground. People would eat parts of the plants. The plants grow on the ground.
+  * **the plants of the field**  - Possible meanings are 1) "the plants that you take care of in your fields" or 2) "the wild plants that grow in the open fields."
+  * **by the sweat of your face**  - This can be translated as "by doing hard work that makes your face sweat."
+  * **you will eat bread**  - Here the word "bread" refers to food in general.
+  * **until you return to the ground**  - "until you die and your body is put in the ground." In some cultures, they put the bodies of people who have died in a hole in the ground. Man's hard work does not end until the time of his death and burial.
+  * **For dust you are, and to dust you will return**  - "I made you from soil, so your body will become soil again." Translate both occurrences of "dust" with the same word in order to show that man begins and ends in the same condition.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:03|Genesis Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:03:16|<<]] | [[:yo:bible:notes:gen:03:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish adam curse }}
+
+~~NOCACHE~~

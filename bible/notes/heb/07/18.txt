@@ -1,0 +1,58 @@
+====== Hebrews 07:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 On the one hand, God canceled what he commanded previously \add concerning the priests\add* because it failed in every way to enable anyone \add to become all that God intended\add*.
+\v 19 Remember that no one was able to become all that God intended \add by obeying\add* the laws \add that God gave Moses\add*. On the other hand, \add God caused that we could\add* confidently expect better things \add than we could expect by obeying God's laws\add*. \add He did that by his establishing Christ as priest\add*. Now by means of \add Christ sacrificing himself for us\add* we can come near to God.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 God withdrew what he had first commanded about the priests because those priests are unable to make sinful people holy.
+\v 19 No one was able to become good by obeying the laws that God gave Moses. On the other hand, God gave us a better reason to have confidence in him, because he makes it possible for us to come near to him.
+
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 For the former commandment has been set aside because it is weak and useless.
+\v 19 For the Law made nothing perfect. However, there is a better confidence for the future through which we draw near to God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:command]]
+  * [[:yo:obe:other:law]]
+  * [[:yo:obe:kt:perfect]]
+  * [[:yo:obe:kt:confidence]]
+
+===== Translation Notes: =====
+
+    * **the Law made nothing perfect** - This shows that the Law "is weak and useless" and so needs to be "set aside."
+    * **draw near** - "come close"
+    
+  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:heb:07|Hebrews Chapter 07 Comprehension Questions]]**
+**[[:yo:bible:notes:heb:07:15|<<]] | [[:yo:bible:notes:heb:07:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

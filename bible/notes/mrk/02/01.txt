@@ -1,0 +1,44 @@
+====== Mark 02:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Jesus and his disciples\add* returned to Capernaum \add town\add*. A few days later, because it was \f + \ft Or:people \f* heard that Jesus was in \add his\add* house,
+\v 2 many people gathered there. As a result, \add after the people filled the house\add*, there was no longer space to stand \add in the house or\add* around the doorway \add outside\add*. Jesus preached \add God's\add* message to them.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 After some days had passed, Jesus returned to Capernaum. People spread the news quickly to others that Jesus had returned and was in the house.
+\v 2 Soon a great number of people gathered where Jesus was staying. The number was so great that the house was full.  There was no longer space to stand, not even around the doorway. Jesus spoke God's message to them.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 When Jesus came back to Capernaum after a few days, the people there heard he was in the house.
+\v 2 So many gathered together that there was no longer room for them inside, not even around the door. Jesus was teaching the word to them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:capernaum]]
+  * [[:yo:obe:kt:wordofgod]]
+
+===== Translation Notes: =====
+
+  * **the people there heard he was in the house** - "the people there heard he was staying in the same house"
+  * **there was no longer room for them inside** - "there was no more room for them inside"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:02|Mark Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:01:45|<<]] | [[:yo:bible:notes:mrk:02:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish capernaum }}
+
+~~NOCACHE~~

@@ -1,0 +1,67 @@
+====== Psalms 077:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 I cry out to God;
+\q1 I cry aloud to him, and he hears me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 I will cry out to God;
+\q1 I will cry aloud to him, and he will listen to me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 77
+\d For the Chief Musician; after the manner of Jeduthun. A Psalm of Asaph.
+\q
+\v 1 I will call out with my voice to God;
+\q with my voice to God, and my God will hear me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:psalm]]
+  * [[:yo:obe:other:asaph]]
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:other:voice]]
+  * [[:yo:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:077|Psalms Chapter 077 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/076/011|<<]] | [[en/bible/notes/psa/077/002|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book3}}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== 1 Kings 06:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Four hundred eighty years after the Israelite people left Egypt, during the fourth year that Solomon ruled Israel, early in May, Solomon's workers began to build the temple.
+\p
+\v 2 Inside, \add the main part of\add* the temple was 90 feet long, 30 feet wide, and 45 feet high.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 480 years after the Israelite people left Egypt, during the fourth year that Solomon ruled Israel, in the second month, that of Ziv, Solomon's workers began to build the temple.
+\p
+\v 2 Inside, the main part of the temple was about 27 meters long, 9 meters wide, and 13.5 meters high.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 6
+\p
+\v 1 So Solomon began to build the temple of Yahweh. This happened in the 480th  year after the people of Israel came out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Ziv, which is the second month.
+\v 2 The temple that king Solomon built for Yahweh was sixty cubits long, twenty cubits wide, and thirty cubits high.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:solomon]]
+  * [[:yo:obe:kt:temple]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:other:egypt]]
+  * [[:yo:obe:other:reign]]
+  * [[:yo:obe:other:king]]
+
+===== Translation Notes: =====
+
+Scripture lists the dimensions of the temple.
+
+  * **Solomon began to build** - Solomon did not do the building himself; his servants did the work.  (See: [[:yo:ta:vol2:translate:figs_synecdoche]])
+  * **in the month Ziv, which is the second month** - This was the second month in the calendar used by the people of Israel.  (See: [[:yo:ta:vol1:translate:translate_unknown]])
+  * **cubits**  - (See: [[:yo:obe:other:biblicaldistance|biblical distance]])
+
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1ki:06|1 Kings Chapter 06 Comprehension Questions]]**
+**[[:yo:bible:notes:1ki:05:17|<<]] | [[:yo:bible:notes:1ki:06:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

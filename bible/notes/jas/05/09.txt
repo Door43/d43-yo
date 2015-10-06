@@ -1,0 +1,68 @@
+====== James 05:9-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 My fellow believers, do not complain against each other, in order that you will not be condemned \add and punished by the Lord Jesus\add* \f + \ft Or:in order that \add the Lord Jesus\add* will not condemn you \f*. It is he who will judge us, and he is ready to appear.
+\v 10 My fellow believers, as an example \add of how to be patient\add*, consider\f + \ft Or: think about \f* the prophets whom the Lord \add God sent long ago\add* to speak his messages \f + \ft metonymy \f*. \add Although people caused\add* them to suffer much, they endured it patiently.
+\v 11 And we know that \add God\add* approves of\f + \ft Or: is pleased with \f* those who endure \add suffering for him\add*. You have also heard about Job. You know that\add although he suffered much\add*, the Lord \add God\add* finally brought good \add to Job because\add* he endured \add that suffering\add* \f + \ft Or: because he continued \add to trust God\add* \f*. \add And from that we know\add* that the Lord is very compassionate and kind.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 My brothers and sisters, do not complain against each other, in order that the Lord  Jesus may not condemn and punish you. It is he who will judge us, and he is ready to appear.
+\v 10 My brothers and sisters, as an example of how to be patient, consider the prophets whom the Lord God sent long ago to speak his messages. Although people caused them to suffer much, they endured it patiently.
+\v 11 We know that God honors and helps those who endure suffering for him. You have also heard about Job. You know that although he suffered much, the Lord God planned to bring good to Job because he endured that suffering. And from that we know that the Lord is very compassionate and kind.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 Do not complain, brothers, against one another, so that you will be not judged. Look, the judge is standing at the door.
+\v 10 For an example, brothers, consider the suffering and patience of the prophets who spoke in the name of the Lord.
+\v 11 Look, we call those who persevere, "blessed." You have heard of the patience of Job, and you know the purpose of the Lord for Job, how the Lord is full of compassion and mercy.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:other:judgeposition]]
+  * [[:yo:obe:kt:suffer]]
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:kt:lordgod]]
+  * [[:yo:obe:other:perseverance]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:other:job]]
+  * ​[[:yo:obe:kt:compassion]]
+  * [[:yo:obe:kt:mercy]]
+===== Translation Notes: =====
+Paul's audience changed from addressing the rich Jews to all the Jewish believers.
+
+  * **Do not complain, brothers...you** - Paul is back to writing to all the Jewish believers.
+  * **against one another** - "about each other"
+  * **you will be not judged** - This can be translated with an active clause: "Christ will not judge you." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **the judge is standing at the door** - James compares Jesus, the judge, to a person about to walk in a door to emphasize how soon Jesus will return to judge the world. This could be translated as "coming soon." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **suffering and patience of the prophets** - "the prophets suffered persecution with patience"
+  * **spoke in the name of the Lord** - "spoke for the Lord to the people"
+  * **Look** -  The word “look” here adds emphasis to what follows. This could be translated as "Listen carefully" or "Remember."
+  * **those who persevere** - "Those who endure" or "Those who continue through hardship"
+  * **the Lord is full of compassion and mercy** - "the Lord always shows compassion and mercy"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jas:05|James Chapter 05 Comprehension Questions]]**
+**[[:yo:bible:notes:jas:05:07|<<]] | [[:yo:bible:notes:jas:05:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish  perseverance bless job compassion }}
+
+~~NOCACHE~~

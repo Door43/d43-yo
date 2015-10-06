@@ -1,0 +1,73 @@
+====== Psalms 109:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Cause that those terrible things will cling to him like his clothes
+\q1 and be around him like the belt that he wears every day.
+\q1
+\v 20 Yahweh, I wish\f + \ft Or: hope \f* that you will punish all my enemies that way,
+\q2 those who say evil things about me.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Cause those terrible things to cling to him like his clothes
+\q1 and be around him like the belt that he wears every day.
+\q1
+\v 20 Yahweh, I wish that you will punish all my enemies that way,
+\q2 those who say evil things about me.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 May it be to him like the clothes he wears to covers himself,
+\q like the belt he always wears.
+\q
+\v 20 May this be the reward of my accusers from Yahweh,
+\q of those who speak evil things about me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:reward]]
+  * [[:yo:obe:kt:evil]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:109|Psalms Chapter 109 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/109/017|<<]] | [[en/bible/notes/psa/109/021|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

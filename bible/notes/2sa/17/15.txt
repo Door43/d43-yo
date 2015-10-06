@@ -1,0 +1,65 @@
+====== 2 Samuel 17:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Then Hushai told the two priests, Zadok and Abiathar, what both he and Ahithophel had suggested to Absalom and the Israelite leaders.
+\v 16 Then he said to them, "Send \add a message\add* quickly to David. Tell him to not stay at the place where people walk across the river, near the desert. Instead, he and his soldiers must cross the \add Jordan River\add* immediately, in order that they will not be killed\f + \ft Or: wiped \f* out."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Then Hushai told the two priests, Zadok and Abiathar, what both he and Ahithophel had suggested to Absalom and the Israelite leaders.
+\v 16 Then he said to them, "Send a message quickly to David. Tell him to not stay at the place where people walk across the river, near the wilderness. Instead, he and his soldiers must cross the Jordan River immediately, in order that they will not be killed."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Then Hushai said to Zadok and to Abiathar the priests, "Ahithophel advised Absalom and the elders of
+Israel in such and such a way, but I have advised something else. 
+\v 16 Now then, go quickly and report to David; say to him, 'Do not camp tonight at the fords of the Arabah, but by all means cross over, or the king will be swallowed up along with all the people who are with him.'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2sa:17|2 Samuel Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2sa/17/13|<<]] | [[en/bible/notes/2sa/17/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,58 @@
+====== Ezekiel 05:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 This is what I, Yahweh the Lord, say: This \add drawing will represent\add* Jerusalem, the city which I have set in the center of the nations, with other countries around it.
+\v 6 But the wicked people of Jerusalem rebelled against obeying my commands, and they show that they are more wicked than the people of the surrounding countries. They rejected my laws and refused to obey my commands.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 This is what I, Yahweh the Lord, say: This drawing will represent Jerusalem, the city that I have placed in the center of the nations, with other countries around it.
+\v 6 But the wicked people of Jerusalem rebel against obeying my commands, and they show that they are more wicked than the people of the surrounding countries. They rejected my laws and refused to obey my commands.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 5 The Lord Yahweh says this: "This is Jerusalem in the midst of the nations, where I have placed her, and where I have surrounded her with other lands.
+\v 6 But she has rejected my decrees with wickedness more than the nations, and my statutes more than the countries that surround her. And they have rejected my judgments and have not walked in my statutes!"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:other:reject]]
+  * [[:yo:obe:other:decree]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:other:reject]]
+  * [[:yo:obe:other:statute]]
+  * [[:yo:obe:kt:walk]]
+===== Translation Notes: =====
+
+Yahweh continues to speak.
+
+  * **Thus says the Lord Yahweh** - "This is what the Lord Yahweh says" or "The Lord Yahweh says this." This sentence introduces what the Lord says.
+  * ** This is Jerusalem** - The word "This" refers to the carving that represents Jerusalem (See: [[en:bible:notes:ezk:04:01|4:1]]) 
+  * **in the midst of the nations** - This refers to the privileged position that Jerusalem had compared to the other nations that were located nearby.
+  * **I have placed her** - Jerusalem is referred to as "her" and "she." (See: [[en:ta:vol2:translate:figs_personification]])
+  * **other lands** - "the neighboring countries" or "the countries around her"
+  * **they have rejected my judgments** - "they have refused to obey my judgments." The word "they" refers to the people of Israel and Jerusalem.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:05|Ezekiel Chapter 05 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:05:03|<<]] | [[:yo:bible:notes:ezk:05:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

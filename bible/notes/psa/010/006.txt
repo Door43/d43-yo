@@ -1,0 +1,73 @@
+====== Psalms 010:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 In their inner beings they think, "Nothing bad will happen to us!
+\q2 We will never have troubles!"
+\q1
+\v 7 When they talk \f + \ft metonymy \f*, they are always cursing, lying, and threatening to harm others.
+\q2 They constantly say \f + \ft metonymy \f* evil things that show that they are ready to do cruel things to others.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 In their minds they think, "Nothing bad will happen to us!
+\q2 We will never have troubles!"
+\q1
+\v 7 When they talk, they are always cursing, lying, and threatening to harm others.
+\q2 They constantly say evil things that show that they are ready to do evil and immoral things.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 He says in his heart," I will never fail;
+\q throughout all generations I will not meet adversity."
+\q
+\v 7 His mouth is full of cursing and deceptive, harmful words:
+\q His tongue injures and destroys.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:other:generation]]
+  * [[:yo:obe:kt:deceive]]
+  * [[:yo:obe:other:tongue]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:010|Psalms Chapter 010 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/010/004|<<]] | [[en/bible/notes/psa/010/008|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

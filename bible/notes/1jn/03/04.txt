@@ -1,0 +1,50 @@
+====== 1 John 03:4-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 But everyone who continues sinning is refusing to obey \add God's\add* laws, because that is what sin is, refusing to obey \add God's\add* laws.
+\v 5 You know that Christ came in order to completely remove \add the guilt of\add* our sins. You know also that he never sinned.
+\v 6 Those who continue \add doing what\add* Christ wants them to, do not continue sinning repeatedly. But those who repeatedly sin have not understood \add who Christ is\add*, nor have they had a close relationship with him.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 But everyone who continues to sin is refusing to obey God's laws, because that is what sin is, refusing to obey God's laws.
+\v 5 You know that Christ came in order to completely remove the guilt of our sins. You know also that he never sinned.
+\v 6 Those who continue doing what Christ wants them to, do not continue sinning repeatedly. But those who repeatedly sin have not understood who Christ is, nor have they truly joined with him.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 4 Everyone who commits sin does lawlessness, and sin is lawlessness.
+\v 5 You know that Christ was revealed in order to take away sins, and in him there is no sin.
+\v 6 Whoever remains in him does not sin. Whoever sins has neither seen him nor known him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:other:lawless]]
+  * [[:yo:obe:kt:christ]]
+  * [[:yo:obe:kt:reveal]]
+
+===== Translation Notes: =====
+
+  * **commits sin**  - "continues to sin" (UDB)
+  * **does lawlessness**  - "is refusing to obey God's law" (UDB)
+  * **You**  - Here "you" is plural and refers to the people John is writing to. (See: [[en:ta:vol1:translate:figs_you]])
+  * **Christ was revealed**  - This can be translated with an active verb: "Christ appeared" or "the Father revealed Christ." (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **remains in him**  - See how this was translated in [[:yo:bible:notes:1jn:02:04|2:5-6]]
+  * **has neither seen him or known him**  - This says the same thing in two different ways for emphasis. This can be translated as "has never truly believed in him." (See: [[en:ta:vol2:translate:figs_doublet|Doublet]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1jn:03|1 John Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1jn:03:01|<<]] | [[:yo:bible:notes:1jn:03:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish  lawless}}
+
+~~NOCACHE~~

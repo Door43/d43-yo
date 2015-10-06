@@ -1,0 +1,68 @@
+====== Deuteronomy 32:41 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 41 that if I sharpen my sword,
+\q2 and I \f + \ft synecdoche \f* prepare to punish people,
+\q1 I will get revenge on my enemies,
+\q2 and I will pay back those who hate me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 41 When I sharpen my sword
+\q and prepare to punish people,
+\q I will get revenge on my enemies,
+\q and I will pay back those who hate me.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 41 When I sharpen my glittering sword,
+\q And when my hand begins to bring justice,
+\q I will render vengeance on my enemies,
+\q And will I pay back those who hate me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:sword]]
+  * [[:yo:obe:kt:justice]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/32/39|<<]] | [[en/bible/notes/deu/32/42|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

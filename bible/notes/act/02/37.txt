@@ -1,0 +1,65 @@
+====== Acts 02:37-39 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 37 When the people heard what \add Peter's said\add*, they felt very guilty \f + \ft idiom \f*. So they asked him and the other apostles, "Fellow-countrymen, what should we\add \f + \ft exclusive \f*\add* do \add so that God will forgive us\add*?"
+\p
+\v 38 Peter \add answered\add* them, "Each of you should turn away from your sinful behavior. Then \add we\f + \ft exclusive \f*\add* will baptize you, if \add you now believe\add* in Jesus Christ. Then \add God\add* will give you the Holy Spirit.
+\v 39 \add God\add* has promised \add to do that\add* \f + \ft metonymy \f* for you and your descendants, and for all \add others who believe in him\add*, even those who \add live\add* far away \add from here\add*. The Lord our God \add will give his Spirit\add* to everyone whom he invites \add to become his people\add*!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 37 When the people heard what Peter and the other apostles said, they knew they had done wrong. The people said to them, "What should we do?"
+\p
+\v 38 Peter answered them, "Each of you should turn away from your sinful behavior. If you now believe in Jesus we will baptize you. God will forgive your sins, and he will give you his Holy Spirit.
+\v 39 God has promised to do this for you and your children, and for all others who believe in Jesus, even those who live far away from here. The Lord our God will give his Holy Spirit to everyone whom he calls to become his people!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 37 Now when they heard this they were pierced in their heart and said to Peter and the rest of the apostles,
+"Brothers, what shall we do?"
+\v 38 And Peter said to them, "Repent and be baptized, each of you, in the name of Jesus Christ for the
+forgiveness of your sins, and you will receive the gift of the Holy Spirit.
+\v 39 For to you is the promise and to your children and to all that are far off,
+as many people as the Lord our God will call."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:heart]]
+  * [[en:obe:other:peter]]
+  * [[en:obe:kt:apostle]]
+  * [[en:obe:kt:brother]]
+  * [[en:obe:kt:repent]]
+  * [[en:obe:kt:baptize]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:forgive]]
+  * [[en:obe:kt:sin]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:kt:promise]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:god]]
+
+===== Translation Notes: =====
+
+  * **pierced in their heart** - Luke uses the metaphor of piercing to emphasize how painful it was for them to hear this statement. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **For to you is the promise** - "The promise is for you"
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:02|Acts Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:act:02:34|<<]] | [[:yo:bible:notes:act:02:40|>>]]**
+
+~~DISCUSSION~~{{tag>publish brother baptize }}
+
+~~NOCACHE~~

@@ -1,0 +1,65 @@
+====== Ezra 01:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 All you people who belong to God may go up to Jerusalem to rebuild this temple for Yahweh, the God who lives in Jerusalem, the God \add who is worshiped by you Israelite\add* people. I desire\f + \ft Or: hope \f* that your God will be with you \add and help those who go\add*.
+\v 4 Those people who are in places where Israelites are living, whose ancestors were exiled here, should contribute silver and gold to those who go. They should also give them supplies \add that they will need for the journey to Jerusalem\add*. They should also give them some livestock, and gifts of money to help build the temple of God in Jerusalem."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 All you people who belong to God may go up to Jerusalem to rebuild this temple for Yahweh, the God who lives in Jerusalem, the God of Israel.
+\v 4 The other people who are living where Israelites are now in exile, whose ancestors were exiled here, must contribute silver and gold to those who go. They should also give the Jews the supplies that 
+they will need for the journey to Jerusalem. They should also give them some livestock and gifts of money to help build the temple of God in Jerusalem."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 Any one of you who comes from his people, may his God be with tou, for you to go up to Jerusalem and build a house for Yahweh, God of Israel, who is the God of Jerusalem.
+\v 4 People of any part of the kingdom where survivors of that land are living should provide them with silver and gold, possessions and animals, as well as a freewill offering for
+God's house in Jerusalem.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezr:01|Ezra Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/01/01|<<]] | [[en/bible/notes/ezr/01/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

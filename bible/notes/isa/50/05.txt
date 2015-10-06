@@ -1,0 +1,74 @@
+====== Isaiah 50:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Yahweh our God has spoken to me [IDI],
+\q2 and I have not rejected what he told me;
+\q2 I have accepted \f + \ft litotes \f* it.
+\q1
+\v 6 I allowed people to beat me on my back
+\q2 and to pull out the whiskers in my beard \add because they hated me\add*.
+\q1 I did not turn away \f + \ft metonymy \f* from them
+\q2 when they made fun of me and spat on me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Yahweh our God has spoken to me,
+\q2 and I have not rejected what he told me;
+\q2 I have accepted it.
+\q1
+\v 6 I allowed people to beat me on my back
+\q2 and to pull out the whiskers in my beard because they hated me.
+\q1 I did not turn away from them
+\q2 when they made fun of me and spat on me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 5 The Lord Yahweh has opened my ear, 
+\q1 and I was not rebellious, nor did I turn away backward.
+\q1
+\v 6 I gave my back to those who beat me, and my cheeks to those who plucked out my beard; 
+\q1 I did not hide my face from acts of shame and spitting.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:yo:obe:other:shame]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **and I was not rebellious, nor did I turn away backward** - By using Litotes, the Servant emphasizes that he has not rejected but accepted what Yahweh has said to him. (See: [[en:ta:vol2:translate:figs_litotes]]) 
+    * **I did not hide my face from acts of shame and spitting** - "Face" represents the person. Here the Servant uses the word face as a shorter way of referring to himself. (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:50|Isaiah Chapter 50 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/50/04|<<]] | [[en/bible/notes/isa/50/07|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

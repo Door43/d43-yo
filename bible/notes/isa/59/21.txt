@@ -1,0 +1,54 @@
+====== Isaiah 59:21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 This is what Yahweh says to his people: "This is the agreement that I will make with you:
+\q1 My Spirit will not leave you,
+\q2 and you will always have my message.
+\q1 You will \add be able to\add* declare it \f + \ft metonymy \f*,
+\q2 and your children and grandchildren will be able to declare it forever."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 This is what Yahweh says to his people: "This is the covenant that I will make with you: My Spirit will not leave you, and you will always have my message. You will be able to declare it, and your children and grandchildren will be able to declare it forever."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 "And as for me, this is my covenant with them," says Yahweh, "My spirit who is upon you, and my words which I have put in your mouth, will not leave your mouth, or go out of the mouth of your children, or go out of the mouth of your children's children, says Yahweh, from this time and forever.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:kt:forever]]
+ 
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:59|Isaiah Chapter 59 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/59/19|<<]] | [[en/bible/notes/isa/60/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

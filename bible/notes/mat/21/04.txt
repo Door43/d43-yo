@@ -1,0 +1,58 @@
+====== Matthew 21:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4-5 When all this happened, what was written by a prophet \f + \ft Or:what a prophet wrote about \f* was fulfilled \f + \ft Or:happened \f*. The prophet wrote, "Tell the people who live in Jerusalem \f + \ft synecdoche \f*, 'Look! Your king is coming to you! He will come humbly. He \add will show that he is humble, because he will be\add* riding on a colt, the offspring of a donkey.'"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4-5 When all this happened, what one of the prophets had written came true. That prophet had written, “Tell the people who live in Jerusalem, 'Look! Your king is coming to you! He will come humbly. He will show that he is humble, because he will be riding on a colt, the offspring of a donkey.'"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 4 Now this came about that there might be fulfilled that which had been spoken through the prophet. He said,
+\q
+\v 5 "Tell the daughter of Zion,
+\q See, your King is coming to you, 
+\q Humble and riding on a donkey,
+\q And on a colt, the foal of a donkey."
+\m
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:fulfill]]
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:humble]]
+  * [[:yo:obe:other:donkey]]
+
+
+===== Translation Notes: =====
+
+This continues the account of Jesus riding a donkey into Jerusalem.
+
+  * **that there might be fulfilled that which had been spoken through the prophet** - "God had said this many years ahead of time by his prophet that this was going to happen." (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **that which had been spoken through the prophet** - "that which a prophet had told before it happened." (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **daughter of Zion** - Israel (See: [[:yo:ta:vol2:translate:figs_synecdoche]])
+  * **donkey** - an animal ridden by poor people
+  * **colt** - a young male donkey
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:21|Matthew Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:21:01|<<]] | [[:yo:bible:notes:mat:21:06|>>]]**
+
+~~DISCUSSION~~{{tag>review text zion}}
+
+~~NOCACHE~~

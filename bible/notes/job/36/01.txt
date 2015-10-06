@@ -1,0 +1,81 @@
+====== Job 36:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Elihu \add finished speaking by\add* saying this:
+\q1
+\v 2 "\add Job\add*, be patient with me a little longer,
+\q2 because I have something else to teach you.
+\q2 I have something else to say that God \add wants you to know\add*.
+\q1
+\v 3 I will tell you what I have learned from many sources,
+\q2 in order to show that God, my creator, is just\f + \ft Or: fair \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Elihu finished speaking by saying this:
+\q1
+\v 2 "Job, be patient with me a little longer
+\q2 because I have something else to teach you.
+\q2 I have something else to say in order to prove that God does no wrong.
+\q1
+\v 3 I will tell you what I have learned from many sources,
+\q2 in order to show that God, my creator, is just.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 36
+\p
+\v 1 Elihu continued on and said,
+\q
+\v 2 “Permit me to speak a little longer, and I will show you some things
+\q because I have a little more to say in defense of God.
+\q
+\v 3 I will obtain my knowledge from far off;
+\q I will acknowledge that righteousness belongs to my Maker.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:know]]
+  * [[:yo:obe:kt:righteous]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:36|Job Chapter 36 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/35/15|<<]] | [[en/bible/notes/job/36/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

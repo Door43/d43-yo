@@ -1,0 +1,48 @@
+====== Ezekiel 31:12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 A foreign army, one that has caused people of other nations to be terrified, cut it down and left it. Its branches fell on the mountains and in the valleys. Some of its branches lay broken in all the ravines in the land. All the people of other nations came out from being under its shade and left it.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 A foreign army, one that has caused people of other nations to be terrified, cut it down and left it. Its branches fell on the mountains and in the valleys. Some of its branches lay broken in all the ravines in the land. All the people of other nations came out from being under its shade and left it.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 Foreigners who were the terror of all the nations cut him off and then abandoned him. His branches fell off onto the mountains and into the valleys, and his boughs were broken in all the streams on the earth. Then all the nations on earth went out from his shade and left him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:foreigner]]
+  * [[en:obe:other:terror]]
+  * [[:yo:obe:kt:cutoff]]
+  * [[en:obe:other:earth]]
+
+
+===== Translation Notes: =====
+
+Yahweh's parable about the cedar continues.
+
+  * **who were the terror of all the nations** - "who made all the nations afraid" 
+  * **cut him off** - "cut the cedar down"
+  * **then abandoned him** - "left the cedar all by himself"
+  * **and his boughs were broken** - "and the foreigners broke the boughs of the cedar"
+  * **boughs** - Boughs are very large branches that grow on trees. Usually, many smaller branches grow on the boughs.
+  * **went out from his shade** – "left the shade of the cedar"
+  * **and left him** - "left the cedar all by himself"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:31|Ezekiel Chapter 31 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:31:10|<<]] | [[:yo:bible:notes:ezk:31:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

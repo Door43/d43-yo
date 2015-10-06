@@ -1,0 +1,64 @@
+====== Deuteronomy 28:38-39 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 38 You will plant plenty of seeds in your fields, but you will reap only a small harvest, because locusts will eat the crops.
+\pi
+\v 39 You will plant grapevines and take care of them, but you will not pick any grapes to make wine, because worms will eat the vines.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 38 You will plant plenty of seeds in your fields, but you will reap only a small harvest, because locusts will eat the crops.
+\pi
+\v 39 You will plant grapevines and take care of them, but you will not pick any grapes to make wine, because worms will eat the vines.
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 38 You will take much seed out into the field, but will gather little seed in, for the locusts will consume it.
+\v 39 You will plant vineyards and cultivate them, but you will neither drink any of the wine, nor even gather in the grapes, for worms will eat them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:seed]]
+  * [[:yo:obe:other:wine]]
+  * [[:yo:obe:other:grape]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/28/36|<<]] | [[en/bible/notes/deu/28/40|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

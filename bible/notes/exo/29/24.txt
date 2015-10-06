@@ -1,0 +1,46 @@
+====== Exodus 29:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 Put all these things in the hands of Aaron and his sons. \add Then tell them to\add* lift them up \add high\add* to dedicate them to me.
+\v 25 Then take them from their hands and burn them on the altar, on top of the other things \add that were placed there\add*. That \add also\add* will be an offering to me, and its smell will please me.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 Put all these things in the hands of Aaron and his sons. Then tell them to lift them up high to dedicate them to me.
+\v 25 Then take them from their hands and burn them on the altar, on top of the other things that were placed there. That also will be an offering to me, and its smell will please me.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 24 You must put these in Aaron's hands and in the hands of his sons. They must raise them up before me, Yahweh, and present them as an offering to me.
+\v 25 You must then take the food from their hands and burn it on the altar with the burnt offering. It will produce a sweet aroma for me; it will be an offering made to me by fire.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:aaron]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:sacrifice]]
+  * [[:yo:obe:other:altar]]
+  * [[:yo:obe:other:burntoffering]]
+
+===== Translation Notes: =====
+
+God continues speaking to Moses.
+
+  * **You must put these** - Here "these" refers to the parts of the sacrifice mentioned in the previous verses.
+  * **it will be an offering made to me by fire** - AT: "it will be a burnt offering to me" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:29|Exodus Chapter 29 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:29:22|<<]] | [[:yo:bible:notes:exo:29:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

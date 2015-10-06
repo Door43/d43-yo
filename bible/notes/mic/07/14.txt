@@ -1,0 +1,92 @@
+====== Micah 07:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Yahweh, protect your people like \f + \ft metaphor \f* \add a shepherd protects his sheep\add* by using his walking stick;
+\q2 lead your people \f + \ft metaphor \f* whom you have chosen to belong to you.
+\q1 Even though \add some of them\add* live by themselves in a forest,
+\q2 give them the fertile pastureland
+\q1 in the Bashan and Gilead \add regions\add*
+\q2 that they possessed long ago.
+\b
+\p
+\v 15 Yahweh says\f + \ft Or: replies \f*,
+\q1 "Yes, I will perform miracles for you
+\q2 like the miracles that I performed when I rescued your \add ancestors\add* from \add being slaves in\add* Egypt."
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Yahweh, protect your people as a shepherd protects his sheep with his staff.
+\q2 Lead the people whom you have chosen to belong to you.
+\q1 Even though some of them live by themselves in a forest,
+\q2 give them the fertile pastureland
+\q1 in the regions of Bashan and Gilead,
+\q2 which they possessed long ago.
+\b
+\p
+\v 15 Yahweh says,
+\q1 "Yes, I will perform miracles for you
+\q2 like the miracles that I performed when I rescued your ancestors from being slaves in Egypt."
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 14 Shepherd your people with your rod,
+\q the flock of your inheritance.
+\q Even though they are living alone
+\q in a forest by Mount Carmel,
+\q let them feed in Bashan and Gilead
+\q as in ancient days.
+\q
+\v 15 As in the days when you came out of the land of Egypt,
+\q I will show them wonders.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mic:07|Micah Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/mic/07/11|<<]] | [[en/bible/notes/mic/07/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

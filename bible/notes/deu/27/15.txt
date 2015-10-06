@@ -1,0 +1,63 @@
+====== Deuteronomy 27:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 'Yahweh will curse anyone who makes an idol of stone, or of wood, or of metal, and secretly sets it up \add and worships it\add*.
+\q2 Yahweh considers that those things are detestable\f + \ft Or: disgusting \f*.'
+\q2 And all the people must reply, 'Amen\f + \ft Or: We want that to happen \f*.'
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 'Yahweh will curse anyone who carves a figure from wood or stone or casts a figure from metal, and secretly sets it up and worships it.
+\q2 Yahweh considers that those things are detestable.'
+\q2 And all the people must reply, 'Amen.'
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 ‘May the man be cursed, he who makes a carved or cast figure, something disgusting to Yahweh, the work of the hands of a craftsman, and who sets it up in secret.’ And all the people must answer and say, ‘Amen.’
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:image]]
+  * [[:yo:obe:kt:amen]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:27|Deuteronomy Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/27/13|<<]] | [[en/bible/notes/deu/27/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

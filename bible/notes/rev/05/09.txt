@@ -1,0 +1,87 @@
+====== Revelation 05:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 The living \add creatures\add* and the elders sang a new song. They sang:
+\q1 You are worthy to receive the scroll and to open its seals,
+\q1 because you were killed, and because you redeemed\f + \ft Or: bought \f*
+\q1 people for God from every tribe, language \f + \ft metonymy \f*, people-group,
+\q1 and nation with the blood that flowed from your body when you died.
+\q1
+\v 10 You have caused them to become a people over whom our God rules,
+\q1 and to become priests who serve him, and they will rule on \f + \ft metonymy \f* the earth.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 The living creatures and the elders sang a new song. They sang:
+\q1 "You are worthy to receive the scroll and to open its seals
+\q1 because you were killed, and because you redeemed
+\q1 people for God from every tribe, language, people,
+\q1 and people group with your blood when you died.
+\q1
+\v 10 You have caused them to become a people over whom our God rules
+\q1 and to become priests who serve him; they will rule on the earth."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 They sang a new song:
+\q "You are worthy to take the scroll 
+\q2 and to open its seals. 
+\q For you were slaughtered, and with your blood you purchased for God 
+\q2 people from every tribe, language, people and nation.
+\q
+\v 10 You made them a kingdom and priests to serve our God, 
+\q2 and they will reign on the earth."
+\m
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:blood]]
+  * [[:yo:obe:other:tribe]]
+  * [[:yo:obe:other:tongue]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:other:kingdom]]
+  * [[:yo:obe:kt:priest]]
+  * [[:yo:obe:other:reign]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rev:05|Revelation Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/05/08|<<]] | [[en/bible/notes/rev/05/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

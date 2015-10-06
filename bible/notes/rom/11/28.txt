@@ -1,0 +1,56 @@
+====== Romans 11:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 With regard to \add the Jews rejecting\add* the good message \add about Christ, God treats\add* them as enemies, which has benefited you \add non-Jews\add*. But in regard to \add their being the people whom God\add* chose, \add God still\add* loves them because of \add what he promised\add* their ancestors.
+\v 29 \add He still loves them\add*, because he never changed his mind about the privileges\f + \ft Or: blessings \f* he \add gave to them\add* and about his choosing \add them to be his people\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 because the Jews rejected the good news about Christ, God treats them as enemies, and that has helped you non-Jews. But because they are the people whom God chose, God still loves them because of what he promised to do for their ancestors.
+\v 29 He still loves them, because he never changed his mind about what he has promised to give them, and about how he has called them to be his own people.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 On the one hand concerning the gospel, they are hated because of you, but on the other hand according to God's choice, they are beloved because of the ancestors.
+\v 29 For the gifts and the call of God are unchangeable.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:goodnews]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:beloved]]
+  * [[:yo:obe:kt:gift]]
+  * [[:yo:obe:kt:call]]
+
+===== Translation Notes: =====
+
+
+    * **On the one hand...on the other hand** - This is a pair of phrases used to compare two different facts about a subject.  Paul uses these phrases to explain that God has rejected the Jews, but he also still loves them.
+    * **they are hated because of you** - "God hates the Jews because of you Gentile believers" (See: [[en:ta:vol2:translate:figs_activepassive]]) God's love for the Gentiles was so great that his love for the Jews seemed like hatred in comparison. (See: [[en:ta:vol2:translate:figs_hyperbole]])
+    * **For the gifts and the call of God are unchangeable** - "Because the gifts and the call of God cannot change"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:11|Romans Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rom/11/26|<<]] | [[en/bible/notes/rom/11/30|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

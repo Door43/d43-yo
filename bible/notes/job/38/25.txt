@@ -1,0 +1,80 @@
+====== Job 38:25-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 Who created the channels in which the rain comes down from the sky?
+\q2 Who makes the roads for the thunder\f + \ft Or: lightning \f*?
+\q1
+\v 26 Who causes rain to fall in the desert,
+\q2 in places where no one lives?
+\q1
+\v 27 Who sends the rain that gives moisture\f + \ft Or: water \f* to areas where nothing has grown,
+\q2 with the result that grass begins to grow again?
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 Who created the channels in which the rain comes down from the sky?
+\q2 Who makes the roads for the thunder in the air?
+\q1
+\v 26 Who causes rain to fall in the desert,
+\q2 in places where no one lives?
+\q1
+\v 27 Who sends the rain that gives moisture to barren areas, areas where nothing has grown,
+\q2 so that grass begins to grow again?
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 25 Who has created the channels for the floods of rain,
+\q or who has made the routes for the outbursts of thunder,
+\q
+\v 26 to cause it to rain on lands where no person exists,
+\q and on the wilderness, in which there is no one,
+\q
+\v 27 in order to meet the needs of the barren and lonely regions,
+\q and to make the tender grass sprout up?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:creation]]
+  * [[:yo:obe:other:desert]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:38|Job Chapter 38 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/38/22|<<]] | [[en/bible/notes/job/38/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

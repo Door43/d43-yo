@@ -1,0 +1,69 @@
+====== John 05:16-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 So the Jewish \add leaders\add* \f + \ft synecdoche \f* started to harass Jesus, because Jesus was doing these things on the Sabbath\f + \ft Or: on the Jewish rest day \f*.
+\v 17 Then Jesus replied to them, "My Father has always been working every day, \add including\add* \add the Sabbath\f + \ft Or: the day of rest\add* \f*, up until now. I am doing the same thing!"
+\v 18 The Jewish leaders \f + \ft synecdoche \f* considered that he was disobeying their rules about the Sabbath\f + \ft Or: the day of rest \f*, and that by saying that God was his Father, he was making himself equal with God. And they considered that both these things were grounds for killing him. So they sought even harder for a way to kill him.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 So the Jews began efforts to stop Jesus because he was doing marvelous things and was showing his power and because he often did those works on the Sabbath day.
+\v 17 Jesus gave this answer to them, "My Father is working even now, and I am also working."
+\v 18 This is why the Jews were trying more and more to put Jesus to death, not only because he was breaking the Sabbath day, but also because he even called God his own Father, claiming that he was equal to God.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 Now because of these things the Jewish leaders persecuted Jesus, because he did these things on the Sabbath.
+\v 17 Jesus told them, "My Father is working even now, and I, too, work."
+\v 18 Because of this, the Jews sought all the more to kill him because he not only broke the Sabbath, but also called God
+his own Father, making himself equal to God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jewishleaders]]
+  * [[:yo:obe:other:persecute]]
+  * [[:En:obe:kt:sabbath]]
+  * [[en:obe:kt:jesus]]
+  * [[:yo:obe:kt:godthefather]]
+  * [[en:obe:kt:works]]
+  * [[:yo:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+  * **Now** - This word is used here to mark a break in the main storyline. Here John starts to tell a new part of the story.
+  * **making himself equal to God** - "saying that he was like God" or "saying that he had as much authority as God"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:05|John Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/05/14|<<]] | [[en/bible/notes/jhn/05/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish persecute}}
+
+~~NOCACHE~~

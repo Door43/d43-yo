@@ -1,0 +1,70 @@
+====== Isaiah 03:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 He will appoint boys to be your leaders;
+\q2 your children will rule you.
+\q1
+\v 5 People will treat each other cruelly:
+\q2 people will fight against their neighbors.
+\q1 Young people will insult older people,
+\q2 and vulgar\f + \ft Or: dishonorable \f* people will sneer at people who should be honored.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Yahweh says, "I will appoint boys to be your leaders;
+\q2 young children will rule you.
+\q1
+\v 5 People will treat each other cruelly:
+\q2 people will fight against their neighbors.
+\q1 Young people will insult older people,
+\q2 and vulgar people will sneer at people whom others usually honor.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 4 "I will place mere youths as their leaders, and the young will rule over them.
+\q1
+\v 5 The people will be oppressed, every one by another, and every one by his neighbor;
+\q1 the child will proudly defy the elderly, and the degraded will challenge the honorable.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:peoplegroup]]
+  * [[en:obe:other:neighbor]]
+  * [[en:obe:kt:children]]
+  * [[en:obe:other:proud]]
+  * [[en:obe:other:honor]]
+
+===== Translation Notes: =====
+
+  * **I will place mere youths **  - Here the word "I" refers to Yahweh. This can also be translated as "He will appoint boys" (UDB) or "The Lord says 'I will place mere youths'."
+  * **I will place mere youths as their leaders, and the young will rule over them**  - These phrases mean basically the same thing and emphasize that bad leaders will rule Judah. God was comparing the leaders with "youths" and "the young." This means their leaders would act like children and their bad decisions would cause harm to Judah. This could be translated as "I will allow men who act like children to be their leaders." (See: [[en:ta:vol2:translate:figs_doublet|Doublet]] and [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **The people will be oppressed, every one by another, and every one by his neighbor**  - This can be translated with an active verb: "Everyone will be cruel to others and will mistreat his neighbor." (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **the degraded** - "the people who are without honor"
+  * **the honorable**  - "the people with honor" 
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:03|Isaiah Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:03:01|<<]] | [[:yo:bible:notes:isa:03:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

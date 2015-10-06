@@ -1,0 +1,67 @@
+====== 2 Kings 22:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add After Shaphan said that to Hilkiah\add* the king's secretary, Hilkiah said to Shaphan, "I have found in the temple a scroll on which is written the laws \add that God gave to Moses\add*!" Hilkiah gave the scroll to Shaphan, and he started to read it.
+\v 9 Then Shaphan \add took the scroll\add* to the king and said to him, "Your temple guards have taken the money that was in the temple, and they have given it to the men who will supervise the work of repairing the temple."
+\v 10 Then Shaphan said to the king, "I \add have brought to you\add* a scroll that Hilkiah gave to me." And Shaphan started to read it to the king.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 After Shaphan said that to Hilkiah the king's secretary, Hilkiah said to Shaphan, "I have found in the temple a scroll on which is written the laws that God gave to Moses!" Hilkiah gave the scroll to Shaphan, and he started to read it.
+\v 9 Then Shaphan took the scroll to the king and said to him, "Your temple guards have taken the money that was in the temple, and they have given it to the men who will supervise the work of repairing the temple."
+\v 10 Then Shaphan said to the king, "I have brought to you a scroll that Hilkiah gave to me." And Shaphan started to read it to the king.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 Hilkiah the high priest said to Shaphan the scribe, "I have found the book of the Law in the house of Yahweh.” So Hilkiah gave the book to Shaphan, and he read it.
+\v 9 Shaphan went and took the book to the king, and also reported to him, saying, "Your servants have spent the money that was found in the temple and have given it to the supervisors who took care of the house of Yahweh."
+\v 10 Then Shaphan the scribe said to the king, "Hilkiah the priest has given me a book." Then Shaphan read it to the king.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lawofmoses]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:report]]
+  * [[:yo:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:22|2 Kings Chapter 22 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/22/06|<<]] | [[en/bible/notes/2ki/22/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

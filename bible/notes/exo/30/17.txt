@@ -1,0 +1,44 @@
+====== Exodus 30:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Yahweh \add also\add* said to Moses\f + \ft Or: me \f*,
+\v 18 "Tell \add the skilled workers\add* to make a bronze washbasin and a bronze base for it. \add They must\add* put it between the Sacred Tent and the altar, and fill it with water.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Yahweh said to Moses,
+\v 18 "Tell the skilled workers to make a bronze washbasin and a bronze base for it. They must put it between the sacred tent and the altar and must fill it with water.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 Yahweh spoke to Moses, 
+\v 18 "You must also make a large bronze basin with a bronze stand, a basin for  washing. You must  put it between the tent of meeting and the altar, and you must put water in it.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:Yahweh]]
+  * [[en:obe:other:moses]]
+  * [[:yo:obe:other:bronze]]
+  * [[en:obe:other:tentofmeeting]]
+  * [[en:obe:other:altar]]
+
+===== Translation Notes: =====
+
+  * **You must also make** - Here "you" refers to Moses and the people of Israel. (See: [[:yo:ta:vol1:translate:figs_you]])
+  * **and the altar** - The alter of sacrifice
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:30|Exodus Chapter 30 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:30:15|<<]] | [[:yo:bible:notes:exo:30:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,70 @@
+====== Psalms 077:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 \add All during the night\add* he prevents me from sleeping;
+\q2 I am very worried, with the result that I do not know what to say.
+\q1
+\v 5 I think about days that have passed;
+\q2 I remember \add what happened in\add* previous years.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 All during the night he prevented me from sleeping;
+\q2 I was so worried that I did not know what to say.
+\q1
+\v 5 I thought about days that had passed;
+\q2 I remembered what had happened in previous years.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 You held my eyes open;
+\q I was too troubled to speak.
+\q
+\v 5 I thought about the days of old,
+\q about times long past.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:trouble]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:077|Psalms Chapter 077 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/077/002|<<]] | [[en/bible/notes/psa/077/006|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book3}}
+
+~~NOCACHE~~

@@ -1,0 +1,60 @@
+====== Zechariah 12:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 "I, \add Yahweh\add*, will cause the descendants \f + \ft metonymy \f* of \add King\add* David to act very kindly and mercifully. They will look at me, the one who has been stabbed, and they will cry bitterly, like people cry for a firstborn son \add who has died\add* \f + \ft doublet \f*.
+\v 11 At that time, many people in Jerusalem will be crying bitterly, like people cried \add when King Josiah was killed in the battle\add* at Hadad-Rimmon on the Megiddo Plain.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 "I, Yahweh, will cause the descendants of David to feel very sorry, and to beg me to have mercy upon them; they gaze at me, whom they pierced." They will cry bitterly, like people cry for a firstborn son who has died.
+\v 11 At that time, many people in Jerusalem will be crying bitterly, like people cried when King Josiah died in the battle at Hadad Rimmon on the plain of Megiddo.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 But I will pour out a spirit of compassion and supplication upon the house of David and the inhabitants of Jerusalem, 
+so they will look on me, the one they have pierced!" They will mourn for him, as one mourns for an only son, and lament
+ for him like those who lament the death of a firstborn son.
+\v 11 In that day the laments for Jerusalem will be like the laments of Hadad Rimmon in the plains of Megiddo.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:spirit|spirit]]
+  * compassion
+  * house
+  * David
+  * Jerusalem
+  * mourn
+  * [[:yo:obe:kt:lament|lament]]
+  * son
+  * death
+  * [[:yo:obe:kt:firstborn|firstborn]]
+
+===== Translation Notes: =====
+
+  * **I will pour out a spirit of compassion and supplication**  - AT: "I will give the people a spirit to have (or "an attitude of") mercy and prayer.
+  * **the one they have pierced **- AT: "the one whose body they have pierced (or "stabbed")
+  * **will mourn for him, as one mourns for an only son,**  - See (Simile)  See UDB
+  * **lament for him like those who lament the death**  - See (Simile)  See UDB
+  * **the laments for Jerusalem will be like the laments of Hadad**  - See (Simile)  See UDB
+  * **Megiddo**  - This is the name of a town. (See: [[:yo:ta:vol1:translate:translate_names|Translate Names]]).
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:zec:12|Zechariah Chapter 12 Comprehension Questions]]**
+**[[:yo:bible:notes:zec:12:07|<<]] | [[:yo:bible:notes:zec:12:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

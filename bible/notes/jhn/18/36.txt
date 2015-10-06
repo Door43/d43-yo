@@ -1,0 +1,54 @@
+====== John 18:36-37 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 Jesus replied, "It is not people in \f + \ft metonymy \f* this world who are \add making me\add* king. If it was people in this world who were making me a king, my disciples would have fought in order that the Jewish \add leaders\add* \f + \ft synecdoche \f* would be prevented \f + \ft Or:to prevent the Jewish \add leaders\add* \f + \ft synecdoche \f* \f* from seizing me. But it is not \add someone here in\add* this world who is making me a king."
+\v 37 Then Pilate said to him, "So \add are you saying that\add* you are a king?" Jesus replied, "\add Yes\add*, what you have said about my being a king \add is correct\add*. I was born to become a king, and I came into this world to tell people the truth \add about God\add*. Everyone who \add believes\add* the truth pays attention to what I say."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 Jesus replied, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting to keep me from being handed over to my Jewish opponents, but my kingdom is not of this world."
+\v 37 Then Pilate said to him, "So you are a king?" Jesus replied, "Yes. The reason I was born and came into this world was to tell people the truth about God. Everyone who loves the truth listens to me."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 Jesus answered, “My kingdom is not part of this world. If my kingdom were part of this world, then my servants would fight so that I should not be delivered to the Jews. Actually my kingdom does not come from here.”
+\v 37 Pilate then said to him, “Are you a king then?” Jesus answered, “You say that I am a king. For this purpose I have been born, and for this purpose I have come into the world so that I should bear witness to the truth. Everyone who belongs to the truth listens to my voice.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:kingdom]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:jew]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:kt:witness]]
+  * [[:yo:obe:kt:true]]
+ 
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:18|John Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/18/33|<<]] | [[en/bible/notes/jhn/18/38|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

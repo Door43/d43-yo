@@ -1,0 +1,61 @@
+====== Ezekiel 22:30-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 I looked among them to find a man who would cause the people of the city to repent \f + \ft metaphor \f* so that I would not need to get rid of them. But I did not find anyone.
+\v 31 So because I am very angry with them, I will severely punish them \f + \ft metonymy \f* for all the wicked things that they have done. \add That will surely happen because\add* I, Yahweh the Lord, have said it."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 I looked among them to find a man who would pray for the people and cause them to repent so that I would not need to destroy them. But I did not find anyone.
+\v 31 So because I am very angry with them, I will severely punish them for all the wicked things that they have done. That will surely happen because I, Yahweh the Lord, have said it."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 30 So I searched for a man from them who would build up a wall and who would stand before me in its breach for the land so I would not destroy it, but I found no one.
+\v 31 So I will pour out my indignation upon them! I will finish them with the fire of my indignation and set their way on their own heads.’ This is the Lord Yahweh’s declaration.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:head]]
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:yo:obe:other:declare]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **I**  - This pronoun refers to Yahweh.
+    * **them**  - This pronoun refers to the "people of the land" (see verse 29), the people of Israel (see verse 18).
+    * **build up a wall** - In ancient Israel, walls were a primary form of defense for a city. God is looking for someone who will defend Israel against His accusations. (See: Metaphor)
+    * **stand in the breach** - This phrase means to stand in the space between two things. There is a relationship gap between God and his people. He is looking for someone to stand before him on behalf of the people. He is looking for someone to intercede for them, to make a case for them. (See: Metaphor)
+    * **breach**  - This word refers to a hole or opening, in this case the gap in the wall.
+    * **pour out my indignation upon them!** - God describes the execution of His judgment in terms of anger that is poured out. It flows. It touches everything, like water that is poured out. (See: Metaphor)
+    * **I will finish them with the fire of my indignation** - This phrase means that God will punish them severely in His anger.
+    * **set their way upon their own heads** - The Israelites have treated others badly in many ways. This phrase means that God will treat them as they have treated others. (See: Metaphor)
+    * **declaration**  - This word means a formal announcement either verbally or in writing.
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:22|Ezekiel Chapter 22 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezk/22/29|<<]] | [[en/bible/notes/ezk/23/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

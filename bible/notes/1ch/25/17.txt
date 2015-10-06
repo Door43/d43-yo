@@ -1,0 +1,79 @@
+====== 1 Chronicles 25:17-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Next, Shimei and 12 of his sons and relatives were selected.
+\li
+\v 18 Next, Azarel and 12 of his sons and relatives were selected.
+\li
+\v 19 Next, Hashabiah and 12 of his sons and relatives were selected.
+\li
+\v 20 Next, Shubael and 12 of his sons and relatives were selected.
+\li
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Next, Shimei and 12 of his sons and relatives were selected.
+\li
+\v 18 Next, Azarel and 12 of his sons and relatives were selected.
+\li
+\v 19 Next, Hashabiah and 12 of his sons and relatives were selected.
+\li
+\v 20 Next, Shubael and 12 of his sons and relatives were selected.
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 the tenth fell to Shimei, his sons and his relatives, twelve persons in number;
+\q
+\v 18 the eleventh fell to Azarel, his sons and his relatives, twelve persons in number;
+\q
+\v 19 the twelfth fell to Hashabiah, his sons and his relatives, twelve persons in number;
+\q
+\v 20 the thirteenth fell to Shubael, his sons and his relatives, twelve persons in number;
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ch:25|1 Chronicles Chapter 25 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/25/13|<<]] | [[en/bible/notes/1ch/25/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

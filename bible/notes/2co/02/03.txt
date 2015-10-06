@@ -1,0 +1,59 @@
+====== 2 Corinthians 02:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 So, \add instead of going to visit you at that time\add*, I wrote a letter  \add and sent it to you\add*. I wrote it the way I did so that  \add you would know what you should do. Then\add* when I come to visit you, you will not make me unhappy when you should be causing me to rejoice. I was quite sure that all of you  \add would do what I told you to do in that letter, and because of that\add* I would be happy and you would be happy, too.
+\v 4 I wrote to you  \add the way I did\add* because I felt very troubled and distressed about you. I was even crying very much as I wrote. \add My purpose in writing was\add* not in order to make you feel bad, but, instead, in order that you might know how deeply\f + \ft Or: much \f* I love you.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 I wrote that letter to you so when I came to you, you would not make me feel sad again—you, who should actually make me rejoice! I was sure that we all have the reasons to be joyful.
+\v 4 I wrote to you then because I still had much hurt and pain in my heart—I cried many tears for you, and I did not want to hurt you anymore. I want you to know how much I love all of you. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 And I wrote as I did so that when I came to you I might not be hurt by those who should have made me rejoice. I have confidence about all of you that my joy is same joy you all have.
+\v 4 For I wrote to you from great affliction, with anguish of heart, and with many tears, not wanting to cause you pain, but so you would know the depth of the love that I have for you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rejoice]]
+  * [[en:obe:kt:confidence]]
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:kt:afflict]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:love]]
+ 
+===== Translation Notes: =====
+
+  * ** I might not be hurt by those** - Paul is speaking about the behavior of certain Corinthian believers that caused him emotional pain.  AT: "I might not be hurt by the actions of those"
+  * **from great affliction, with anguish of heart, and with many tears** - These phrases express Paul's great sadness and wrote with great difficulty because of his love for the people of Corinth. AT: "with great difficulty because of the great sadness caused by my concern for you" (See: [[:yo:ta:vol2:translate:figs_parallelism]])
+     
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2co:02|2 Corinthians Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2co/02/01|<<]] | [[en/bible/notes/2co/02/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

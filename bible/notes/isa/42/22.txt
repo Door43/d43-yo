@@ -1,0 +1,73 @@
+====== Isaiah 42:22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 But \add the armies of Babylon have destroyed Jerusalem\add* and have completely plundered\f + \ft Or: taken away \f* \f + \ft doublet \f* all the valuable things,
+\q2 and they have captured Yahweh's people
+\q2 and taken them away and put them in prison.
+\q1 They have been captured easily,
+\q2 because there was no one to protect them;
+\q1 there was no one to say that they should be allowed to return home.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 But armies have destroyed Jerusalem and have completely plundered all the valuable things,
+\q2 and they have captured Yahweh's people
+\q2 and taken them away and put them in prison.
+\q1 They have been captured easily,
+\q2 because there was no one to protect them;
+\q1 there was no one to say that they should be allowed to return home.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 22 But this is a people robbed and plundered;
+\q1 they are all trapped in pits, held captive in prisons; 
+\q1 they have become a plunder with no one to rescue them, and no one says, "Bring them back!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:pit]]
+  * [[:yo:obe:other:captive]]
+  * [[:yo:obe:other:prison]]
+
+ 
+
+===== Translation Notes: =====
+Yahweh continues speaking.
+
+    * **But this is a people robbed and plundered** - AT: "But the enemy has robbed and plundered this people" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+    * **held captive in prisons** - AT: "and they are prisoners" or "and the enemy has put them in prisons"
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:42|Isaiah Chapter 42 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/42/20|<<]] | [[en/bible/notes/isa/42/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

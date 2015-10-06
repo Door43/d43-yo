@@ -1,0 +1,52 @@
+====== Genesis 25:23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Yahweh said to her, "The older one of the twins within you will serve the younger one. The twins will be ancestors of two nations. And those two people-groups will separate from each other." \f + \ft chiasmus \f*
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 Yahweh said to her, "Two nations will come from the twins within you. And those two nations will separate from each other, and one will be stronger than the other. And the older will serve the younger."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 Yahweh said to her,
+\q "Two nations are in your womb,
+\q and two peoples will be separated from within you.
+\q One people will be stronger than the other,
+\q and the older will serve the younger."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:womb]]
+  * [[:yo:obe:other:serve]]
+
+===== Translation Notes: =====
+
+  * **said to her**  - "said to Rebekah"
+  * **Two nations are in your womb** - This is poetic language that means the two children will start two separate nations. Alternate translations: "Two nations will come from the twins within you" or "The two babies in your womb will each become the ancestor of a nation." 
+  * **And two peoples will be separated from within you** - This can be translated with an active verb: "And those two groups of people will separate from each other even when you give birth to them." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **the older will serve the younger** - Possible meanings are 1) "the older son will serve the younger son" or 2) "the descendants of the older son will serve the descendants of the younger son." If possible, translate it so that people could understand either meaning. (See: [[en:ta:vol2:translate:figs_ambiguity]])
+
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:25|Genesis Chapter 25 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:25:21|<<]] | [[:yo:bible:notes:gen:25:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish womb serve}}
+
+~~NOCACHE~~

@@ -1,0 +1,65 @@
+====== Leviticus 07:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Offerings of things made from grain that are baked in an oven or cooked in a pan or in a shallow pan\f + \ft Or: on a griddle \f* belong to the priest who makes those offerings for another person.
+\v 10 And offerings of things made from grain, whether they were mixed with olive oil or not, also belong to the sons of Aaron."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Offerings of things made from flour that are baked in an oven or cooked in a pan or in a shallow pan belong to the priest who sacrifices those things for another person.
+\v 10 And offerings of things made from flour, whether they were mixed with olive oil or not, also belong to the Aaron's descendants.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Every grain offering that is baked in an oven, and every such offering that is cooked in a frying pan or in a baking pan will belong to the priest who offers it.
+\v 10 Every grain offering, either dry or mixed with oil, will belong equally to all the descendants of Aaron.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:grain]]
+  * [[:yo:obe:other:oil]]
+  * [[:yo:obe:other:descendant]]
+  * [[:yo:obe:other:aaron]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lev:07|Leviticus Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/07/07|<<]] | [[en/bible/notes/lev/07/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

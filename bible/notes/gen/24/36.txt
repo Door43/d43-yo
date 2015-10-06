@@ -1,0 +1,54 @@
+====== Genesis 24:36-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 My master's wife, Sarah, bore a son for him when she was very old, and my master has given to his son everything he owns.
+\v 37 My master made me solemnly promise, saying, 'Do not get a wife for my son from the daughters of the Canaan people-group in whose land I am living.
+\v 38 Instead, go back to my father's family, to my own clan, and get from them a wife for my son.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 My master's wife, Sarah, bore a son for him when she was very old, and my master has given to his son everything he owns.
+\v 37 My master made me solemnly promise, saying, 'Do not get a wife for my son from the daughters of the Canaan people, in whose land we are living.
+\v 38 Instead, go back to my father's family, to my own clan, and get from them a wife for my son.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 Sarah, my master’s wife, bore a son to my master when she was old, and he has given everything that he owns to him.
+\v 37 My master made me swear, saying, 'You must not get a wife for my son from the daughters of the Canaanites, in whose land I make my home.
+\v 38 Instead, you must go to my father’s family, and to my relatives, and get a wife for my son.'
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:sarah]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:canaan]]
+  * [[en:obe:kt:son]]
+ 
+
+===== Translation Notes: =====
+
+Abraham's servant continues speaking to Rebekah's family.
+
+  * **bore a son to my master** - "gave birth to a son"
+  * **My master made me swear saying** - "My master made me swear, and he said." This could also be translated as "My master made me swear that I would do what he told me, and he said."
+  * **You must to get a wife** - This is what Abraham had told his servant. The word "you" refers to that servant.
+  * **from the daughters of the Canaanites, in whose land I dwell**  - "from these Canaanites that we live among"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:24|Genesis Chapter 24 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:24:33|<<]] | [[:yo:bible:notes:gen:24:39|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

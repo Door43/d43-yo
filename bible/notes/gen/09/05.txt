@@ -1,0 +1,68 @@
+====== Genesis 09:5-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 I insist that murderers must be executed. Animals that kill people must also be executed. The reason that everyone who murders someone else must be executed is that
+\v 6 I made people to be like myself \add in many ways\add*. So someone who murders another human being must be executed by others, \add because he killed someone who is like me\add*.
+\p
+\v 7 As for you, I want you to produce many children, in order that they and their descendants may live all over the earth."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 I insist that everyone who kills his fellow man must suffer, because he drained out the blood of that person, the blood that he needed in order to live. I insist that murderers must suffer for their crimes. Animals that kill people must also suffer.
+\v 6 For I made people to be like myself. So I insist that if someone murders another human being, another person must kill him. Anyone who pours another's blood out must himself lose his own blood.
+\p
+\v 7 As for you, I want you to produce many children, in order that they and their descendants may live all over the earth."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 But for your blood, the blood that is your life, I will require payment. From the hand of every animal I will require it. From the hand of any man, that is, from the hand of one who has murdered his brother, I will require payment for the life of that man.
+\v 6 Whoever sheds man’s blood, by man will his blood be shed, for God made man in his own image.
+\v 7 As for you, be fruitful and multiply, spread throughout the earth and multiply on it."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:blood]]
+  * [[en:obe:kt:life]]
+  * [[en:obe:other:hand]]
+  * [[en:obe:kt:brother]]
+  * [[en:obe:kt:imageofgod]]
+ 
+
+===== Translation Notes: =====
+
+God continues speaking to Noah and his sons.
+
+  * **But for your blood**  - This contrasts man's blood with the blood of animals in [[:yo:bible:notes:gen:09:01|9:4]].
+  * **for your blood**  - It is implied that the blood is shed, or poured out, or spilled out. This could be made explicit as "if anyone causes your blood to pour out" or "if anyone spills your blood." This is also a metaphor for killing someone. It is possible to translate it as "if anyone kills you," but it would be good to leave "blood" in the text. (See: [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit Information]], [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **the blood that is your life**  - The blood represents life. This could also be translated as "the blood that represents your life" or “the blood that gives you life.”
+  * **I will require payment**  - “I will require anyone who kills you to pay.” This payment does not refer to money, but to the death of the murderer.
+  * **from the hand of every animal, I will require it**  - “I will require any animal that takes your life to pay”
+  * **from the hand of any man… I will require payment for the life of that man**  - This can be translated as "I will require anyone who takes a fellow person's life to pay."
+  * **From the hand of**  - This phrase refers to the person in a very personal way. This could be translated as "from that very man." (See: [[en:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **whoever sheds man's blood, by man will his blood be shed**  - The shedding of blood is a metaphor for killing someone. This means that if a person murders someone, someone else must kill the murderer. However, "blood" is very significant in this passage and should be used in the translation if possible. Translate "sheds blood" with words that indicate a major loss of blood that causes death.
+  * **for God made man in his own image**  - "because God made people to be like him." Since God was speaking, this can also be translated as "because I made people in my own image."
+  * **be fruitful and multiply**  - See how you translated these commands in [[:yo:bible:notes:gen:01:28|1:28]].
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:09|Genesis Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:09:03|<<]] | [[:yo:bible:notes:gen:09:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish  hand imageofgod}}
+
+~~NOCACHE~~

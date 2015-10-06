@@ -1,0 +1,54 @@
+====== Isaiah 53:5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 But his body will be bruised because of the evil things that we did;
+\q1 he will be wounded because of our sins.
+\q2 He will be beaten in order that things will go well for our \add souls\add*;
+\q1 and because he will be whipped, \add our souls\add* can be healed.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 But his body will be pierced through because of the evil things that we did;
+\q1 he will be wounded because of our sins.
+\q2 He will be beaten in order that things will go well for our souls;
+\q1 and because he will be whipped, our souls will be healed.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 5 But he was pierced because of our rebellious deeds, he was crushed because of our sins; 
+\q1 the punishment for our peace was on him, and with his wounds we are healed.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rebel]]
+  * [[:yo:obe:kt:works]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:other:punish]]
+  * [[:yo:obe:other:peace]]
+  * [[:yo:obe:other:heal]]
+
+===== Translation Notes: =====
+
+  * **But he was pierced because of our rebellious deeds, he was crushed because of our sins** - "He was stabbed and beaten because of our sins" (See: [[en:ta:vol2:translate:figs_doublet]])
+  * **the punishment for our peace was on him** - "he took the punishment so that we could be at peace in our souls"
+  * **and with his wounds we are healed** - "and because he took the physical punishment for us, we are healed"
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:isa:53|Isaiah Chapter 53 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:53:04|<<]] | [[:yo:bible:notes:isa:53:06|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

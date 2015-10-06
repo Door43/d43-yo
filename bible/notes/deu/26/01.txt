@@ -1,0 +1,65 @@
+====== Deuteronomy 26:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "After you occupy the land that Yahweh our God is giving to you, and you have settled\f + \ft Or: are living \f* there,
+\v 2 \add each of\add* you must take some of the first crops that you harvest, put it in a basket, and take it to the place that Yahweh will have chosen for you to worship \f + \ft metonymy \f* there.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 After you occupy the land that Yahweh our God is giving to you, and you have settled there,
+\v 2 each of you must take some of the first crops that you harvest, put it in a basket, and take it to the place that Yahweh will have chosen for you to worship  there.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 26
+\p
+\v 1 When you have come into the land that Yahweh your God is giving you as an inheritance, and when you possess it and live in it,
+\v 2 then you must take some of the first of all the harvest of the land that you have brought in from the land that Yahweh your God is giving you. You must put it in a basket and go to the place that Yahweh your God will choose as his sanctuary.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:inherit]]
+  * [[:yo:obe:other:possess]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:harvest]]
+  * [[:yo:obe:kt:elect]]
+  * [[;en:obe:kt:sanctuary]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:26|Deuteronomy Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/25/17|<<]] | [[en/bible/notes/deu/26/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

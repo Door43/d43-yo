@@ -1,0 +1,67 @@
+====== Job 31:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31-32 \add or that\add* I never welcomed travelers to stay in my tent
+\q2 and did not open my doors to them, but \add forced them to\add* sleep in the streets.
+\q2 All the men who work for me certainly know that \f + \ft rhetorical question \f*!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31-32 or that I never welcomed travelers to stay in my house 
+\q2 and did not open my doors to them, but forced them to sleep in the streets.
+\q2 All the men who work for me certainly know that I have given food to anyone who needed it!
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 31 if the men of my tent have never said,
+\q ‘Who can find one who has not been filled with Job’s food?’—
+\q
+\v 32 (the foreigner never had to stay in the city square;
+\q instead, I always opened my doors to the traveler)
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:tent]]
+  * [[:yo:obe:other:job]]
+  * [[:yo:obe:other:foreigner]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:31|Job Chapter 31 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/31/29|<<]] | [[en/bible/notes/job/31/33|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Ezekiel 21:8-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Yahweh gave me another message. He said,
+\v 9 "You human, prophesy and say to them, 'This is what Yahweh says:
+\q1 I have sharpened my sword
+\q2 and polished it.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Yahweh gave me another message. He said,
+\v 9 "Son of man, prophesy and say to them, 'This is what Yahweh says:
+\q1 I will sharpen my sword
+\q2 and polish it.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 Then the word of Yahweh came to me and said,
+\v 9 “Son of man, prophesy and say, ‘The Lord says this:
+\q Say: A sword! A sword! It will be sharpened and polished!
+</usfm>
+
+===== Important Terms: =====
+
+  * 
+
+===== Translation Notes: =====
+
+  * **the word of Yahweh came to me**  - God spoke to Ezekiel
+  * **prophesy and say** - Alternate translation: "prophesy by saying" or "say this when you tell the people my message." (See: [[en:ta:vol2:translate:figs_hendiadys]])
+  * **Thus says the Lord**  - (See discussion notes.)
+  * **It will be sharpened and polished. **- A sword will be prepared to be used.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:21|Ezekiel Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:21:06|<<]] | [[:yo:bible:notes:ezk:21:10|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

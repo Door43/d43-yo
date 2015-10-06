@@ -1,0 +1,60 @@
+====== Acts 14:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 So Paul and Barnabas spent considerable time there speaking boldly for the Lord, and the Lord Jesus enabled them to do many miracles. In this way he showed \add people\add* that the message about how the Lord saves us in a way that we do not deserve is true.
+
+
+\p
+\v 4 The people \add who lived\add* in \add Iconium\add* city strongly disagreed with each other \add concerning the message about Jesus\add*. Some of them agreed with the Jews \f + \ft synecdoche \f* \add who did not believe that message\add*. Others agreed with the \add two\add* apostles.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 So Paul and Barnabas spent a long time there speaking boldly for the Lord, and the Lord Jesus enabled them to do many miracles. In this way he showed people the truth of the message that, even though we do not deserve it, the Lord saves us.
+
+
+\p
+\v 4 The people who lived in Iconium had two different opinions. Some agreed with the Jews. Others agreed with the apostles.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 So they stayed there for a long time, speaking boldly with the Lord's power, while he gave evidence about the message about his grace. He did this by granting signs and wonders to be done by the hands of Paul and Barnabas.
+\v 4 But the majority of the city was divided: some people  sided with the Jews, and some with the apostles.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:power]]
+  * [[en:obe:kt:grace]]
+  * [[en:obe:kt:miracle]]
+  * [[en:obe:kt:apostle]]
+ 
+
+===== Translation Notes: =====
+
+  * **So they stayed there ** - Paul & Barnabas stayed at Iconium for the many believers. "So" can be omitted if it adds confusion to the text.
+  * **he gave evidence** - "the Lord gave evidence"
+  * **about his grace** - "about the Lord's grace"
+  * **evidence about the message ** - "evidence that the message was true"
+  * **by the hands of Paul and Barnabas** - This is an expression referring to the people Paul and Barnabas. (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **granting signs and wonders** - Jesus enabled Paul and Barnabas to perform signs and wonders. can be translated as "enabled them to do many miracles" (UDB).
+  * **sided with** - "supported" or "favored"
+  * **with the apostles** - In this instance Luke is referring to Paul and Barnabas as apostles, placing them on the same level as the twelve apostles.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:14|Acts Chapter 14 Comprehension Questions]]**
+**[[:yo:bible:notes:act:14:01|<<]] | [[:yo:bible:notes:act:14:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish power grace }}
+
+~~NOCACHE~~

@@ -1,0 +1,67 @@
+====== Nehemiah 03:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Malchijah the son of Rechab, who ruled Beth-Haccherem District, repaired the Dung Gate. He also put in their places the bolts and bars \add for locking the gate\add*.
+\p
+\v 15 Shallum the son of Colhozeh, who ruled Mizpah District, repaired the Fountain Gate. He put\f + \ft Or: built \f* a roof over the gate, and put in their places the gates and the bolts and the bars \add for locking the gate\add*. Near the Pool of Shelah he built the wall next to the king's garden, as far as the steps that went down from the City of David.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Malchijah son of Rechab, who ruled the district of Beth Haccherem, repaired the Dung Gate. He also put in their places the bolts and bars for locking the gate.
+\p
+\v 15 Shallum son of Colhozeh, who ruled the district of Mizpah, repaired the Fountain Gate. He put a roof over the gate, and put in their places the gates and the bolts and the bars for locking the gate. Near the Pool of Siloam he built the wall next to the king's garden, as far as the steps that went down from the City of David.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Malchijah the son of Rechab, the ruler of the district of Bethhaccherem,  repaired the Dung Gate. He built it and set its doors, its bolts and its bars. 
+\p
+\v 15 Shallun the son of Colhozeh, the ruler of the district of Mizpah, rebuilt the Fountain Gate. He built it, and put a cover on it and set its doors and its bolts and its bars. He also rebuilt the wall of the Pool of Siloam by the king’s garden, as far as the stairs leading down from the city of David.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:son]]
+  * [[en:obe:other:ruler]]
+  * [[en:obe:other:dung]]
+  * [[en:obe:kt:gate]]
+  * [[en:obe:other:fountain]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:cityofdavid]]
+ 
+===== Translation Notes: =====
+
+    * **Malchijah...Rechab** - These are names of males. (See: [[en:ta:vol1:translate:translate_names]])
+    * **Bethhaccherem** - This is the name of a place. (see: [[en:ta:vol1:translate:translate_names]])
+    * **set its...bolts** - Bolts are sliding bars used to lock doors and windows.
+    * **Shallun...Colhozeh** - These are names of males.  
+    * **the district of Mizpah** - This is the name of a place. 
+    * **the Fountain Gate** -  "the gate that leads to the fountain” This may have been a reference to the Gihon Spring or the Pool of Siloam.    
+    * **the wall of the Pool of Siloam** - "the wall that surrounded the Pool of Siloam"
+    * **king’s garden** - a known location along the wall that, at one time, enclosed the royal garden
+
+   
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:03|Nehemiah Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/03/13|<<]] | [[en/bible/notes/neh/03/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,73 @@
+====== Isaiah 66:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Yahweh has promised,
+\q1 "I will cause Jerusalem to be full of valuable things that come from other nations;
+\q2 those things will pour into Jerusalem; it will be like \f + \ft simile \f* a big flood.
+\q1 I will take care of the people of Jerusalem
+\q2 like women care for the babies that they nurse.
+\q1
+\v 13 I will comfort you people in Jerusalem like \f + \ft metaphor \f* mothers comfort their children."
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Yahweh has promised,
+\q1 "I will cause Jerusalem to be full of valuable things that come from other nations;
+\q2 those things will pour into Jerusalem; it will be like a big flood.
+\q1 I will take care of the people of Jerusalem
+\q2 like women care for the babies that they nurse.
+\q1
+\v 13 I will comfort you people in Jerusalem like  mothers comfort their children."
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 This is what Yahweh says:
+\q1 "I am about to spread prosperity over her like a river, 
+\q1 and the riches of the nations like an overflowing
+stream. 
+\q1 You will nurse at her side, be carried in her arms, and be dandled on her knees.
+\q1
+\v 13 As a mother comforts her child, so I will comfort you, and you will be comforted in Jerusalem."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:other:comfort]]
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:other:jerusalem]]
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:66|Isaiah Chapter 66 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/66/10|<<]] | [[en/bible/notes/isa/66/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

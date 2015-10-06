@@ -1,0 +1,65 @@
+====== Proverbs 30:20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 This is what a woman who is not faithful to\f + \ft Or: does not have sex only with \f* her husband does:
+\q2 she commits adultery \f + \ft euphemism \f*, and then bathes
+\q2 and says, "I have not done anything that is wrong!"
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 This is what a woman is like who is not faithful to her husband:
+\q2 she eats and then wipes her mouth, 
+\q2 and she says, "There is nothing wrong in what I have done."
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 This is the way of an adulteress—
+\q she eats and she wipes her mouth
+\q and says, "I have done nothing wrong."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:adultery]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:30|Proverbs Chapter 30 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/30/18|<<]] | [[en/bible/notes/pro/30/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

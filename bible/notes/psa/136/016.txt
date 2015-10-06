@@ -1,0 +1,73 @@
+====== Psalms 136:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 He is the one who led his people \add safely through the desert\add*;
+\q2 his faithful love for us endures forever.
+\q1
+\v 17 He killed powerful kings;
+\q2 his faithful love for us endures forever.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 He is the one who led his people safely through the wilderness;
+\q2 he will love us forever, as he has promised.
+\q1
+\v 17 He killed powerful kings;
+\q2 he will love us forever, as he has promised.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 To him who led his people through the wilderness,
+\q for his covenant faithfulness endures for ever—
+\q
+\v 17 To him who killed great kings,
+\q for his covenant faithfulness endures for ever—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:136|Psalms Chapter 136 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/136/013|<<]] | [[en/bible/notes/psa/136/018|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

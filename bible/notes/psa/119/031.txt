@@ -1,0 +1,76 @@
+====== Psalms 119:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 Yahweh, I try to carefully cling to your requirements\f + \ft Or: what you have instructed \add us to do\add* \f*;
+\q2 do not \add abandon me, with the result that\add* I would become disgraced.
+\q1
+\v 32 I will eagerly obey [IDI] your commands\f + \ft Or: what you have commanded \f*,
+\q2 because you have enabled me to understand more \add what you want me to do\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Yahweh, I try to carefully cling to your requirements;
+\q2 do not abandon me, with the result that I would become disgraced.
+\q1
+\v 32 I will eagerly obey your commands,
+\q2 because you have help me understand better and better what you want me to do.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 31 I cling to your covenant decrees;
+\q Yahweh, do not let me be shamed.
+\q
+\v 32 I will run in the path of your commandments,
+\q for you enlarge my heart to do so.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:shame]]
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:other:heart]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/119/029|<<]] | [[en/bible/notes/psa/119/033|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

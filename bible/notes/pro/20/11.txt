@@ -1,0 +1,74 @@
+====== Proverbs 20:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Even children show by what they do whether they are good or not;
+\q2 they show whether what they do\f + \ft Or: their behavior \f* is honest and right \add or not\add*.
+\b
+\q1
+\v 12 Two of the things that Yahweh has created for us
+\q2 are ears to hear things and eyes to see things.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Also, in addition, 
+even a youth is know by how what he does, 
+\q2 it is clear whether what he does is pure and respectable or not. 
+\b
+\q1
+\v 12 Ears that hear and eyes that see—
+\q2 Yahweh made them both. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Also, even a youth is known by his actions,
+\q by whether his conduct is pure and upright. 
+\q
+\v 12 Ears that hear and eyes that see— 
+\q Yahweh made them both.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:en;obe:kt:purify]]
+
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:20|Proverbs Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/20/09|<<]] | [[en/bible/notes/pro/20/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

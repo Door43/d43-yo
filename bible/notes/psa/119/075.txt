@@ -1,0 +1,78 @@
+====== Psalms 119:75-76 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 75 Yahweh, I know that your regulations\f + \ft Or: the rules that you have given to us \f* are right, Or: fair
+\q2 and that you have afflicted\f + \ft Or: punished \f* me because you faithfully do what you have promised.
+\q1
+\v 76 Cause me to be comforted\f + \ft Or: encouraged \f* by \add knowing that\add* you faithfully love me,
+\q2 like you said to me that you would do.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 75 Yahweh, I know that your regulations are right,
+\q2 and that you have made me suffer because you love me with stopping.
+\q1
+\v 76 Comfort me by showing that you faithfully love me,
+\q2 like you said to me that you would do.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 75 I know, Yahweh, that your decrees are just,
+\q and that in faithfulness you afflicted me.
+\q
+\v 76 Let your covenant faithfulness comfort me,
+\q as you promised your servant.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:know]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:decree]]
+  * [[:yo:obe:kt:justice]]
+  * [[:yo:obe:kt:faithful]]
+  * [[:yo:obe:kt:afflict]]
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:other:comfort]]
+  * [[:yo:obe:kt:promise]]
+  * [[:yo:obe:other:servant]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/119/073|<<]] | [[en/bible/notes/psa/119/077|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

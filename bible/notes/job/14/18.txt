@@ -1,0 +1,70 @@
+====== Job 14:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 But, just like mountains crumble and rocks fall down from a cliff,
+\q1
+\v 19 and just like water slowly wears away the stones, and just like floods wash away soil,
+\q2 you \add eventually destroy us\add*; you do not allow us to continue to hope\f + \ft Or: confidently expect \f* \add that we will keep on living\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 But, just as mountains crumble and rocks fall down from a cliff,
+\q1
+\v 19 and just as water slowly wears away the stones, and just as floods wash away soil,
+\q2 you eventually destroy us; you do not allow us to continue to hope that we will keep on living.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 But even mountains fall and come to nothing;
+\q even rocks are moved out of their place;
+\q
+\v 19 the waters wear down the stones;
+\q its flooding washes away the dust of the earth.
+\q Like this, you destroy the hopes of man.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:water]]
+  * [[:yo:obe:kt:hope]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:14|Job Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/14/15|<<]] | [[en/bible/notes/job/14/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

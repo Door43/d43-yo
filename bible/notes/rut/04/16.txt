@@ -1,0 +1,45 @@
+====== Ruth 04:16-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 Then Naomi took the baby and put him on her lap, and took care of him.
+\v 17 The women who were living \add nearby\add* said, "\add It is as though\add* Naomi \add now\add* has a son!" And they named him Obed. \add Later\add*, Obed became the father of Jesse, and later Jesse became the father of \add King\add* David.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 Then Naomi took the baby and put him on her lap, and became a second mother for him.
+\v 17 The women who were living nearby said, "It is as though Naomi now has a son!" And they named him Obed. Later, Obed became the father of Jesse, who became the father of King David.
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 16 And Naomi took the child, and laid him in her bosom, and became his guardian.
+\v 17 And the women, her neighbors, gave him a name, saying, "There is a son born to Naomi." And they named him Obed. He became the father of Jesse, who became the father of David.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:David]]
+  * [[en:obe:other:Jesse]]
+  * [[en:obe:kt:name]]
+
+===== Translation Notes: =====
+
+  * **Naomi took the child**  - This refers to Naomi holding the child. Make sure it does not sound like she took him away from Ruth.
+  * **laid him in her bosom**  - "held him close against her chest." This is a statement of love and affection for the child.
+  * **guardian**  - She helped care for the baby as if he were her own child. Different languages have special words for someone who does this.
+  * **There is a son born to Naomi **  - "The child is like a son to Naomi." It was understood that the child was Naomi's grandson, not her physical son.
+  * **father of David**  - "father of King David". Though "king" is not stated, it was clear to the original audience that David was the King David. (See: [[en:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rut:04|Ruth Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:rut:04:13|<<]] | [[:yo:bible:notes:rut:04:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

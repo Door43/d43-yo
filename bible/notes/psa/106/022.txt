@@ -1,0 +1,79 @@
+====== Psalms 106:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 They forgot about the wonderful things that he did for them in Egypt
+\q2 and the amazing\f + \ft Or: awesome \f* things that he did for them at the Red Sea.
+\q1
+\v 23 Because of that, God said that he would get rid of the Israelites,
+\q2 but Moses, whom God had chosen \add to serve him\add*, stood up to persuade God \add not to get rid of them\add*.
+\q2 And as a result God did not destroy them.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 They forgot about the wonderful things that he did for them in Egypt
+\q2 and the amazing things that he did for them at the Sea of Reeds.
+\q1
+\v 23 Because of that, God said that he would get rid of the Israelites,
+\q2 but Moses, whom God had chosen to serve him, stood up to persuade God not to do that.
+\q2 And as a result God did not destroy them.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 22 He had done wonderful things in the land of Ham
+\q and mighty acts at the Red Sea.
+\q
+\v 23 He would have decreed their destruction,
+\q had not Moses, his chosen one, intervened with him in the breach,
+\q to turn away his anger, from destroying them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:ham]]
+  * [[:yo:obe:other:mighty]]
+  * [[:yo:obe:other:redsea]]
+  * [[:yo:obe:other:decree]]
+  * [[:yo:obe:other:angry]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:106|Psalms Chapter 106 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/106/019|<<]] | [[en/bible/notes/psa/106/024|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book4}}
+
+~~NOCACHE~~

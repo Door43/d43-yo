@@ -1,0 +1,53 @@
+====== Matthew 08:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Another man who was one of Jesus' disciples said to him, "Sir\f + \ft Or: Lord \f*, permit me first to go \add home. After\add* my father \add dies I will\add* bury him, \add and then I will come with you\add*."
+\v 22 But Jesus said to him, "Come with me \add now\add*. \add God considers that people who do not have eternal life are\add* dead \f + \ft metaphor \f*. Let those people \add do the work of\add* burying people who die."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Another man who was one of Jesus' disciples said to him, "Lord, permit me first to go home. After my father dies I will bury him, and then I will come with you."
+\v 22 But Jesus said to him, "Come with me now. The people who are as good as dead, let them wait for their own people to die." 
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 21 Another of the disciples said to him, "Lord, allow me first to go and bury my father."
+\v 22 But Jesus said to him, "Follow me, and leave the dead to bury their own dead."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:disciple]]
+  * [[:yo:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+Jesus continues to explain what he expects of his followers.
+
+  * **allow me first to go and bury my father** - This is a polite request. Jewish custom was to bury people the same day they died, so the man's father was probably still alive and the man was using "bury" as a euphemism for caring for his father for days or even years until he died(see UDB). If the father were already dead, the man would have been asking to go away for a matter of hours. Specify that the father was or was not dead only if needed to avoid wrong meaning. (See: [[en:ta:vol2:translate:figs_euphemism]])
+  * **leave the dead to bury their own dead** - This is meant as a pithy, not complete, statement, so use as few words and specify as little as possible. Use the same sense for "bury" here that you use for "bury" in the man's request.
+  * **leave ... to bury** - This is a strong way of denying the man's responsibility for his father. Stronger than "Let the dead bury" or "Allow the dead to bury," it is more like "Give the dead no choice but to bury their own dead themselves."
+  * **the dead ... their own dead** - "The dead" is a metaphor for those outside God's kingdom, who do not have eternal life (see UDB; [[en:ta:vol1:translate:figs_metaphor]]). "Their own dead" refers to the relatives of those outside the kingdom who literally die.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:08|Matthew Chapter 08 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:08:18|<<]] | [[:yo:bible:notes:mat:08:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

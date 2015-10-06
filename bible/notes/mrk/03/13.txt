@@ -1,0 +1,57 @@
+====== Mark 03:13-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Jesus went \add with many other people\add* up into the hills. After he picked out \add from among them\add* the men whom he wanted, they came \add close\add* to him.
+\v 14 He appointed twelve men in order that they might be with him and in order that he might send them out to preach. He called them apostles.
+\v 15 He also gave them power in order that they might expel evil spirits \add from people\add*.
+\v 16 These were the twelve men he appointed: Simon, to whom he gave the \add new\add* name Peter; his \add younger\add* brother Andrew;
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Jesus went up into the hills. As he went, he called out to those that he wanted to go with him and they went with him.
+\v 14 He appointed twelve men to be with him and for him to send them out to preach. He called them apostles.
+\v 15 He also gave them power in order that they might force evil spirits to come out from people.
+\v 16 These were the twelve men he appointed: Simon, to whom he gave the new name Peter;
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 He went up on the mountain, and he called for those he wanted, and they came to him.
+\v 14 He appointed the Twelve (whom he named apostles), so that they might be with him and he might send them to preach,
+\v 15 and to have authority to cast out demons.
+\v 16 He appointed the Twelve: To Simon he gave the name Peter;
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:appoint]]
+  * [[:yo:obe:kt:thetwelve]]
+  * [[:yo:obe:kt:apostle]]
+  * [[:yo:obe:other:preach]]
+  * [[:yo:obe:kt:authority]]
+  * [[:yo:obe:other:castout]]
+  * [[:yo:obe:kt:demon]]
+  * [[:yo:obe:other:peter]]
+  * [[:yo:obe:other:peter]]
+===== Translation Notes: =====
+
+  * **so that they might be with him and he might send them to preach** - "so that they would be with him and he would send them to preach" or "to be with him and for him to send them out to preach" (UDB)
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:03|Mark Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:03:11|<<]] | [[:yo:bible:notes:mrk:03:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish peter}}
+
+~~NOCACHE~~

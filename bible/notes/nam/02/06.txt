@@ -1,0 +1,69 @@
+====== Nahum 02:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 But, the gates \add of the dams\add* on the rivers will be thrown open \add by enemy soldiers\add*,
+\q2 and the flood will cause the palace to collapse.
+\q1
+\v 7 The queen will have her clothes stripped off her \add by enemy soldiers\add*,
+\q2 and her slave girls will moan like doves
+\q2 and beat their breasts \add to show that they are very sad\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 The enemy soldiers will force open the city gates on the rivers;
+\q2 the palace will collapse.
+\q1
+\v 7 The queen will have her clothes stripped off her by enemy soldiers,
+\q2 and her slave girls will moan like doves
+\q2 and beat their breasts to show that they are very sad.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 The gates at the rivers are opened, and the palace falls to ruins.
+\v 7 So it has been decreed: the queen is stripped and taken  away; her female servants moan like doves, beating on their breasts.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:gate]]
+  * [[:yo:obe:other:ruin]]
+  * [[:yo:obe:other:decree]]
+  * [[:yo:obe:other:queen]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:dove]] 
+
+===== Translation Notes: =====
+
+  * **So it has been decreed ** - "Yahweh has said this will happen"
+  * **the queen is stripped** - This can mean 1) "the soldiers take the queen's clothes off of her" or 2) "the queen has lost her authority" (See: [[en:ta:vol1:translate:figs_metaphor]] and [[en:ta:vol2:translate:figs_metonymy]])
+  * **the queen** - This can be either 1) the queen of Assyria or 2) an idol of a goddess in the temple (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **her female servants moan like doves** - "the female servants of the queen sound like doves as they moan" to mourn her loss of power (See: [[en:ta:vol1:translate:figs_simile]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:nam:02|Nahum Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/nam/02/05|<<]] | [[en/bible/notes/nam/02/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

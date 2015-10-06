@@ -1,0 +1,54 @@
+====== Matthew 02:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 They \add found\add* the house and entered it and saw the child and his mother, Mary. They bowed down and worshipped him. Then they opened their treasure \add boxes\add* \f + \ft metonymy \f* and they gave gold, \add costly\add* frankincense, and myrrh to him.
+\v 12 \add Because\add* God \add knew that King Herod planned to kill Jesus\add*, in a dream the men who studied the stars were warned \f + \ft Or:he warned the men who studied the stars \f* that they should not return to \add King\add* Herod. So they returned to their country, \add but instead of traveling back on the same road, they\add* went on a different road.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 They found the house, entered it, and saw the child and his mother, Mary. They bowed down and worshiped him. Then they opened their treasure boxes and they gave him gold, expensive frankincense, and myrrh.
+\v 12 Then God warned them in a dream not to return to King Herod. So they left for their country, but instead of traveling back on the same road, they went on a different road.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 They went into the house and saw the young child with Mary his mother; they bowed down and worshiped him. They opened their treasures and offered him gifts of gold, frankincense, and myrrh.
+\v 12 God warned them in a dream not to return to Herod, so they departed to their own country by another way.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:mary]]
+  * [[en:obe:kt:worship]]
+  * [[en:obe:other:frankincense]]
+  * [[en:obe:other:myrrh]]
+  * [[en:obe:other:dream]]
+  * [[en:obe:other:herodthegreat]]
+
+===== Translation Notes: =====
+
+This continues the account of what happened when Jesus was born as the King of the Jews.
+
+  * **they**  - refers to the learned men
+  * **worship** - Translate this with the same word that you used in [[:yo:bible:notes:mat:01:01|1:2]].
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:02|Matthew Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:02:09|<<]] | [[:yo:bible:notes:mat:02:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish frankincense myrrh herodthegreat }}
+
+~~NOCACHE~~

@@ -1,0 +1,44 @@
+====== Matthew 19:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 The man asked Jesus, "Which \add commandments must I keep\add*?" Jesus answered \add him\add*, "Do not murder \add anyone\add*, do not commit adultery, do not steal things, do not testify falsely,
+\v 19 honor your father and your mother, and love people you come in contact with as \add much as you love\add* yourself."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 The man asked Jesus, "Which commandments must I keep?" Jesus answered him, "Do not murder anyone, do not commit adultery, do not steal things, do not testify falsely,
+\v 19 honor your father and your mother, and love people you come in contact with as much as you love yourself."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 18 The man said to him, "Which  commandments?" Jesus said, "Do not kill," "Do not commit adultery," "Do not steal," "Do not bear false witness,"
+\v 19 "Honor your father and your mother," and, "Love your neighbor as yourself."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:adultery]]
+  * [[:yo:obe:other:falsewitness]]
+  * [[:yo:obe:other:honor]]
+  * [[:yo:obe:kt:love]]
+  * [[:yo:obe:other:neighbor]]
+
+===== Translation Notes: =====
+
+Jesus continues to teach about riches in the world and rewards in heaven.
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:19|Matthew Chapter 19 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:19:16|<<]] | [[:yo:bible:notes:mat:19:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish falsewitness}}

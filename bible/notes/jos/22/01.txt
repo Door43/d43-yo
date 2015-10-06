@@ -1,0 +1,66 @@
+====== Joshua 22:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Joshua then summoned the leaders of the tribes of Reuben, Gad, and half of the tribe of Manasseh.
+\v 2 He said to them, "You have done everything that Moses, who served Yahweh \add well\add*, told you to do. You have also done what I told you to do.
+\v 3 For a long time you have helped the other tribes \add to defeat their enemies\add*. You have obeyed everything that Yahweh your God commanded you to do.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Joshua then summoned the leaders of the Reubenites, Gadites, and the half tribe of Manasseh.
+\v 2 He said to them, "You have done everything that Moses, the servant of Yahweh, commanded you to do. You have also done what I commanded you to do.
+\v 3 For a long time you have helped the other tribes to defeat their enemies. You have obeyed everything that Yahweh your God taught you and commanded you to do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 22
+\p
+\v 1 At that time Joshua called the Reubenites, the Gadites, and the half tribe of Manasseh.
+\v 2 He said to them, "You have done everything that Moses, the servant of Yahweh, commanded you; you have obeyed my voice in all that I commanded you.
+\v 3 You have not deserted your brothers during any of these many days or at this present day. Instead, you have been careful to obey the instructions of the commandments of Yahweh your God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:joshua]]
+  * [[:En:obe:other:manasseh]]
+  * [[:En:obe:other:moses]]
+  * [[:En:obe:other:servant]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:En:obe:other:command]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:22|Joshua Chapter 22 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/21/43|<<]] | [[en/bible/notes/jos/22/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

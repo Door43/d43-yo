@@ -1,0 +1,68 @@
+====== Job 20:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 On the day when God punishes \f + \ft metonymy \f* people,
+\q2 all the possessions in the wicked people's houses will be carried away by a flood.
+\q1
+\v 29 That is what will happen to wicked people \add like you\add*;
+\q2 that is what God has decreed\f + \ft Or: assigned \f* for them."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 On the day when God punishes  people,
+\q2 all the possessions in the wicked people's houses will be carried away, as if a flood had come.
+\q1
+\v 29 That is what will happen to wicked people like you;
+\q2 that is what God has decreed for them."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 28 The wealth of his house will vanish;
+\q his goods will flow away on the day of God’s wrath.
+\q
+\v 29 This is the wicked man's portion from God,
+\q the heritage reserved for him by God.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:house]]
+  * [[:yo:obe:kt:wrath]]
+  * [[:yo:obe:kt:evil]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:20|Job Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/20/26|<<]] | [[en/bible/notes/job/21/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Romans 01:7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add I am writing this letter\add* to all of \add you\add* whom God loves and whom he has chosen \add to become his\add* people. \add I pray that\add* God our Father and Jesus Christ our Lord will \add continue to\add* act kindly toward you and \add will continue to\add* cause you to have \add inner\add* peace.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 I am writing this letter to all of you whom God loves and whom he has chosen to become his people. I pray that God our Father and Jesus Christ our Lord may continue to act kindly toward you and will continue to cause you to have peace.
+
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 to all who are in Rome, the beloved of God, and who are called to be saints: grace to you and peace from God our Father and the Lord Jesus Christ.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rome]]
+  * [[:yo:obe:kt:beloved]]
+  * [[en:obe:kt:call]]
+  * [[:yo:obe:kt:saint]]
+  * [[:yo:obe:kt:grace]]
+  * [[en:obe:other:peace]]
+  * [[:yo:obe:kt:godthefather]]
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:Jesus]]
+
+===== Translation Notes: =====
+
+  * **to all who are in Rome, the beloved of God, and who are called to be saints **- This can be translated as a new sentence and with an active verb: "I am writing this letter to all of you in Rome whom God loves and has chosen to become his people." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **grace to you and peace **- This could be translated as a new sentence: “May grace and peace be yours."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:01|Romans Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:01:04|<<]] | [[:yo:bible:notes:rom:01:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish saint}}
+
+~~NOCACHE~~

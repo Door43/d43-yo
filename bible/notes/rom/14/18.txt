@@ -1,0 +1,48 @@
+====== Romans 14:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 Those who serve Christ \add by acting\add* in such ways please God, and others will also respect them.
+
+
+\p
+\v 19 So we should always eagerly try to \add live in a way that will cause\add* peace \add among fellow Christians\add*, and we should try to do what will help each other to mature \add spiritually\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Those who serve Christ by acting in such ways please God, and others will also respect them.
+
+
+\p
+\v 19 So we should always eagerly try to live in a way that will cause peace among fellow Christians, and we should try to do what will help each other to trust and obey Christ.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 18 For the one who serves Christ in this is acceptable to God and approved by people.
+\v 19 So then, let us pursue the things of peace, and the  things of building up one another.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:serve]]
+  * [[:yo:obe:kt:christ]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:peace]]
+
+===== Translation Notes: =====
+
+  * **serves Christ in this** - "serves Christ in this way."
+  * **approved by people** - This can be translated with an active verb: "people will approve of him" or "people will respect him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **let us pursue the things of peace, and the things of building up one another** - "let us seek to live in peace and to help one another grow stronger in faith"
+===== Links: ===== 
+  * **[[en:bible:questions:comprehension:rom:14|Romans Chapter 14 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:14:16|<<]] | [[:yo:bible:notes:rom:14:20|>>]]**
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,76 @@
+====== Psalms 119:89-90 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 89 Yahweh, your words\f + \ft Or: what you have promised \add to do for us\add* \f* will last forever;
+\q2 it is firmly \add fixed\add* in heaven.
+\q1
+\v 90 You will faithfully \add continue doing\add* \add for people who are not yet born\f + \ft Or: in every generation\add* \f* what you have promised\f + \ft Or: said that you would do \f*;
+\q2 you have put the earth in its place, and it remains firmly there.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 89 Yahweh, your words will last forever;
+\q2 it is firmly fixed in heaven.
+\q1
+\v 90 You will faithfully continue doing for people who are not yet born;
+\q2 you have put the earth in its place, and it remains firmly there.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\d LAMEDH.
+\q
+\v 89 Yahweh, your word stands forever;
+\q your word is established firmly in heaven.
+\q
+\v 90 Your faithfulness lasts for all generations;
+\q you have established the earth, and it remains.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:wordofgod]]
+  * [[:yo:obe:kt:forever]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:faithful]]
+  * [[:yo:obe:other:generation]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/119/087|<<]] | [[en/bible/notes/psa/119/091|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

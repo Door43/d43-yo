@@ -1,0 +1,60 @@
+====== Leviticus 01:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 While Moses\f + \ft Or: I \f* was \add standing near the entrance to\add* the Sacred Tent, Yahweh called to him\f + \ft Or: me \f* from inside the tent. He said to Moses\f + \ft Or: me \f*,
+\v 2 "Tell this to the Israelite people: When any of you brings an offering to Yahweh, bring one of your sheep or goats or cattle.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 While Moses was standing near the entrance to the sacred tent, Yahweh called to him from inside the tent. He said to Moses
+\v 2 to say this to the Israelite people:  "When any of you brings an offering to Yahweh, bring one of your sheep or goats or cattle.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 Yahweh called to Moses and spoke to him from the tent of meeting saying,
+\v 2 "Speak to the people of Israel and tell them, 'When any man from among you brings an offering to Yahweh, bring as your offering one of your animals, either from the herd or from the flock.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:other:moses]]
+  * [[:yo:obe:other:tentofmeeting]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:sacrifice]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lev:01|Leviticus Chapter 01 Comprehension Questions]]**
+** | [[:yo:bible:notes:lev:01:03|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

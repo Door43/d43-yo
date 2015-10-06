@@ -1,0 +1,81 @@
+====== Job 21:22-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 Since God judges \add everyone\add*, even those that are in heaven,
+\q2 who can teach God anything?\f + \ft Or: certainly no one can teach God anything. \f* \f + \ft rhetorical question \f*
+\q1
+\v 23 Some people die while they are very healthy,
+\q2 while they are peaceful, when they are not afraid of anything.
+\q1
+\v 24 Their bodies are fat;
+\q2 their bones are strong.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Since God judges everyone, even those who are in heaven,
+\q2 who can teach him anything?
+\q1
+\v 23 Some people die while they are very healthy,
+\q2 while they are peaceful and not afraid of anything.
+\q1
+\v 24 Their bodies are fat;
+\q2 their bones are strong.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 22 Can anyone teach God knowledge
+\q since he judges even those who are high?
+\q
+\v 23 One man dies in his full strength,
+\q being completely quiet and at ease.
+\q
+\v 24 His body is full of milk,
+\q and the marrow of his bones is moistened and in good health.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:know]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:death]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:21|Job Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/21/19|<<]] | [[en/bible/notes/job/21/25|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

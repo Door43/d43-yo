@@ -1,0 +1,80 @@
+====== Amos 01:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Yahweh also said this to me:
+\q1 "\add I will punish the people of\add* Tyre \add city\add* because of the many sins that their people have committed;
+\q2 I will not change my mind about punishing them
+\q1 because they also captured large groups of our people and took them to Edom,
+\q2 disregarding the treaty of friendship that they had made \add with your rulers\add*.
+\q1
+\v 10 So I will cause a fire to completely burn the walls of Tyre
+\q2 and also destroy its fortresses."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Yahweh also said this to me:
+\q1 "I will punish the people of the city of Tyre because of the many sins that their people have committed;
+\q2 I will not change my mind about punishing them
+\q1 because they also captured large groups of our people and took them to Edom,
+\q2 disregarding the treaty of friendship that they had made with your rulers.
+\q1
+\v 10 So I will cause a fire to completely burn the walls of Tyre
+\q2 and also destroy its fortresses."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 9 This is what Yahweh says:
+\q "For three sins of Tyre,
+\q even for four,
+\q I will not turn away punishment,
+\q because they handed over  whole people groups to Edom,
+\q and they broke their treaty of brotherhood.
+\q
+\v 10 I will send fire on the walls of Tyre,
+\q and it will devour her fortresses.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:tyre]]
+  * [[:yo:obe:other:edom]]
+  * [[:yo:obe:other:punish]]
+ 
+
+===== Translation Notes: =====
+
+    * **and it will devour her fortresses**  - The "devour" means to "destroy", not to "eat" as an animal would eat.  See: [[:yo:ta:vol2:translate:figs_personification]],  See the UDB translation also for clarification.
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:amo:01|Amos Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/amo/01/08|<<]] | [[en/bible/notes/amo/01/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

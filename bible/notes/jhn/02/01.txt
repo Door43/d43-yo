@@ -1,0 +1,44 @@
+====== John 02:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Two days later there was a wedding \add celebration\add* in Cana \add town\add*, in Galilee \add district\add*. Jesus' mother was there.
+\v 2 Jesus and \add we\add* his disciples \add were also there, because\add* we had been invited \f + \ft Or:someone had invited us \f* also.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 On the third day there was a wedding celebration in Cana, in the region of Galilee. Jesus' mother was there.
+\v 2 They also invited Jesus and his disciples to the wedding.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 The third day there was a wedding in Cana of Galilee, and the mother of Jesus was there.
+\v 2 Jesus also was invited, and his disciples, to the wedding.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:cana]]
+  * [[:yo:obe:other:galilee]]
+  * [[:yo:obe:other:mary]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:disciple]]
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:02|John Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:01:49|<<]] | [[:yo:bible:notes:jhn:02:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish galilee }}
+
+~~NOCACHE~~

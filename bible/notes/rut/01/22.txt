@@ -1,0 +1,39 @@
+====== Ruth 01:22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22 That \add summarizes\add* \add the account\add* of Naomi returning home along with her daughter-in-law Ruth, the woman from Moab. And \add it happened that\add* when they arrived in Bethlehem, the barley \add grain\add* harvest was just beginning.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 So that is how Naomi returned home along with her daughter-in-law Ruth, the woman from Moab. And it happened that when they arrived in Bethlehem, the barley harvest was just beginning.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 22 So Naomi and Ruth the Moabitess, her daughter-in-law, returned from the country of Moab. And they came to Bethlehem at the beginning of the barley harvest.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:ruth]]
+  * [[en:obe:other:moab]]
+  * [[en:obe:other:moab]]
+  * [[en:obe:other:bethlehem]]
+  * [[en:obe:other:grain]]
+  * [[en:obe:kt:harvest]]
+
+===== Translation Notes: =====
+
+  * **So Naomi and Ruth...** - This is a summary of statement. English marks this by the word "so." Determine how your language marks concluding or summary statements and do the same.
+  * **at the beginning of the barley harvest**  - "when the farmers were just beginning to harvest their barley crop"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rut:01|Ruth Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:rut:01:19|<<]] | [[:yo:bible:notes:rut:02:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish grain moab harvest}}

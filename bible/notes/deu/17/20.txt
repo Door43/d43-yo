@@ -1,0 +1,54 @@
+====== Deuteronomy 17:20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 If he does that, he \f + \ft synecdoche \f* will not think that he is better\f + \ft Or: more important \f* than [IDI] his fellow Israelites, and he will completely obey \f + \ft litotes \f* Yahweh's commands. As a result, he and his descendants will rule as kings in Israel for many years."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 If he does that, he will not think that he is more importantthan his fellow Israelis, and he will completely obey Yahweh's commands. As a result, he and his descendants will rule as kings in Israel for many years.”
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 He must do this so that his heart is not lifted up above his brothers, and so that he does not turn away from the commandments, to the right hand or to the left; for the purpose that he may prolong his days in his kingdom, he and his children, among Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:command]]
+  * [[:yo:obe:other:israel]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:17|Deuteronomy Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/17/18|<<]] | [[en/bible/notes/deu/18/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

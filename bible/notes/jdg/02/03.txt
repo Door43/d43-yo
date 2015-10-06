@@ -1,0 +1,67 @@
+====== Judges 02:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 So now, I am telling you that I will not expel \add your enemies\add* as you advance. They will be like thorns in your sides. And they will try to trap you \add by making you worship\add* their idols."
+\p
+\v 4 After he told that to all the Israelites, the people cried loudly.
+\v 5 They called that place Bokim, \add which means 'weeping\add*.' There they offered sacrifices to Yahweh.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 So now, I am telling you that I will not drive out your enemies as you advance. They will be like thorns in your sides. And they will try to trap you by persuading you worship their idols."
+\p
+\v 4 After he said that to all the Israelites, the people cried loudly.
+\v 5 They named that place Bochim, which means "weeping." There they offered sacrifices to Yahweh.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 And now I say, 'I will not drive the Canaanites out before you, but they will become thorns in your sides, and their gods will become a trap for you.'”
+\v 4When the angel of Yahweh spoke these words to all the people of Israel, the people cried out and wept.
+\v 5 They called that place Bochim. There they offered sacrifices to Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:canaan]]
+  * [[:En:obe:other:israel]]
+  * [[:yo:obe:other:sacrifice]] 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jdg:02|Judges Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/02/01|<<]] | [[en/bible/notes/jdg/02/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

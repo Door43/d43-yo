@@ -1,0 +1,71 @@
+====== Hebrews 13:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 \add So\add*, do not let yourselves be diverted \f + \ft Or:let anything divert you \f* so that you believe various teachings \add that are contrary to God's truth\add*. It is good that God acts kindly toward us so that we may be strengthened spiritually. \add Obeying rules about\add* various foods, rules that have not benefited those who obeyed them, will not benefit us.
+
+
+\p
+\v 10 We have \add Jesus\add* \f + \ft metonymy \f*. All those who continue to observe the Jewish rituals \f + \ft metonymy \f* of sacrifice have no right to obtain the benefits of his sacrifice \f + \ft metaphor \f*.
+\v 11 After the high priest brings into the most holy place the blood of animals \add that they have sacrificed to atone\add* for sins, the bodies of those animals are burned \f + \ft Or:they burn the bodies of those animals \f* outside the camp.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 So do not let other people persuade you to believe other things about God, strange things that you have not learned from us. For example, do not let anything make you obey various rules about what to eat and not to eat. These rules cannot help us.
+
+
+
+\p
+\v 10 Those who serve in the sacred tent have no right to eat at the sacred altar where we worship Christ.
+\v 11 After the high priest brings into the very holy place the blood of animals that they have sacrificed to atone for sins, other people burn the bodies of those animals outside the camp.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Do not be led away by various and strange teachings, for it is good that the heart be built up by grace, not by rules about food that do not help those who live by them.
+\v 10 We have an altar from which those who serve in the tabernacle have no right to eat. 
+\v 11 For the blood of the animals, sacrificed for sins, is brought by the high priest into the holy place, but their bodies are burned outside the camp.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:grace]]
+  * [[en:obe:other:altar]]
+  * [[en:obe:other:serve]]
+  * [[en:obe:kt:tabernacle]]
+  * [[en:obe:other:sacrifice]]
+  * [[en:obe:kt:sin]]
+  * [[en:obe:kt:highpriest]]
+  * [[en:obe:kt:holy]]
+  
+
+===== Translation Notes: =====
+
+
+    * **various and strange teachings** - "teachings that are many and different and not the good news we told you"
+    * **it is good that the heart be built up by grace, not by rules about food**  - AT: "we become stronger when we think of how God has been kind to us, but we do not become stronger by obeying rules about food" (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+    * **sacrificed for sins** - "sacrificed so that God would forgive sins" (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **outside the camp** - away from where people live
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:13|Hebrews Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/13/07|<<]] | [[en/bible/notes/heb/13/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

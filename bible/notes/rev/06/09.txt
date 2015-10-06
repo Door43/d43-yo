@@ -1,0 +1,80 @@
+====== Revelation 06:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 When the  \add one who is like a\add* lamb opened the fifth seal, I saw under \f + \ft Or: at the base of \f* the altar  \add in heaven\add* the souls of  \add God's servants\add* who had been killed \f + \ft Or:whom  \add people had\add* killed \f* because of  \add their believing\add* God's message, and because they told others  \add the message about Jesus\add*.
+\v 10 They spoke loudly  \add to God\add* saying, "Sovereign\f + \ft Or: Almighty \f* Lord, you are holy and true. How long  \add will it be\add* before you judge  \add and punish\add* the people on earth who murdered\add us\f + \ft exclusive \f*\add*?"
+\v 11  \add God\add* gave to each of them a long white robe, and  \add he\add* told them to rest a little longer until  \add people\add* killed all the believers who served  \add the Lord\add* with them. They were believers whom  \add God wanted to die in just the same way\add* that these others had been killed.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then the lamb opened the fifth seal, and I saw under the altar in heaven the spirits of God's servants whom others had killed because these servants had believed God's message and because they had told others the truth about it and Jesus.
+\v 10 They loudly asked God, "Sovereign Lord, you are holy and true. How long will it be before you condemn and punish the people on earth who murdered us?"
+\v 11 Then God gave to each of them a long, white robe, and he told them to rest and be patient a little longer. They should be patient until the wicked people killed all the believers who served the Lord with them. These believers were those whom God wanted to die in just the same way that these others had died.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 When the Lamb opened the fifth seal, I saw under the altar the souls of those who had been killed because of the word of God and the testimony which they held with conviction.
+\v 10 They cried out with a loud voice, "How long, Ruler over all, holy and true, until you judge those who live on the earth, and until you avenge our blood?"
+\v 11 Then each of them was given a white robe, and they were told that they should wait a little longer until the full number of their fellow servants and their brothers and sisters was reached who were to be killed, just as they had been killed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:altar]]
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:kt:wordofgod]]
+  * [[:yo:obe:kt:testimony]]
+  * [[:yo:obe:kt:lordgod]]
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:kt:true]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:avenge]]
+  * [[:yo:obe:other:robe]]
+  * [[:yo:obe:kt:rest]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:kt:brother]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rev:06|Revelation Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/06/07|<<]] | [[en/bible/notes/rev/06/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,41 @@
+====== Mark 09:45-46 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 45-46 If you are \add wanting to use\add* one of \f + \ft personification \f* your feet to sin, \add stop using your foot! Even if you have to\add* cut off your foot\add to avoid sinning, do it\add* \f + \ft hyperbole \f*! It is good that you not sin and live eternally, \add even though\add* you lack one of your feet \add while you are here on earth\add*. But is not good that you sin and go to hell.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 45 If you are wanting to use one of your feet to sin, do not use it! Even if you have to cut off your foot to avoid sinning, do it! It is good that you live eternally, even though you lack one of your feet while you are here on earth. But it is not good that you sin and as a result for God to throw your whole body into hell.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 45 If your foot causes you to stumble, cut it off. It is better for you to enter into life lame, than to have your two feet, and be thrown into hell.
+</usfm>
+
+
+===== Important Terms: ===== 
+
+  * [[:yo:obe:other:stumble]]
+  * [[:yo:obe:kt:hell]]
+
+===== Translation Notes: =====
+
+  * **and be thrown into hell** - "and for God to throw you into hell" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **9:46** - Some early texts have this verse, but others do not.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:09|Mark Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:09:42|<<]] | [[:yo:bible:notes:mrk:09:47|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

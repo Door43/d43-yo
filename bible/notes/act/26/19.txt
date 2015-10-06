@@ -1,0 +1,66 @@
+====== Acts 26:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 "So, King Agrippa, I fully obeyed \f + \ft litotes \f* what \add the Lord Jesus told me to do when he spoke to me\add* from heaven.
+\v 20 First, I preached to \add the Jews\add* in Damascus. Then I \add preached to the Jews\add* in Jerusalem and throughout \add the rest of\add* Judea \add province\add*. After that, I also preached to non-Jews. I preached that they must turn away from their sinful behavior and turn their lives over to God. I told them that they must do things that would show that they had truly stopped their sinful behavior."
+
+
+\p
+\v 21 "It is because I \add preached\add* this message \add that some\add* \f + \ft synecdoche \f* Jews seized me \add when I was\add* in the Temple \add courtyard and\add* tried to kill me.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 "So, King Agrippa, I did what God told me in a vision to do.
+\v 20 First, I spoke to the Jews in Damascus and those in Jerusalem, and in all the countryside of Judea, and to the non-Jews there also. I told them that they should stop sinning and ask God for help. I told them also that they should do those things that show that they have stopped sinning.
+
+
+\p
+\v 21 It is because I preached this message that some Jews seized me when I was in the temple courtyard and tried to kill me.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 Therefore, king Agrippa, I did not disobey the heavenly vision;
+\v 20 but, to those in Damascus first, and then at Jerusalem, and throughout all the country of Judea, and also to the Gentiles, I preached that they should repent and turn to God, doing deeds worthy of repentance.
+\v 21 For this cause the Jews arrested me in the temple and tried to kill me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:disobey]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:other:vision]]
+  * [[:yo:obe:other:damascus]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:other:judea]]
+  * [[:yo:obe:other:gentile]]
+  * [[:yo:obe:other:preach]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:repent]]
+  * [[:yo:obe:other:jew]]
+  * [[:yo:obe:kt:temple]]
+
+===== Translation Notes: =====
+
+Paul continues to speak.
+
+  * **I did not disobey the heavenly vision** - "I obeyed the message given in this vision that came to me from heaven." (See: [[:yo:ta:vol2:translate:figs_litotes]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:26|Acts Chapter 26 Comprehension Questions]]**
+**[[:yo:bible:notes:act:26:15|<<]] | [[:yo:bible:notes:act:26:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish disobey}}
+
+~~NOCACHE~~

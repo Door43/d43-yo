@@ -1,0 +1,47 @@
+====== Romans 04:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 If we receive wages for work that we do, those wages are not considered to be a gift. Instead, they \add are considered\add* to be what we have earned. \add Similarly, if God erases the record of our sins because we did things to earn God's favor\add*, we would not consider that \add God's erasing the record of our sin\add* was \add a gift. Instead, we would consider it as what we had earned\add*.
+\v 5 But suppose that we do not do things \add to gain God's acceptance\add*. Suppose that we instead trust \add in God\add*, who erases the record of sins of wicked people. Then the erasing of the record of our sins because of our trusting \add in Christ\add* is considered to be a gift to us, \add not something that we earned\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Now if we receive wages for work that we do, those wages are not considered to be a gift. Instead, they are considered to be what we have earned. Similarly, if we could do something to obligate God to be kind to us, then that would not be a gift.
+\v 5 But in reality, God makes right with himself people who did not honor him previously. Instead, they now trust in him, and God therefore considers them to be right with himself.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 4 Now to him who works, the recompense is not counted as from grace, but as what is owed.
+\v 5 But to him who does not work but instead believes in the one who justifies the ungodly, his faith is counted as righteousness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:grace]]
+  * [[:yo:obe:kt:believe]]
+  * [[:yo:obe:kt:justify]]
+  * [[:yo:obe:kt:ungodly]]
+  * [[:yo:obe:kt:faith]]
+  * [[:yo:obe:kt:righteous]]
+===== Translation Notes: =====
+
+  * **Now to him who works, the recompense is not counted as from grace, but as what is owed** - This is describing a situation where a person who works expects to be paid for the work. That person does not consider payment a free gift or "grace."
+  * **to him who works...to him who does not work** - "to anyone who works...to anyone who does not work"
+  * **recompense** - "wages" or "pay" or "what was earned by working"
+  * **what is owed**- "what his employer owes him"
+  * **in the one who justifies** - "in God, who justifies"
+  * **his faith is counted as righteousness** - “God considers that person's faith as righteousness” or "God considers that person righteous because of his faith" (See: [[en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:04|Romans Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:04:01|<<]] | [[:yo:bible:notes:rom:04:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish ktlist}}
+
+~~NOCACHE~~

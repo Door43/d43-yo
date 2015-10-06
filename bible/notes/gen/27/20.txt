@@ -1,0 +1,54 @@
+====== Genesis 27:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 But Isaac asked his son, "My son, how is it that you were able to find and kill an animal so quickly?" Jacob replied, "Because Yahweh, whom you worship, enabled me to be successful."
+\v 21 Isaac said to Jacob, "Come near to me, my son, so that I can touch you and determine whether you are really my son Esau."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 But Isaac asked his son, "My son, how is it that you were able to find and kill an animal so quickly?" Jacob replied, "Because Yahweh, whom you worship, enabled me to be successful."
+\v 21 Isaac said to Jacob, "Come near to me, my son, so that I can touch you and find out whether you are really my son Esau."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 Isaac said to his son, "How is it that you have found it so quickly, my son?" He said, "Because Yahweh your God brought it to me."
+\v 21 Isaac said to Jacob, "Come near me, so I may touch you, my son, and learn whether you are my true son Esau or not."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:isaac]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+  * **He said** - "Jacob replied"
+  * **How is it that you have found it so quickly** - "How did you find it so quickly"
+  * **brought it to me**- "caused it to happen in front of me" or "granted me success"
+  * **you are my very son Esau** - "you are really my son Esau"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:27|Genesis Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/27/18|<<]] | [[en/bible/notes/gen/27/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

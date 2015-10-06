@@ -1,0 +1,74 @@
+====== Job 22:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Is it because you have an awesome respect for God that he punishes you?
+\q2 Is that the reason that he puts you on trial?
+\q1
+\v 5 No, it certainly must be \f + \ft rhetorical question \f* because you are extremely wicked.
+\q2 It must be that no one can count the evil things that you have done!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Do you honor God, and is that why he punishes you?
+\q2 Is that the reason that he puts you on trial?
+\q1
+\v 5 No, it certainly must be because you are extremely wicked.
+\q2 It must be that no one can count the evil things that you have done!
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Is it because of your reverence for him that he rebukes you
+\q and takes you to judgment?
+\q
+\v 5 Is not your wickedness great?
+\q Is there no end to your iniquities?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:reverence]]
+  * [[:yo:obe:other:rebuke]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:iniquity]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:22|Job Chapter 22 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/22/01|<<]] | [[en/bible/notes/job/22/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

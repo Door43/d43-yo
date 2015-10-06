@@ -1,0 +1,66 @@
+====== Ecclesiastes 10:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Foolish people become very exhausted by the work that they do,
+\q2 with the result that they are unable to find the road to their town\f + \ft Or: homes \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Foolish people become very exhausted by the work that they do,
+\q2 with the result that they are even unable to find the road to their town.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1 
+\v 15 The toil of fools wearies them, 
+\q2 so that they do not even know the road to town.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ecc:10|Ecclesiastes Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ecc/10/13|<<]] | [[en/bible/notes/ecc/10/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

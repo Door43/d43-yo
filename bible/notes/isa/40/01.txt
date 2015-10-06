@@ -1,0 +1,72 @@
+====== Isaiah 40:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Our God says, "Encourage my people!
+\q2 Encourage them!
+\q1
+\v 2 Speak kindly to \add the people of\add* Jerusalem;
+\q2 tell them that their suffering is ended,
+\q1 and that I have forgiven them for the sins that they have committed;
+\q2 I \f + \ft synecdoche \f* have fully punished them for their sins."
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Our God says, "Encourage my people!
+\q2 Encourage them!
+\q1
+\v 2 Speak kindly to the people of Jerusalem;
+\q2 tell them that their suffering is ended,
+\q1 and that I have forgiven them for the sins that they have committed;
+\q2 I have fully punished them for their sins."
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 40
+\p
+\q1
+\v 1 "Comfort, comfort my people," says your God.
+\q1
+\v 2 Speak tenderly to Jerusalem; and proclaim to her
+\q1 that her warfare has ended, that her iniquity is pardoned, 
+\q1 that she has received double from Yahweh's hand for all her sins.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:comfort]]
+  * [[en:obe:kt:peopleofgod]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:other:proclaim]]
+  * [[:yo:obe:kt:iniquity]]
+  * [[:yo:obe:other:pardon]]
+  * [[en:obe:kt:receive]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+  * **Comfort, comfort** - The word "comfort" is repeated for emphasis. 
+  * **says your God** - Here "your" is plural and refers to God's people. (See: [[:yo:ta:vol1:translate:figs_you]])
+  * **to her that her warfare...her iniquity...she has** - Here "her" and "she" refers to the people of Jerusalem.
+  * **her warfare** - "their forced labor" or "their struggles"
+  * **from Yahweh's hand** - "from Yahweh." Yahweh is speaking about himself. AT: "from me" (See: [[:yo:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:isa:40|Isaiah Chapter 40 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:39:07|<<]] | [[:yo:bible:notes:isa:40:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

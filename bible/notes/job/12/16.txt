@@ -1,0 +1,91 @@
+====== Job 12:16-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 He is the one who is truly strong and wise;
+\q2 he rules over those who deceive others and those whom they deceive.
+\q1
+\v 17 He \add sometimes\add* causes \add the king's\add* officials to no longer be wise,
+\q2 and he causes judges to become foolish.
+\q1
+\v 18 He takes from kings the robes that they wear
+\q2 and puts loincloths around their waists, \add causing them to become slaves\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 He is the one who is truly strong and wise;
+\q2 he rules over those who deceive others and those whom they deceive.
+\q1
+\v 17 He sometimes causes the king's officials to lose their wisdom and grieve because of it'
+\q2 and he causes judges to become foolish.
+\q1
+\v 18 He takes from kings the ornaments that they wear
+\q2 and puts loincloths around their waists, causing them to become slaves.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 With him are strength and wisdom;
+\q the deceived and the deceiver are both in his power.
+\q
+\v 17 He leads counselors away barefoot in sorrow;
+\q he turns judges into fools.
+\q
+\v 18 He takes off the chain of authority from kings;
+\q he wraps a cloth about their waists.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:kt:deceive]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:other:counselor]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:foolish]]
+  * [[:yo:obe:kt:authority]]
+  * [[:yo:obe:other:king]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **With him are strength and wisdom**  - "God is strong and wise"
+    * **the deceived and the deceiver are both in his power**  - AT: "the person who someone lies to and the person who lies both belong to God"
+    * **He leads counselors away barefoot in sorrow**  - "He makes the king's advisers feel sad and ashamed"
+    * **barefoot in sorrow** - This may refer the advisers being stripped naked and made to feel ashamed
+    * **he turns judges into fools**  - "he makes unwise those who are in charge in a law court"
+    * **judge**  - "the person who is in charge in a court of law and who makes the decisions about court cases"
+    * **fools**  - "unwise people"
+    * **He takes off the chain of authority from kings; he wraps a cloth about their waists** - Possible meanings are 1) God removes a symbol of power and replaces it with a common person's clothing thus it is like he is changing the ruler's level of power 2) God makes the ruler change his clothing (perhaps from military outfits to clothing worn in peacetime), thus it is like he is directing a ruler to change his actions.   
+    * **He takes off the chain of authority from kings** - AT: "He takes off the royal belt from rulers"
+    * **he wraps a cloth about their waists** - AT: "he puts a plain belt on them"
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:12|Job Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/12/13|<<]] | [[en/bible/notes/job/12/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

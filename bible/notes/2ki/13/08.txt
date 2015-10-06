@@ -1,0 +1,64 @@
+====== 2 Kings 13:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add If you want to read about\add* \f + \ft rhetorical question \f* everything else that Jehoahaz did, you can read about it in the book called 'The History of the Kings of Israel.'
+\v 9 Jehoahaz died \f + \ft euphemism \f* and was buried in Samaria. Then his son Jehoash became the king.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 If you want to read about everything else that Jehoahaz did, you can read about it in the book called The History of the Kings of Israel.
+\v 9 Jehoahaz died and was buried in Samaria. Then his son Jehoash became the king.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 As for the other matters concerning Jehoahaz, and all that he did and his power, are they not written in The Book of the Events of the Kings of Israel?
+\v 9 So Jehoahaz slept with his ancestors, and they buried him in Samaria. Joash his son became king in his place.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:written]]
+  * [[:yo:obe:kt:sleep]]
+  * [[:yo:obe:other:bury]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:13|2 Kings Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/13/06|<<]] | [[en/bible/notes/2ki/13/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

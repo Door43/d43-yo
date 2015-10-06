@@ -1,0 +1,74 @@
+====== Lamentations 03:37-39 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 37 No one can \f + \ft rhetorical question \f* command something to happen \add and then cause it to happen\add*
+\q2 if Yahweh has not already decided that it should happen.
+\q1
+\v 38 God in heaven \f + \ft metonymy \f* is \f + \ft rhetorical question \f* the one who causes disasters to happen,
+\q2 and he also causes good things to happen.
+\q1
+\v 39 So it is certainly not \f + \ft rhetorical question \f* right for us, who are only humans, to complain
+\q2 when he punishes us for the sins that we have committed.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 37 No one can make something happen
+\q2 unless Yahweh has already decided that it should happen.
+\q1
+\v 38 God in heaven is the one who commands that  disasters should happen,
+\q2 and he also causes good things to happen.
+\q1
+\v 39 So it is certainly not right for us, who are only people on earth, to complain
+\q2 when he punishes us for the sins that we have committed.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 37 Who is it that speaks and it happens when the Lord has not commanded it?
+\q
+\v 38 Do not both calamity and success come out of the the mouth of the Most High?
+\q
+\v 39 How does any person alive complain—any man over his sins' punishment?
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:mosthigh]]
+  * [[en:obe:kt:sin]] 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:lam:03:34|<<]] | [[:yo:bible:notes:lam:03:40|>>]]**
+
+~~DISCUSSION~~{{tag>draft mosthigh }}
+
+~~NOCACHE~~

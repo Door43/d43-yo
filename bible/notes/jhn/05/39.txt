@@ -1,0 +1,59 @@
+====== John 05:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 You carefully study \f + \ft Or: Study \f* the Scriptures, because you think that by \add studying\add* them you will \add find the way to\add* have eternal life. And those Scriptures tell people about me!
+\v 40 But you refuse to come to me\f + \ft Or: to believe my message \f* in order that you may have \add eternal\add* life.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 You carefully study the Scriptures because you think that by studying them you will find eternal life, and those Scriptures tell about me.
+\v 40 Yet still you refuse to come to me in order that you might receive everlasting life from me.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 39 You search the scriptures because you think that in them you have eternal life, and these same scriptures testify concerning
+me, 
+\v 40 and you are not willing to come to me so that you may have life.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wordofgod]]
+  * [[:yo:obe:kt:eternity]]
+  * [[:yo:obe:kt:testimony]]
+  * [[:yo:obe:kt:life]]
+
+===== Translation Notes: =====
+
+Jesus continues speaking to the Jewish leaders ([[:yo:bible:notes:jhn:05:16|5:16]]).
+
+  * **in them you have eternal life** - "you will find eternal life if you read the scriptures" or "the scriptures will tell you how you can have eternal life"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:05|John Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/05/36|<<]] | [[en/bible/notes/jhn/05/41|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish, wordofgod}}
+
+~~NOCACHE~~

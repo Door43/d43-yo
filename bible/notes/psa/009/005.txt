@@ -1,0 +1,81 @@
+====== Psalms 009:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 You rebuked the people of other nations
+\q2 and you have gotten rid of the wicked people;
+\q2 you have erased their names forever.
+\q1
+\v 6 Our enemies have disappeared;
+\q2 you destroyed their cities,
+\q2 and people do not even remember them anymore.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 You rebuked the people of other nations,
+\q2 and you have gotten rid of the wicked people;
+\q2 you have erased their names forever.
+\q1
+\v 6 Our enemies have disappeared;
+\q2 you destroyed their cities,
+\q2 and people do not even remember them anymore.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 You terrified the nations with your battle cry, 
+\q you have destroyed the wicked;
+\q you have blotted out their memory forever.
+\q
+\v 6 The enemy crumbled like ruins 
+\q  when you overthrew their cities.
+\q All remembrance of them has perished.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:forever]]
+  * [[:yo:obe:other:ruin]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:009|Psalms Chapter 009 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/009/003|<<]] | [[en/bible/notes/psa/009/007|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

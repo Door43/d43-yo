@@ -1,0 +1,64 @@
+====== 1 Timothy 06:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 But some people strongly desire to be rich. As a result, they  \add do wrong things to get money, and this will cause them to\add* be caught\f + \ft Or: trapped \f* \f + \ft metaphor \f* as animals get caught in traps. They foolishly desire many things, and those desires cause them to get hurt. And God will completely reject  \add them!\add*
+\v 10 All kinds of bad things will happen to people who \f + \ft personification \f* desire to have a lot of money. Because some people longed for money, they have stopped believing the doctrine\f + \ft Or: teaching \f*  \add that all of us believe\add* and they have caused themselves much grief\f + \ft Or: sadness \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 But some people strongly desire to be rich. As a result, they do wrong things to get money, and this will cause them to be caught as animals get caught in traps. They foolishly desire many things, and so they get hurt. God will completely destroy them!
+\v 10 People do all sorts of evil things when they want to have a lot of money. Because some people longed for money, they have stopped believing the truth that all of us believe and they have caused themselves to be very sorrowful.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Now those who want to become wealthy fall into temptation, into a trap, into many foolish and harmful passions, and into whatever else makes people sink into ruin and destruction.
+\v 10 For the love of money is a root of all kinds of evil. Some people who desire it have wandered away from the faith and have impaled themselves with much grief.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:tempt]]
+  * [[en:obe:kt:evil]]
+  * [[en:obe:kt:faith]]
+ 
+===== Translation Notes: =====
+
+  * **fall into**  - This is a metaphor for losing control of one's life or mental processes. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **fall into temptation**  - "face more temptation than they can resist"
+  * **fall … into a trap**  - "become caught in a trap." This is a metaphor for being unable to act for one's own benefit and being helpless against those who would do one harm. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **fall … into many foolish and harmful passions**  - "be controlled by the desire to do foolish and harmful things"
+  * **makes people sink**  - "pulls people down into"
+  * **For the love of money is a root of all kinds of evil **- "because loving money is a cause of all kinds of evil"
+  * **impaled themselves with … grief**  - This metaphor compares grief to a knife or spear a person uses to stab himself all the way thorough his body.
+  * **who desire it**  - "who desire money"
+  * **have wandered away from the faith**  - "have left the path of truth" or "have stopped believing the truth"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ti:06|1 Timothy Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ti/06/06|<<]] | [[en/bible/notes/1ti/06/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish temp evil}}
+
+~~NOCACHE~~

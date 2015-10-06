@@ -1,0 +1,74 @@
+====== Psalms 084:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Yahweh our God is like the sun \add that shines on us\add* and like a shield \add that protects us\add* \f + \ft metaphor \f*;
+\q2 he acts favorably toward us and honors us.
+\q1 Yahweh does not refuse to give any good thing\f + \ft Or: blessing \f* to those who do what is right.
+\b
+\q1
+\v 12 Yahweh, commander of the armies of heaven,
+\q2 happy are\f + \ft Or: you are pleased with \f* those who trust in you!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Yahweh our God is like the sun that shines on us and like a shield that protects us;
+\q2 he acts favorably toward us and honors us.
+\q1 Yahweh does not refuse to give any good thing to those who do what is right.
+\b
+\q1
+\v 12 Yahweh, commander of the angel armies,
+\q2 those who trust in you are indeed fortunate!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 For Yahweh God is our sun and shield;
+\q Yahweh will give grace and glory;
+\q he does not withhold any good thing from those who walk in integrity.
+\q
+\v 12 Yahweh of hosts,
+\q blessed is the man who trusts in you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:grace]]
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:kt:walk]]
+  * [[:yo:obe:kt:trust]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:084|Psalms Chapter 084 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/084/007|<<]] | [[en/bible/notes/psa/085/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book3}}
+
+~~NOCACHE~~

@@ -1,0 +1,53 @@
+====== Romans 05:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 But \add we know\add* that from \add the time when\add* Adam \add lived\add* until \add the time when\add* Moses \add lived\add*, all people sinned, and they died \add as a consequence\add* \f + \ft personification, metaphor \f*. Even people who sinned differently from the way Adam \add sinned, died\add*. \add Adam's sin\add* affected \add all people\add*, just like what \add Christ did\add*, the one who came later, can affect all people.
+\v 15 But \add the results of God's erasing the record of our sins as\add* a gift to us are not like \add the results of Adam's\add* sinning. The result of one man, \add Adam\add*, sinning was that many\f + \ft Or: all \f* people have died. But \add it is certain\add*, \add however\add*, that many people have abundantly experienced God's acting kindly toward them in a way they did not deserve. \add It is also certain\add* that they have experienced God's erasing the record of their sins as the result of one man, Jesus Christ, acting kindly toward them\f + \ft Or: towards \f* them in a way they did not deserve.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 But we know that from the time when Adam lived until the time when Moses lived, all people sinned, and that they died as a consequence. Even people who sinned differently from the way Adam sinned, died. Adam's sin affected all people, just like what Christ did, the one who came later, also affects all people.
+\v 15 But the gift that God gives is not like Adam's sin. Because Adam sinned, everybody dies. But because another single man, Jesus Christ, died for us all, God kindly offers us this gift of everlasting life, although we do not deserve it.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 Nevertheless, death ruled from Adam until Moses, even over those who did not sin like Adam’s disobedience, who is a figure of him who was to come.
+\p
+\v 15 But even so, the free gift is not like the trespass. For if by the trespass of the one the many died, much more did the grace of God and the gift by the grace of the one man, Jesus Christ, abound for the many.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:adam]]
+  * [[:yo:obe:other:moses]]
+  * [[:yo:obe:other:disobey]]
+  * [[:yo:obe:kt:gift]]
+  * [[:yo:obe:kt:trespass]]
+ 
+
+===== Translation Notes: =====
+
+  * **Nevertheless** - "Yet" or "There was no written law from the time of Adam to the time of Moses, but" (see [[:yo:bible:notes:rom:05:12|5:13]])
+  * **death ruled from Adam until Moses** - Paul is comparing death to a king. (See: [[en:ta:vol1:translate:figs_metaphor]]). Translation Alternate: "people continued to die from the time of Adam until the time of Moses as a consequence of their sin."
+  * **even over those who did not sin like Adam’s disobedience** - "even people whose sins were different from Adam’s continue to die"
+  * **who is a figure of him who was to come** - Adam was a pattern of Christ, who appeared much later. He had much in common with him.
+  * **For if...the many died...much more did the grace of God and the gift...abound** - It is important that "the many died," but it is more important that "the grace of God and the gift" abounded.
+  * **much more did the grace...and the gift...abound** - "the grace...and the gift" were greater and stronger than the "trespass."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:05|Romans Chapter 05 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:05:12|<<]] | [[:yo:bible:notes:rom:05:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish adam moses}}
+
+~~NOCACHE~~

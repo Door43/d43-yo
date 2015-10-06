@@ -1,0 +1,72 @@
+====== Job 18:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add While they were alive\add* they walked confidently,
+\q2 but later \add it was as though\add* they stumbled and fell,
+\q1 \add because they themselves did not heed\add* the advice \add that they gave to others\add*.
+\q1
+\v 8 \add It was as though\add* they walked into their own net
+\q2 or fell into a pit that they themselves have dug.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 While they are alive, they walk confidently,
+\q2 but later it will be as though they stumbled and fell,
+\q1 because they themselves do not pay attention to the advice that they give to others.
+\q1
+\v 8 It will be as though they had walked into their own net
+\q2 or had fallen into a pit that they themselves dug.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 The steps of his strength will be made short;
+\q his own plans will cast him down.
+\q
+\v 8 For he will thrown into a net by his own feet;
+\q he will walk into a pitfall.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:walk]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:18|Job Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/18/05|<<]] | [[en/bible/notes/job/18/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

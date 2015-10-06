@@ -1,0 +1,78 @@
+====== Isaiah 66:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 No one \f + \ft rhetorical question \f* ever heard that a woman gave birth to a baby
+\q2 when she was just starting to have birth pains.
+\q1
+\v 8 Certainly no one \f + \ft rhetorical question \f* ever heard about such a thing happening,
+\q2 and no one has ever seen it happen.
+\q1 \add Similarly\add*, no one ever \f + \ft rhetorical question \f* heard that a nation was created in one instant,
+\q2 not even in one day.
+\q1 But Jerusalem is like \f + \ft metaphor \f* a woman who gives birth to children
+\q2 as soon as she starts to have birth pains.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 No one ever heard that a woman gave birth to a baby
+\q2 when she was just starting to have birth pains.
+\q1
+\v 8 Certainly no one ever heard about such a thing happening,
+\q2 and no one has ever seen it happen.
+\q1 Similarly, no one ever heard that a nation was created in one instant,
+\q2 not in one day.
+\q1 But Jerusalem is like a woman who gives birth to children
+\q2 as soon as she starts to have birth pains.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 7 Before she goes into labor, she gives birth;
+\q1 before pain is upon her, she gave birth to a son.
+\q1
+\v 8 Who has heard of such a thing? Who has seen such things? 
+\q1 Will a land be born in one day? Can a nation be established in one moment? 
+\q1 Yet as soon as Zion goes into labor, she gives birth to her children.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:laborpains]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:kt:children]]
+
+===== Translation Notes: =====
+
+These verses explain what was said in Isaiah 49:17-21; 54:1.
+
+  * **Before she goes into labor, she gives birth; before pain is upon her, she gave birth to a son** - "Without delay and with little effort, Zion will again bring forth a nation"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:66|Isaiah Chapter 66 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/66/06|<<]] | [[en/bible/notes/isa/66/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

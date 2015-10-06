@@ -1,0 +1,49 @@
+====== Mark 07:33-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 \add So Jesus\add* took him away from the crowd \add in order that the two of them could be\add* alone. Then he put \add one of\add* his fingers into \add each of\add* the man's ears. After he spat \add on his fingers\add*, he touched the man's tongue \add with his fingers\add*.
+\v 34 Then he looked up toward heaven, he sighed \add because he was concerned for the man\add*, and then \add in his own language\add* he said to the man's \add ears\add*, "Ephphatha", which means, "Be opened \f + \ft Or:Open up \f*!".
+\v 35 At once the man could hear plainly \f + \ft metonymy \f*. He also began to speak clearly because \add what was causing him to be unable to speak\add* was healed \f + \ft Or:Jesus healed \add what was causing him to be unable to speak\add* \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 So Jesus took him away from the crowd in order that the two of them could be alone. Then he put one of his fingers into each of the man's ears. After he spat on his fingers, he touched the man's tongue with his fingers.
+\v 34 Then he looked up toward heaven, he sighed and then in his own language he said to the man's ears, "Ephphatha," which means, "Be opened!"
+\v 35 At once the man could hear plainly. He also began to speak clearly because what was causing him to be unable to speak was healed.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 He took him aside from the crowd privately, and he put his fingers into his ears, and after spitting, he touched his tongue.
+\v 34 He looked up to heaven; he sighed and said to him, "Ephphatha," that is to say, "Open!"
+\v 35 Jesus made his ears so they could hear, and at once what had hold of his tongue was released, so he now spoke plainly.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:jesus]]
+
+===== Translation Notes: =====
+
+  * **Ephphatha** - The author wants the reader to know how the word sounds, so write this using your language's alphabet as a word that sounds as close to "effatha" as you can. (See: [[en:ta:vol1:translate:translate_unknown]])
+  * **sighed** - took in and let out a long breath to show he was not happy
+  * **what had hold of his tongue was released** - "Jesus released what had hold of his tongue" or "Jesus healed what had caused him not to speak clearly"
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:07|Mark Chapter 07 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:07:31|<<]] | [[:yo:bible:notes:mrk:07:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

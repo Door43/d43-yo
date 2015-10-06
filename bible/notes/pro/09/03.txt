@@ -1,0 +1,64 @@
+====== Proverbs 09:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add It is as though\add* then she sent out her servant women to call out from the highest place in the town,
+\q1
+\v 4 "You people who need to understand more, come in!"
+\q1 And to those who are ignorant, \add it is as though\add* she calls out,
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Like a woman who send out her maids to give the invitations to her guests, wisdom calls out from the highest place in the city for all to hear, and Wisdom says:
+\q1
+\v 4 "If you have not been instructed, come here!"
+\q1 and she gives the invitation to come to those who do not have good judgment.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 She has sent out invitations with her maids and she calls out
+\q from the highest point of the city:
+\q
+\v 4 "Let all who are not taught, come in here!"
+\q she says to those who do not have judgment.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:judge]] 
+
+===== Translation Notes: =====
+
+
+
+    ***She has sent out invitations with her maids**  - "She" refers to Wisdom from [[en:bible:notes:pro:09:01|9:1]]
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:09|Proverbs Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/09/01|<<]] | [[en/bible/notes/pro/09/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

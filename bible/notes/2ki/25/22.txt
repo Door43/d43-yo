@@ -1,0 +1,70 @@
+====== 2 Kings 25:22-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 Then King Nebuchadnezzar appointed Gedaliah, who was the son of Ahikam and grandson of Shaphan, to be the governor of the people who were still living in Judah.
+\v 23 When all the army captains of Judah and their soldiers found out that the king of Babylon had appointed Gedaliah to be the governor, they met with him at Mizpah \add town\add*. These army captains were Ishmael the son of Nethaniah, Johanan the son of Kareah, Seraiah the son of Tanhumeth from Netophah \add town\add*, and Jaazaniah from the Maacah region.
+\p
+\v 24 Gedaliah solemnly promised them that the officials from Babylon \add were not planning to harm them\add*. He said, "You may live in this land \add without being afraid\add* and serve the king of Babylon, and \add if you do\add*, everything will go well for you."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Then King Nebuchadnezzar appointed a man named Gedaliah to be the governor of the people who were still living in Judah. Gedaliah son of Ahikam, and grandson of Shaphan.
+\v 23 When some army commanders of Judah and their soldiers found out that the king of Babylon had appointed Gedaliah to be the governor, they met with him at the city of Mizpah. These commanders were Ishmael son of Nethaniah; Johanan son of Kareah; Seraiah son of Tanhumeth, from the city of Netophah; and Jaazaniah, from the region of Maacah.
+\p
+\v 24 Gedaliah solemnly promised them that the officials from Babylon were not planning to harm them. He said, "You may live in this land without being afraid; you should obey the king of Babylon. If you do, everything will go well for you."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 As for the people who were left in the land of Judah, whom Nebuchadnezzar, king of Babylon, had left behind, Nebuzaradan put Gedaliah, the son of Ahikam, the son of Shaphan, in charge of them.
+\v 23 Now when some the commanders of soldiers, they and their men, heard that the king of Babylon had made Gedaliah governor, they went to Gedaliah at Mizpah. These men were Ishmael, the son of Nethaniah; Johanan, the son of Kareah; Seraiah, the son of
+Tanhumeth the Netophathite; and Jaazaniah, the son of the Maacathite—they and their men.
+\v 24 Gedaliah made an oath to them and to their men, and said to them, "Do not be afraid of the Chaldean officials. Live in the land and serve the king of Babylon, and it will go well with you."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:governor]]
+  * [[:yo:obe:other:oath]]
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:kt:life]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:25|2 Kings Chapter 25 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/25/20|<<]] | [[en/bible/notes/2ki/25/25|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

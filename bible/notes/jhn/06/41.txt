@@ -1,0 +1,54 @@
+====== John 06:41-42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 41 The Jewish \add leaders\add* \f + \ft synecdoche \f* began to grumble about him because he said, "I am the one who is \add like\add* true bread who came down from heaven."
+\v 42 They said, "This man is Jesus, the son of Joseph!\f + \ft Or: Isn't this man the son of Joseph? \f* \f + \ft rhetorical question \f* We know \add the names of\add* both his father and his mother. \add He certainly did not come from heaven\add*, so he is \add lying\add* by saying 'I came from heaven.'\f + \ft Or: why is he now saying, 'I came from heaven?' \f* \f + \ft rhetorical question \f*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 41 The Jews began to grumble about Jesus because he said, "I am the bread who came down from heaven."
+\v 42 They said, "Is this not Jesus, whose father is Joseph? Don't we know his father and mother? How can he say with any truth, 'I have come from heaven'?"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 41 Then the Jewish leaders grumbled about him because he had said, "I am the bread that has come down out of heaven."
+\v 42 They said, "Is not this Jesus, the son of Joseph, whose father and mother we know? How then does he say, 'I have come down out of heaven'?'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:jewishleaders]]
+  * [[:En:obe:other:josephnt]]
+  * [[en:obe:other:bread]]
+  * [[en:obe:kt:heaven]]
+===== Translation Notes: =====
+
+The Jewish leaders interrupt Jesus as is speaking to the people ([[:yo:bible:notes:jhn:06:32|6:32]]).
+
+  * **grumble** - talk unhappily
+  * **I am the bread** - Translate this as you did in [[:yo:bible:notes:jhn:06:35|6:35]].
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:06|John Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/06/38|<<]] | [[en/bible/notes/jhn/06/43|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

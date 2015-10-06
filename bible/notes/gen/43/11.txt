@@ -1,0 +1,52 @@
+====== Genesis 43:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then their father Jacob said to them, "If there is no other way, do this: Put in your sacks some of the best things that are grown in this land, and take them down to the man as a gift. Take some balm\f + \ft Or: perfume \f* and honey and spices and myrrh\f + \ft Or: ointment \f*, some pistachio nuts, and almonds.
+\v 12 Take twice as much money as you took the previous time, because you must return the silver that someone put in the tops of your sacks. Perhaps it was a mistake that it was put in your sacks.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then their father Jacob said to them, "If there is no other way, do this: Put in your sacks some of the best things that are grown in this land, and take them down to the man as a gift. Take some balm and honey and spices and myrrh, some pistachio nuts, and almonds.
+\v 12 Take twice as much money as you took the previous time, because you must return the silver that someone put in the tops of your sacks. Perhaps it was a mistake that it was put in your sacks.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 Their father Israel said to them, "If it be so, now do this. Take some of the best products of the land in your bags.  Carry down to the man a gift: some balm and honey, spices and myrrh, pistachio nuts and almonds.
+\v 12 Take double money in your hand. The money that was returned in the opening of your sacks, carry again in your hand. Perhaps it was a mistake.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jacob]]
+  * [[en:obe:kt:gift]]
+  * [[:yo:obe:other:honey]]
+ 
+
+===== Translation Notes: =====
+
+  * **If it be so, now do this** - "If this is our only choice, then do it"
+  * **balm...spices and myrrh** - See how you translated these words in [[en:bible:notes:gen:37:25|37:25]].
+  * **honey** - a sweet substance made by bees
+  * **pistachio nuts** - a small, green tree nut
+  * **almonds** - a tree nut with a sweet flavor
+  * **take double money in your hand** - "take double the money with you"
+  * **The money that was returned in the opening of your sacks, carry again in your hand** - "Take back to Egypt the money you found in your sacks"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:43|Genesis Chapter 43 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:43:08|<<]] | [[:yo:bible:notes:gen:43:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

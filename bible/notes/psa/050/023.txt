@@ -1,0 +1,59 @@
+====== Psalms 050:23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 The sacrifice that truly honors me is to thank me \add for what I have done\add*;
+\q2 and I will save those who always do the things that I want them to."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 The sacrifice that truly honors me is to thank me for what I have done;
+\q2 and I will save those who always do the things that I want them to."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 Whoever offers a sacrifice of thanksgiving praises me;
+\q and to anyone who plans his path in the right way
+\q I will show God’s salvation.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:praise]]
+  * [[:yo:obe:kt:salvation]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:050|Psalms Chapter 050 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/050/021|<<]] | [[en/bible/notes/psa/051/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

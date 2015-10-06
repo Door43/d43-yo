@@ -1,0 +1,54 @@
+====== John 14:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 You heard me say to you, 'I am going away, but \add later\add* I will come back to you.' If you loved me, you would be glad that I am going back to \add my\add* Father, because \add my\add* Father is greater than I am, \add and there he will honor me and will send the Spirit to you\add*.
+\v 29 I have told you\add these things now\add* before they happen, so that when they happen you will believe \add that what I said is true\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 You heard me say to you that I am going away and will later come back to you. If you loved me, you would be glad that I am going back to the Father because the Father is greater than I am.
+\v 29 I have told you these things now before they happen so that, when they do happen, you will continue to trust me.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 You heard how I said to you, 'I am going away, and I will come back to you.' If you loved me, you would have rejoiced because I am going to the
+Father, for the Father is greater than I.
+\v 29 Now I have told you before it happens so that, when it does happen, you may believe.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rejoice]]
+  * [[:yo:obe:kt:love]]
+  * [[:yo:obe:kt:believe]]
+
+===== Translation Notes: =====
+
+
+    * **is greater than I.** - "has greater authority than I have here."
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:14|John Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/14/25|<<]] | [[en/bible/notes/jhn/14/30|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

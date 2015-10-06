@@ -1,0 +1,61 @@
+====== Genesis 37:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 So, instead of harming him, let's sell him to these men who are descendants of Ishmael. Don't forget, he is our own younger brother!" So they all agreed to do that.
+\p
+\v 28 When those traders from the Midian area came near, Joseph's brothers pulled him up out of the pit\f + \ft Or: cistern \f*. Then they sold him to the men from Midian for 20 pieces of silver. The traders then took Joseph to Egypt.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 So instead of harming him, let's sell him to these men who are descendants of Ishmael. Do not forget, he is our own younger brother!" So they all agreed to do that.
+\p
+\v 28 When those traders from the Midian area came near, Joseph's brothers pulled him up out of the pit. Then they sold him to the men from Midian for twenty pieces of silver. The traders then took Joseph to Egypt.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 27 Come, and let us sell him to the Ishmaelites and not lay our hands upon him. For he is our brother, our flesh." His brothers listened to him.
+
+\v 28 The Midianite merchants passed by. His brothers drew Joseph up and lifted him up out of the pit. They sold Joseph to the Ishmaelites for twenty pieces of silver. The Ishmaelites carried Joseph into Egypt.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:ishmael]]
+  * [[en:obe:other:hand]]
+  * [[:yo:obe:kt:flesh]]
+  * [[:yo:obe:other:midian]]
+  * [[:yo:obe:other:josephot]]
+  * [[en:obe:other:silver]]
+  * [[:yo:obe:other:egypt]]
+ 
+
+===== Translation Notes: =====
+
+  * **lay our hands on him** - "hurt him"
+  * **he is our brother, our flesh** - Both of these phrases mean basically the same thing. Judah emphasizes the family relationship between Joseph and the other brothers. Alternate translation: "he is our blood relative" or "he is our very own brother" (see: [[en:ta:vol2:translate:figs_doublet]]).
+  * **His brothers listened to him** - "Judah's brothers listened to him" or "Judah's brothers agreed with him"
+  * **Midianite...Ishmaelites** - Both names refer to the same group of traders that Joseph's brothers meet. 
+  * **for twenty pieces of silver** - "for the price of twenty pieces of silver"
+  * **carried Joseph into **- "brought Joseph to"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:37|Genesis Chapter 37 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:37:25|<<]] | [[:yo:bible:notes:gen:37:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish  midian}}
+
+~~NOCACHE~~

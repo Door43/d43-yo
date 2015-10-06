@@ -1,0 +1,56 @@
+====== Isaiah 23:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 It is true that after seventy years Yahweh will restore Tyre. Their merchants will again earn a lot of money by buying things from and selling things to many other nations \f + \ft hyperbole \f*.
+\q1
+\v 18 But their profits will be given to Yahweh.
+\q2 \add The merchants\add* will not hoard their money;
+\q1 instead, they will give it to Yahweh's priests
+\q2 in order that they can buy food and nice clothes.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 It is true that after seventy years Yahweh will restore Tyre. Their merchants will again earn a lot of money by buying things from and selling things to many other nations.
+\q1
+\v 18 But their profits will be given to Yahweh.
+\q2 The merchants will not hoard their money;
+\q1 instead, they will give it to Yahweh's people, for they will live in his presence,
+\q2 in order that they can buy food and nice clothes.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 It will come about that after seventy years, Yahweh will help Tyre, and she will return to her hire. She will prostitute herself with all the kingdoms on the surface of the earth.
+\v 18 Her profits and earnings will be reserved for  Yahweh. They will not be stored up or laid up. Those who live in Yahweh's presence—her merchandise will be for them to eat and to have lasting clothing.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:tyre]]
+  * [[:yo:obe:other:prostitute]]
+  * [[:yo:obe:other:kingdom]]
+  * [[:yo:obe:other:profit]]
+
+===== Translation Notes: =====
+
+  * **It will come about that** - This phrase is used here to mark an important event that will happen. If your language has a way for doing this, you could consider using it here.
+  * **Yahweh will help Tyre** - Here "Tyre" refers to the people who live in Tyre. AT: "Yahweh will help the people of Tyre." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **She will prostitute herself with all the kingdoms on the surface of the earth** - Isaiah compares the people of Tyra with a prostitute. Just as the prostitute sells herself for money to any man, the people of Tyre will again buy and sell to all kingdoms. AT: "And like a prostitute they will buy and sell will all the kingdoms of the earth." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **They will not be stored up or laid up** - AT: "The merchants will not store away their money."
+  * **Those who live in Yahweh's presence** - "Those who obey and serve Yahweh"
+  * **for them to eat and to have lasting clothing** - "for them to have enough food to eat and clothing that will last a long time"
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:isa:23|Isaiah Chapter 23 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:23:15|<<]] | [[:yo:bible:notes:isa:24:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

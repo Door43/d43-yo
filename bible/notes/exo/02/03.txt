@@ -1,0 +1,51 @@
+====== Exodus 02:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 When she was unable to hide him\f + \ft Or: me( Or: keep ) it a secret \f* any longer, she got a basket made from tall reeds. She covered the basket with tar \add to make it waterproof\f + \ft Or: so water could not get in\add* \f*. Then she put him, Or: me in the basket and put the basket in \add the water\add* in the midst of the tall grass at the edge of the Nile \add River\add*.
+\v 4 His\f + \ft Or: My \f* older sister was standing not far away, \add watching\add* \add to see\add* what would happen to him\f + \ft Or: me \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 When she was unable to hide him any longer, she got a basket made from tall reeds. She covered the basket with tar so it would float in water. Then she put the baby in the basket and put the basket in the water. It was at the edge of the Nile River in the middle of the tall reeds.
+\v 4 His older sister was standing close by, watching to see what would happen to him.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 But when she could no longer hide him, she took a papyrus basket and sealed it with bitumen and pitch. Then she put the child in it and placed it among the reeds in the water along the side of the river.
+\v 4 His sister stood at a distance to see what would happen to him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:seal]]
+
+===== Translation Notes: =====
+
+  * **papyrus basket**  - This is a basket made from a tall grass that grows by the Nile River in Egypt.
+  * **sealed it with bitumen and pitch** - AT: "spread tar on it to keep water from getting into it"
+  * **sealed** - Here "sealed" means that she applied a waterproof coating.
+  * **bitumen and pitch**  - "tar." This is a sticky black paste used to keep out water.
+  * **reeds**  - a type of tall grass that grows in flat, wet areas
+  * **at a distance**  - This means something is close enough to see but still far enough away to remain hidden.
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:02|Exodus Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:02:01|<<]] | [[:yo:bible:notes:exo:02:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

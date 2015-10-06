@@ -1,0 +1,77 @@
+====== Amos 05:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 \add Yahweh says\add*, "I hate your religious celebrations
+\q2 and the times when you gather to worship me;
+\q2 I detest them \f + \ft doublet \f*.
+\q1
+\v 22 Even if you bring me offerings that will be completely burned \add on the altar\add* and offerings of grain,
+\q2 I will no longer accept them.
+\q1 Even if you bring me offerings to renew\f + \ft Or: maintain \f* fellowship with me,
+\q2 I will not pay any attention to them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Yahweh says, "I hate your religious celebrations
+\q2 and the times when you gather to worship me;
+\q2 I detest them all.
+\q1
+\v 22 Even if you bring me offerings to burn on the altar and offerings of grain,
+\q2 I will no longer accept them.
+\q1 Even if you bring me offerings to restore fellowship with me,
+\q2 I will not pay any attention to them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+]q
+\v 21 "I hate, I despise your festivals,
+\q I take no delight in your solemn assemblies.
+\q
+\v 22 Even though you offer me your burnt offerings and grain offerings,
+\q I will not accept them,
+\q neither will I look at the fellowship offerings of your fattened animals.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:festival]]
+  * [[:yo:obe:kt:assembly]]
+  * [[:yo:obe:other:burntoffering]]
+  * [[:En:obe:other:sacrifice]]
+ 
+
+===== Translation Notes: =====
+
+    * **I hate, I despise your festivals**  - See: [[:yo:ta:vol2:translate:figs_doublet]]
+    * **I take no delight in your solemn assemblies** - God utterly detests the hypocritical religious gatherings (See: [[:yo:ta:vol2:translate:figs_litotes]])
+    * **Even though you offer me your burnt offerings and grain offerings, __I will not accept them__, __neither will I look__ at the fellowship offerings of your fattened animals** - See: [[:yo:ta:vol2:translate:figs_parallelism]]
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:amo:05|Amos Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/amo/05/18|<<]] | [[en/bible/notes/amo/05/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

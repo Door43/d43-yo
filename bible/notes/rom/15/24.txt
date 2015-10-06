@@ -1,0 +1,43 @@
+====== Romans 15:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 \add So I hope to go\f + \ft Or: come \f* to see you\add*. I hope to do that as soon as I am on my way to \add the provinces in\add* Spain. I hope to see you as I journey through \add your area\add*, and I hope that \add by whatever you give me\add* \f + \ft euphemism \f* you will help me on my journey to Spain. But before \add I go there\add*, I want to enjoy being with you for a little while, although \add I would like to stay with you longer\add*.
+\v 25 But \add I cannot visit you\add* now, because I am about to go to Jerusalem in order to take money \f + \ft euphemism \f* for God's people \add there\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 So I hope to go to Spain, and I hope that you will help me on my journey. And I would like to pause on my journey for a while in order to enjoy being with you.
+\v 25 But I cannot visit you now, because I am about to go to Jerusalem in order to take money for God's people there.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 24 So whenever I go to Spain, I hope to see you in passing, and to be sent on my way by you, after I enjoy your company for a while.
+\v 25 But now I am going to Jerusalem to serve the saints.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:saint]]
+
+===== Translation Notes: =====
+
+  * **in passing** - "as I pass through Rome" or "while I am on my way"
+  * **enjoy your company** - "enjoy spending some time with you" or "enjoy visiting you"
+  * **Spain** - See: [[en:ta:vol1:translate:translate_names]] and [[en:ta:vol1:translate:translate_unknown]]
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:15|Romans Chapter 15 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:15:22|<<]] | [[:yo:bible:notes:rom:15:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

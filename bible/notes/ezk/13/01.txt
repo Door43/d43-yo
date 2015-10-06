@@ -1,0 +1,62 @@
+====== Ezekiel 13:1-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh gave me another message. He said,
+\v 2 "You human, prophesy \add a warning\add* against the prophets in Israel who are prophesying. Some of them are prophesying things that they themselves have imagined\f + \ft Or: thought \f*. Say to them, 'Listen to what Yahweh says!
+\v 3 He says, "Terrible things will happen to those wicked prophets who proclaim their own ideas and have not seen any \add visions from me\add*.
+\v 4 You Israelite people, your prophets are \add as useless\add* as \f + \ft simile \f* jackals\f + \ft Or: wolves \f* that \add only walk\add* through the ruins \add of a city \add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh gave me another message. He said,
+\v 2 "Son of man, prophesy a warning against the prophets in Israel who are prophesying. Some of them are prophesying things that they themselves have imagined. Say to them, 'Listen to what Yahweh says!
+\v 3 He says, "Terrible things will happen to those wicked prophets who proclaim their own ideas and have not seen any visions from me.
+\v 4 You Israelite people, your prophets are like jackals in the desert, they are scavengers feeding off of others' loss.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 13
+\p
+\v 1 Again, the word of Yahweh came to me and said,
+\v 2 "Son of man, prophesy against the prophets who are prophesying in Israel, and say to those who are prophesying out of their own
+minds, 'Listen to the word of Yahweh!
+\v 3 The Lord Yahweh says this: "Woe to the foolish prophets who follow their own spirit, but who have seen nothing!"
+\v 4 Israel, your prophets have been like jackals in the wastelands.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wordofgod]]
+  * [[:yo:obe:kt:sonofman]]
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:other:israel]]
+  * [[en:obe:other:mind]]
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:yo:obe:kt:woe]]
+  * [[:yo:obe:kt:foolish]]
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:other:waste]]
+===== Translation Notes: =====
+
+  * **the word of Yahweh came to me and said**  - See how you translated this in [[:yo:bible:notes:ezk:03:16|3:16]].
+  * **Son of man**  - Ezekiel (me)
+  * **prophesying out of their own minds**  - prophesying from their own thoughts
+  * **follow their own spirit**  - This phrase is used to refer to the prophets doing what they want.  The word "spirit" refers to their thoughts and the word "follow" refers to what they do. (See: [[:yo:ta:vol1:translate:figs_idiom]])
+  * **Thus says the Lord Yahweh **- See how you translated this in [[:yo:bible:notes:ezk:05:05|5:5]].
+  * **jackals**- wild animals like dogs or a small wolves.
+  * **like jackals in the wastelands**  - Like jackals that steal food from other animals in the desert, the prophets steal from the people of Israel when they lie about having messages from God. (See: [[en:ta:vol1:translate:figs_simile]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:ezk:13|Ezekiel Chapter 13 Comprehension Questions]]**
+
+**[[:yo:bible:notes:ezk:12:26|<<]] | [[:yo:bible:notes:ezk:13:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

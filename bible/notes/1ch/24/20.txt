@@ -1,0 +1,82 @@
+====== 1 Chronicles 24:20-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 \add This is a list of some of\add* the other descendants of Levi:
+\li1 From the sons of Amram there was Shubael.
+\li2 From the sons of Shubael there was Jehdeiah.
+\li1
+\v 21 From Rehabiah \add the son of Eleazar\add* there was Isshiah, his oldest son.
+\li1
+\v 22 From the descendants of \add Kohath's son\add* Izhar there was Shelomoth.
+\li2 From the descendants of Shelomoth there was Jahath.
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 This is a list of some of the other descendants of Levi:
+\li1 From the sons of Amram there was Shubael.
+\li2 From the sons of Shubael there was Jehdeiah.
+\li1
+\v 21 From Rehabiah son of Eleazar there was Isshiah, his oldest son.
+\li1
+\v 22 From the descendants of Kohath's son Izhar there was Shelomoth.
+\li2 From the descendants of Shelomoth there was Jahath.
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 These were the rest of the Levi's descendants:
+\q  
+Amram's descendants included Shebuel; 
+\q Shebael's descendants included Jehdeiah.
+\q
+\v 21 Amram's descendants included Isshiah the leader.
+\q
+\v 22 Izhar's descendants included Shelomith. Shelomith's descendants included Jahath.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ch:24|1 Chronicles Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/24/19|<<]] | [[en/bible/notes/1ch/24/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

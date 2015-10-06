@@ -1,0 +1,58 @@
+====== 2 Kings 01:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 After King Ahab died, \add the country of\add* Moab rebelled against Israel.
+\v 2 One day, Ahaziah, \add the new king of Israel\add*, fell through the wooden slats\f + \ft Or: boards \f* around the edge of the flat roof \add of his palace\add* in Samaria. He was badly injured, so he summoned some messengers and told them, "Go to Ekron \add city in Philistia\add*, and ask their god Baalzebub whether I will recover\f + \ft Or: become well \f*."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 After King Ahab died, the country of Moab rebelled against Israel.
+\v 2 One day, Ahaziah, the new king of Israel, fell through the wooden slats in his upstairs room and was injured. So he sent for his messengers and commanded them, "Go and ask of Baalzebub, the god of Ekron, whether or not I will recover from this injury."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 Moab rebelled against Israel after the death of Ahab.
+\v 2 Then Ahaziah fell down through the lattice in his upper chamber in Samaria, and was injured. So he sent for messengers and said to them, "Go, ask Baal Zebub, the god of Ekron, whether I will recover from this injury."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:moab]]
+  * [[:yo:obe:other:rebel]]
+  * [[:yo:obe:other:kingdomofisrael]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:other:ahab]]
+  * [[:yo:obe:other:Ahaziah]]
+  * [[:yo:obe:other:samaria]]
+  * [[:yo:obe:other:send]]
+  * [[:yo:obe:other:messenger]]
+  * [[:yo:obe:other:baal]]
+  * [[:yo:obe:kt:falsegod]]
+  * [[:yo:obe:other:ekron]]
+
+===== Translation Notes: =====
+
+  * **the lattice in his upper chamber**  - AT: "the wooden boards around the flat roof of his palace"
+  * **in Samaria** - Samaria was the capital city of Israel. AT "in his palace in his capital city of Samaria" 
+  * **Baal Zebub** - (See: [[:yo:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:2ki:01|2 Kings Chapter 01 Comprehension Questions]]**
+**| [[:yo:bible:notes:2ki:01:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

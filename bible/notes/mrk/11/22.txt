@@ -1,0 +1,47 @@
+====== Mark 11:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 Jesus replied, "\add You should not be surprised that God did what I asked!\add* You must trust that God \add will do whatever you ask him to do!\add*
+\v 23 \add Also\add* note this: If anyone says to this hill, 'Be raised up \f + \ft Or:Rise up \f* and then be thrown \f + \ft Or:throw yourself \f* into the lake!' and if he does not doubt \add that what he asks for will happen\add*, that is, if he believes that what he asks for will happen, \add God\add* will do it for him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Jesus replied, "Trust in God!
+\v 23 Also note this: If anyone says to this hill, 'Be raised up and thrown into the lake!' and if he does not doubt that it will happen, that is, if he believes that it will happen, God will do it for him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 Jesus answered them, "Have faith in God.
+\v 23 Truly I say unto you, whoever says to this mountain, 'May God lift you up and cast you into the sea,' and if he does not doubt in his heart but believes that what he said will happen, that is what God will do.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:faith]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:amen]]
+  * [[en:obe:other:heart]]
+  * [[:yo:obe:kt:believe]]
+ 
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:11|Mark Chapter 11 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:11:20|<<]] | [[:yo:bible:notes:mrk:11:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

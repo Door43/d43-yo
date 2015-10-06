@@ -1,0 +1,58 @@
+====== John 06:35-37 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 Jesus said to them, "\add Just like\add* food \f + \ft metaphor \f* \add sustains physical life\add*, I am the \add one who enables you to have spiritual\add* life. Those who \add eat ordinary food and drinks will later be hungry and thirsty\add*. But those who come to me \add to receive that life\add* will never again \add lack anything spiritually\add*.
+\v 36 I told you before that you have seen my \add miracles, but after seeing them, instead of understanding who I am\add*, you have not believed in me.
+\v 37 All the people that \add my\add* Father entrusts to me will come to me, and I will certainly welcome\f + \ft Or: never send away \f* \f + \ft litotes \f* anyone who comes to me.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 Jesus said to them, "I am the Bread that will make you live. Whoever comes to me will never be hungry. Whoever trusts in me will never be thirsty.
+\v 36 Nevertheless, I have told you that, although you see me, you still do not trust me.
+\v 37 All the people my Father gives to me will come to me, and I will never drive away anyone who comes to me.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 35 Jesus said to them, "I am the bread of life, he who comes to me will not hunger, and he who believes on me will 
+never thirst.
+\v 36 However, I said to you that you have seen me, and you still do not believe.
+\v 37 All whom the Father gives me will come to me, and he who comes to me I will absolutely not drive away.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:bread]]
+  * [[en:obe:kt:life]]
+  * [[:yo:obe:kt:believe]]
+
+
+===== Translation Notes: =====
+
+Jesus continues speaking to the people ([[:yo:bible:notes:jhn:06:32|6:32]]).
+
+  * **I am the bread of life** - Jesus is comparing himself to bread. Just as bread is necessary for our physical life, Jesus is necessary for our spiritual life. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **he who comes to me I will absolutely not drive away** - "I will keep everyone who comes to me." (See: [[en:ta:vol2:translate:figs_litotes]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:06|John Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/06/32|<<]] | [[en/bible/notes/jhn/06/38|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgrjhn}}
+
+~~NOCACHE~~

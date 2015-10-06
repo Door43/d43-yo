@@ -1,0 +1,57 @@
+====== Joshua 18:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 But the tribe of Levi will not be allotted any land, because their \add reward is to be\add* Yahweh's priests. The tribes of Gad, Reuben, and half the tribe of Manasseh have already been allotted their land on the east side of the Jordan \add River\add*, just as Moses, the man who served God \add well\add*, decided, \add so they will not get any more land\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 But the tribe of Levi will not be assigned any land, because their reward is to be Yahweh's priests. The tribes of Gad, Reuben, and the half tribe of Manasseh have already been assigned their land on the east side of the Jordan River, just as Moses, the man who served God well, decided, so they will not get any more land."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 The Levites have no portion among you, for the priesthood of Yahweh is their inheritance. Gad, Reuben, and the half tribe of Manasseh have received their inheritance, beyond Jordan
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:levite]]
+  * [[en:obe:other:gad]]
+  * [[en:obe:other:reuben]]
+
+ 
+
+===== Translation Notes: =====
+ 
+  * **among you** - "you" refers to the whole nation of Isreal. (See: [[en:ta:vol1:translate:figs_youdual]])
+  * **the priesthood**  - Refers to the positions of priests as a group. (See: [[en:obe:kt:priest]])
+  * **half-tribe of Manasseh**  - Refers to the part of the tribe that received an inheritance before the crossing of the Jordan River.
+  * **beyond Jordan**  - Refers to the area on the other side of the Jordan River. (See: [[en:obe:other:jordanriver]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:18|Joshua Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/18/05|<<]] | [[en/bible/notes/jos/18/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

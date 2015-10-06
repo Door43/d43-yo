@@ -1,0 +1,72 @@
+====== Deuteronomy 22:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Do not plant any crop in the area where your grapevines are growing. If you do, you are not allowed to harvest the crops that you have planted or to harvest the grapes \add to make wine from them\add*.
+\p
+\v 10 Do not hitch together an ox and a donkey \add for plowing your fields\add*.
+\p
+\v 11 Do not wear clothing that is made by weaving together wool and linen\f + \ft Or: two different kinds of thread \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Do not plant any crop in the area where your grapevines are growing. If you do, the priests in Yahweh's sanctuary will seize both the seed and the harvest of that vineyard.
+\p
+\v 10 Do not hitch together an ox and a donkey for plowing your fields.
+\p
+\v 11 Do not wear clothing that is made by weaving together wool and linen.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 You must not plant your vineyard with two kinds of seed, so that the whole harvest is not confiscated by the sanctuary, the seed that you have sown and the yield of the vineyard.
+\v 10 You must not plow with an ox and an donkey together.
+\v 11 You must not wear fabric made of wool and linen together.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:vineyard]]
+  * [[:yo:obe:kt:seed]]
+  * [[:yo:obe:kt:harvest]]
+  * [[:yo:obe:kt:sanctuary]]
+  * [[:yo:obe:other:sow]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:22|Deuteronomy Chapter 22 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/22/08|<<]] | [[en/bible/notes/deu/22/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

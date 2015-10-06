@@ -1,0 +1,56 @@
+====== Genesis 06:4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 There were \add giants called\add* Nephils who lived on the earth at that time and later. During that time \add some of the Nephil\add* men who belonged to\f + \ft Or: believed in \f* God had sex \f + \ft euphemism \f* with women who did not belong to\f + \ft Or: believe in \f* God, and they gave birth to children. The Nephils were considered to be heroic fighters, and they became famous.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 When these heavenly beings slept with human women, they gave birth to children. These were the giants who lived on the earth at that time and also later. These giants were heroic fighters; they were famous men from long ago.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 Giants were on the earth in those days, and also afterward. This happened when the sons of God married daughters of men, and they had children with them. These were the mighty men of old, men of renown.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:giant]]
+  * [[:yo:obe:kt:sonsofgod]]
+  * [[:yo:obe:other:mighty]]
+  * [[:yo:obe:other:renown]]
+
+===== Translation Notes: =====
+
+
+  * **giants**  - very large people
+  * **This happened when**  - This refers to the presence of the giants. It can be translated as "This happened because."
+  * **sons of God** - Translate this as you did in [[en:bible:notes:gen:06:01|6:2]].
+  * **These were the mighty men of old** - "These giants were the mighty men who lived long ago" or "These children were the powerful fighters who lived long ago."
+  * **men of renown** - "famous men"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:06|Genesis Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/06/01|<<]] | [[en/bible/notes/gen/06/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish sonsofgod giant mighty renown}}
+~~NOCACHE~~

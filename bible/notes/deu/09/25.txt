@@ -1,0 +1,58 @@
+====== Deuteronomy 09:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 So, \add as I said\add*, I lay on the ground in Yahweh's presence for forty days and nights, because Yahweh had said that he would get rid of your ancestors.
+\v 26 And I prayed to Yahweh, saying, 'Lord God, these people belong to you; do not destroy them. They are people whom you rescued and brought out of Egypt by your very great power. \f + \ft doublet, metonymy \f*
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 So, as I said, I lay on the ground in Yahweh's presence for forty days and nights, because Yahweh had said that he would destroy your ancestors.
+\v 26 And I prayed to Yahweh, saying, 'Lord God, these people belong to you; do not destroy them. They are people whom you rescued and brought out of Egypt by your very great power.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 25 So I lay facedown before Yahweh those forty days and forty nights, because he had said that he would destroy you.
+\v 26 I prayed to Yahweh and said, ‘O Lord Yahweh, do not destroy your people or your inheritance that you have rescued through your greatness, which you have brought out of Egypt with a mighty hand.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:inherit]]
+  * [[:yo:obe:other:mighty]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:09|Deuteronomy Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/09/22|<<]] | [[en/bible/notes/deu/09/27|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

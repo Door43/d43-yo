@@ -1,0 +1,62 @@
+====== 1 Thessalonians 05:4-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4-5 \add Just like people\add* in darkness \add are unaware of what is happening around them, most people are not aware of what is about to happen to them\add* \f + \ft metaphor, personification \f*. Just like a thief \add comes unexpectedly for people who are unaware, that time of punishment will come on people when they are not expecting it\add* \f + \ft simile \f*. But you, my fellow believers, are people who are very much aware \f + \ft litotes \f* of what is going to happen. As a result, you will be expecting \f + \ft litotes \f* those things \f + \ft metonymy \f* to happen \f + \ft personification \f* All of us \add believers\add* are people \f + \ft idiom \f* \add who do what is right, as people usually do when it is\add* daytime \f + \ft metaphor \f*. We are not \add people who do evil things, as some people do when it is\add* dark \f + \ft metaphor \f*.
+\v 6 So we believers must be aware of what is happening. We must be watching carefully, \add as people who are awake are watchful for a thief\add* \f + \ft metaphor \f*. We must be self-controlled, as people who are sober\f + \ft Or: not drunk \f* are able to control what they do \f + \ft metaphor \f*. People who sleep \f + \ft metaphor \f* \add are unaware of what is happening, and unbelievers are like that\add*.
+\v 7 It is at night when people \add are unaware of what is happening because they\add* are asleep, and it is at night when people become drunk \add and they do very wrong actions\f + \ft Or: things \f*\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 But you, my fellow believers, you are not like people who live in darkness, because you know the truth about God. So when Jesus returns, you will be ready for him.
+\v 5 You belong to the light, to the daytime. You are not like those who belong to the darkness, to the nighttime.
+\v 6 So we believers must be aware of what is happening. We must control ourselves and be ready for Jesus to come.
+\v 7 It is at night when people sleep and do not know what is happening, and it is at night when people become drunk.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 But you, brothers, are not in darkness so as for that day to overtake you like a thief.
+\v 5 For you are all sons of the light and sons of the day. We are not sons of the night or the darkness.
+\v 6 So then, let us not sleep as the rest do, but let us keep watch and be sober.
+\v 7 For those who sleep do so at night, and those who get drunk do so at night.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:brother]]
+  * [[en:obe:kt:darkness]]
+  * [[en:obe:kt:dayofthelord]]
+  * [[en:obe:kt:son]]
+  * [[en:obe:kt:light]]
+  * [[en:obe:kt:sleep]]
+  * [[en:obe:other:watch]]
+ 
+
+===== Translation Notes: =====
+
+  * **not like people who live in darkness** -  "not like those who belong to this evil world which is like being in darkness"
+  * **for that day to overtake you like a thief** - For the day when the Lord comes will not surprise you like a thief surprises his victim.  TA: "to catch you unprepared" (See: [[:yo:ta:vol1:translate:figs_simile]])
+  * **you are all sons of the light...not sons of the night** - "sons of the light" refers to followers of Christ and "sons of the night" refers to all others who follow the world.
+  * **let us not sleep as the rest do** - Paul equates sleeping to not being aware that Jesus will return to Judge the world. TA: "Let us not be like others who are not aware of Jesus coming back." (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  * **let us ** "us" refers to Paul and the Thessalonians. (See [[:yo:ta:vol2:translate:figs_inclusive]])
+  * **keep watch and be sober** - We are to be alert to Christ's return and be self-controlled.
+  * **For those who sleep do so at night** - Just as it is at night when people sleep and do not know what is happening, so it is with the world and they do not know that Christ will return. (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  * **those who get drunk do so at night** -  Paul is equating that it is at night when people become drunk, so when people are unaware of Christ's return they do not live a self-controlled life. (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1th:05|1 Thessalonians Chapter 05 Comprehension Questions]]**
+**[[:yo:bible:notes:1th:05:01|<<]] | [[:yo:bible:notes:1th:05:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish darkness  son}}
+
+~~NOCACHE~~

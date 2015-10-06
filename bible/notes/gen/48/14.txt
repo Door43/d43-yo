@@ -1,0 +1,76 @@
+====== Genesis 48:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 But Jacob did not do what Joseph wanted him to do. Instead, he reached out his right hand and put it on Ephraim's head, even though he was the younger son. He crossed his arms and put his left hand on Manasseh's head, even though Manasseh was the older son.
+\v 15 Then he blessed\f + \ft Or: asked God to bless \f* Joseph and his sons, saying,
+\q "My grandfather Abraham and my father Isaac conducted their lives as God desired,
+\q and to this very day God has led me and taken care of me as a shepherd leads and cares for his sheep \f + \ft metaphor \f*.
+\q
+\v 16 The angel whom he sent has kept me from being harmed in any way.
+\q I pray that God will bless these boys.
+\q I pray that people will think about me because of what God does for them.
+\q I pray that they will have many descendants who will live all over the earth."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 But Jacob did not do what Joseph wanted him to do. Instead, he reached out his right hand and put it on Ephraim's head, even though he was the younger son. He crossed his arms and put his left hand on Manasseh's head, even though Manasseh was the older son.
+\v 15 Then he blessed Joseph and his sons, saying,
+"My grandfather Abraham and my father Isaac conducted their lives as God desired,
+and to this very day God has led me and taken care of me as a shepherd leads and cares for his sheep.
+\v 16 The angel whom he sent has kept me from being harmed in any way.
+\q I pray that God will bless these boys.
+\q I pray that people will think about me and my ancestors, Abraham and Isaac, because of what God does for them.
+\q I pray that they will have many descendants who will live all over the earth."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 Israel reached out with his right hand and laid it upon Ephraim’s head, who was the younger, and his left hand upon Manasseh’s head. He crossed his hands, for Manasseh was the firstborn.
+\v 15 Israel blessed Joseph, saying, "The God before whom my fathers Abraham and Isaac walked, the God who has cared for me to this day,
+\v 16 the angel who has protected me from all harm, may he bless these boys.  May my name be named in them, and the name of my fathers Abraham and Isaac. May they grow into a multitude on the earth."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jacob]]
+  * [[en:obe:kt:righthand]]
+  * [[:yo:obe:other:ephraim]]
+  * [[:yo:obe:other:manasseh]]
+  * [[en:obe:kt:firstborn]]
+  * [[:yo:obe:kt:bless]]
+  * [[:En:obe:kt:god]]
+  * [[en:obe:other:father]]
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:other:isaac]]
+  * [[en:obe:kt:walk]]
+  * [[en:obe:kt:angel]]
+  * [[en:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+
+  * **The God before whom my fathers Abraham and Isaac walked** - "The God who my grandfather Abraham and father Isaac served"
+  * **who has cared for me** - God has taken care of Israel like a shepherd takes care of his sheep. Alternate translation: "who has cared for me like a shepherd cares for his animals." (See [[:yo:ta:vol1:translate:figs_explicit]])
+  * **protected me** - "delivered me"
+  * **May my name be named in them, and the name of my fathers Abraham and Isaac** - "May people remember Abraham, Isaac, and me because of Ephraim and Manasseh." (See: [[en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:48|Genesis Chapter 48 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:48:11|<<]] | [[:yo:bible:notes:gen:48:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish abraham }}
+
+~~NOCACHE~~

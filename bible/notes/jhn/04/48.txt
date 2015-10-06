@@ -1,0 +1,58 @@
+====== John 04:48-50 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 48 Jesus said to him, "You people will believe my message only if you see me perform \add more\add* miracles!"
+\v 49 But the official said to him, "Sir, \add I\add* believe \add in you\f + \ft Or: I believe that you came from God\add* \f*. \add So please\add* come down \add to my home\add* before my son dies!"
+\v 50 Jesus said to him, "Then you may go \add home\add*. Your son will live\f + \ft Or: not die \f*!" The man believed what Jesus said, and left.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 48 Jesus said to him, "Unless you see me do things that prove who I am and watch me do miracles, you will not trust in me!"
+\v 49 Yet the official said to him, "Sir, please come down to my home before my son dies!"
+\v 50 Jesus said to him, "Go. Your son will live." The man trusted what Jesus said and he started on his way back home.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 48 Jesus then said to him, "Unless you people see signs and wonders, you will not believe."
+\v 49 The official said to him, "Sir, come down before my child dies."
+\v 50 Jesus said to him, "Go; your son lives. "The man believed the word that Jesus spoke to him, and he went his
+way.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:miracle]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:believe]]
+  * [[en:obe:kt:death]]
+  * [[en:obe:kt:children]]
+  * [[en:obe:kt:son]]
+  * [[en:obe:kt:word]]
+
+===== Translation Notes: =====
+
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:04|John Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/04/46|<<]] | [[en/bible/notes/jhn/04/51|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

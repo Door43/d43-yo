@@ -1,0 +1,71 @@
+====== Jeremiah 51:33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 This is what the Almighty Commander of the armies of angels, the God whom we Israelites \add worship\add*, says;
+\q1 "Babylon is like \f + \ft simile \f* wheat on the ground where it is about to be threshed
+\q2 by \add animals\add* tramping on it.
+\q2 Very soon their enemies will trample on the city of Babylon \f + \ft metaphor \f*."
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 This is what the Almighty Commander of the armies of angels, the God of Israel, says;
+\q1 "Babylon is like wheat on the ground where it is about to be threshed
+\q2 by animals tramping on it.
+\q2 Very soon their enemies will trample on the city of Babylon."
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 33 For Yahweh of hosts, God of Israel, says this: "The daughter of Babylon is like a threshing floor.
+\q It is time to trample her down. In a little while the time of harvest will come to her.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jer:51|Jeremiah Chapter 51 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/51/30|<<]] | [[en/bible/notes/jer/51/34|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

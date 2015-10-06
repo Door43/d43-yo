@@ -1,0 +1,85 @@
+====== Psalms 105:43-45 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 43 So his people were joyful as he brought them out from Egypt;
+\q2 these people whom he had chosen were shouting joyfully as they went.
+\q1
+\v 44 He gave to them the land that belonged to the people-groups \add that lived there in Canaan\add*,
+\q2 and the Israelites harvested crops that other people had planted.
+\q1
+\v 45 Yahweh did all these things
+\q2 in order that his people would do all the things that he had commanded them to do \f + \ft doublet \f*.
+\b
+\q1 Praise Yahweh\f + \ft Or: Hallelujah \f*!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 43 So his people were joyful as he brought them out from Egypt;
+\q2 these people whom he had chosen were shouting joyfully as they went.
+\q1
+\v 44 He gave to them the land that belonged to the people groups that lived there in Canaan,
+\q2 and the Israelites took all their wealth.
+\q1
+\v 45 Yahweh did all these things
+\q2 in order that his people would do all the things that he had commanded them to do.
+\b
+\q1 Praise Yahweh!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 43 And he led his people out with joy,
+\q and his chosen with shouts of triumph.
+\q
+\v 44 He gave them the lands of the nations;
+\q they took possession of the wealth of the peoples,
+\q
+\v 45 That they might keep his statutes 
+\q and obey his laws.
+\q Praise Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:kt:elect]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:other:obey]]
+  * [[:yo:obe:kt:lawofmoses]]
+  * [[:yo:obe:other:praise]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:105|Psalms Chapter 105 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/105/040|<<]] | [[en/bible/notes/psa/106/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book4}}
+
+~~NOCACHE~~

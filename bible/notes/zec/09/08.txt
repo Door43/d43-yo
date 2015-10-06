@@ -1,0 +1,45 @@
+====== Zechariah 09:8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 I will protect my temple,
+\q2 and I will not allow any \add enemy soldiers\add* to enter it.
+\q1 No \add enemies\add* will harm my people again,
+\q2 because I will be watching over them carefully.
+
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 I will protect my land,
+ and I will not allow any enemy soldiers to enter it.
+ No enemies will harm my people again,
+ because I myself will be watching over them carefully.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 I will encamp around my land against armies so no one can pass through or return, for no oppressor will pass any more through them. For now I watch over them with my own eyes!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:oppress|oppress, oppression]]
+  * watch
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:zec:09|Zechariah Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:zec:09:05|<<]] | [[:yo:bible:notes:zec:09:09|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

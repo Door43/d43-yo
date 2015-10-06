@@ -1,0 +1,73 @@
+====== Proverbs 20:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Those who go around telling gossip are always telling secrets to others;
+\q2 so stay away from people who foolishly talk too much.
+\b
+\q1
+\v 20 If someone curses his father or his mother,
+\q2 his life will be ended, just like a lamp is extinguished
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 A gossip tells secrets,
+\q2 so stay away from people who talk too much.
+\b
+\q1
+\v 20 If a person curses his father or his mother,
+\q2 his life will be put out as a light that is snuffed out. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 A gossip reveals secrets 
+\q and so you should not associate with people who talk too much. 
+\q
+\v 20 If a person curses his father or his mother,
+\q his lamp will be snuffed out in the middle of darkness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:reveal]]
+  * [[:En:obe:kt:curse]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:20|Proverbs Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/20/17|<<]] | [[en/bible/notes/pro/20/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

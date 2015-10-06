@@ -1,0 +1,63 @@
+====== Hebrews 03:1-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 My fellow believers, \add God\add* has set you apart and has chosen you, just like he chose me. So consider Jesus. \add He is God's\add* messenger to us. He is also the high priest whom we say we believe in.
+\v 2 He faithfully \add served God\add*, who appointed him, just like Moses faithfully \add served\add* God's people \f + \ft metonymy \f*.
+\v 3-4 Just like every house is made by someone \f + \ft Or:as someone makes every house \f*, Jesus made everything, and he is God, Or: Divine. So God has considered that Jesus is worthy \add that people honor\add* him more than they honor Moses, just like the one who builds a house deserves that people honor him more than they should honor the house \add he built\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 My fellow believers, God has set you apart and has chosen you to belong to himself. So consider Jesus. He is God's apostle to us and is also the high priest whom we say we believe in together.
+\v 2 He faithfully served God, who appointed him, just like Moses faithfully served all of God's people, whom we call God's house.
+\v 3-4 Now just as every house is made by someone, God made everything. So God has considered that Jesus is worthy for people to honor him more than they honor Moses, just as the one who builds a house deserves for people to honor him more than they should honor the house.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 3
+\p
+\v 1 Therefore, holy brothers, partners in a heavenly calling, consider Jesus, the Apostle and High Priest of our confession.
+\v 2 He was faithful to God, who appointed him, as Moses was also faithful in all God's house.
+\v 3 For Jesus has been considered worthy of greater glory than Moses, because the one who builds a house has more honor than the house itself.
+\v 4 For every house is built by someone, but the one who built everything is God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:apostle]]
+  * [[:yo:obe:kt:highpriest]]
+  * [[:yo:obe:kt:confess]]
+  * [[:yo:obe:kt:faithful]]
+  * [[:yo:obe:kt:appoint]]
+  * [[:yo:obe:other:moses]]
+  * [[:yo:obe:kt:houseofGod]]
+  * [[:yo:obe:kt:worthy]]
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:other:honor]]
+
+===== Translation Notes: =====
+
+  * **of our confession**  - AT: "whom we confess" or "whom we believe in"
+
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:heb:03|Hebrews Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:heb:02:16|<<]] | [[:yo:bible:notes:heb:03:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

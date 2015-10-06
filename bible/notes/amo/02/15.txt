@@ -1,0 +1,74 @@
+====== Amos 02:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Even if you are able to shoot arrows well,
+\q2 you will be forced to retreat \f + \ft litotes \f*;
+\q1 even if you run fast or if you ride away on a horse,
+\q2 you will not be able to save yourself.
+\q1
+\v 16 Even warriors who are very brave will drop their weapons
+\q2 when they try to flee on the day \add that I get rid of them\add*.
+\q1 \add That will surely happen because\add* I, Yahweh, have said it."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Even if you are able to shoot arrows well,
+\q2 you will be forced to retreat;
+\q1 even if you run fast or if you ride away on a horse,
+\q2 you will not be able to save yourself.
+\q1
+\v 16 Even warriors who are very brave will drop their weapons
+\q2 when they try to flee on the day that I get rid of them.
+\q1 That will surely happen because I, Yahweh, have said it."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 The archer will not stand;
+\q the fast runner will not escape;
+\q the horseman will not save himself,
+\q
+\v 16 Even the bravest warriors
+\q will flee naked in that day"
+\q —Declaration of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:archer]]
+  * [[:yo:obe:other:horse]]
+  * [[:yo:obe:other:horsemen]]
+  * [[:yo:obe:other:declare]]
+  * [[:yo:obe:kt:yahweh]] 
+
+===== Translation Notes: =====
+
+    * **The archer will not stand** - or "The archer will fall".  See: [[:yo:ta:vol2:translate:figs_litotes]]
+    * **the fast runner will not escape**  - or "the fast runner will be caught/captured".  See: [[:yo:ta:vol2:translate:figs_litotes]] and [[:yo:ta:vol2:translate:figs_doublet]]
+    * **the horseman will not save himself**  - or "the horseman will fall prey/be defeated". See: [[:yo:ta:vol2:translate:figs_litotes]] and [[:yo:ta:vol2:translate:figs_doublet]]
+    * **Even the bravest warriors will flee naked** - The "flee naked" here might, or might not, be a [[:yo:ta:vol2:translate:figs_hyperbole]].  The UDB seems to interpret it this way.  Do prefer a literal translation though.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:amo:02|Amos Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/amo/02/13|<<]] | [[en/bible/notes/amo/03/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

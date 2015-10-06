@@ -1,0 +1,45 @@
+====== Genesis 30:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Rachel realized that she was not becoming pregnant and giving birth to any children for Jacob. So she became jealous of her older sister, Leah, because Leah had given birth to four sons. She said to Jacob, "Enable me to become pregnant and give birth to children. If you do not do that, I will die!"
+\v 2 Jacob became angry with Rachel and said, "I am not God!\f + \ft Or: Am I God? \f* \f + \ft rhetorical question \f* He is the one who has prevented you from becoming pregnant!"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Rachel realized that she was not becoming pregnant at all. So she became jealous of her older sister, Leah, because Leah had given birth to four sons. She said to Jacob, "Make me pregnant so I can have children. If you do not do that, I will die!"
+\v 2 Jacob became angry with Rachel and said, "I am not God! He is the one who has prevented you from becoming pregnant!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 30
+\p
+\v 1 When Rachel saw that she bore Jacob no children, Rachel envied her sister. She said to Jacob, "Give me children, or I will die."
+\v 2 Jacob’s anger was burned against Rachel. He said, "Am I in the place of God, who has kept you from having children?"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rachel]]
+  * [[:yo:obe:other:envy]]
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:kt:god]]
+===== Translation Notes: =====
+
+  * **she bore Jacob no children**  - "she had not given birth to children for Jacob"
+  * **I will die**  - Rachel is using hyperbole to show how upset she is about not having children. This could be translated as "I will feel completely worthless." (See: [[en:ta:vol2:translate:figs_hyperbole|Hyperbole]])
+  * **Jacob’s anger was burned against Rachel**  - The phrase "anger was burned" is an idiom that can be translated as "Jacob was very angry with Rachel." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **Am I in the place of God, who has kept you from having children?**  - This is a rhetorical question that Jacob uses to scold Rachel. It can be translated as a statement: "I am not God! I am not preventing you from having children!" (See: [[en:ta:vol1:translate:figs_rquestion]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:30|Genesis Chapter 30 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:29:35|<<]] | [[:yo:bible:notes:gen:30:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

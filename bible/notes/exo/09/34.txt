@@ -1,0 +1,47 @@
+====== Exodus 09:34-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 But when the king saw that the rain and the hail and the thunder had stopped, he sinned again. He and his officials continued to be stubborn [IDI].
+\v 35 So, just as Yahweh had predicted by what he told Moses\f + \ft Or: me \f*, he did not allow the Israelite people to leave.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 But when the king saw that the rain, the ice storm, and the thunder had stopped, he sinned again. He and his officials continued to be stubborn.
+\v 35 So, just as Yahweh had predicted by what he told Moses, the king did not allow the Israelite people to leave.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 When Pharaoh saw that the rain, hail, and thunder had ceased, he sinned again and hardened his heart, together with his servants.
+\v 35 Pharaoh's heart was hardened, so he did not let the people of Israel go. This was the way that Yahweh had said to Moses that Pharaoh would act.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:Pharaoh]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:other:Israel]]
+  * [[:yo:obe:kt:Yahweh]]
+  * [[:yo:obe:other:Moses]]
+
+===== Translation Notes: =====
+
+**hardened his heart** - "became stubborn"; (See: [[:yo:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:09|Exodus Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:09:31|<<]] | [[:yo:bible:notes:exo:10:01|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

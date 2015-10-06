@@ -1,0 +1,56 @@
+====== Joshua 04:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Yahweh said to Joshua,
+\v 16 "\add Now\add* tell the priests who are carrying the chest containing the Ten Commandments to come up from the Jordan \add riverbed\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Yahweh said to Joshua,
+\v 16 "Now order the priests who are carrying the sacred chest of the testimony to come up from the dry Jordan riverbed."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 The Yahweh spoke to Joshua,
+\v 16 "Command the priests who carry the ark of the covenant decrees for them to come up out of the Jordan."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:yahweh]]
+  * [[:En:obe:other:joshua]]
+  * [[:En:obe:other:command]]
+  * [[:yo:obe:kt:priest]]
+  * [[:En:obe:other:arkofthecovenant]]
+ 
+
+===== Translation Notes: =====
+
+  * **the Jordan**  - A short name for the Jordan River. (See: [[:En:obe:other:jordanriver]])
+
+   
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:04|Joshua Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/04/12|<<]] | [[en/bible/notes/jos/04/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

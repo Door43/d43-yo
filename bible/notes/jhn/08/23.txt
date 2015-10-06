@@ -1,0 +1,51 @@
+====== John 08:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 But Jesus continued by saying to them, "You were born here in this world, but I came from heaven. You belong to those who are opposed to God \f + \ft metonymy \f*. I do not belong to them.
+\v 24 I told you that you will die \add without God forgiving\add* your sins. If you do not believe that I am \add who I say that I am\add*, you will die \add without God forgiving\add* your sins."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 Jesus continued saying to them, "You are from this earth below, but I am from heaven above. You belong to this world. I do not belong to this world.
+\v 24 I told you that you will die and that God will condemn you for your sins. This will certainly happen unless you trust that I am God, as I say I am."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 23 Jesus said to them, "You are from below; I am from above. You are of this world; I am not of this world.
+\v 24 Therefore, I said to you that you will die in your sins. For unless you believe that I AM, you will die in your sins."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:world]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:believe]]  
+===== Translation Notes: =====
+
+Jesus responds to what the people asked him.
+
+  * **unless you believe that I AM, you will die**  - "if you do not believe that I AM, you will die"
+  * **that I AM** - "that I am God" (UDB).
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:08|John Chapter 08 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:08:21|<<]] | [[:yo:bible:notes:jhn:08:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

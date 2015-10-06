@@ -1,0 +1,64 @@
+====== Ezekiel 18:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 He mistreats\f + \ft Or: oppresses \f* poor and needy people.
+\q1 He robs people.
+\q1 If someone gives him his cloak to guarantee \add that he will pay the money back\add*, he never gives the cloak back to him \add before the sun goes down\add*.
+\q1 He seeks help from idols.
+\q1 He does other detestable things.
+\q1
+\v 13 When he lends money, he charges \add very big\add* interest.
+\m If you think that such a person will \add be allowed to\add* remain alive \f + \ft rhetorical question \f*, you are certainly wrong. Because he has done all those detestable things, he will surely be executed, and it will be his own fault [IDI].
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 He mistreats poor and needy people.
+\q1 He robs people.
+\q1 If someone gives him something to guarantee that he will pay back money that he has borrowed, the unrighteous man never gives it back to him before the sun goes down.
+\q1 He seeks help from idols.
+\q1 He does other disgusting things.
+\q1
+\v 13 When he lends money, he charges interest.
+\m If you think that I will keep such a person alive, you are certainly wrong. Because he has done all those detestable things, I will certainly make him die, and it will be his own fault.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 if he oppresses the poor and needy, if he seizes and robs and does not return a pledge, if he lifts up his eyes to the idols or commits disgusting actions; 
+\v 13 if he lends charging interest or gains unjust profit, should he live? He will not live! He has done all these disgusting actions. He will surely die; his blood is on him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:oppress]]
+  * [[en:obe:other:seize]]
+  * [[en:obe:other:pledge]]
+  * [[en:obe:other:idol]]
+  * [[en:obe:kt:unjust]]
+  * [[en:obe:other:profit]]
+  * [[en:obe:kt:life]]
+  * [[en:obe:kt:death]]
+  * [[en:obe:kt:blood]]
+===== Translation Notes: =====
+Yahweh continues to speak about the violent son.
+  * **the poor and needy**  - Both of these are people who are poor.  Needy people are those who need help to survive. (See: [[:yo:ta:vol2:translate:figs_doublet]])
+  * **charging interest** - The word 'interest' refers to money added to a debt.
+  * **should he live? **- "He should not live!" (See: [[:yo:ta:vol1:translate:figs_rquestion]])
+  * **his blood is upon him**  - This phrase means he is responsible for his own death. (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:18|Ezekiel Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:18:10|<<]] | [[:yo:bible:notes:ezk:18:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

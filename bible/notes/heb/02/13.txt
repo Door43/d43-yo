@@ -1,0 +1,76 @@
+====== Hebrews 02:13-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 And a prophet wrote \add in\add* another \add Scripture passage what Christ said about God\add*,
+\q I will trust him.
+\p And in another \add Scripture passage, Christ said about those who are like his\add* children,
+\q I and the ones that God has given me are here.
+
+
+\p
+\v 14 So, since those \add whom God calls his\add* children are all human beings \f + \ft metonymy \f*, Jesus also became a human being \add just like them\add*. The devil has the power to cause people \add to be afraid\add* to die, but Christ became human in order that by his dying he might make the devil powerless.
+\v 15 \add Jesus did that\add* to free all of us who are like slaves \f + \ft metaphor \f* all the time we live, because we are \add forced to\add* be afraid to die.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 And a prophet wrote in another Scripture passage what Christ said about God:
+\q "I will trust him."
+\p And in another Scripture passage, Christ said about those who are like his children,
+\q "I and the children whom God has given me are here."
+
+
+\p
+\v 14 So since those whom God calls his children are all human beings, Jesus also became a human being just like them. The devil has the power to cause people to be afraid to die, but Christ became human so that by his dying and defeating death he might make the devil powerless.
+\v 15 Jesus did this in order to free all of us who, all our lives, could not rid ourselves of the fear of death.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 And again he says, 
+\q "I will trust in him." 
+\p And again, 
+\q "See, here am I and the children whom God has given me."
+\p
+\v 14 Therefore, since the children of God all share flesh and blood, Jesus also shared the same things, so that through death he might make ineffective the one who had the power of death, that is to say, the devil.
+\v 15 This was so he might free all those who through fear of death lived all their lives in slavery.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:flesh]]
+  * [[:yo:obe:kt:blood]]
+  * [[:En:obe:kt:death]]
+  * [[:En:obe:kt:enslave]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **And again he says,**  - AT: "And a prophet wrote in another Scripture passage what Christ said about God:" (UDB) 
+    * **all share flesh and blood** - AT: "are all human beings" (UDB) -  (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+    * **lived all their lives in slavery**  - This phrase is figurative and refers to slavery to the fear of death.  (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:02|Hebrews Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/02/11|<<]] | [[en/bible/notes/heb/02/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

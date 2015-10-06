@@ -1,0 +1,82 @@
+====== Nahum 01:2-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 Yahweh our God is jealous\f + \ft Or: does not want people to worship any other god \f*.
+\q2 He is very angry \add with those who worship other gods\add*,
+\q1 and he gets revenge \f + \ft doublet \f* \add on all those who oppose him\add* \f + \ft doublet \f*.
+\q1
+\v 3 Yahweh does not quickly become angry;
+\q2 but he is very powerful,
+\q1 and he will certainly punish \f + \ft litotes \f* those who have done evil things \f + \ft metonymy \f*.
+\q1 He shows his power by sending whirlwinds and storms,
+\q2 and clouds are like \f + \ft metaphor \f* the dust \add stirred up by\add* his feet.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 Yahweh our God tolerates no rival gods to himself.
+\q2 He is very angry with those who worship other gods,
+\q1 and he continues to be angry with his enemies.
+\q1
+\v 3 Yahweh does not quickly become angry;
+\q2 but he is very powerful,
+\q1 and he will never say that his enemies are innocent.
+\q1 Wherever he walks, there are whirlwinds and storms,
+\q2 and clouds are like the dust stirred up by his feet.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 2 Yahweh is a jealous God and avenges; Yahweh avenges and is full of wrath; Yahweh takes vengeance on his adversaries, and he maintains anger for his enemies.
+\v 3 Yahweh is slow to anger and great in power; he will by no means declare his enemies innocent. Yahweh makes his way in the whirlwind and the storm, and the clouds are the dust of his feet.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:jealous]]
+  * [[:yo:obe:kt:God]]
+  * [[:yo:obe:kt:avenge]]
+  * [[:yo:obe:kt:wrath]]
+  * [[:yo:obe:other:adversary]]
+  * [[:yo:obe:other:angry]]
+  * [[:yo:obe:kt:power]]
+  * [[en:obe:other:declare]]
+  * [[en:obe:kt:innocent]]
+ 
+
+===== Translation Notes: =====
+
+
+  * **he will by no means declare his enemies innocent** - This means that Yahweh will judge and punish his enemies when they disobey him. 
+  * **makes his way in the whirlwind and the storm** - Like the strong wind and storm, Yahweh moves with power. Alternate translation: "comes in power" (See: [[en:ta:vol1:translate:figs_metaphor]]).
+  * **the dust of his feet** - "the dust that his feet kick up"
+  
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:nam:01|Nahum Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/nam/01/01|<<]] | [[en/bible/notes/nam/01/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

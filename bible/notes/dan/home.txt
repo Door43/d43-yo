@@ -1,0 +1,30 @@
+===== Daniel Links: =====
+
+  * [[:yo:ulb:ep:27-dan.usfm|Full ULB text of Daniel]]
+  * [[:yo:udb:ep:27-dan.usfm|Full UDB text of Daniel]]
+  * [[:yo:bible:admin-reports:notes-team-admin:dan|Notes: Daniel Team Admin]]
+  * [[:yo:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages en:bible:notes:dan:01 -title -naturalOrder -exclude:home -textPages="Daniel 1" -nbCol=2> 
+
+<nspages en:bible:notes:dan:02 -title -naturalOrder -exclude:home -textPages="Daniel 2" -nbCol=2> 
+
+<nspages en:bible:notes:dan:03 -title -naturalOrder -exclude:home -textPages="Daniel 3" -nbCol=2> 
+
+<nspages en:bible:notes:dan:04 -title -naturalOrder -exclude:home -textPages="Daniel 4" -nbCol=2> 
+
+<nspages en:bible:notes:dan:05 -title -naturalOrder -exclude:home -textPages="Daniel 5" -nbCol=2> 
+
+<nspages en:bible:notes:dan:06 -title -naturalOrder -exclude:home -textPages="Daniel 6" -nbCol=2> 
+
+<nspages en:bible:notes:dan:07 -title -naturalOrder -exclude:home -textPages="Daniel 7" -nbCol=2> 
+
+<nspages en:bible:notes:dan:08 -title -naturalOrder -exclude:home -textPages="Daniel 8" -nbCol=2> 
+
+<nspages en:bible:notes:dan:09 -title -naturalOrder -exclude:home -textPages="Daniel 9" -nbCol=2> 
+
+<nspages en:bible:notes:dan:10 -title -naturalOrder -exclude:home -textPages="Daniel 10" -nbCol=2> 
+
+<nspages en:bible:notes:dan:11 -title -naturalOrder -exclude:home -textPages="Daniel 11" -nbCol=2> 
+
+<nspages en:bible:notes:dan:12 -title -naturalOrder -exclude:home -textPages="Daniel 12" -nbCol=2> 

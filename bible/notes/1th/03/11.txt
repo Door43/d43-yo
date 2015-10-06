@@ -1,0 +1,60 @@
+====== 1 Thessalonians 03:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 We pray to God, our Father, and to our Lord Jesus, that they will clear the way\f + \ft Or: make it possible \f* so that we can return to you.
+\v 12 As for you, we pray that the Lord Jesus will help you to love each other and other people more and more, just like we continue loving you more and more.
+\v 13 We pray that our Lord Jesus will strengthen your purpose\f + \ft Or: desire \f* to do what pleases God \f + \ft Or: strengthen you spiritually \f*. We pray that God our Father will enable you to conduct your lives in a way that is pure and that no one can justly criticize so that when Jesus comes back to earth accompanied by all those who belong to him, he will be pleased with you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 We pray to God, our Father, and to our Lord Jesus, that they will enable us to return to you.
+\v 12 As for you, we pray that the Lord Jesus will help you to love each other and other people more and more, just like we continue loving you more and more.
+\v 13 We pray that our Lord Jesus will make you want to please him more and more. We pray that God our Father will enable you to become more like him, and that no one can criticize. We pray this, so that when Jesus comes back to earth and all those who belong to him come with him, he will be pleased with you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 May our God and Father himself, and our Lord Jesus, direct our way to you,
+\v 12 and may the Lord make you increase and abound in love one toward another and toward all people, as we also do toward you
+\v 13 May he do this in order to strengthen your hearts blameless in holiness before our God and Father, at the coming of our Lord Jesus with all his holy ones.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:godthefather]]
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:love]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:blameless]]
+  * [[:yo:obe:kt:holy]]
+
+===== Translation Notes: =====
+
+  * **May our God** - "We pray that our God"
+  * **May our God and...and our Lord Jesus** - The word "our" is including the Thessalonian believers with Paul's company. (See [[en:ta:vol2:translate:figs_inclusive]])
+  * **Father himself** - the "himself" referring back to the "Father" is for emphasis.
+  * **direct our way to you** Paul is excluding the Thessalonians with the use of "our". (See [[en:ta:vol2:translate:figs_exclusive]])
+  * **we also do** - The pronoun "we" refers to Paul, Silvanus, and Timothy but not the Thessalonians.
+  * **May he do** - "We pray that God will do"
+  * **at the coming of our Lord Jesus** - "when Jesus comes back to earth"
+  * **with all his holy ones** - "with all those who belong to him" (UDB)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1th:03|1 Thessalonians Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1th:03:08|<<]] | [[:yo:bible:notes:1th:04:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish heart blameless holy}}
+
+~~NOCACHE~~

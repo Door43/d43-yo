@@ -1,0 +1,54 @@
+====== Acts 27:36-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 The \add rest of us\add* became encouraged, so we\add \f + \ft exclusive \f*\add* all ate some food.
+\v 37 Altogether there were 276 of us \f + \ft synecdoche \f* on the ship.
+\v 38 When everyone had eaten as much as they wanted, they threw the grain \add that the ship was carrying\add* into the sea, and this made the ship lighter.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 Then they were all cheered up and ate some food.
+\v 37 Altogether there were 276 of us on the ship.
+\v 38 When everyone had eaten enough, they lightened the ship by throwing the rest of the wheat into the sea.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 Then they were all encouraged and they also took food.
+\v 37 We were 276 people in the ship.
+\v 38 When they had eaten enough, they made the ship lighter by throwing out the wheat into the sea.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:wheat]]
+ 
+
+===== Translation Notes: =====
+
+  * **two hundred seventy-six people** - "276 people" (See: [[en:ta:vol2:translate:translate_numbers]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:act:27|Acts Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:act:27:33|<<]] | [[:yo:bible:notes:act:27:39|>>]]**
+
+~~DISCUSSION~~{{tag>publish wheat}}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Ezekiel 18:31-32 ======
+
+===== TFT: =====
+
+<usfm>
+\v 31 Get rid of all your wicked behavior, and get a new way of thinking [IDI, DOU]. You Israelite people \f + \ft metonymy \f*, do you really want to be executed for your sins?\f + \ft Or: You act as though you want to be executed for your sins \f*.
+\v 32 I, Yahweh the Lord, declare that I am not pleased about your dying. So repent, and remain alive!"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 31 Stop doing wicked things; start thinking in a new way. You Israelite people, do you really want me to kill your for your sins?
+\v 32 I, Yahweh the Lord, declare that I am not pleased if you die. So turn away from your sins and stay alive!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 31 Throw away from off yourselves all of the transgressions that you have committed; make a new heart and a new spirit for yourselves. For why should 
+you die, house of Israel?
+ 
+\v 32 For I do not rejoice in the death of the one who dies"—this is the Lord Yahweh’s declaration. "So repent and live!”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:transgression]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:spirit]]
+  * [[en:obe:kt:death]]
+  * [[:yo:obe:other:declare]]
+  * [[:yo:obe:kt:repent]]
+  * [[en:obe:kt:life]]
+===== Translation Notes: =====
+Yahweh continues to speak to the people of Israel.
+  
+
+    * **and make a new heart and a new spirit for yourselves​** - AT: "and completely change who you are" (See: [[:yo:ta:vol2:translate:figs_synecdoche]])
+    * **the house of Israel** - See how you translated this in [[:yo:bible:notes:ezk:03:01|3:1]].
+    * **This is the Lord Yahweh's declaration** - See how you translated this in [[:yo:bible:notes:ezk:05:11|5:11]].
+  
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:18|Ezekiel Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:18:29|<<]] | [[:yo:bible:notes:ezk:19:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

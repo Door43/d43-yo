@@ -1,0 +1,76 @@
+====== Proverbs 15:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Yahweh sees \f + \ft metonymy \f* \add what is happening\add* everywhere;
+\q2 he observes what bad \add people do\add* as well as what good \add people do\add*.
+\b
+\q1
+\v 4 Those who speak \f + \ft metonymy \f* kindly to people are like \f + \ft metaphor \f* trees \add whose fruit gives\add* life;
+\q2 speaking what is false causes people to despair\f + \ft Or: feel very discouraged \f*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Yahweh sees everything that is happening; 
+\q2 he keeps account of the evil and of the good; 
+\b
+\q1
+\v 4 A person who can give healing with what they say is like a tree that give life;
+\q2 when someone lies to you, it can feel like they have crushed you.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 The eyes of Yahweh are everywhere, 
+\q keeping watch on the evil and the good.
+\q
+\v 4 A healing tongue is a tree of life,
+\q but a deceitful tongue crushes the spirit.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:yahweh]]
+  * [[:En:obe:kt:evil]]
+  * [[:En:obe:other:tongue]]
+  * [[:En:obe:kt:life]]
+  * [[:En:obe:kt:deceive]]
+  * [[:En:obe:kt:spirit]] 
+===== Translation Notes: =====
+
+
+    * **The eyes of Yahweh**  - "Yahweh sees" (See [[:yo:ta:vol2:translate:figs_metonymy]])
+    * **A healing tongue**  - "A person who can give healing with what they say"(See [[:yo:ta:vol2:translate:figs_metonymy]])
+    * **A healing tongue**  - a person who speaks kindly and heals with what they say (See [[:yo:ta:vol2:translate:figs_metonymy]])
+    * **a deceitful tongue crushes the spirit**  - Lying causes pain and hopelessness.
+    * **a deceitful tongue**  - a person who lies (See [[:yo:ta:vol2:translate:figs_metonymy]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:15|Proverbs Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/15/01|<<]] | [[en/bible/notes/pro/15/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

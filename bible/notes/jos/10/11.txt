@@ -1,0 +1,56 @@
+====== Joshua 10:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 As they fled in front of the Israelite army, Yahweh threw down huge hailstones from the sky. As a result, more of them died from hailstones falling on them than died as a result of the Israelite army killing them with swords.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 As they fled in front of the Israelite army, Yahweh threw down on them huge stones from the sky. More of them died from hailstones than died by the swords of the army of Israel.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 As they ran away from Israel, down the hill from Bethhoron, then Yahweh threw large stones down from heaven upon them all the way to Azekah, and they died. There were more who died because of the hailstones than who were killed with the sword by the men of Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:israel]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:other:sword]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Beth Horon**  - "Beth Horon" house of the hollow, or of the cavern the name of two towns or villages (2 Chr. 8:5; 1 Chr. 7:24) in the territory of Ephraim, on the way from Jerusalem to Joppa.  (See:[[:yo:obe:other:ephraim]], See:[[:yo:obe:other:jerusalem]], See:[[:yo:obe:other:joppa]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:10|Joshua Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/10/09|<<]] | [[en/bible/notes/jos/10/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

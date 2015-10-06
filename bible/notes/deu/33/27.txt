@@ -1,0 +1,67 @@
+====== Deuteronomy 33:27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 God, who lives forever, is the one who gives you refuge\f + \ft Or: protects you \f*;
+\q2 \add it is as though\add* he puts his everlasting arms under you \add to support you\add*.
+\q1 He will expel your enemies while you advance;
+\q2 he has told you to destroy all of them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 God, who lives forever, is the one who gives you refuge;
+\q it is as though he puts his everlasting arms under you to support you.
+\q He will drive out your enemies while you advance;
+\q he has told you to destroy all of them.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 27 The eternal God is a refuge for his people,
+\q and underneath are the everlasting arms.
+\q He will thrust out the enemy from before you,
+\q and he will say, ‘Destroy!’
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:eternity]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/26|<<]] | [[en/bible/notes/deu/33/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,72 @@
+====== Numbers 26:23-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23-25 They counted 64,300 men from the tribe of Issachar. They were in clans descended from Tola, Puvah, Jashub, and Shimron.
+\li
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23-25 These are the descendents of Issachar:
+\li the Tolaites descended from his son Tola,
+\li the Punites descended from his son Puvah,
+\li the Jashubites descended from his son Jashub,
+\li the Shimronites descended from his son Shimron,
+\pi The Israelite leaders counted 64,300 men from the tribe of Issachar.
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 The clans of Issachar’s descendants were these:
+\q1
+By Tola, the clan of the Tolaites, 
+q1by Puvah, the clan of the Punites,
+\v 24 by Jashub, the clan of the Jashubites, 
+q1by Shimron, the clan of the Shimronites.
+\v 25 These were the clans of Issachar, who numbered 64,300 men.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:num:26|Numbers Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/num/26/19|<<]] | [[en/bible/notes/num/26/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

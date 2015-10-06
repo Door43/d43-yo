@@ -1,0 +1,53 @@
+====== Genesis 30:16-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 When Jacob returned from the wheat fields that evening, Leah went out to meet him. She said, "You must sleep with me tonight, because I gave Rachel some mandrake plants to pay her for allowing us to do that." So Jacob slept with her that night.
+\v 17 God answered Leah's prayers, and she became pregnant and bore a fifth son to Jacob.
+\v 18 Leah said, "God has rewarded me for giving my slave to my husband to be another wife for him." So she named him Issachar, which sounds like the Hebrew word that means 'reward.'
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 When Jacob returned from the wheat fields that evening, Leah went out to meet him. She said, "You must sleep with me tonight, because I gave Rachel some mandrake plants to pay her for allowing us to do that." So Jacob slept with her that night.
+\v 17 God answered Leah's prayers, and she became pregnant and bore a fifth son to Jacob.
+\v 18 Leah said, "God has rewarded me for giving my slave to my husband to be another wife for him." So she named him Issachar, which sounds like the Hebrew word that means "reward."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 16 Jacob came from the field in the evening.  Leah went out to meet him and said, "You must sleep with me tonight, for I have hired you with my son’s mandrakes." So Jacob slept with Leah that night.
+\v 17 God listened to Leah, and she conceived and bore Jacob a fifth son.
+\v 18 Leah said, "God has given me my wages, because I gave my servant woman to my husband." She called his name Issachar.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:other:leah]]
+  * [[en:obe:kt:know]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:issachar]]
+
+===== Translation Notes: =====
+
+  * **with my son's mandrakes**  - "for the price of my son's mandrakes." See how "mandrake" was translated in [[:yo:bible:notes:gen:30:14|30:14]].
+  * **She conceived**  - "She became pregnant"
+  * **and bore Jacob a fifth son**  - "and gave birth to a fifth son for Jacob"
+  * **my wages**  - Leah believed that God was rewarding her for giving her servant to Jacob. Alternate translation: "my due" or "my reward"
+  * **She called his name Issachar.**  - Translators may also add a footnote that says: "The name Issachar means 'there is a reward.'"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:30|Genesis Chapter 30 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:30:14|<<]] | [[:yo:bible:notes:gen:30:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish  issachar}}
+
+~~NOCACHE~~

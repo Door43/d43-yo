@@ -1,0 +1,57 @@
+====== Psalms 061:8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 If you do that, I will always sing to praise you \f + \ft metonymy \f*
+\q2 while I offer to you each day the sacrifices that I promised to give to you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 If you do that, I will always sing to praise you 
+\q2 while I offer to you each day the sacrifices that I promised to give to you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 I will sing praise to your name forever,
+\q so that I may perform my vows every day.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:praise]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:061|Psalms Chapter 061 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/061/006|<<]] | [[en/bible/notes/psa/062/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

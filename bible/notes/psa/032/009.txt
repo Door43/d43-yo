@@ -1,0 +1,80 @@
+====== Psalms 032:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Do not be stupid like horses and mules that do not have understanding;
+\q2 they need bits\f + \ft Or: pieces of metal put in their mouths \f* and bridles\f + \ft Or: ropes fastened to their head \f*
+\q2 so they will go in the direction you want them to go."
+\q1
+\v 10 Wicked people will have many \add troubles that will make them\add* sad,
+\q2 but those who trust in Yahweh will experience him faithfully loving them all the time.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Do not be stupid like horses and mules that do not understand anything;
+\q2 they need bits
+\q2 so they will go in the direction you want them to go."
+\q1
+\v 10 Wicked people will have many troubles that will make them sad,
+\q2 but those who trust in Yahweh will experience him faithfully loving them all the time.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Do not be like a horse or like a mule, which has no understanding;
+\q with bridle and bit to control them, 
+\q or they will not go where you want them to.
+\q
+\v 10 The wicked have many sorrows,
+\q but he who trusts in Yahweh, covenant faithfulness will surround him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:horse]]
+  * [[:yo:obe:other:donkey]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:trust]]
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:kt:faithful]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:032|Psalms Chapter 032 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/032/007|<<]] | [[en/bible/notes/psa/032/011|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

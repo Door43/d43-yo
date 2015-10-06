@@ -1,0 +1,63 @@
+====== Proverbs 19:25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 If you punish someone who makes fun of those who are wise, those who are naive\f + \ft Or: need to be instructed \f* will learn to do what is smart;
+\q2 if you rebuke those who are wise, they will \add listen to what you say and\add* become wiser.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 If you punish the one who derides others \q2 or the one who knows nothing about good and bad, 
+\q2 and they may learn something.
+\q2 but if you correct one who has understanding and he will gain more knowledge. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 25 Hit a mocker and the unlearned will become prudent;
+\q reprove one who is discerning and he will gain knowledge.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:mock]]
+  * [[:En:obe:other:know]] 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:19|Proverbs Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/19/23|<<]] | [[en/bible/notes/pro/19/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

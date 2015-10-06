@@ -1,0 +1,46 @@
+====== Genesis 09:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 Noah lived 350 more years after the flood.
+\v 29 He died when he was 950 years old.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Noah lived 350 more years after the flood.
+\v 29 He died when he was 950 years old.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 28 After the flood, Noah lived three hundred fifty years.
+\v 29 All the days of Noah were nine hundred fifty years, and then he died.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:flood]]
+  * [[en:obe:other:noah]]
+ 
+
+===== Translation Notes: =====
+
+(There are no notes for these verses.)
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:09|Genesis Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:09:26|<<]] | [[:yo:bible:notes:gen:10:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

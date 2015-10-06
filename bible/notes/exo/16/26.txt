@@ -1,0 +1,46 @@
+====== Exodus 16:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 \add Every week\add*, you must gather it for six days; but on the seventh day, which will be a day of rest, you will not find any."
+\v 27 On the seventh day, some of the people went outside their tents to gather some of that food, but there was none.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Every week, you must gather it for six days; but on the seventh day, which will be a day of rest for you, you will not find any."
+\v 27 On the seventh day, some of the people went outside their tents to gather some of that food, but there was none.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 26 You will gather it during six days, but the seventh day is the Sabbath. On the Sabbath there will be no manna."
+\v 27 It came about on the seventh day that some of the people went out to gather manna, but they found none.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:manna]]
+ 
+
+===== Translation Notes: =====
+
+  * **but the seventh day**  - AT: "but on the day following day six" or "but the next day" (See: [[en:ta:vol2:translate:translate_numbers|How to Translate Numbers]])
+  * **On the Sabbath there will be no manna.**  - AT: There will be no manna on the Sabbath."
+  * **none**  - AT: "nothing"
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:16|Exodus Chapter 16 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:16:24|<<]] | [[:yo:bible:notes:exo:16:28|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

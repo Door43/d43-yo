@@ -1,0 +1,75 @@
+====== Proverbs 18:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Whenever people do wicked things, others will despise them;
+\q2 when people do things that cause themselves to no longer be honored, they will be disgraced \add also\add*.
+\b
+\q1
+\v 4 What wise people say is like a deep ocean \add that you can never get to the bottom of\add* \f + \ft metaphor \f*,
+\q2 and it \add refreshes us like water\add* from a rapidly flowing stream.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 A wicked person comes, and with them come the contempt they have for other people—
+\q2 and then comes shame and disgrace following along. 
+\q1
+\v 4 The words a man speaks are like the deep waters of an ocean, 
+\q2 or a fountain the flows with wisdom. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 When a wicked person comes, contempt comes with him— 
+\q along with shame and reproach. 
+\q
+\v 4 The words of a man’s mouth are deep waters;
+\q the fountain of wisdom is a flowing stream.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:evil]]
+  * [[:En:obe:other:shame]]
+  * [[:En:obe:other:reproach]]
+  * [[:En:obe:kt:wise]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:18|Proverbs Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/18/01|<<]] | [[en/bible/notes/pro/18/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

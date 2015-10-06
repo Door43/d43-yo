@@ -1,0 +1,81 @@
+====== Hosea 09:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 At that time you will not \f + \ft rhetorical question \f* be able to celebrate my feasts and sacred festivals.
+\q1
+\v 6 And even if you escape and are not killed \add by the Assyrians\add*,
+\q2 you will be captured by \add the army of\add* Egypt
+\q2 and you will \add die and\add* be buried in Memphis, \add the capital of Egypt\add*.
+\q1 Briers will \add grow up and\add* cover your treasures of silver,
+\q2 and thorns will grow in your ruined tents\f + \ft Or: houses \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 There, in a country far from your home, you will not be able to celebrate God's regular feasts and the special festival days that Yahweh set up for you. 
+\q1
+\v 6 Look! If you escape and the  Assyrians do not kill you,
+\q2 the army of Egypt will capture you,
+\q2 and then you will die and the people of Memphis will be the ones who bury you.
+\q1 Briers will grow up and cover your treasures of silver, so you could not hold them,
+\q2 and thorns will fill up your tents, so you couldn't live in them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 What will you do on the day of an appointed festival,
+\q and on the day of a feast of Yahweh?
+\q
+\v 6 For, look, if they escape from destruction,
+\q Egypt will gather them,
+\q and Memphis will bury them.
+\q Their treasures of silver,
+\q sharp briars will overtake them,
+\q thorns will fill their tents.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:09|Hosea Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/09/03|<<]] | [[en/bible/notes/hos/09/07|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

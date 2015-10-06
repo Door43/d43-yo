@@ -1,0 +1,54 @@
+====== Titus 03:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Remind \add the believers\add* that they should submit to all those who rule them or have authority over them, and that they should obey them. They should be ready to do anything that is helpful.
+\v 2 They should never say bad things about anyone, they should not quarrel with people, they should be patient \add when others\add* \add irritate them\f + \ft Or: do things that they do not like\add* \f*, \add and they should\add* always treat all people as important.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Titus, be sure to remind our people that, as much as possible, we should comply with the rules and laws that govern our society. We need to be obedient and ready to do good at every opportunity.
+\v 2 We should not say disrespectful things about any one or argue with people. It is good to let other people have their preferences instead of pushing to get our own way, and to treat everyone with gentleness.
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 3
+\p
+\v 1 Remind them to submit to rulers and authorities, to obey them, to be ready for every good work,
+\v 2 to revile no one, to avoid arguing, to let other people have their way, and to show humility to all people.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:ruler]]
+  * [[en:obe:kt:authority]]
+  * [[en:obe:other:obey]]
+  * [[en:obe:other:humble]]
+===== Translation Notes: =====
+
+  * **Remind them** - "Tell the people at church again what they already know," or "Keep reminding them."
+  * **submit to rulers and authorities, to obey them **- This could also be translated as "do as the political rulers and government authorities say by obeying them."
+  * **rulers and authorities** - These words are similar, and used together to include everyone who holds authority in the government.
+  * **be ready for every good work**  - "be ready to do good whenever there is opportunity"
+  * **revile**  - "speak evil of"
+  * **let other people have their way** - This can be translated as "be gentle" 
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:tit:03|Titus Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:tit:02:15|<<]] | [[:yo:bible:notes:tit:03:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish ruler authority}}

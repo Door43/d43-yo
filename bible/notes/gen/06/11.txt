@@ -1,0 +1,49 @@
+====== Genesis 06:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 At that time God considered that everyone else on earth was very wicked, and everywhere on the earth, people \f + \ft metonymy \f* were acting cruelly and violently toward each other.
+\v 12 God was dismayed when he saw how evil people \f + \ft metonymy \f* were, because all people \f + \ft Or: all living creatures \f* on the earth had begun to behave in an evil way.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 God could see that everyone else on earth was very wicked, and everywhere on the earth, people were acting cruelly and violently toward each other.
+\v 12 God looked at everyone and saw how evil people were, because all people on the earth had begun to behave in an evil way.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 The earth was corrupt before God, and it was filled with violence.
+\v 12  God saw the earth; behold, it was corrupt, for all flesh had corrupted their way upon the earth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:flesh]]
+  * [[en:obe:kt:corrupt]]
+ 
+
+===== Translation Notes: =====
+
+
+  * **The earth was corrupt before God** - "The earth was spoiled in God's sight" or "God saw that the earth had become very bad." Possible meanings are 1) all the people on the earth were very bad or 2) everything on earth had become very bad.
+  * **and it was filled with violence** - This can be translated as "and the earth was filled with violent people" or "and violent people were all over the earth" or "because it was full of people who were acting violently toward each other." 
+  * **all flesh** - This refers to human beings.
+  * **had corrupted their way** - This means "they stopped living the way God wanted" or "they behaved in an evil way" (UDB).
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:06|Genesis Chapter 06 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:06:09|<<]] | [[:yo:bible:notes:gen:06:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish corrupt}}
+
+~~NOCACHE~~

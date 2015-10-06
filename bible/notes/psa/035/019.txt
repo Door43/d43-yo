@@ -1,0 +1,77 @@
+====== Psalms 035:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Do not allow my enemies, who tell lies about me, defeat me
+\q2 and then rejoice!
+\q1 Do not allow those who hate me when there in no reason to hate me
+\q2 to smirk\f + \ft Or: smile happily \f*!
+\q1
+\v 20 They do not talk peacefully to people;
+\q2 instead, they seek for ways to tell lies about people who are peaceful in their inner beings.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Do not allow my enemies, who tell lies about me, defeat me
+\q2 and then rejoice about it!
+\q1 Do not allow those who hate me when there in no reason to hate me
+\q2 to laugh about how I suffer!
+\q1
+\v 20 They do not talk peacefully to people;
+\q2 instead, they look for ways to tell lies about people who are peaceful in their inner beings.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 Do not let  my enemies wrongfully rejoice over me;
+\q nor let them carry out their wicked scemes.
+\q
+\v 20 For they do not speak peace;
+\q but they devise deceitful words against those who are unsuspecting in the land.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:wrong]]
+  * [[:yo:obe:other:peace]]
+  * [[:yo:obe:kt:deceive]]
+  * [[:yo:obe:kt:word]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:035|Psalms Chapter 035 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/035/017|<<]] | [[en/bible/notes/psa/035/021|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

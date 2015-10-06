@@ -1,0 +1,65 @@
+====== Deuteronomy 21:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 If someone is executed for having committed a crime for which he deserves to die, and you hang his corpse on a post,
+\v 23 you must not allow his corpse to remain there all night. You must bury it on the day that he died, because if you keep the corpse on a post, God will curse the land. \add You must bury the corpse that day\add*, in order that you do not defile the land that Yahweh our God is giving to you."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 If someone is executed for having committed a crime for which he deserves to die, and you hang his corpse on a post,
+\v 23 you must not allow his corpse to remain there all night. You must bury it on the day that he died, because if you keep the corpse on a post, God will curse the land. You must bury the corpse that day, in order that you do not defile the land that Yahweh our God is giving to you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 If a man has committed a sin worthy of death, and if he is put to death, and you hang him on a tree;
+\v 23 his body must not remain all night on the tree. Instead, you must surely bury him the same day; for whoever is hanged is cursed by God. Obey this commandment so that you do not defile the land that Yahweh your God is giving you as an inheritance.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:other:hang]]
+  * [[:yo:obe:kt:body]]
+  * [[:yo:obe:other:bury]]
+  * [[:yo:obe:kt:curse]]
+  * [[:yo:obe:other:obey]]
+  * [[en:obe:other:command]]
+  * [[:yo:obe:other:defile]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:21|Deuteronomy Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/21/20|<<]] | [[en/bible/notes/deu/22/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

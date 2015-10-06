@@ -1,0 +1,58 @@
+====== Joshua 14:13-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 So Joshua \add asked God to\add* bless Caleb, and he gave to Caleb the city of Hebron.
+\v 14-15 Previously that city was called Kiriath-Arba, because Arba was the greatest man among the Amalek people-group. Hebron still belongs to the descendants of Caleb, because Caleb completely\f + \ft Or: fully \f* trusted in Yahweh, the God whom we Israelites \add worship\add*, and obeyed him.
+\p After that happened, there was peace\f + \ft Or: no battles \f* in \add Canaan\add* land \add for many years\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 So Joshua asked God to bless Caleb, and he gave to Caleb the city of Hebron.
+\v 14 In this way, Hebron became the permanent possession and the home of Caleb son of Jephunneh the Kenizzite. To this day his descendants live there because Caleb did everything that Yahweh, the God of Israel, told him to do.
+\v 15 Now the name of Hebron formerly was Kiriatharba (Arba had been the greatest man among the Anakim). And there was peace in the land; they no longer waged war.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 Then Joshua blessed him and gave Hebron as an inheritance to Caleb son of Jephunneh.
+\v 14 Therefore Hebron became the inheritance of Caleb son of Jephunneh the Kenizzite to this day, because he completely followed Yahweh, the God of Israel.
+\v 15 Now the name of Hebron formerly was Kiriath Arba. (Arba had been the greatest man among the Anakim.) Then the land had rest from war.
+</usfm>
+
+
+===== Important Terms: =====
+
+    * [[en:obe:other:joshua]]
+    * [[en:obe:other:hebron]]
+    * [[en:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **to this day**  - Continuously until the time of this writing.
+    * **Kiriath Arba**  - the former name of Hebron (See:[[en:ta:vol1:translate:translate_names]]) 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:14|Joshua Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/14/12|<<]] | [[en/bible/notes/jos/15/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,93 @@
+====== Hosea 08:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add The people of\add* Israel will be defeated \f + \ft metaphor \f* \add by their enemies\add*;
+\q2 they will be \add scattered\add* among other nations and become worthless.
+\q1
+\v 9 Like \f + \ft metaphor \f* donkeys that are looking for mates,
+\q2 they have requested \add help\add* from Assyria;
+\q1 they paid money to \add the leaders of Assyria\add*
+\q2 in order to \add persuade those leaders to\add* protect them.
+\q1
+\v 10 But although they have agreed to pay money each year to \add the leaders of\add* those countries,
+\q2 I will soon gather them together \add to punish them\add*.
+\q2 The great king \add of Assyria\add* will cause them to suffer greatly.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Israel has been taken possession of by more powerful nations,
+\q2 they are a possession no one wants to own—worthless among the nations, having no value,
+\q1 like an old, broken jar lying among the possessions of a home.  
+\q1
+\v 9 They have gone up to Assyria, 
+\q2 like a wild donkey wandering by itself, alone. 
+\q1 Ephraim has sought to hire the protection of other nations in order to keep themselves safe. 
+\q1
+\v 10 But although they pay other armies from the among all the nations to keep them safe,
+\q2 I will soon gather them up,
+\q2 and they will twist and turn with agony because of the heavy taxes and high costs of government their king will impose on them. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q
+\v 8 Israel is swallowed up,
+\q now they lie among the nations like a useless jar.
+\q
+\v 9 For they went up to Assyria,
+\q like a wild donkey all alone.
+\q Ephraim has hired suitors.
+\q
+\v 10 Even though they hired among the nations,
+\q I will now gather them together,
+\q and they will begin to waste away,
+\q because of the high taxes of the great king!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:08|Hosea Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/08/06|<<]] | [[en/bible/notes/hos/08/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

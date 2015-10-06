@@ -1,0 +1,87 @@
+====== Psalms 041:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 All those who hate me whisper to others about me,
+\q2 and they hope\f + \ft Or: desire \f* that very bad things will happen to me.
+\q1
+\v 8 They say, "He will soon die because of his being sick;
+\q2 he will never get up from his bed \add before he dies\add*."
+\q1
+\v 9 Even my best friend, whom I trusted very much,
+\q2 who often ate with me,
+\q2 has betrayed me\f + \ft Or: put me into my enemies' hands \f* [IDI].
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 All those who hate me whisper to others about me,
+\q2 and they hope that very bad things will happen to me.
+\q1
+\v 8 They say, "He will soon die because of his being sick;
+\q2 he will never get up from his bed before he dies."
+\q1
+\v 9 Even a very close friend, whom I trusted very much,
+\q2 who often ate with me,
+\q2 has betrayed me.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 All who hate me whisper together against me;
+\q against me they hope for my hurt.
+\q
+\v 8 An evil disease, they say, holds tightly to him;
+\q and now that he is lying down, he will rise up no more.
+\q
+\v 9 Yea, my own close friend, in whom I trusted,
+\q who ate my bread,
+\q has lifted up his heel against me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:hope]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:kt:trust]]
+  * [[:yo:obe:other:bread]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:041|Psalms Chapter 041 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/041/004|<<]] | [[en/bible/notes/psa/041/010|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

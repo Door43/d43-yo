@@ -1,0 +1,50 @@
+====== Exodus 22:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 You must execute any woman who practices sorcery\f + \ft Or: is a shaman \f*.
+\p
+\v 19 You must execute any person who has sex with an animal.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 You must kill any woman who practices sorcery.
+\p
+\v 19 You must kill any person who has sex with an animal.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 You must not allow a sorceress to live.
+\p
+\v 19 Whoever has sexual relations with a beast must surely be put to death.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:sorcery|sorcery]]
+  * [[:yo:obe:kt:life|life, live, living, alive]]
+  * [[:yo:obe:kt:death|death, die, dead]]
+
+===== Translation Notes: =====
+
+  * **sorceress**  - "woman who does sorcery" or "witch"
+  * **a beast**  - "an animal"
+  * **Whoever has sexual relations with a beast must surely be put to death**  - AT: "You must certainly kill anyone who has sexual relations with an animal" (See: Passive.)
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:22|Exodus Chapter 22 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:22:16|<<]] | [[:yo:bible:notes:exo:22:20|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

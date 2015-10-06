@@ -1,0 +1,48 @@
+====== Colossians 01:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 God our Father rescued us \add spiritually\add* so that the evil one no longer rules us \f + \ft metaphor, metonymy \f*, and he transferred us \add spiritually\add* so that his Son, whom he loves, rules us.
+\v 14 That is, because of our relationship with his Son \f + \ft Or: because of what his Son did \f*, God has redeemed\f + \ft Or: bought \f* us; in particular, he has forgiven our sins.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 God our Father has rescued us from the evil that controlled us; he has made his Son, whom he loves, to rule over us now.
+\v 14 By means of his Son he has set us free from that evil; that is, he has forgiven our sins.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 He has rescued us from the dominion of darkness and transferred us to the kingdom of his beloved Son.
+\v 14 In his Son we have redemption, the forgiveness of sins.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:dominion]]
+  * [[:yo:obe:kt:darkness]]
+  * [[:yo:obe:other:kingdom]]
+  * [[:yo:obe:kt:christ]]
+  * [[:yo:obe:kt:redeem]]
+  * [[:yo:obe:kt:forgive]]
+  * [[:yo:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+  * **He has rescued**  - "God the Father has rescued"
+  * **transferred us**  - "moved us". "us includes both Paul and the Colossian believers. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **his beloved Son**  - "God the Father's beloved son, Jesus Christ"
+  * **In his Son we have redemption** - "His Son redeems us"
+  * **the forgiveness of sins**  - "His son forgives our sins" or "The Father forgives us through His Son"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:col:01|Colossians Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:col:01:11|<<]] | [[:yo:bible:notes:col:01:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish dominion darkness kingdom redeem}}
+
+~~NOCACHE~~

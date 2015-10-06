@@ -1,0 +1,66 @@
+====== Psalms 038:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 Yahweh, do not abandon me!
+\q2 My God, do not stay far from me!
+\q1
+\v 22 Lord, you are the one who saves\f + \ft Or: rescues \f* me;
+\q2 Quickly \add come and\add* help me!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Yahweh, do not abandon me!
+\q2 My God, do not stay far from me!
+\q1
+\v 22 Lord, you are the one who saves me;
+\q2 Quickly come and help me!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 Do not abandon me, Yahweh;
+\q my God, do not stay far away from me.
+\q
+\v 22 Come quickly to help me,
+\q Lord, my Salvation.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:salvation]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:038|Psalms Chapter 038 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/038/019|<<]] | [[en/bible/notes/psa/039/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

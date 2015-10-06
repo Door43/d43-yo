@@ -1,0 +1,55 @@
+====== Hebrews 06:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 \add Our confidently expecting\add* \f + \ft synecdoche \f* \add to receive what he has promised is like\add* an anchor \f + \ft metaphor \f* that very firmly \f + \ft doublet \f* \add holds us fast. The one we confidently expect to help us\add* \f + \ft synecdoche \f* \add is Jesus, who\add* goes into \add God's very presence, just like the high priests went\add* behind the curtain into the innermost \add part of the tent in the barren area\add* \f + \ft metaphor \f*.
+\v 20 Jesus went \add into God's presence\add* ahead of us\add \f + \ft inclusive \f*\add* to \add help\add* us when he became a high priest eternally in the way that Melchizedek was a high priest.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Yes, we confidently expect to receive what God has promised to do for us. It is as if we were a ship, whose anchor is holding us firmly in one place. The one we confidently expect to hold us is Jesus, because  he has gone into God's very presence. This is why he is just like the high priests who go behind the curtain into the innermost part of the temple, where God is present.
+\v 20 Jesus went into God's presence ahead of us to allow us to enter in that same place with God, too. Jesus has become a high priest forever, in the way that Melchizedek was a high priest.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 We have this confidence as a secure and reliable anchor of our souls, confidence that enters into the inner place behind the curtain.
+\v 20 Jesus entered into that place as a forerunner for us, having become a high priest forever after the order of Melchizedek.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:confidence]]
+  * [[:En:obe:kt:soul]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:En:obe:kt:highpriest]]
+  * [[:En:obe:kt:forever]]
+  * [[:En:obe:other:melchizedek]]
+ 
+
+===== Translation Notes: =====
+
+  * **forerunner for us** - "one who has gone before us"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:06|Hebrews Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/06/16|<<]] | [[en/bible/notes/heb/07/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

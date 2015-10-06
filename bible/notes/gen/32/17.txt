@@ -1,0 +1,52 @@
+====== Genesis 32:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 He said to the servant who was going with the first group, "When my brother Esau meets you, and he asks you, 'To whom do you belong, and where are you going, and to whom do these animals in front of you belong?'
+\v 18 tell him, 'They belong to your servant Jacob. He has sent them to you as a gift, sir. And he is coming behind us.'~"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 He said to the servant who was going with the first group, "When my brother Esau meets you, he will ask you, 'To whom do you belong, and where are you going, and to whom do these animals in front of you belong?'
+\v 18 Tell him, 'They belong to your servant Jacob. He has sent them to you as a gift, sir. And he is coming behind us.' "
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 He instructed the first servant, saying, "When Esau my brother meets you and asks you, saying, 'To whom do you belong? Where are you going? And whose are these animals in front of you ?'
+\v 18 Then you will say, 'They are your servant Jacob’s. They are a gift sent to my lord Esau. And see, he is also coming after us.' "
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:servant]]
+  * [[en:obe:kt:gift]]
+  * [[en:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+  * **He instructed** - "He commanded"
+  * **To whom do you belong?** - "Who is your master?"
+  * **whose are these animals before you?** - "who owns these animals in front of you?"
+  * **They are your servant Jacob's** - "They belong to your servant Jacob"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:32|Genesis Chapter 32 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:32:13|<<]] | [[:yo:bible:notes:gen:32:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

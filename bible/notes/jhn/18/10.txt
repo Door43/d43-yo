@@ -1,0 +1,59 @@
+====== John 18:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Simon Peter had a \add long\add* dagger. So he drew it and \add tried to kill\add* the high priest's servant, \add but he only\add* cut off the man's right ear. The servant's name was Malchus.
+\v 11 Jesus said to Peter, "Put your sword \add back\add* into its sheath! I must endure what \add my\add* Father wants me to suffer.\f + \ft Or: Do you not think that I must endure what \add my\add* Father wants me to suffer? \f* \f + \ft metaphor, rhetorical question \f*"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Then Simon Peter drew out a short sword and struck the high priest's servant, a man named Malchus, and cut off his right ear.
+\v 11 Jesus said to Peter, "Put your sword back into its sheath! Of course I will suffer in the way that my Father has planned for me to do."
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Then Simon Peter, who had a sword, drew it and struck the high priest’s servant and cut off his right ear. Now the servant’s name was Malchus.
+\v 11 Jesus said to Peter, “Put the sword back into its sheath. The cup that the Father has given me, should I not drink it?”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:peter]]
+  * [[:En:obe:other:sword]]
+  * [[:yo:obe:kt:highpriest]]
+  * [[:En:obe:other:servant]]
+  * [[:yo:obe:kt:godthefather]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **name was Malchus** - (See: [[en:ta:vol1:translate:translate_names]])
+    * **into its sheath**  - the cover for a sharp knife or sword so it would not cut the owner
+    * **cup**  - This can refer to 1) the amount suffering that Jesus must accept (see UDB) or 2) the wrath of God that Jesus must endure in order to redeem his people. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **should I not drink it?** - Jesus asks this question to emphasize that he must indeed suffer. Alternate translation: "I must drink it." (See: [[:yo:ta:vol1:translate:figs_rquestion]])  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:18|John Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:18:08|<<]] | [[:yo:bible:notes:jhn:18:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

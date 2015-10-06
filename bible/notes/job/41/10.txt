@@ -1,0 +1,83 @@
+====== Job 41:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 No one dares\f + \ft Or: tries \f* to arouse them\f + \ft Or: cause them to be angry \f*.
+\q2 So, \add since I am much more powerful than they are\add*, who would dare to cause me to be angry?\f + \ft Or: no one would dare to cause me to be angry! \f* \f + \ft rhetorical question \f*
+\q1
+\v 11 Also, everything on the earth is mine.
+\q2 Therefore, no one \f + \ft rhetorical question \f* is able to give anything to me and require me to pay money for it!
+\b
+\q1
+\v 12 I will tell you about \add how strong crocodiles'\f + \ft Or: great sea dragons' \f*\add* legs are
+\q2 and how strong their well-formed bodies are.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 No one dares to make a crocodile angry.
+\q2 So, since I am much more powerful than they are, who would dare to cause me to be angry?
+\q1
+\v 11 Also, everything on the earth is mine.
+\q2 Therefore, no one is able to give anything to me and require me to pay money for it!
+\b
+\q1
+\v 12 I will tell you about how strong crocodiles' legs are
+\q2 and how strong their well formed bodies are.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 None is so fierce that he dare stir leviathan up;
+\q who, then, is he who can stand before me?
+\q
+\v 11 Who has first given anything to me, in order that I should repay him?
+\q Whatever is under the whole sky is mine.
+\b
+\q
+\v 12 I will not keep silent concerning leviathan’s legs,
+\q nor about the matter of his strength, nor about his graceful form.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:grace]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:41|Job Chapter 41 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/41/07|<<]] | [[en/bible/notes/job/41/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

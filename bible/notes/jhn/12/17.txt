@@ -1,0 +1,54 @@
+====== John 12:17-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 The crowd that was with him continued to tell other people that he called Lazarus to come out of the tomb, \add and that Lazarus had then become alive again\add*.
+\v 18 Because of that, many people, because they heard \add others say\add* that he had performed this miracle, went to meet him.
+\v 19 So the Pharisees said to each other, "It is obvious that we are making no progress \add in trying to stop him! It looks like\add* \f + \ft hyperbole \f* everyone \f + \ft metonymy \f* is becoming his disciple!"
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 The crowd that was following along with Jesus kept telling others what they had seen: that Jesus had called Lazarus out of the tomb and had made him alive again.
+\v 18 The other crowd of people, those who went out of the city gate to meet Jesus, did so because they heard he had done great things to show them his power.
+\v 19 So the Pharisees said to each other, "See! We are gaining no advantage here. Look! The whole world is following him!"
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 Now the crowd that had been with Jesus when he had called Lazarus out of the tomb and had raised him from the dead, bore witness to others.
+\v 18 It was also for this reason that the crowd went out to meet him because they heard that he had done this sign. 
+\v 19 The Pharisees therefore said among themselves, "Look, you can do nothing; see, the world has gone after him."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:lazarus]]
+  * [[:yo:obe:other:tomb]]
+  * [[:yo:obe:kt:witness]]
+  * [[:yo:obe:kt:sign]]
+  * [[:yo:obe:other:pharisee]]
+
+===== Translation Notes: =====
+
+  * **the world has gone after him**  - AT: "It looks like everyone is becoming his disciple". (See: [[:yo:ta:vol2:translate:figs_hyperbole|Hyperbole]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:12|John Chapter 12 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:12:16|<<]] | [[:yo:bible:notes:jhn:12:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

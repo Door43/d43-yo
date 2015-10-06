@@ -1,0 +1,57 @@
+====== Isaiah 01:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 I am Isaiah, the son of Amoz. \add Yahweh showed me\add* visions about Jerusalem and \add all the other places in\add* Judah. He showed me these visions during the years that Uzziah, Jotham, Ahaz, and Hezekiah were kings of Judah.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 The vision of Isaiah son of Amoz, that Yahweh showed him about Judah and Jerusalem during the years of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 The vision of Isaiah the son of Amoz, that he saw concerning Judah and Jerusalem, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:vision]]
+  * [[:yo:obe:other:isaiah]]
+  * [[:yo:obe:other:judah]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:other:uzziah]]
+  * [[:yo:obe:other:jotham]]
+  * [[:yo:obe:other:ahaz]]
+  * [[:yo:obe:other:hezekiah]]
+  * [[:yo:obe:other:king]]
+
+===== Translation Notes: =====
+
+  * **The vision of Isaiah…that he saw**  - Verse 1 can be translated as a sentence by starting it with "This is the vision of Isaiah … that Yahweh showed him" or "This is what God showed Isaiah."
+  * **Amoz**  - Amoz was the father of Isaiah. (See: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+  * **Judah and Jerusalem**  - "Judah" refers to the southern kingdom of Israel. "Jerusalem" was its most important city. This can be translated as "those living in Judah and Jerusalem" or "the people of Judah and Jerusalem." (See: [[en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.**  - This can be translated as "when Uzziah, Jotham, Ahaz and Hezekiah were kings of Judah."
+  * **Hear, O heavens, and listen, O earth**  - Although these prophecies were meant for the people of Jerusalem and Judah to hear, Isaiah told the “heavens” and “earth” to listen to what Yahweh said. By doing this, he emphasized how bad the people were. They were so bad that he was telling the heavens and earth about their sins. (See: [[en:ta:vol2:translate:figs_apostrophe|Apostrophe]], [[en:ta:vol2:translate:figs_personification|Personification]])
+  * **I have nourished and brought up children**  - This is what Yahweh was saying. It can be translated as "I have taken care of the people living in Judah like they were my children." (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:01|Isaiah Chapter 01 Comprehension Questions]]**
+**| [[:yo:bible:notes:isa:01:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

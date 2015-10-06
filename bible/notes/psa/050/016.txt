@@ -1,0 +1,75 @@
+====== Psalms 050:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 But I say this to the wicked people:
+\q1 Why do you\f + \ft Or: It does not benefit you at all to \f* \f + \ft rhetorical question \f* recite my commandments
+\q2 or talk about the agreement that I made with you,
+\q1
+\v 17 because you have refused to allow me to discipline you,
+\q2 and you have rejected what I told you to do.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 But I say this to the wicked people:
+\q1 Why do you recite my commandments
+\q2 or talk about the covenant  hat I made with you,
+\q1
+\v 17 because you have refused to allow me to discipline you,
+\q2 and you have rejected what I told you to do.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 But to the wicked God says,
+\q what have you to do with declaring my statutes,
+\q that you have taken my covenant in your mouth,
+\q
+\v 17 Since you hate instruction
+\q and throw my words away?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:other:statute]]
+  * [[:yo:obe:kt:word]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:050|Psalms Chapter 050 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/050/014|<<]] | [[en/bible/notes/psa/050/018|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

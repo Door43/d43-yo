@@ -1,0 +1,67 @@
+====== Proverbs 25:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 it is better if someone tells you to sit closer \add to the king\add*
+\q2 than for \add someone to tell you\add*, while the king is listening, to sit further away in order that someone who is more important \add may sit closer to the king\add*.
+\b
+\q1
+\v 8 Do not quickly go to a court \add to tell the judge about\add* something that you have seen,
+\q2 because another witness may later \add say something that proves that you are wrong, and as a result\add* you will be disgraced\f + \ft Or: ashamed \f*.
+\q2 If that happens, what will you do?\f + \ft Or: you will not know what to do. \f* \f + \ft rhetorical question \f*
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 It is better if someone tells you to sit closer to the king,
+\q2 than them to tell you, while one of the king's nobles is listening, that you should sit further away in order that someone who is more important may sit there.
+\q When you witness something that gives you concern,
+\q1
+\v 8 you should not quickly bring the matter to trial, 
+\q2 unless you are very sure about it. 
+\q2 because your neighbor may have a good explanation for what you saw. 
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 It is better for him to say to you, "Come up here,"
+\q than for you to be humiliated in the presence of a noble.
+\q What you have witnessed
+\q
+\v 8 do not bring quickly to trial.
+\q For what will you do in the end 
+\q when your neighbor puts you to shame?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:witness]]
+  * [[:En:obe:other:trial]]
+  * [[:En:obe:other:neighbor]]
+  * [[:En:obe:other:shame]]
+
+===== Translation Notes: =====
+
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:25|Proverbs Chapter 25 Comprehension Questions]]**
+**[[:yo:bible:notes:pro:25:06|<<]] | [[:yo:bible:notes:pro:25:09|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

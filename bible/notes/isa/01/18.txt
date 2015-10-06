@@ -1,0 +1,58 @@
+====== Isaiah 01:18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 Yahweh says, "You need to think about the results of what you do.
+\q2 Even though \add the guilt of\add* your sins be \add as evident and as difficult to get rid of\add* as \f + \ft simile \f* red stains \add on a white garment\add* \f + \ft doublet \f*,
+\q1 \add I will get rid of them completely\add*
+\q2 \add like someone who can make that stained garment\add* become as white as snow or wool \f + \ft doublet \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Yahweh says, "You need to think about what you do.
+\q2 Even though your sins are like scarlet red,
+\q1 they will be as white as snow; 
+\q2 though your sins are like crimson red, 
+\q1 they will be as white as sheeps' wool.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 18 "Come now, and let us reason together," says Yahweh; 
+\q1 "though your sins are like scarlet, they will be as white like snow; 
+\q1 though they are red like crimson, they will be like wool.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+God continues to speak to the people of Judah.
+
+  * **let us reason together**  - "let us think about this together" or "let us discuss this." Here the word "us" refers to God and includes the people of Judah. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **though your sins are like scarlet** - "though your sins are bright red." 
+  * **they will be white like snow** - White is often a symbol for holiness or purity. "Snow" refers to something like frozen rain that is very white. Since this simply to describe something as very white, you could replace it with something else that is white: "white as a seashell" or "white as a dove." This means that they will be forgiven. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **though they are red like crimson** - "though they are dark red"
+  * **they will be like wool** - How they will be like wool can be made explicit: "They will be white like wool." Wool is the hair of a sheep or goat. (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+**[[en:bible:questions:comprehension:isa:01|Isaiah Chapter 01 Comprehension Questions]]**
+
+**[[:yo:bible:notes:isa:01:16|<<]] | [[:yo:bible:notes:isa:01:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

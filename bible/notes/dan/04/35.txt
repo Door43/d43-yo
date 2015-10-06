@@ -1,0 +1,70 @@
+====== Daniel 04:35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 All the people in the world are very insignificant;
+\q2 we are not like him.
+\q1 He has the power to do whatever he wants to do,
+\q2 among the angels in heaven and among us people who live on the earth.
+\q1 So no one can stop him \f + \ft synecdoche \f*,
+\q2 and no one can challenge him,
+\q2 saying to him, "Why \add are you doing these things\add*?"
+\b
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 He regards all the people in the world as insignificant.
+\q1 He has the power to do whatever he wants to do.
+\q2 He does whatever he wants with the angel armies in heaven and with us who live on the earth.
+\q1 So no one can correct him;
+\q2 no one can challenge him;
+\q2 no one can say to him, 'Why are you doing these things?'
+\b
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 35 
+\q All the earth's inhabitants are considered by him to be as nothing; 
+\q he does among the army of heaven and the inhabitants of the earth
+\q whatever is suits his will.
+\q No one can stop him or challenge him. No one can say to him, 'Why have you done this?'
+</usfm>
+
+
+===== Important Terms: =====
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:dan:04|Daniel Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/dan/04/34|<<]] | [[en/bible/notes/dan/04/36|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

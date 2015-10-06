@@ -1,0 +1,54 @@
+====== Matthew 27:25-26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 And all the people answered, "The guilt for causing him to die \f + \ft metonymy \f* will be on us, and it will be on our children, too!"
+\v 26 Then he \add ordered the soldiers to\add* release Barabbas for them. But he \add ordered that his soldiers\add* whip Jesus. And then he turned Jesus over to the soldiers for them to nail Jesus to a cross\f + \ft Or: to crucify him \f*.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 And all the people answered, "May we be guilty for causing him to die, and may our children be guilty, too!"
+\v 26 Then he ordered the soldiers to release Barabbas for them. But he ordered that his soldiers whip Jesus. And then he turned Jesus over to the soldiers for them to nail Jesus to a cross.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 25 All the people said, "May his blood be on us and our children."
+\v 26 Then he released Barabbas to them, but he scourged Jesus and handed him over to be crucified.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:blood]]
+  * [[:yo:obe:other:barabbas]]
+  * crucify
+
+===== Translation Notes: =====
+
+This continues the account of the trial of Jesus before the Roman governor.
+
+  * **his blood**- "his death" (See: Metonymy)
+  * **May his blood be on us and our children** - "May we and our children be held responsible for his death"
+  * **Then he released Barabbas**  - The word "he" refers to Pilate, who ordered his soldiers to release Barabbas.
+  * **but he scourged Jesus** - The word "he" refers to Pilate, who ordered his soldiers to scourge Jesus.
+  * **scourged** - The word "scourged" means that the soldiers whipped Jesus' back many times. 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:27|Matthew Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:27:23|<<]] | [[:yo:bible:notes:mat:27:27|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

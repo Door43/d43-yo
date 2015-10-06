@@ -1,0 +1,60 @@
+====== John 11:5-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Jesus loved Martha and her \add younger\add* sister\add Mary\add* and Lazarus.
+\v 6 But when Jesus heard that Lazarus was sick, he stayed \add where he was\add* for two more days.
+\p
+\v 7 Then he said to us disciples, "Let's go back to Judea."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Now Jesus loved Martha, her sister Mary, and Lazarus.
+\v 6 Nevertheless, when Jesus heard that Lazarus was sick, he delayed going to see him. He stayed where he was for two more days.
+\p
+\v 7 Then he said to us disciples, "Let us go back to Judea."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 Now Jesus loved Martha and her sister and Lazarus.
+\v 6 When he heard that Lazarus was sick, Jesus stayed two more days in the place where he was.
+\v 7 Then after this, he said to the disciples, "Let us go to Judea again."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:Jesus]]
+  * [[:yo:obe:kt:love]]
+  * [[:yo:obe:other:Martha]]
+  * [[:yo:obe:other:Lazarus]]
+  * [[:yo:obe:kt:disciple]]
+  * [[:yo:obe:other:judea]] 
+
+===== Translation Notes: =====
+
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:11|John Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/11/03|<<]] | [[en/bible/notes/jhn/11/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

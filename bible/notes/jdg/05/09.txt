@@ -1,0 +1,82 @@
+====== Judges 05:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 I am thankful for the leaders and soldiers who volunteered \add to fight\add*.
+\q2 Praise Yahweh \add for them\add*!
+\b
+\q1
+\v 10 You wealthy people who ride on donkeys,
+\q2 sitting on nice padded saddles,
+\q2 and you people who just walk on the road,
+\q1 you all listen!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 I am thankful for the leaders and soldiers who volunteered to fight.
+\q2 I praise you, Yahweh, for them!
+\b
+\q1
+\v 10 You wealthy people who ride on donkeys,
+\q2 sitting on nice padded saddles,
+\q2 and you people who just walk on the road,
+\q1 you all listen to me!
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 My heart goes out to commanders of Israel,
+\q along with the people who gladly volunteered—
+\q we bless Yahweh!
+\v 10 Tell about it—you who ride on white donkeys
+\q sitting on rugs for saddles,
+\q and you who walk along the road.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:heart]]
+  * [[:En:obe:other:israel]]
+  * [[:yo:obe:kt:bless]]
+  * [[:En:obe:kt:bless]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:yo:obe:other:donkey]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jdg:05|Judges Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/05/07|<<]] | [[en/bible/notes/jdg/05/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

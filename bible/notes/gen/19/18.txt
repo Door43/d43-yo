@@ -1,0 +1,54 @@
+====== Genesis 19:18-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 But Lot said to one of them, "No, sir, don't make me do that!
+\v 19 Please, listen. You have been pleased with me and have been very kind to me and spared my life. But I cannot flee to the mountain. If I try to do that, I will die in this disaster \f + \ft personification \f*.
+\v 20 But listen to me. There is a town nearby. Let me run to that small town. Let me go there now. It is a small town, but our lives will be saved if we go there."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 But Lot said to one of them, "No, sir, don't make me do that!
+\v 19 Please, listen. You have been pleased with me and have been very kind to me and spared my life. But I cannot flee to the mountain. If I try to do that, I will die in this disaster.
+\v 20 Listen to me. There is a town nearby. Let me run there now. It is only a small town, and if you do not destroy it, our lives will be saved if we go there."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 Lot said to them, "Oh, please, no, my lords!
+\v 19 Your servant has found favor in your sight, and you have shown me great kindness in saving my life, but I cannot escape to the mountains, because the disaster will overtake me, and I will die.
+\v 20 Look, that city over there is near enough to flee to, and it is a little one. Please, let me escape there (is it not a little one?), and my life will be saved."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:lot]]
+  * [[en:obe:kt:favor]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+  * **Your servant has found favor in your sight**  - "You have been pleased with me" (UDB) or "I have been accepted by you"
+  * **Your servant**  - "I." Lot was showing respect by referring to himself as "your servant."
+  * **you have shown me great kindness in saving my life**  - "you have been very kind to me by saving my life"
+  * **I cannot escape to the mountains, because the disaster will overtake me**  - The implicit information about why the disaster would overtake him can be made explicit: "I cannot escape to those faraway mountains because the disaster will reach me before I can get there." (See: [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit Information]])
+  * **(is it not a little one?)**  - Lot used this rhetorical question to get the angels to notice that the city really is a small one. It can also be translated as "See how small it is." You could also translate this before or after the last sentence. (See: [[en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **my life will be saved**  - The implied information about how his life would be saved can be made explicit: "My life will be saved if you do not destroy that city."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:19|Genesis Chapter 19 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:19:16|<<]] | [[:yo:bible:notes:gen:19:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

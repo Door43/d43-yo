@@ -1,0 +1,70 @@
+====== 1 Samuel 04:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 When the remaining Israelite soldiers returned to their camp, the Israelite elders\f + \ft Or: leaders \f* said, "Why did Yahweh allow the Philistine army to defeat us today? We should bring the chest that contains the Ten Commandments here from Shiloh, in order that Yahweh will go with us when \add we go to the battle again\add*, and in order that our enemies will not defeat us again!"
+\p
+\v 4 So the soldiers did that. They sent some men to Shiloh, and those men brought back the chest that contained the Ten Commandments. \add They thought that if they did that, Yahweh would help them, because they believed that\add* Yahweh sat on a throne between the statues of winged creatures \add that were on top of\add* the chest that Yahweh Almighty \add had given them\add*. The two sons of Eli, Hophni and Phinehas, went with them.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 When the remaining Israelite soldiers returned to their camp, the Israelite elders said, "Why did Yahweh allow the Philistine army to defeat us today? We should bring the sacred chest here from Shiloh, in order that Yahweh will go with us when we go to the battle again, so that that our enemies will not defeat us again!"
+\p
+\v 4 So the soldiers sent some men to Shiloh, and those men brought back the sacred chest, the chest of Yahweh, who sat on a throne between the statues of winged creatures that were on top of the chest. The two sons of Eli, Hophni and Phinehas, went with them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 When the people came into the camp, the elders of Israel said, "Why has Yahweh defeated us today before the Philistines? Let us bring the ark of the testimony of Yahweh here from Shiloh, that it may be here with us, that it might keep us safe from the power of our enemies."
+\v 4 So the people sent men to Shiloh; from there they carried the ark of the testimony of Yahweh of hosts, who sits above the cherubim.  The two sons of Eli, Hophni and Phinehas, were there with the ark of the testimony of God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:elder]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:arkofthecovenant]]
+  * [[:yo:obe:other:shiloh]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:other:send]]
+  * [[:yo:obe:other:cherubim]]
+  * [[:yo:obe:other:phinehas]]
+  * [[;en:obe:kt:god]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1sa:04|1 Samuel Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/04/01|<<]] | [[en/bible/notes/1sa/04/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

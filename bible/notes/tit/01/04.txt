@@ -1,0 +1,68 @@
+====== Titus 01:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Titus, \add I am writing this letter\add* to \add you because you are like\add* a true son \f + \ft metaphor \f* \add to me because I led\f + \ft Or: helped \f* you to\add* believe the same \add teachings about Christ that I do\add*. \add I pray that\f + \ft Or: May\add* \f* \add God our Father and Christ Jesus our Savior will continue to\add* act kindly toward you and cause you to have \add inner\add* peace.
+
+
+\p
+\v 5 When I \add asked you\add* to stay on Crete \add island\add*, I wanted you to do these things: \add Teach the believers what they need to know so that they\add* can understand correctly the \add spiritual\add* matters about which some are teaching wrongly. Appoint elders \add in the congregation\add* in each town in the manner in which I told you to do.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Titus, you are like a son to me because we both believe in Jesus Christ. May God the Father and Christ Jesus our Savior continue to be kind to you and to give you peace.
+\v 5 I left you on the Island of Crete for this reason; that you do the work that has been unfinished and also appoint elders for the group of believers in every city, just as I told you to do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 To Titus, a true son in our common faith. Grace, mercy, and peace from God the Father, and Christ Jesus our Savior.
+\p
+\v 5 For this purpose I left you in Crete, that you might set in order things not yet complete, and ordain elders in every city as I directed you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:titus]]
+  * [[en:obe:kt:grace]]
+  * [[en:obe:kt:mercy]]
+  * [[en:obe:other:peace]]
+  * [[en:obe:kt:godthefather]]
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:savior]]
+  * [[en:obe:other:elder]]
+===== Translation Notes: =====
+
+  * **a true son**  - Since Titus was not Paul's actual son, this could be translated as "you are like a son to me." (UDB)
+  * **our common faith **- This could be translated as "the faith in Christ that we both share" or "the same teachings that we both believe in."
+  * **Grace, mercy, and peace**  - This was a common greeting. This can also be translated as "May grace, mercy, and peace be yours" or "may you experience kindness, mercy, and peace within."
+  * **Christ Jesus our Savior **- "Christ Jesus who is our Savior"
+  * **For this purpose** - This can also be translated as "This is the reason"
+  * **I left you in Crete** - This could be translated as "I told you to stay in Crete."
+  * **that you might set in order things not yet complete **- "so that you would finish arranging things that needed to done" 
+  * **ordain elders** -  That is, "appoint elders" (See: UDB) or "designate elders"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:tit:01|Titus Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/tit/01/01|<<]] | [[en/bible/notes/tit/01/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish titus}}
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== Leviticus 18:21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 Do not give any of your children to be burned to be a sacrifice to the god Molech, because that would show that you do not revere me \f + \ft metonymy \f*, Yahweh, your God.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Do not give any of your children to be burned to be as a  sacrifice to the god Molech, because that would dishonor me, Yahweh, your God.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 You must not give any of your children to pass through the fire, so that you sacrifice them to Molech, because you must not profane the name of your God. I am Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:other:fire]]
+  * [[:yo:obe:other:sacrifice]]
+  * [[:yo:obe:other:molech]]
+  * [[:yo:obe:other:profane]]
+  * [[:yo:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lev:18|Leviticus Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/18/19|<<]] | [[en/bible/notes/lev/18/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,68 @@
+====== Judges 01:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 The army of Judah fought against the men of Jerusalem, and they captured the city. With their swords they killed \add the people who lived there\add* and they burned \add the houses in\add* the city.
+\p
+\v 9 Later, the men of Judah went down to fight the Canaan people-group who lived in the hilly area, in the desert to the south, and in the foothills \add to the west\add*.
+\v 10 The men of Judah also went to fight against the Canaan people-group who lived in Hebron \add city\add*, which at that time was named Kiriath-Arba. They defeated \add the armies of kings\add* Sheshai, Ahiman, and Talmai.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 The army of Judah fought against the men of Jerusalem, and they captured the city. With their swords they killed the people who lived there and they burned the houses in the city.
+\p
+\v 9 Later, the men of Judah went down to fight the Canaanites who lived in the hilly area, in southern Judean wilderness, and in the foothills to the west.
+\v 10 The men of Judah also went to fight against the Canaanites who lived in the city of Hebron (which used to be named Kiriath Arba). They defeated the armies of kings Sheshai, Ahiman, and Talmai.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 The men of Judah fought against the city of Jerusalem and took it. They attacked it with the edge of the sword and they set the city on fire.
+\v 9 After that, the men of Judah went down to fight against the Canaanites who lived in the hill country, in the Negev, and the western foothills.
+\v 10 Judah advanced against the Canaanites who lived in Hebron (the name of Hebron was previously Kiriath Arba), and they defeated Sheshai, Ahiman, and Talmai.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:sword]]
+  * [[:En:obe:other:hebron]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jdg:01|Judges Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/01/06|<<]] | [[en/bible/notes/jdg/01/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,59 @@
+====== Joshua 24:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Then, Zippor's son Balak, the King of Moab, decided that his army would fight against\f + \ft Or: opposed \f* the Israelites. He summoned Beor's son Balaam and asked him to curse you.
+\v 10 But I would not do what Balaam asked, so he blessed\f + \ft Or: said that I would do great things for \f* you four times, and I did not enable the army of Moab to defeat you [IDI].
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then Balak son of Zippor, king of Moab, prepared his army and attacked Israel. He sent for Beor's son Balaam, and he told him to call for a curse from Yahweh on your people.
+\v 10 But I would not listen to Balaam. Instead, I made him bless you, and I saved you from his curse.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Then Balak son of Zippor, king of Moab, got up and attacked Israel. He sent and called for Balaam, the son of Beor, to curse you.
+\v 10 But I did not listen to Balaam. Indeed, he blessed you. So I rescued you out of his hand.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:moab]]
+  * [[en:obe:other:balaam]]
+  * [[en:obe:kt:curse]]
+  * [[en:obe:kt:bless]]
+
+
+===== Translation Notes: =====
+
+
+    * **Balak**  - Be sure to translate the same way as throughout Numbers 22-24, Judges 11:25, Micah 6:5 and Revelation 2:14. Translate his father's name Zippor the same way in all theses places also. (See: [[en:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:24|Joshua Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/24/08|<<]] | [[en/bible/notes/jos/24/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

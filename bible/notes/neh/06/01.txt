@@ -1,0 +1,63 @@
+====== Nehemiah 06:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Sanballat, Tobiah, Geshem, and our other enemies heard \add a report\add* that we had finished rebuilding the wall, and that now there were no more gaps\f + \ft Or: places where the wall was not finished \f* (although we had not yet put the doors in the gates).
+\v 2 So Sanballat and Geshem sent \add a message\add* to me, in which they said "Come and talk with us at a place in Ono plain \add north of Jerusalem\add*." But \add I knew that\add* really they wanted to harm me \add if I went there\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Sanballat, Tobiah, Geshem, and our other enemies heard a report that we had finished rebuilding the wall, and that now there were no more gaps, although we had not yet replaced the doors in the gates.
+\v 2 So Sanballat and Geshem sent me a message that read, "Come and talk with us at Kephirim on the plain of Ono north of Jerusalem." But it was no secret that they wanted to harm me.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 6
+\p
+\v 1 Now when Sanballat, Tobiah, and Geshem the Arab and the rest of our enemies heard that I rebuilt the wall and that there was no longer any sections broken open, though up to that time I had not yet set up the doors in the gates, 
+\v 2 Sanballat and Geshem sent to me saying, "Come, let us meet together at Kephirim in the plain of Ono." But they intended to do harm to me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:arabia]]
+  * [[en:obe:other:adversary]]
+  * [[:yo:obe:kt:gate]]
+ 
+===== Translation Notes: =====
+
+
+    * **Sanballat, Tobiah, and Geshem**  - These are all male names. (see: [[en:ta:vol1:translate:translate_names]])
+    * **and that**  - "so that"
+    * **no longer any sections broken open,**  - "no breeches", "no breaks"
+    * **though up to that time**  - "except that", "although"
+    * **Kephirim, Ono**  - geographic names. (see: [[en:ta:vol1:translate:translate_names]])
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:06|Nehemiah Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/05/18|<<]] | [[en/bible/notes/neh/06/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== Exodus 27:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add They must\add* put the poles through the rings on each side of the altar. The poles are for carrying the altar.
+\v 8 The altar will be like a box, made from boards \add of acacia wood\add*. \add They must\add* make it according to these instructions that I am giving you \add here\add* on \add this\add* mountain."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 They must put the poles through the rings on each side of the altar. The poles are for carrying the altar.
+\v 8 The altar will be like a box, made from boards of acacia wood. They must make it according to these instructions that I am giving you here on this mountain.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 The poles must be put into the rings, and the poles must be on the two sides of the altar, to carry it.
+\v 8 You must make the altar hollow, out of planks. You must make it in the way you were shown on the mountain.
+</usfm>
+
+===== Important Terms: =====
+
+
+  * [[en:obe:other:altar]]
+
+===== Translation Notes: =====
+Yahweh continues to tell Moses what the people should do.
+  * **planks** - a long, flat piece of timber thicker than a board
+  * **you were shown** - AT: "I showed you" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:27|Exodus Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:27:05|<<]] | [[:yo:bible:notes:exo:27:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,60 @@
+====== Philippians 04:10-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 I rejoice greatly \add and thank\add* the Lord because now, after some time, \add by sending money to me\add* you have once again shown that you are concerned about me \f + \ft euphemism \f*. Indeed, you were concerned about me \add all the time\add*, but you had no opportunity \add to show that you were concerned about me\add*.
+\v 11 I am saying this not because I \add am concerned that I\add* lack things \add that I need\add*. In fact, I have learned to be content in whatever \add situation\add* I am.
+\v 12 \add Specifically\add*, I know how \add to be content when\add* I do not have what I need, and I know how \add to be content when\add* I have plenty. I have learned how \add to be content\add* in any and every \add situation\add* \f + \ft doublet \f*. \add Specifically\add*, I have learned how \add to be content when\add* I have enough to eat, and I have learned how \add to be content when\add* I do not have enough to eat. I have learned how \add to be content when\add* I have plenty \f + \ft doublet \f* \add of what I need\add*, and I have learned \add how to be content when\add* I lack \add things\add*.
+\v 13 I am able to cope with\f + \ft Or: to handle \f* every situation because \add Christ\add* gives me the strength to do that.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 I rejoice greatly and thank the Lord because now, after some time, you sent money to me, and so you have once again shown that you are concerned about me. Indeed, you were concerned about me all the time, but you had no opportunity to show it.
+\v 11 I am not saying this because I need certain things. In fact, I have learned to be content with whatever I have.
+\v 12 I am able to be needy or to have plenty. I have learned how to be satisfied in all circumstances. I know the secret of how to be happy at all times.
+\v 13 I am able to do everything because Christ makes me strong.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 I rejoice in the Lord greatly because now at last you have renewed your concern for me. Although previously you were thinking of me, there was no opportunity for you to help.
+\v 11 I am not referring to my needs, for I have learned to be content in all circumstances.
+\v 12 I know how to live in times of need, and I also know how to live in times of abundance. In every way I have learned the secret how both to have plenty and to be hungry, how both to abound and to need.
+\v 13 I can do all things through him who strengthens me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:rejoice]]
+  * [[en:obe:kt:lord]]
+ 
+
+===== Translation Notes: =====
+
+    * **Although previously you were thinking of me, there was no opportunity for you to help.** - "I know you were thinking about me before now, but there had been no reason for you to send me help."
+    * **to be content** - "to be satisfied" or "to be happy"
+    * **in all circumstances** - "no matter what my situation is" 
+    * **I know how to live** - Alternate translation: "I know how to have the right attitude"
+    * **in times of need** - "when I do not have all I need"
+    * **in times of abundance** - "when I have more than I need"
+    * **the secret how both to have plenty and to be hungry, how both to abound and to need** - The phrases "to have plenty and to be hungry" and "to abound and to need" mean basically the same thing. Paul uses these phrases to mean "all situations." Alternate translation: "the secret to being satisfied in all situations." (See: [[en:ta:vol2:translate:figs_doublet]] and [[en:ta:vol2:translate:figs_merism]])
+    * **I can do all things through him who strengthens me.**  - "I can do all things because Christ gives me strength."
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:php:04|Philippians Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:php:04:08|<<]] | [[:yo:bible:notes:php:04:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish  rejoice }}
+
+~~NOCACHE~~

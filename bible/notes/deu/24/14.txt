@@ -1,0 +1,64 @@
+====== Deuteronomy 24:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Do not mistreat any servants whom you have hired who are poor and needy \f + \ft doublet \f*, whether they are Israelites or foreigners who are living in your town.
+\v 15 Every day, before sunset, you must pay\f + \ft Or: give \f* them the money that they have earned. They are poor and they need to get their pay. If you do not pay them right away, they will cry out against you to Yahweh, and he will punish \f + \ft metonymy \f* you for having sinned like that.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Do not mistreat any servants whom you have hired who are poor and needy, whether they are Israelites or foreigners who are living in your town.
+\v 15 Every day, before sunset, you must pay/give them the money that they have earned. They are poor and they need to get their pay. If you do not pay them right away, they will cry out against you to Yahweh, and he will punish you for having sinned like that.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 You must not oppress a hired servant who is poor and needy, whether he is of your fellow Israelites, or of the  foreigners who are in your land within your city gates;
+\v 15 Each day you must give him his wage; the sun must not go down on this unsettled matter, for he is poor and is counting on it. Do this so that he does not cry out against you to Yahweh, and so that it not be a sin that you have committed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:oppress]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:foreigner]]
+  * [[:yo:obe:kt:gate]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:24|Deuteronomy Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/24/12|<<]] | [[en/bible/notes/deu/24/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,64 @@
+====== Isaiah 34:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Their corpses will not be buried,
+\q2 and as a result their corpses will stink,
+\q2 and their blood will \add fill the streams that\add* flow down the mountains.
+\q1
+\v 4 The sky will disappear like \f + \ft simile \f* a scroll that is rolled up \add and thrown away\add*.
+\q2 Stars will fall from the sky
+\q1 like \f + \ft simile \f* \add withered\add* leaves fall from grapevines,
+\q2 or like \f + \ft simile \f* shriveled figs fall from fig trees.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Their corpses will not be buried,
+\q2 and as a result their bodies will stink,
+\q2 and their blood will fill the streams that flow down the mountains.
+\q1
+\v 4 The sky will disappear like a scroll that is rolled up and thrown away.
+\q2 Stars will fall from the sky
+\q1 like withered leaves fall from grapevines,
+\q2 or like shriveled figs fall from fig trees.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 3 Their slain will be left unburied; the stench of their dead bodies will be everywhere, 
+\q1 and the mountains will be soaked with their blood.
+\q1
+\v 4 All the stars of the sky  will fade away, 
+\q1 and the sky will be rolled up like a scroll; and all their stars will fade away, 
+\q1 as the leaf fades from off the vine, and as the overripe figs from the fig tree.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:blood]]
+  * [[en:obe:other:scroll]]
+  * [[:yo:obe:other:vine]]
+  * [[en:obe:other:fig]]
+
+===== Translation Notes: =====
+
+  * **Their slain will be left unburied** - "No one will bury the dead people" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **the sky will be rolled up like a scroll** - This emphasizes that God's anger will affect the heavens and the earth. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **and all their stars will fade away, as the leaf fades from off the vine, and as the overripe figs from the fig tree** - "and and all the stars will fall from the sky like a leaf falls from a vine or a fig falls from a tree." This emphasizes even the things in the sky that people thought would be there forever will fall as easily as a leaf.
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:isa:34|Isaiah Chapter 34 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:34:01|<<]] | [[:yo:bible:notes:isa:34:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

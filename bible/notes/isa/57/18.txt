@@ -1,0 +1,75 @@
+====== Isaiah 57:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 I have seen the evil things that they continually do,
+\q2 but I will restore them and lead them.
+\q1 I will encourage\f + \ft Or: comfort \f* them.
+\q2 And to those who are mourning,
+\q2
+\v 19 I will enable them to sing songs to praise me.
+\q1 I will restore \add all my people\add*, those who live near \add Jerusalem\add* and those who live far away,
+\q2 and I will cause things to go well for them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 I have seen the evil things that they continually do,
+\q2 but I will restore them and lead them.
+\q1 I will encourage them.
+\q2 And to those who are mourning,
+\q2
+\v 19 I will enable them to sing songs to praise me.
+\q1 I will restore all my people, those who live near Jerusalem and those who live far away,
+\q2 and I will cause things to go well for them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 18 I have seen his ways, 
+\q1 but I will heal him. I will lead him and comfort and console those who mourn for him,
+\q1
+\v 19 and I create the fruit of the lips: Peace, peace, to him who is far off and to him who is near," says Yahweh; "and I will heal him."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:heal]]
+  * [[:yo:obe:other:comfort]]
+  * [[:yo:obe:other:creation]]
+  * [[:yo:obe:kt:fruit]]
+  * [[:yo:obe:other:peace]]
+  * [[:yo:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **comfort and console those who mourn for him** - "I, Yahweh will take care of and calm those who feel sad for the sins that were done"
+  * **and I create the fruit of the lips** - "I cause them to use their mouth to praise and thank Yahaweh"
+  * **Peace, peace** - "perfect peace"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:57|Isaiah Chapter 57 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/57/16|<<]] | [[en/bible/notes/isa/57/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

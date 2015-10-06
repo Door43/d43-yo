@@ -1,0 +1,45 @@
+====== Titus 02:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Teach \add the believers\add* these things! Urge \add them to do them!\add* Correct \add those who do not obey them! As you do this, you have my\add* full authority; so do not allow anyone to disregard you!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Titus, speak about these things. Urge those who hear you to live as I have described. And use your full right of command to correct our brothers and sisters when it is necessary. Let no one disregard what you say.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Speak of and encourage these things, and give correction with all authority. Let no one disregard you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:authority]]
+ 
+
+===== Translation Notes: =====
+
+  * **speak of and encourage these things** - This could be translated as "teach these things and encourage the hearers to do these things."
+  * **give correction** - "correct those people who do not do these things"
+  * **Let no one** - "Do not allow anyone to"
+  * **disregard you**  - This could be translated as "refuse to listen to your words" or "refuse to respect you."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:tit:02|Titus Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:tit:02:14|<<]] | [[:yo:bible:notes:tit:03:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

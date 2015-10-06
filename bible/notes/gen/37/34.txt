@@ -1,0 +1,60 @@
+====== Genesis 37:34-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 Jacob was so grieved that he tore his clothes. He put on sackcloth\f + \ft Or: clothes that people wear when they are mourning for someone who has died \f*. He mourned, Or: cried for his son for many days.
+\v 35 All of his children came to try to comfort him, but he did not pay attention to what they said. He said, "No, I will still be mourning\f + \ft Or: crying \f* when I die and go to be with my son." So Joseph's father continued to cry because of what had happened to his son.
+\p
+\v 36 In the meantime, the men\f + \ft Or: traders \f* from Midian took Joseph to Egypt and sold him to Potiphar, who was one of the king's officials. He was the captain of the soldiers who protected the king.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 Jacob was so grieved that he tore his clothes. He put on sackcloth. He mourned.
+\v 35 All of his children came to try to comfort him, but he did not pay attention to what they said. He said, "No, I will still be mourning when I die and go to be with my son." So Joseph's father continued to cry because of what had happened to his son.
+\p
+\v 36 In the meantime, the men from Midian took Joseph to Egypt and sold him to Potiphar, who was one of the king's officials. He was the captain of the soldiers who protected the king.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 Jacob tore his garments and put sackcloth upon his loins. He mourned for his son many days.
+
+\v 35 All his sons and daughters rose up to comfort him, but he refused to be comforted. He said, "Indeed I will go down to Sheol mourning for my son." His father wept for him.
+
+\v 36 The Midianites sold him in Egypt to Potiphar, an officer of Pharaoh, the captain of the bodyguard.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:sackcloth]]
+  * [[:yo:obe:other:hades]]
+  * [[:yo:obe:other:midian]]
+  * [[:yo:obe:other:egypt]]
+  * [[:yo:obe:other:potiphar]]
+  * [[:yo:obe:other:pharaoh]]
+ 
+
+===== Translation Notes: =====
+
+  * **Jacob tore his garments** - See how you translated the similar phrase in [[en:bible:notes:gen:37:29|37:29]].
+  * **put sackcloth upon his loins** - Here "loins" refers to the middle part of the body or the waist. Alternate translation: "put on sackcloth."
+  * **but he refused to be comforted** - Alternate translation: "but he would not let them comfort him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Sheol**  - "the grave"
+  * **The Midianites sold him** - "The Midianites sold Joseph" 
+  * **the captain of the bodyguard** - "the leader of the soldiers who guarded the king"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:37|Genesis Chapter 37 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:37:31|<<]] | [[:yo:bible:notes:gen:38:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish  sackcloth  potiphar}}
+
+~~NOCACHE~~

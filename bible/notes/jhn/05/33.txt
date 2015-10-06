@@ -1,0 +1,63 @@
+====== John 05:33-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 As for you, when you sent messengers to John \add the Baptizer to ask about me\add*, he told the truth \add about me\add*.
+\v 34 I do not \add need that\add* people tell others \add about me\add*. But instead, I am reminding \add you about what John told people about me\add*, in order that you will \add believe it and\add* be saved \f + \ft Or:\add God\add* will save you \f*.
+\v 35 \add John's message about me\add* \f + \ft Or: \add John\add* \f* \f + \ft metaphor \f* was \add like\add* a lamp that shines brightly. For a short while you were willing to be made happy \add by that message\add* \f + \ft Or:to let \add that message\add* make you happy \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 You sent messengers to John the Baptizer, and he told you the truth about me.
+\v 34 I do not actually need for him or anyone else to be a witness about me, but I am saying these things so that God can save you.
+\v 35 John the Baptizer was a burning and shining lamp, and you were glad to rejoice for a while in his light.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 You have sent to John, and he has testified to the truth.
+\v 34 However, the testimony that I receive is not from man.  I say these things that you might be saved.
+\v 35 John was a lamp that was burning and shining, and you were willing to rejoice for a season in his light.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:johnthebaptist]]
+  * [[:yo:obe:kt:testimony]]
+  * [[:yo:obe:kt:true]]
+  * [[:yo:obe:kt:receive]]
+  * [[:yo:obe:kt:save]]
+  * [[:yo:obe:other:lamp]]
+  * [[:yo:obe:other:rejoice]]
+ 
+
+===== Translation Notes: =====
+
+Jesus continues speaking to the Jewish leaders ([[:yo:bible:notes:jhn:05:16|5:16]]).
+
+  * **the testimony that I receive is not from man** - "I do not need people's testimony"
+  * **John was a lamp that was burning and shining** - John displayed God's holiness in the way that a lamp shines light. (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:05|John Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/05/30|<<]] | [[en/bible/notes/jhn/05/36|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

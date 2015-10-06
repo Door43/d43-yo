@@ -1,0 +1,70 @@
+====== Deuteronomy 28:42-44 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 42 Swarms of locusts\f + \ft Or: insects \f* will eat your crops and \add the leaves of\add* all your trees.
+\pi
+\v 43 Foreigners who live in your land will become more and more \add powerful\add*, and you will become less and less \add powerful\add*.
+\pi
+\v 44 They will have \add money\add* to lend to you, but you will not have any money to lend to them.
+\pi They will be superior [IDI] to you, and you will be inferior to them [IDI].
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 42 Swarms of locusts will eat your crops and the leaves of all your trees.
+\pi
+\v 43 Foreigners who live in your land will become more and more powerful, and you will become less and less powerful.
+\pi
+\v 44 They will have money to lend to you, but you will not have any money to lend to them.
+\pi They will be superior to you, and you will be inferior to them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 42 All your trees and the fruit of your ground—the locusts will take them over.
+\v 43 The foreigner who is in the your midst will rise up above you higher and higher; you yourself will come down lower and lower.
+\v 44 He will lend to you, but you will not lend to him; he will be the head, and you will be the tail.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:foreigner]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:other:head]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/28/40|<<]] | [[en/bible/notes/deu/28/45|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

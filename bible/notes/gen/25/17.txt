@@ -1,0 +1,59 @@
+====== Genesis 25:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Ishmael lived until he was 137 years old. Then he died \f + \ft euphemism \f* and joined his ancestors who had previously died.
+\v 18 His descendants settled\f + \ft Or: went to live \f* in the area between Shur and Havilah, near the border of Egypt as a person travels toward Asshur. All of their camps were close to each other \f + \ft Or: they all frequently attacked each other \f*.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Ishmael lived until he was 137 years old. Then he died and joined his ancestors who had previously died.
+\v 18 His descendants settled in the area between Shur and Havilah, near the border of Egypt as a person travels toward Asshur. But they did not live in peace together.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 These are the years of the life of Ishmael, 137 years: he breathed his last and died, and was gathered to his people.
+\v 18  They lived from Havilah to Shur, which is near Egypt, as one goes toward Assyria. They lived in hostility with each other.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:Ishmael]]
+  * [[en:obe:other:egypt]]
+  * [[en:obe:other:assyria]]
+ 
+
+===== Translation Notes: =====
+
+  * **These are the years of the life of Ishmael, 137 years**  - "Ishmael lived 137 years" (See: [[en:ta:vol2:translate:translate_numbers]])
+  * **breathed his last and died** - See how you translated this in [[en:bible:notes:gen:25:07|25:8]].
+  * **was gathered to his people**  - See how you translated this in [[en:bible:notes:gen:25:07|25:8]].
+  * **They lived** - "His descendants settled" (UDB)
+  * **from Havilah to Shur**  - "between Havilah and Shur"
+  * **Havilah** - See how you translated this in [[en:bible:notes:gen:02:11|2:11]].
+  * **as one goes toward**  - "in the direction of"
+  * **They lived in hostility with each other** - Possible meanings are 1) "they did not live in peace together" (UDB), or 2) "they lived away from their other relatives."
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:25|Genesis Chapter 25 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:25:13|<<]] | [[:yo:bible:notes:gen:25:19|>>]]**
+
+~~DISCUSSION~~{{tag>published  assyria}}
+
+~~NOCACHE~~

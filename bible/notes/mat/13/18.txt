@@ -1,0 +1,51 @@
+====== Matthew 13:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 "\add Since God wants\add* you\add to understand what I am teaching you\add*, listen as I \add explain\add* the parable about the man who sowed \add seeds in various kinds of soil\add*.
+\v 19 The people who hear about how God rules over people's lives and do not understand \add what they have heard\add* are \add like\add* the path where \add some of\add* the seeds fell. \add Satan\add*, the Evil One, comes and causes these people to forget \f + \ft metaphor \f* what they have heard \f + \ft metaphor \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Now listen to me explain the parable I told you.
+\v 19 Some people hear about how God is starting to rule over people's lives but do not understand it. They are like the path where some of the seeds fell. Satan, the evil one, comes and causes these people to forget what they have heard.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 18 Listen then to the parable of the sower.
+\v 19 When anyone hears the word of the kingdom but does not understand it, 
+then the evil one comes and snatches away what has been sown in his heart. This is he who was 
+sown on the wayside.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:parable]]
+  * [[:yo:obe:other:sow]]
+  * [[:yo:obe:other:kingdom]]
+  * [[:yo:obe:kt:satan]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:other:sow]]
+===== Translation Notes: =====
+
+Jesus continues to tell a large crowd of people different parables that describe what the kingdom of God is like. Here he is explaining the parable he told in [[:yo:bible:notes:mat:13:03|13:3]]-[[:yo:bible:notes:mat:13:07|13:8]].
+
+  * **the evil one comes and snatches away what has been sown in his heart** - "Satan causes him to forget the word of God that he has heard".
+  * **snatches away ** - Try to use a word that means to grab something away from someone who is the rightful owner.
+  * **what has been sown in his heart** - This can be translated with the active form: "the word God sowed in his heart." (See: [[en:ta:vol2:translate:figs_activepassive]]
+  * **in his heart**  - in the heart of the hearer
+  * **This is he who was sown on the wayside** - If a literal translation makes no sense, try to translate so the reader understands that Jesus is the sower, the message is the seed, and the hearer is the soil on the wayside. Possible translation: "This is how it is with what was sown on the wayside." (See: [[en:ta:vol1:translate:figs_simile]] and [[en:ta:vol2:translate:figs_ellipsis]])
+  * **wayside **- "road" or "path." Translate this as you did in [[:yo:bible:notes:mat:13:03|13:4]].
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:13|Matthew Chapter 13 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:13:16|<<]] | [[:yo:bible:notes:mat:13:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish parable sow kingdom }}
+
+~~NOCACHE~~

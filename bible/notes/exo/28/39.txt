@@ -1,0 +1,43 @@
+====== Exodus 28:39 ======
+
+===== TFT: =====
+
+<usfm>
+\v 39 \add Tell them to\add* weave the long-sleeved tunic\f + \ft Or: gown \f* from fine linen. Also they must make from fine linen a turban and a sash\f + \ft Or: waistband \f*, and embroider \add designs on it\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 39 Tell them to weave the long-sleeved tunic from fine linen. Also they must make from fine linen a turban and a sash, and they must embroider designs on it.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 39 You must make the coat with fine linen, and you must make a turban of fine linen. You must also make a sash, the work of an embroiderer.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:works]]
+
+===== Translation Notes: =====
+
+God continues to tell Moses what the people must do.
+
+  * **turban...sash** - See how you translated these in [[en:bible:notes:exo:28:04|28:4]].
+  * **the work of an embroiderer** - See how you translated this in [[en:bible:notes:exo:26:36|26:36]].
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:28|Exodus Chapter 28 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:28:36|<<]] | [[:yo:bible:notes:exo:28:40|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

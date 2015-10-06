@@ -1,0 +1,51 @@
+====== Matthew 21:43-44 ======
+
+===== TFT: =====
+
+<usfm>
+\v 43 So, \add because you reject me\add*, I am going to tell you this: God will no longer let you \add Jews\add* be the people over whom he rules. Instead, he will let\add non-Jews\add* be the people over whom he rules, and they will do \f + \ft idiom \f* what he asks them to do.
+\v 44 \add The important stone in the building represents me, the Messiah, and those who reject me are like people who fall on this stone\add*. Anyone who falls on this stone will be broken into pieces \f + \ft Or:This cornerstone will break into pieces anyone who falls on it \f*, and it will crush anyone on whom it falls."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 43 So, because you reject me, I am going to tell you this: God will no longer let you Jews be the people over whom he rules. Instead, he will agree to rule over non-Jews, and they will do  what he asks them to do.
+\v 44 Anyone who falls on this stone will break into pieces, and the stone will crush anyone on whom it falls."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 43 Therefore say I to you, The kingdom of God will be taken away from you and will be given to a nation that cultivates its fruits.
+\v 44 Whoever falls on this stone will be broken to pieces. But on whomever it falls, it will crush."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:kingdomofgod]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:kt:fruit]]
+
+===== Translation Notes: =====
+
+Jesus continues to explain the parable.
+
+  * **say I to you** - Jesus was speaking to the chief priests and elders.
+  * **cultivates its fruits** - "will do what is right" (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  * **its fruit** - "the kingdom of God's fruits"
+  * **whoever falls on this stone** - "the one who stumbles over this stone" (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  * **on whomsoever it falls** - "on whomever judgment falls" (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:21|Matthew Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:21:42|<<]] | [[:yo:bible:notes:mat:21:45|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

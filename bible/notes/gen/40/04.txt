@@ -1,0 +1,52 @@
+====== Genesis 40:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 The two men were in prison for a long time. And during that time the captain of the palace guards appointed Joseph to be their servant, to take care of their needs.
+\p
+\v 5 One night while the king's drink-server and his baker were there in the prison, each of them had a dream. Each dream had a different meaning.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 The two men were in prison for a long time. During that time, the captain of the palace guards appointed Joseph to be their servant, to bring them the things they needed.
+\p
+\v 5 One night the king's chief drink server and chief baker each had a dream. Each dream had a different meaning.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 The captain of the guard put Joseph in charge of them. He attended to them. They remained in custody for some time.
+\v 5 Both of them dreamed a dream, each man his dream in the same night, each man with the interpretation of his dream, the cupbearer and the baker of the king of Egypt who were confined in the prison.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:dream]] 
+
+===== Translation Notes: =====
+
+  * **put Joseph in charge of them**  - "put Joseph in charge of the cupbearer and the baker"
+  * **He attended to them**  - "Joseph helped take care of them"
+  * **They remained in custody for some time.**  - "They remained in prison for a long time."
+  * **Both of them dreamed a dream, each man his dream in the same night, each man with the interpretation of his dream, the cupbearer and the baker of the king of Egypt who were confined in the prison.**  - "While in prison, the cupbearer and the baker to the king of Egypt had a dream in the same night. Each dream had its own meaning."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:40|Genesis Chapter 40 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:40:01|<<]] | [[:yo:bible:notes:gen:40:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish dream}}
+
+~~NOCACHE~~

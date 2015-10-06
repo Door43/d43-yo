@@ -1,0 +1,48 @@
+====== Genesis 27:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 When Isaac was old, he became almost blind. One day he summoned Esau, his firstborn\f + \ft Or: older \f* son,
+\v 2 and said to him, "My son?" He replied, "Here I am!"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 When Isaac was old, he became almost blind. One day he summoned Esau, his firstborn son,
+and said to him, "My son?" He replied, "Here I am!"
+\v 2 Isaac said, "Listen to me. I am very old, and I do not know when I will die.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 27
+\p
+\v 1 When Isaac was old and his eyes were dim so that he could not see, he called Esau, his older son, and said to him, "My son." He said to him, "Here I am."
+\v 2 He said, "See here, I am old.  I do not know the day of my death.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:isaac]]
+  * [[:yo:obe:other:esau]]
+  * [[:yo:obe:kt:death]]
+
+===== Translation Notes: =====
+
+  * **his eyes were dim**  - This means that Isaac could no longer see well. Alternate translation: "he was nearly blind" or "he was almost blind." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **He said to him**  - "And Esau replied" 
+  * **Here I am** - This can be translated as “Yes?” or “What is it?” or “I am listening.” See how you translated this in [[:yo:bible:notes:gen:22:01|22:1]]
+  * **He said**  - "Then Isaac said"
+  * **See here**  - The phrase "see here" adds emphasis to what follows. It could also be translated "listen carefully."
+  * **I am old. I do not know the day of my death.**  - "I have grown old and do not know when I will die."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:27|Genesis Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:26:34|<<]] | [[:yo:bible:notes:gen:27:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

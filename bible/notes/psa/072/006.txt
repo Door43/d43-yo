@@ -1,0 +1,74 @@
+====== Psalms 072:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 I desire that his rule will \add be enjoyed by the people\add* \f + \ft simile \f*
+\q2 like \add they enjoy\add* rain on the growing crops,
+\q2 like \add they enjoy\add* the showers that fall on the land.
+\q1
+\v 7 I hope\f + \ft Or: desire \f* that people will live righteously during the years that he rules,
+\q2 and that the people will live peacefully and prosperously as long as the moon shines.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 I desire that his rule may be enjoyed by the people 
+\q2 as they enjoy rain on the growing crops,
+\q2 as they enjoy the showers that fall on the land.
+\q1
+\v 7 I hope that people may live righteously during the years that he rules,
+\q2 and that the people may live peacefully and prosperously as long as the moon shines.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 May he come down like rain on the mown grass,
+\q like showers that water the earth.
+\q
+\v 7 May the righteous flourish in his days,
+\q and may there be an abundance of peace, till the moon is no more.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:peace]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:072|Psalms Chapter 072 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/072/004|<<]] | [[en/bible/notes/psa/072/008|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,53 @@
+====== Ezekiel 31:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Therefore, this is what I, Yahweh the Lord, say: 'That tree, which \add represents Egypt\add*, grew very tall, and its top was higher than the other trees, and it became very proud because of being very tall.
+\v 11 Therefore, I enabled another mighty nation to conquer it, and to destroy it as it deserved to be destroyed. I have already discarded it.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Therefore, this is what I, Yahweh the Lord, say: 'That tree, which represents Assyria, grew very tall; its top was higher than the other trees, and it became very proud because it was so tall.
+\v 11 Therefore, I enabled another mighty nation to conquer it, to destroy it as it deserved to be destroyed. I have already discarded it.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 Therefore the Lord Yahweh says this: "Because it was so tall, and because he raised the top of his tree above the branches and his heart was lifted up to that height—
+\v 11 I therefore grasped him by the hand of the mightiest ruler of nations! This ruler acted against him and drove him away because of his wickedness!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:other:hand]]
+  * [[en:obe:other:ruler]]
+  * [[en:obe:other:nation]]
+  * [[en:obe:kt:evil]]
+===== Translation Notes: =====
+
+Yahweh's parable about the cedar continues.
+
+  * **thus says the Lord Yahweh** - See how you translated this in [[:yo:bible:notes:ezk:03:10|3:11]].
+  * **he raised the top of his tree above the branches** - Possible meanings are 1) “he raised his top above the branches of the other trees” or 2) “he raised the top of his tree into the clouds.” See how you translated a similar sentence in [[en:bible:notes:ezk:31:03|3:3]]
+  * **he raise the top of his tree** - This passage continues to refer to the king of Assyria, who was represented by the cedar tree.
+  * **and his heart was lifted up** -  "he was very proud." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **to that height** - "because it was so tall" (UDB)
+  * **I therefore grasped him by the hand of the mightiest ruler** - "I put him in the hand of the strongest nation." The word "hand" represents power. "I gave the strongest nation power over him." (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+  * **This ruler acted against him** - "This nation did bad things to the cedar"
+  * **and drove him away because of his wickedness** - "and sent the cedar away from the cedar's land because the cedar was wicked"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:31|Ezekiel Chapter 31 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:31:08|<<]] | [[:yo:bible:notes:ezk:31:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

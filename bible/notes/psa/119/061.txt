@@ -1,0 +1,74 @@
+====== Psalms 119:61-62 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 61 Wicked people have \add tried to\add* seize me \add like a hunter tries to catch an animal\add* with a net \f + \ft metaphor \f*,
+\q2 but I do not forget your laws.
+\q1
+\v 62 In the middle of the night I awake,
+\q2 and I praise you for your commands\f + \ft Or: the rules that you have given us to do \f*;
+\q2 they are fair\f + \ft Or: just \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 61 Wicked people have tried to seize me as a hunter tries to catch an animal with a net,
+\q2 but I do not forget your laws.
+\q1
+\v 62 In the middle of the night I awake,
+\q2 and I praise you for your commands,
+\q2 because they are fair.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 61 The cords of the wicked have ensnared me;
+\q I have not forgotten your Law.
+\q
+\v 62 At midnight I rise to give thanks to you
+\q because of your righteous decrees.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:kt:righteous]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/119/059|<<]] | [[en/bible/notes/psa/119/063|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

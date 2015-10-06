@@ -1,0 +1,47 @@
+====== Genesis 27:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 His mother said to him, "If that happens, let the curse be on me. You do what I am telling you. Go and get the goats for me!"
+\v 14 So Jacob went and killed two goats and brought them to his mother. Then his mother prepared some tasty food, just the way his father liked.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 His mother said to him, "If that happens, my son, let the curse be on me. You do what I am telling you. Go and get the goats for me!"
+\v 14 So Jacob went and killed two goats and brought them to his mother. Then his mother prepared some tasty food, just the way his father liked.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 His mother said to him, "My son, let any curse fall on me. Just obey my voice, and go, bring  them to me."
+\v 14 So Jacob went and got the young goats and brought them to his mother, and his mother made delicious food, just like his father loved.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:curse]]
+  * [[:yo:obe:other:obey]]
+ 
+
+===== Translation Notes: =====
+
+  * **My son, let any curse fall upon me**  - "Let your curse be on me, my son"
+  * **obey my voice** - Rebekah said "my voice" to refer to what she was saying. This could be translated as "obey what I tell you" or "obey me." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **bring them to me** - "bring me the young goats"
+  * **made delicious food, just like his father loved**  - See how a similar sentence was translated in [[en:bible:notes:gen:27:03|27:4]].
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:27|Genesis Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:27:11|<<]] | [[:yo:bible:notes:gen:27:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

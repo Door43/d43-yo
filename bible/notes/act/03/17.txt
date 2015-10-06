@@ -1,0 +1,46 @@
+====== Acts 03:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 "Now, my fellow-countrymen, I know that you and your leaders did that \add to Jesus\add* because you \add and they\add* did not know \add that he was the Messiah\add*.
+\v 18 However, \add your putting him to death\add* was what God had predicted that people would do. \add Long ago\add* he told all the prophets \f + \ft metonymy \f* to write \add what people would do to the Messiah. They wrote\add* that the Messiah, whom God \add would send\add*, would suffer \add and die\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 "Now, my fellow countrymen, I know that you and your leaders killed Jesus because you did not know that he was the Messiah.
+\v 18 However, God predicted long ago that people would put Jesus to death. God  told all the prophets to write what people would do to the Messiah. They wrote that the Messiah, whom God would send, would suffer and die.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 Now, brothers, I know that  you acted in ignorance, as did also your rulers.
+\v 18 But the things which God foretold by the mouth of all the prophets, that his Christ should suffer, he has now fulfilled.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:brother]]
+  * [[en:obe:other:ruler]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:fulfill]]
+===== Translation Notes: =====
+
+Peter continues his speech to the Jews that he began in [[:yo:bible:notes:act:03:11|3:13]].
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:act:03:15|<<]] | [[:yo:bible:notes:act:03:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish ruler fulfill}}
+
+~~NOCACHE~~

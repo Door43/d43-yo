@@ -1,0 +1,65 @@
+====== 2 Kings 19:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Hezekiah received the letter that the messengers gave him, and he read it. Then he went up to the temple and spread out the letter in front of Yahweh.
+\v 15 Then Hezekiah prayed this: "Yahweh, the God whom to whom we Israelites belong, you are seated on your throne above the \add statues of\add* creatures with wings, \add above the Sacred Chest\add*. Only you are truly God. You rule all the kingdoms on this earth. You are the one who created \add everything on\add* the earth and in the sky.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Hezekiah received the letter that the messengers gave him, and he read it. Then he went up to the temple and spread out the letter in front of Yahweh.
+\v 15 Then Hezekiah prayed this: "Yahweh, the God to whom we Israelites belong, you are seated on your throne above the statues of creatures with wings, above the sacred chest. Only you are truly God. You rule all the kingdoms on this earth. You are the one who created everything on the earth and in the sky.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14  Hezekiah received this letter from the messengers and read it. Then he went up to the house of Yahweh and spread it before him.
+\v 15 Then Hezekiah prayed before Yahweh and said, "Yahweh of hosts, God of Israel, you who sit above the cherubim, you are God alone over all the kingdoms of the earth. You made the heavens and the earth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:receive]]
+  * [[:yo:obe:kt:houseofgod]]
+  * [[:yo:obe:other:pray]]
+  * [[:yo:obe:kt:yahwehofhosts]]
+  * [[:yo:obe:kt:God]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:other:cherubim]]
+  * [[:yo:obe:other:kingdom]]
+  * [[:yo:obe:kt:heaven]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:19|2 Kings Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/19/12|<<]] | [[en/bible/notes/2ki/19/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

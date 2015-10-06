@@ -1,0 +1,69 @@
+====== Psalms 018:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Then Yahweh \add spoke in a loud voice\add* from the sky,
+\q2 and \add his enemies\add* heard his voice that sounded like thunder.
+\q1
+\v 14 He shot his arrows at them and caused them to scatter;
+\q2 His flashes of lightning caused them to become very confused \f + \ft Or: to run away \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Then Yahweh shouted loudly from the sky, and to his enemies, it sounded like thunder.
+\q1
+\v 14 He shot his arrows at them and caused them to scatter; his flashes of lightning caused them to become very confused.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Yahweh thundered in the heavens! The Most High shouted and sent hailstones and lightning.
+\q
+\v 14 He shot his arrows and scattered his enemies—many lightning bolts and dispersed them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:mosthigh]]
+  * [[:yo:obe:other:send]]
+  * [[:yo:obe:other:bowweapon]]
+  * [[:yo:obe:other:disperse]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/018/011|<<]] | [[en/bible/notes/psa/018/015|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

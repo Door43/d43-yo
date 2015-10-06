@@ -1,0 +1,56 @@
+====== Genesis 42:23-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 While they were talking with Joseph, they were speaking to an interpreter\f + \ft Or: someone who knew their language and the Egyptian language \f*, but when they said these things among themselves, they were speaking in their own language, and they did not know that Joseph could understand their language, and that he could understand what they were saying.
+\v 24 Because of what they said, Joseph realized that they admitted that what they had done to him many years previously was wrong. But he knew that he could not keep from crying, and he did not want them to see him crying, so he left them and went outside the room and began to cry. But then he returned to them and talked to them again. Then he took Simeon, and while they were watching, he told his servants to tie him up. He left Simeon in the prison and told the others that they could go.
+\p
+\v 25 Joseph told his servants to fill the men's sacks with grain, but he also told them to put the money that each one had paid for the grain in the top of his sack. He also told them to give them food to eat along the way. After they did those things for his older brothers,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 While they were talking with Joseph, they were speaking to an interpreter, but when they said these things among themselves, they were speaking in their own language. They did not know that Joseph could understand their language and that he undrstood what they were saying.
+\v 24 Because of what they said, Joseph realized that they admitted that what they had done to him many years previously was wrong. But he knew that he could not keep from crying, and he did not want them to see him crying, so he left them and went outside the room and began to cry. But then he returned to them and talked to them again. Then he took Simeon, and while they were watching, he told his servants to tie him up. He left Simeon in the prison and told the others that they could go.
+\p
+\v 25 Joseph told his servants to fill the men's sacks with grain, but he also told them to put the money that each one had paid for the grain in the top of his sack. He also told them to give them food to eat along the way. After they did those things for his older brothers,
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 23 They did not know that Joseph understood them, for there was an interpreter between them.
+\v 24 He turned from them and wept. He returned to them and spoke to them. He took Simeon from among them and bound him before their eyes.
+\v 25 Then Joseph commanded his servants to fill his brothers’ bags with grain, and to put every man’s money back into his sack, and to give them provisions for the journey. It was done for them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:josephot]]
+  * [[:yo:obe:other:simeon]]
+  * [[en:obe:other:command]]
+  * [[:yo:obe:other:servant]]
+  * [[en:obe:other:grain]] 
+
+===== Translation Notes: =====
+
+  * **an interpreter** - An "interpreter" is someone who translates what one person says into another language. Joseph placed an interpreter between himself and his brothers to make it seem like he did not speak their language.
+  * **spoke to them** - Joseph was still speaking a different language and using the interpreter to speak to his brothers. 
+  * **bound him before their eyes** - Here "eyes" refers to their sight. Alternate translation: "bound him in their sight" or "bound him as they watched." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **to give them provisions** - "to give them the supplies they needed"
+  * **It was done for them** - "The servants did for them everything that Joseph commanded"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:42|Genesis Chapter 42 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:42:21|<<]] | [[:yo:bible:notes:gen:42:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

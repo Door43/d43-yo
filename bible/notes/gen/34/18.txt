@@ -1,0 +1,58 @@
+====== Genesis 34:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 What they said pleased Hamor and his son Shechem.
+\v 19 Shechem was very much in love with Jacob's daughter, so he quickly agreed to do what they suggested.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 What they said pleased Hamor and his son Shechem.
+\v 19 Shechem wanted very much to take  Jacob's daughter as his wife; also, since he was the most respected person in his father's family, he quickly agreed to do what they suggested.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 Their words pleased Hamor and his son Shechem.
+\v 19 The young man did not delay to do what they said, because he delighted in Jacob’s daughter, and because he was the most honored person in all his father's household.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:word]]
+  * [[en:obe:other:hamor]]
+  * [[en:obe:other:shechem]]
+  * [[:yo:obe:other:jacob]]
+  * [[en:obe:other:honor]]
+  * [[:yo:obe:other:household]]
+
+===== Translation Notes: =====
+
+  * **Their words pleased Hamor and his son Shechem** - "Hamor and his son Shechem agreed with what Jacob's sons said" 
+  * **to do the thing** - "to become circumcised"
+  * **Jacob's daughter** - "Jacob's daughter Dinah"
+  * **and because he was the most honored person in all his father's household** - This can be translated as a new sentence. Also the full meaning can be made explicit: "And Shechem knew all the men in his father's household would agree with him because he was the most honored among them" (See: [[en:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:34|Genesis Chapter 34 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/34/14|<<]] | [[en/bible/notes/gen/34/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish household}}
+
+~~NOCACHE~~

@@ -1,0 +1,68 @@
+====== 1 Kings 03:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Solomon went to see the king of Egypt. Solomon \add made an agreement to\add* marry the king's daughter, and they both made an alliance\f + \ft Or: agreement \f* \add that their armies would not attack each other\add*. Then Solomon brought the king's daughter to live in \add the part of Jerusalem called\add* 'the City of David.' \add She lived there\add* until Solomon's workers had finished building his house and the temple of Yahweh and the wall around Jerusalem.
+\v 2 \add During that time\add* the temple of Yahweh had not yet been built, so the Israelite people were still offering sacrifices at many other places of worship.
+\v 3 Solomon loved Yahweh, and he obeyed all the instructions that his father David had given him. But he also offered sacrifices and burned incense at various altars.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Now Solomon made an agreement to marry the king's daughter. Then Solomon brought the king's daughter to live in the part of Jerusalem called the City of David. She lived there until Solomon's workers had finished building his house, the temple of Yahweh, and the wall around Jerusalem.
+\v 2 At that time the temple of Yahweh had not yet been built, so the Israelite people were still offering sacrifices at many other places of worship.
+\v 3 Solomon loved Yahweh, and he obeyed all the instructions that his father David had given him. But he also offered sacrifices and burned incense at various places.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 3
+\p
+\v 1 Solomon allied himself by marriage with Pharaoh king of Egypt. He took Pharaoh’s daughter and brought her into the city of David until he had finished building his own house, the house of Yahweh, and the wall around Jerusalem.
+\v 2 The people were sacrificing at the shrines, because no house had yet been built for the name of Yahweh.
+\v 3 Solomon loved Yahweh, walking in the statutes of David his father, except that he sacrificed and burned incense at the shrines.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:solomon|Solomon]]
+  * [[:yo:obe:other:pharaoh|Pharaoh]]
+  * [[:yo:obe:other:king|king]]
+  * [[:yo:obe:other:egypt|Egypt]]
+  * [[:yo:obe:other:cityofdavid|City of David]]
+  * [[:yo:obe:other:house|house]]
+  * [[:yo:obe:kt:yahweh|Yahweh]]
+  * [[:yo:obe:other:jerusalem|Jerusalem]]
+  * [[:yo:obe:other:sacrifice|sacrificing]]
+  * [[:yo:obe:other:shrine]]
+  * [[:yo:obe:kt:name|name]]
+  * [[:yo:obe:kt:love|loved]]
+  * [[:yo:obe:kt:walk|walking]]
+  * [[:yo:obe:other:statute|statutes]]
+  * [[:yo:obe:other:david|David]]
+  * [[:yo:obe:other:father|father]]
+  * [[:yo:obe:other:incense|incense]]
+
+===== Translation Notes: =====
+
+Solomon marries an Egyptian.
+
+  * **Solomon allied himself … with Pharaoh king of Egypt**  – AT: ”Solomon established a relationship with Pharaoh.”
+  * **the house of Yahweh  ** - "the temple"
+  * **the shrines** – “the places where people worship and make sacrifices to a god”
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1ki:03|1 Kings Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1ki:02:45|<<]] | [[:yo:bible:notes:1ki:03:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

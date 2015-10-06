@@ -1,0 +1,63 @@
+====== Hebrews 10:38-39 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 38 But those whom I have summoned, who \add act\add* righteously, must continually live trusting in me,
+\q because if they, in a cowardly manner, cease \add to trust in me\add*, I
+\q will not be pleased\f + \ft Or: will be angry \f* with them.
+\p
+\v 39 But we are not ones who in a cowardly manner cease \add to trust in God\add*, with the result that God will severely punish us. Instead, we are ones who trust in him, with the result that \add God\add* will save us \f + \ft synecdoche \f* eternally.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 38 But those who belong to me, who act righteously, will continue to live trusting in me.
+\q If they are cowards and stop trusting in me,
+\q I will not be pleased with them.
+\p
+\v 39 But we are not people who are cowards and cause God to destroy us. Instead, we are ones who trust in him, so that he will save us forever.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 38 My righteous one will live by faith.
+\q If he turns back, I will not be pleased with him."
+\p
+\v 39 But we are not some of those who turn back to destruction. Instead, we are some of those who have faith for keeping our soul.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:righteous]]
+  * [[:yo:obe:kt:faith]]
+  * [[:En:obe:kt:soul]] 
+
+===== Translation Notes: =====
+
+The words of the prophet are continued from [[:yo:bible:notes:heb:10:35|10:37]].
+
+  * **My righteous one** - "My faithful follower"
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:10|Hebrews Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/10/35|<<]] | [[en/bible/notes/heb/11/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

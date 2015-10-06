@@ -1,0 +1,63 @@
+====== Joshua 21:20-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 The other members the Kohath clan were allotted four cities and the surrounding pastureland in the area that had been allotted to the tribe of Ephraim.
+\pi
+\v 21 Those cities were Shechem (which was one of the cities to which people could run\f + \ft Or: escape \f* to be safe\f + \ft Or: protected \f*), Gezer,
+\v 22 Kibzaim, and Beth-Horon.
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 The other clans descended from Kohath received four cities in the area that the tribe of Ephraim possessed.
+\pi
+\v 21 Those cities were Shechem (which was one of the cities to which people could run if they killed someone unintentionally), Gezer,
+\v 22 Kibzaim, and Bethhoron—four cities with all their pasturelands.
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 As for the rest of the family of Kohath—those Levites who belong to the family of Kohath—they had cities given to them from the tribe of Ephraim by the casting of lots.
+\v 21 To them were given Shechem with its pasturelands in the hill country of Ephraim—a city of refuge for any who killed a person unintentionally, Gezer with its pasturelands,
+\v 22 Kibzaim with its pasturelands, and Bethhoron with its pasturelands—four cities in all.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:family]]
+  * [[en:obe:other:ephraim]]
+  * [[en:obe:other:shechem]]
+  * [[en:obe:kt:refuge]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Gezer, Kibzaim and Bethhoron**  - Names of cities. (See: [[en:ta:vol1:translate:translate_names]])
+    * **four cities in all**  - Refers to the list as a number. (See: [[en:ta:vol2:translate:translate_numbers]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:21|Joshua Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/21/17|<<]] | [[en/bible/notes/jos/21/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

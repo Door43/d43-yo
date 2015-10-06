@@ -1,0 +1,62 @@
+====== Joshua 10:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 After Joshua's army defeated their enemies, they all returned to their camp at Gilgal.
+
+\p
+\v 16 While the enemy soldiers were fleeing from Joshua's army, their five kings also fled and hid in a cave at Makkedah.
+\v 17 Then someone told Joshua, "We found those five kings, hiding in a cave at Makkedah!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Joshua and all Israel with him returned to their camp at Gilgal.
+\p
+\v 16 Now the five kings ran away and hid themselves in a cave at Makkedah.
+\v 17 Then someone told Joshua, "We found those five kings, hiding in a cave at Makkedah!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Joshua and all Israel with him returned to the camp at Gilgal.
+\p
+\v 16 Now the five kings had escaped and hidden themselves in the cave at Makkedah.
+\v 17 It was told to Joshua, "They have been found!—the five kings hidden in the cave at Makkedah!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:joshua]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:other:gilgal]]
+  * [[:yo:obe:other:king]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Makkedah** - called “a place of shepherds”.  A chief city of the Canaanites, near which five confederate kings were defeated, taken in the cave to which they had fled, and killed.  (See:[[en:obe:other:shepherd]], See:[[:yo:obe:other:canaan]], See:[[:yo:obe:other:king]]).
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:10|Joshua Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/10/13|<<]] | [[en/bible/notes/jos/10/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

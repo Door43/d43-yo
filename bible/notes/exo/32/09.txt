@@ -1,0 +1,55 @@
+====== Exodus 32:9-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Then Yahweh said to Moses\f + \ft Or: me \f*, "I have seen that these people are very stubborn.
+\v 10 I am very angry with them, and so I am going to get rid of them. Do not try to stop me! Then I will cause you and your descendants to become a great nation."
+\p
+\v 11 But Moses\f + \ft Or: I \f* pleaded with his\f + \ft Or: my \f* God, Yahweh, and said, "Yahweh, you should not be very angry with your people!\f + \ft Or: why are you so angry with your people( rhetorical question )? \f* These are the people whom you rescued from Egypt with very great power \f + \ft metonymy, doublet \f*!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 I know that these people are very stubborn.
+\v 10 I am very angry with them, so I am going to get rid of them. Do not try to stop me! Then I will cause you and your descendants to become a great nation."
+\p
+\v 11 But Moses pleaded with his God, Yahweh, and said, “Yahweh, you should not be angry with your people! These are the people whom you saved from Egypt with very great power!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 Then Yahweh said to Moses, "I have seen this people. Look, they are a stiff-necked people.
+\v 10 Now then, do not try to stop me. My anger will burn hot against them, so I will destroy them. Then I will make a great nation from you."
+\v 11 But Moses tried to calm down Yahweh his God. He said, "Yahweh, why does your anger burn against your people, whom you have brought out of the land of Egypt with great power and with a mighty hand?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh|Yahweh]]
+  * [[:yo:obe:other:stiffnecked|stiff-necked]]
+  * [[:yo:obe:other:angry|angry, anger]]
+  * [[:yo:obe:other:nation|nation]]
+  * [[:yo:obe:kt:favor|favor, favorable, favoritism]]
+  * [[:yo:obe:kt:power|power]]
+  * [[:yo:obe:other:mighty|mighty, might]]
+
+===== Translation Notes: =====
+
+  * **Now then**  - "Now" is used here to mark a break in the main storyline. Here God explains why He will take action.
+  * **burn hot**  - "be very angry"
+  * **from you**- "you" refers to Moses. (See: [[en:ta:vol1:translate:figs_you]])
+  * **great power...mighty hand**- These two phrases share similar meanings and are combined for emphasis. (See: [[:yo:ta:vol2:translate:figs_doublet]])
+  * **mighty hand** - "hand" refers to Yahweh (See: [[en:ta:vol2:translate:figs_synecdoche
+]])
+  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:32|Exodus Chapter 32 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:32:07|<<]] | [[:yo:bible:notes:exo:32:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

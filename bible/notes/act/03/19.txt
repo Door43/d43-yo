@@ -1,0 +1,52 @@
+====== Acts 03:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 So, turn away from your sinful behavior and ask God\add to help you\add* do what pleases \add him\add*, in order that he may completely forgive you for your sins.
+\v 20 \add If you do that\add*, there will be times \add when you will know that\add* the Lord \add God is\add* helping \add you\add*. And some day he will \add again\add* send back \add to earth\add* the Messiah, whom he appointed for you. That person is Jesus.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 So turn away from your sinful lives and ask God to help you do what pleases him, in order that he may completely forgive you for your sins, and in order that he may strengthen you.
+\v 20 If you do that, there will be times when you will know that the Lord God is helping you. And some day he will again send back to earth the Messiah, whom he has given to you. That person is Jesus.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 Repent, therefore, and turn, so that your sins may be blotted out, so that there may come periods of refreshing from the presence of the Lord;
+\v 20 and that he may send the Christ who has been appointed for you, Jesus.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:repent]]
+  * [[en:obe:kt:sin]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:appoint]]
+  * [[en:obe:kt:jesus]]
+ 
+===== Translation Notes: =====
+
+Peter continues his speech to the Jews that he began in [[:yo:bible:notes:act:03:11|3:13]].
+
+  * **turn again**  - "turn back to God"
+  * **so that there may come periods of refreshing from the presence of the Lord**  - "so that the Lord may strengthen you".
+  * **blotted out**  - "erased" or "crossed out"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:act:03:17|<<]] | [[:yo:bible:notes:act:03:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish repent sin  appoint}}
+
+~~NOCACHE~~

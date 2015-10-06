@@ -1,0 +1,71 @@
+====== Isaiah 59:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 What you plan to do to harm people \f + \ft metaphor \f* is as dangerous as the eggs of a cobra\f + \ft Or: poisonous snake \f*,
+\q2 because cobras will hatch from those eggs.
+\q2 You trap people like \f + \ft metaphor \f* spiders trap\f + \ft Or: catch \f* insects in their webs.
+\q1
+\v 6 We people cannot hide\f + \ft Or: cover \f* our skins with clothes made of spider webs \f + \ft metaphor \f*,
+\q2 and similarly you cannot hide the evil deeds that you have done.
+\q1 You are \add constantly\add* acting \f + \ft metonymy \f* violently.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 What you plan to do to harm people is like the eggs a poisonous snake lays, like a web that a spider catches its victims in.
+\q2 Cobras will hatch from those eggs,
+\q2 and insects will fall into the spider's web.
+\q1
+\v 6 We people cannot hide,
+\q2 and similarly you cannot hide the evil deeds that you have done.
+\q1 You are constantly acting violently.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 5 They hatch eggs of a poisonous snake and weave a spider’s web. 
+\q1 Whoever eats of their eggs dies, and if an egg is crushed, it hatches into a poisonous snake.
+\q1
+\v 6 Their webs cannot be used for garments, nor can they cover themselves with their works. 
+\q1 Their works are works of sin, and deeds of violence are in their hands.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:serpent]]
+  * [[:yo:obe:kt:works]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:other:hand]]
+
+===== Translation Notes: =====
+
+
+    * **They hatch eggs of a poisonous snake...weave a spider's web ** - The people of Judah were so wicked that they made plans to harm others. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **Their webs cannot be used for garments** - The people's evil ways can not be hidden from Yahweh.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:59|Isaiah Chapter 59 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/59/03|<<]] | [[en/bible/notes/isa/59/07|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

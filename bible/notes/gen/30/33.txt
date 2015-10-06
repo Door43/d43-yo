@@ -1,0 +1,49 @@
+====== Genesis 30:33-34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 In that way, in the future, you will be able to know whether I have been honest regarding what you have paid me. If any of my goats are neither speckled or spotted, or if any of my lambs are not dark-colored, you will know that I have stolen them from you."
+\p
+\v 34 Laban agreed and said, "Okay, we will do as you have said."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 In that way, in the future, you will be able to know whether I have been honest regarding what you have paid me. If any of my goats are neither speckled or spotted, or if any of my lambs are not dark-colored, you will know that I have stolen them from you."
+\p
+\v 34 Laban agreed and said, "Yes, we will do as you have said."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 My integrity will testify for me later on, when you come to check on my wages. Every one that is not speckled and spotted among the goats, and black among the sheep, if any are found with me, will be considered to be stolen."
+\v 34 Laban said, "Agreed. Let it be according to your word."
+</usfm>
+
+
+===== Important Terms: =====
+   * [[en:obe:kt:testimony]]
+   * [[en:obe:other:goat]]
+   * [[en:obe:other:sheep]]
+   * [[en:obe:kt:word]]
+
+===== Translation Notes: =====
+
+    * **My integrity will testify for me later on** - The word "integrity" means to be honest or fair. Alternate translation: "And later you will know if I have been honest with you or not."
+    * **Every one that is not speckled and spotted among the goats, and black among the sheep, if any are found with me, will be considered to be stolen.** - This can be translated with active verbs: "If you find any goats without spots or any sheep that are not black, you can consider them stolen." (See: [[en:ta:vol2:translate:figs_activepassive]])
+    * **Let it be according to your word** - "it will be as you say" or "we will do what you have said" [UDB]
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:30|Genesis Chapter 30 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:30:31|<<]] | [[:yo:bible:notes:gen:30:35|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

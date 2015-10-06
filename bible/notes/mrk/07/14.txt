@@ -1,0 +1,50 @@
+====== Mark 07:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then Jesus again summoned the crowd \add to come closer. Then\add* he said to them \add figuratively\add*, "All of you people listen to me! \add Try to\add* understand \f + \ft doublet \f* \add what I am about to tell you\add*.
+\v 15-16 Nothing that people eat causes \add God to\add* consider them to be unacceptable. On the contrary, it is that which comes from people's inner beings\f + \ft Or: hearts \f* that causes God to reject them."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then Jesus again called the crowd to come closer. Then he said to them, "All of you people listen to me! Try to understand what I am about to tell you.
+\v 15 Nothing that people eat causes God to consider them to be defiled. On the contrary, it is that which comes from people's inner beings that causes God to consider them to be defiled."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 He called the crowd again and said to them, "Listen to me, all of you, and understand.
+\v 15 There is nothing from outside of a person that can defile him when it enters into him. It is what comes out of the person that defiles him."
+\v 16 \f + Many ancient authorities insert v. 16. \fqa If any man has ears to hear, let him hear.\f*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:defile]]
+
+===== Translation Notes: =====
+
+  * **"Listen to me, all of you, and understand** - "Listen" and "understand" are very similar in meaning and are used here for emphasis by Jesus.  (See: [[:yo:ta:vol2:translate:figs_doublet]])
+  * **It is what comes out of the person** - "It is the person's inner being" or "It is what a person thinks, says, or does"
+  * **v16: Many ancient authorities insert this text: If any man has ears to hear, let him hear.** - This phrase has Jesus adding his doctrinal authority and an emphasis of urgency for every faithful follower to observe what he just taught.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:07|Mark Chapter 07 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:07:11|<<]] | [[:yo:bible:notes:mrk:07:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

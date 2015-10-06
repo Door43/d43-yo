@@ -1,0 +1,79 @@
+====== Hebrews 04:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 We who have believed\add in Christ\add* are able to enter the place of resting \add eternally. We know there is a place where we will rest eternally\add* because God said,
+\q Because I was angry with them, I solemnly declared, "They will not enter \add the land where\add* I would let them rest."
+\p \add God said that\add* even though he ceased his work\add of creating things\add* after he created the world.
+\v 4 What someone wrote somewhere \add in the Scriptures\add* about the seventh day\add after he had spent six days creating the world\add*, supports that,
+\q Then, on the seventh day, God rested from his work \add of creating everything\add*.
+\p
+\v 5 But note again what God said about the Israelites\add in the\add* passage that I quoted previously,
+\q They will not enter\add the land where\add* I would let them rest.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 We who have believed in Christ are able to enter the place of rest because God said,
+\q "Because I was angry with the people of Israel, I solemnly declared, 'They will not enter the land where I would let them rest.' "
+\p God said this even though his plans had been finished from the time he created the world.
+\v 4 What was written in the Scriptures about the seventh day after he had spent six days creating the world, shows that this is true:
+\q "Then, on the seventh day, God rested from his work of creating everything."
+\p
+\v 5 But note again what God said about the Israelites in the passage that I quoted previously:
+\q "They will not enter the land where I would let them rest."
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 For we, the ones who have believed—we are the ones who will enter that rest, just as it says:
+\q "As I swore in my wrath,
+\q They will not enter my rest."
+\p He said this, even though his created works had been finished from the beginning of the world.
+\v 4 For he has said somewhere concerning the seventh day, 
+\q "God rested on the seventh day from all his deeds."
+\v 5 Again he has said,
+\q "They will not enter my rest."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:believe]]
+  * [[:yo:obe:kt:wrath]] 
+  * [[:yo:obe:other:creation]]
+  * [[:yo:obe:kt:works]]
+
+===== Translation Notes: =====
+
+    * **his created works had been finished from the beginning of the world.** - AT: "his plan was fully made before he even created the world."
+    * **They will not enter my rest** - "They will not rest with me where I am"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:04|Hebrews Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/04/01|<<]] | [[en/bible/notes/heb/04/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

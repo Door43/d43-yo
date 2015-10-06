@@ -1,0 +1,51 @@
+====== Romans 15:12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 And Isaiah wrote \add in the Scriptures\add*, "There will be a descendant \f + \ft metaphor \f* of \add King\add* David who will begin to rule the non-Jews. They will confidently expect him \add to fulfill what he has promised\add*."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 And Isaiah wrote in the scriptures, "There will be a descendant  of King David who will rule over the non-Jews. They will confidently expect him to fulfill what he has promised."
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 Again, Isaiah says,
+\q "There will be the root of Jesse,
+\q and he who arises to rule over the Gentiles—
+\q in him will the Gentiles have confidence."
+\m
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:isaiah]]
+  * [[:yo:obe:other:jesse]]
+  * [[:yo:obe:other:gentile]]
+  * [[:yo:obe:kt:confidence]]
+
+===== Translation Notes: =====
+
+  * **root of Jesse** - Alternate translation: "descendant of Jesse." Jesse was the physical father of King David. (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:15|Romans Chapter 15 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:15:10|<<]] | [[:yo:bible:notes:rom:15:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

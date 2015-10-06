@@ -1,0 +1,45 @@
+====== Exodus 22:6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Suppose someone starts a fire in his own field, and the fire spreads through the grass and starts burning in someone else's field, and the fire burns grain that is growing or grain that is already \add cut and\add* stacked. Then the person who started the fire must pay completely for the damage.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 If someone starts a fire and it spreads through the grass and starts burning in someone else's field, and the fire burns grain that is growing or grain that is already cut and stacked, then the person who started the fire must pay for what has been lost.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 If a fire breaks out and spreads in thorns so that stacked grain, or standing grain, or a field is consumed, the one who started the fire must surely make restitution.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:grain]]
+  * [[:yo:obe:other:consume]]
+===== Translation Notes: =====
+
+  * **a fire breaks out**  - "a fire starts"
+  * **spreads in thorns**  - "moves along the ground through dry plants"
+  * **stacked grain** - grain that has been cut and tied in bundles. AT: "bundled grain" or "harvested grain"
+  * **standing grain** -  grain that has not been cut. This refers to grain that is still growing or is ready to be harvested.
+  * **is consumed**  - "is destroyed" or "is burned up"
+  * **must surely make restitution** - "must certainly pay for what was burned up" 
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:22|Exodus Chapter 22 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:22:05|<<]] | [[:yo:bible:notes:exo:22:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

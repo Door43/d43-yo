@@ -1,0 +1,66 @@
+====== Romans 16:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 I also send my greetings to Philologus, to \add his wife\add* Julia \f + \ft Or: \add his sister\add* Julia \f*, to Nereus and his sister, and to Olympas, and to all God's people who \add meet\add* with them.
+\v 16 Greet one another affectionately, but in a pure way, \add when you gather together\add*. The \add believers in\add* all the Christian congregations \f + \ft hyperbole \f* \add in this area send their\add* greetings to\f + \ft Or: say they are thinking fondly of \f* you.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 I also send my greetings to Philologus, to his wife Julia, to Nereus and his sister, and to Olympas, and to all God's people who meet with them.
+\v 16 Greet one another affectionately in a pure way, when you gather together. The believers in all the assemblies joined to Christ greet you.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them.
+\v 16 Greet one another with a holy kiss. All the churches of Christ greet you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:saint]]
+  * [[en:obe:kt:holy]]
+  * [[en:obe:other:kiss]]
+  * [[en:obe:kt:church]]
+  * [[en:obe:kt:Christ]]
+
+ 
+
+===== Translation Notes: =====
+
+Paul is greeting many of the believers in Rome by name. (See: [[en:ta:vol1:translate:translate_names|How to Translate Names]] and [[en:ta:vol1:translate:translate_unknown]])
+
+    * **Philologus...Nereus...Olympas**  - men's names
+    * **Julia**  - The name of a woman who may have been married to Philologus.
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:16|Romans Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rom/16/12|<<]] | [[en/bible/notes/rom/16/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

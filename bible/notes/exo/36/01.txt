@@ -1,0 +1,51 @@
+====== Exodus 36:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Bezalel and Oholiab, and all the other men to whom Yahweh has given ability and enabled them to understand how to do all the work to make the Sacred Tent, must make everything just as Yahweh has commanded."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Bezalel and Oholiab, and all the other men to whom Yahweh has given ability and enabled them to understand how to do all the work to make the sacred tent, must make everything just as Yahweh has commanded."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 36
+\p
+\v 1 So Bezalel and Oholiab will work, as well as every wise hearted person in whom Yahweh has put skill and understanding to know how to build the sanctuary, following the instructions that he has given you to do."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:works]]
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:other:heart]]
+  * [[en:obe:kt:yahweh]]
+  * [[:yo:obe:other:know]]
+  * [[:yo:obe:kt:sanctuary]]
+  * [[:yo:obe:other:command]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people.
+
+  * **Bezalel** - See how you translated this in [[en:bible:notes:exo:31:01|31:1-2]].
+  * **Oholiab** - See how you translated this in [[en:bible:notes:exo:31:06|31:6]].
+  * **every wise hearted person** - AT: "every wise person"
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:36|Exodus Chapter 36 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:35:34|<<]] | [[:yo:bible:notes:exo:36:02|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

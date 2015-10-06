@@ -1,0 +1,61 @@
+====== Deuteronomy 06:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Do not do sinful things to find out if you can do them without Yahweh our God punishing you, like your ancestors did at Massah.
+\v 17 Be sure that you always obey all the laws, the commandments, the rules, and the regulations that he has given to you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Do not do sinful things to find out whether Yahweh will punish you or not, like your ancestors did at Massah.
+\v 17 Be sure that you always obey all the laws, the s, the rules, and the regulations that he has given to you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 You will not test Yahweh your God as you tested him at Massah.
+\v 17 You will diligently keep the commandments of Yahweh your God, his solemn commands, and his statutes, that he has commanded you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:test]]
+  * [[en:obe:other:command]]
+  * [[:yo:obe:kt:testimony]]
+  * [[:yo:obe:other:statute]]
+  * [[:yo:obe:other:command]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:06|Deuteronomy Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/06/13|<<]] | [[en/bible/notes/deu/06/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

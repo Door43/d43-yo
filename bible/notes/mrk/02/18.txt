@@ -1,0 +1,49 @@
+====== Mark 02:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 The disciples of John \add the Baptizer\add* and some men who belonged to the Pharisee \add sect\add* used to abstain from food \add to show that they wanted to please God\add*. One day, some people came \add to Jesus\add* and asked him \add critically\add*, "The disciples of John and the Pharisees fast\f + \ft Or: abstain from food \f* \add from time to time\add*, but your disciples do not. \add We think they should abstain from food also. What do you say about that\add* \f + \ft rhetorical question \f*?"
+\v 19 \add Jesus wanted them to understand that it was not appropriate for his disciples to show sorrow by abstaining from food while he was still with them\add*. So he said to them, "When a man is marrying a woman, his friends will certainly not abstain from food while he is still with them, will they \f + \ft rhetorical question \f*? No. During the time that he is with them, they will not abstain from food \add because they are happy together\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Now at this time, the disciples of John the Baptizer and some men who belonged to the Pharisee sect were abstaining from food, as they often did. Some of these men came to Jesus and asked him, "The disciples of John and the Pharisees often abstain from food. Why do your disciples not abstain from food?"
+\v 19 Jesus said to them, "When a man is marrying a woman, his friends will certainly not abstain from food while he is still with them. The wedding is a time of feasting and celebrating with the groom. It is not a time for abstaining from food, especially while the groom is with them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 John's disciples and the Pharisees were fasting. They came and said to him, "Why do John's disciples and the disciples of the Pharisees fast, but your disciples do not fast?"
+\v 19 Jesus said to them, "Can the wedding attendants fast while the bridegroom is still with them? As long as they have the bridegroom with them they cannot fast.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:johnthebaptist]]
+  * [[en:obe:kt:disciple]]
+  * [[en:obe:other:pharisee]]
+  * [[en:obe:other:fast]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:bridegroom]]
+
+===== Translation Notes: =====
+
+  * **Can the wedding attendants fast while the bridegroom is still with them?** - Jesus is expressing sarcasm with this rhetorical question. "When a man is marrying a woman, his friends will certainly not abstain from food while he is still with them" (UDB) (See: [[en:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:02|Mark Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:02:17|<<]] | [[:yo:bible:notes:mrk:02:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish bridegroom}}
+
+~~NOCACHE~~

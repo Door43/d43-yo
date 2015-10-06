@@ -1,0 +1,67 @@
+====== Song of Solomon 02:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 \add There are other men who are like\add* \f + \ft metaphor \f* little jackals\f + \ft Or: foxes \f* that ruin vineyards;
+\q2 do not allow \add those men to attack me\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 [The woman speaking to her lover] There are other men who ruin women as wild dogs ruin vineyards;
+\q2 do not allow those men to attack me.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 [The woman speaking to her lover] Catch the jackals for us, the little jackals
+\q that spoil vineyards,
+\q for our vineyard is in blossom.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:sng:02|Song of Solomon Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/sng/02/14|<<]] | [[en/bible/notes/sng/02/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

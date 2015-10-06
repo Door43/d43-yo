@@ -1,0 +1,60 @@
+====== Leviticus 01:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 If you are offering a sheep or a goat, it must be a male without any defect.
+\v 11 You must slaughter it in front of Yahweh, on the north side of the altar \add and drain all the blood into a bowl\add*. Then Aaron's sons will sprinkle the blood against all sides of the altar.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 If you are offering a sheep or a goat, it must be a male without any defect.
+\v 11 You must slaughter it in front of Yahweh, on the north side of the altar and drain all the blood into a bowl. Then Aaron's sons will sprinkle the blood against all sides of the altar.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 If his offering for the burnt offering is from the flock, one of the sheep or one of the goats, he must offer a male without blemish.
+\v 11 He must kill it on the north side of the altar before Yahweh. Aaron’s sons, the priests, will sprinkle its blood around on the altar.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:flock]]
+  * [[:yo:obe:other:sheep]]
+  * [[:yo:obe:other:goat]]
+  * [[:yo:obe:kt:blood]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lev:01|Leviticus Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/01/07|<<]] | [[en/bible/notes/lev/01/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,43 @@
+====== Acts 20:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 We then went to the ship. Paul did not get on the ship \add with us in Troas\add*, because he preferred to go \add more quickly\add* overland to Assos \add town\add*. The rest of us got on the ship and sailed for Assos.
+\v 14 We\add \f + \ft exclusive \f*\add* met Paul in Assos. He got on \add the ship\add* with us, and we sailed to Mitylene \add town\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 We then went to the ship. But Paul did not get on the ship with us in Troas, because he wanted to go more quickly overland to the town of Assos. The rest of us got on the ship and sailed for Assos.
+\v 14 We met Paul in Assos. He got on the ship with us, and we sailed to the city of Miletus.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 We ourselves went ahead of Paul by ship and sailed away to Assos, where we planned to take Paul on board. This is what he himself desired to do, because he planned to go by land.
+\v 14 When he met us at Assos, we took him onto the ship and went to Mitylene.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:paul]]
+
+===== Translation Notes: =====
+
+  * **We ourselves went** - "Ourselves" adds emphasis and separates Luke and his traveling companions from Paul, who did not travel by boat. (See: [[en:ta:vol2:translate:figs_rpronouns]] and [[en:ta:vol2:translate:figs_exclusive]])
+  * **he himself desired** - "Paul desired" (See [[en:ta:vol2:translate:figs_rpronouns]])
+  * **sailed away to Assos** - Assos is a town located directly below present day Behram, Turkey on the coast of the Aegean sea. (See: [[en:ta:vol1:translate:translate_names]])
+  * **we took him** - The word "we" refers to Luke and those travelling with him but not Paul. (See: [[en:ta:vol2:translate:figs_exclusive]])
+  * **went to Mitylene** - Mitylene is a town located in present day Mitilini, Turkey on the coast of the Aegean sea. (See: [[en:ta:vol1:translate:translate_names]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:20|Acts Chapter 20 Comprehension Questions]]**
+**[[:yo:bible:notes:act:20:11|<<]] | [[:yo:bible:notes:act:20:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

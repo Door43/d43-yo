@@ -1,0 +1,53 @@
+====== Genesis 28:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 I will pray that God Almighty will bless you, and enable you to have many descendants, in order that they will become many people-groups.
+\v 4 I also will pray that he will bless you and your descendants by enabling you to possess\f + \ft Or: seize \f* the land in which you are now living as a foreigner, the land that God promised to give to Abraham and his descendants."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 I will pray that God Almighty bless you, and enable you to have many descendants, in order that they will become many people groups.
+\v 4 I also will pray that he bless you and your descendants by enabling you to possess the land in which you are now living as a foreigner, the land that God promised to give to Abraham and his descendants."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 May God Almighty bless you, make you fruitful and multiply you, so that you may become a multitude of peoples.
+\v 4 May he give you the blessing of Abraham, to you, and to your decendants after you, that you may inherit the land where you have been living, which God gave to Abraham."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:almighty]]
+  * [[:yo:obe:kt:fruit]]
+  * [[en:obe:other:peoplegroup]]
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:other:descendant]]
+  * [[:yo:obe:kt:inherit]]
+ 
+
+===== Translation Notes: =====
+Isaac continues speaking to Jacob
+  * **make you fruitful and multiply you** - These two phrases say basically the same thing for emphasis. Alternate translation: "give you many children and descendents. (See: [[en:ta:vol2:translate:figs_doublet]])
+  * **May he give you the blessing of Abraham**  - "May Yahweh give you the blessing he gave to Abraham" 
+  * **your descendants after you** -  “your offspring with you”
+  * **the land where you have been living**  - "the land where you have been staying"
+  * **which God gave to Abraham** - "Which God promised to Abraham"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:28|Genesis Chapter 28 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:28:01|<<]] | [[:yo:bible:notes:gen:28:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

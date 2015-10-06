@@ -1,0 +1,76 @@
+====== Isaiah 66:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 But you people who tremble when you hear what Yahweh says,
+\q2 listen to what he says now:
+\q1 "Some of your people hate you and expel you
+\q2 because you belong to me.
+\q1 They make fun of you, and they say,
+\q2 'Yahweh should show his glorious power!
+\q2 We want to see him \add do something to cause\add* you to be truly happy.'
+\q1 But \add some day\add* those people will be very disgraced."
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 But you people who tremble when you hear what Yahweh says,
+\q2 listen to what he says now:
+\q1 "Some of your people hate you and drive you away
+\q2 because you belong to me.
+\q1 They make fun of you, and they say,
+\q2 'Yahweh should show his glorious power!
+\q2 We want to see him do something to cause you to be truly happy.'
+\q1 But some day those people will be very disgraced."
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 5 Hear the word of Yahweh, you who tremble at his word:
+\q1 "Your brothers who hate and exclude you for my name’s sake have said, 
+\q1 "May Yahweh be glorified, then we will see your joy," 
+\q1 but they will be put to shame.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wordofgod]]
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:other:shame]]
+
+ 
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:66|Isaiah Chapter 66 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/66/04|<<]] | [[en/bible/notes/isa/66/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,52 @@
+====== Matthew 14:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 During that time Herod \add Antipas\add*, the ruler, heard reports about Jesus \add performing miracles\add*.
+\v 2 He said to his servants: "That must be John the Baptizer. He must have risen from the dead, and that is why he has power to perform miracles."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 During that time the ruler Herod Antipas heard reports about Jesus performing miracles.
+\v 2 He said to his servants, "That must be John the Baptizer. He must have risen from the dead, and that is why he has power to do these miracles."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 14
+\p
+\v 1 About that time, Herod the tetrarch heard the news about Jesus.
+\v 2 He said to his servants, "This is John the Baptist; he has risen from the dead. Therefore these powers are at work in
+him."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:herodantipas]]
+  * [[:yo:obe:other:tetrarch]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:johnthebaptist]]
+  * [[en:obe:kt:raise]]
+  * [[en:obe:kt:death]]
+  * [[:yo:obe:kt:power]]
+
+===== Translation Notes: =====
+
+The events in [[:yo:bible:notes:mat:14:03|14:3]]-[[:yo:bible:notes:mat:14:11|12]] happened before the events described here.
+
+  * **About that time** - "In those days" or "While Jesus was ministering in Galilee."
+  * **Herod the tetrarch** - Herod Antipas, ruler of one-fourth of Israel (See: [[en:ta:vol1:translate:translate_names]])
+  * **heard the news about Jesus** - "heard reports about Jesus" or "heard about the fame of Jesus"
+  * **He said** - "Herod said"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:14|Matthew Chapter 14 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:13:57|<<]] | [[:yo:bible:notes:mat:14:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish herodantipas tetrarch}}

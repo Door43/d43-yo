@@ -1,0 +1,47 @@
+====== Genesis 29:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 After the seven years were ended, Jacob said to Laban, "Let me marry Rachel now, because the time we agreed upon for me to work for you is ended, and I want to marry her. \f + \ft euphemism \f*"
+\v 22 So Laban gathered together all the people who lived in that area and made a feast.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 After the seven years were ended, Jacob said to Laban, "Let me marry Rachel now, because the time we agreed upon for me to work for you is ended, and I want to marry her."
+\v 22 So Laban gathered together all the people who lived in that area and made a feast.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 Then Jacob said to Laban, "Give me my wife, for my days have been completed—so that I may marry her."
+\v 22 So Laban gathered together all the men of the place and made a feast.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:laban]]
+  * [[:yo:obe:other:feast]]
+ 
+
+===== Translation Notes: =====
+
+  * **Give me my wife, for my days have been completed–so that I may marry her**  - Alternate translation: "Give me Rachel so that I may marry her, for I have worked seven years for you."
+  * **made a feast**  - "prepared a wedding feast"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:29|Genesis Chapter 29 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:29:19|<<]] | [[:yo:bible:notes:gen:29:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish  feast}}
+
+~~NOCACHE~~

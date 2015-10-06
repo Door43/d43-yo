@@ -1,0 +1,77 @@
+====== Ecclesiastes 12:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 You will be afraid to be in high places
+\q2 and afraid of dangers on the roads that you walk on.
+\q1 \add Your hair\add* will become \add white like\add* \f + \ft metaphor \f* the flowers of almond trees.
+\q2 \add When you try to walk\add*, you will drag yourself along like \f + \ft metaphor \f* grasshoppers,
+\q2 and you will no longer desire \add to have sex\f + \ft Or: anything \f*\add*.
+\q1 Then you will \add die and\add* go to your eternal home,
+\q2 and people who will mourn for you will be in the streets.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 You will be afraid to be in high places
+\q2 and afraid of dangers on the roads that you walk on.
+\q1 Your hair will become white like the flowers of almond trees.
+\q2 When you try to walk, you will drag yourself along like grasshoppers,
+\q2 and you will no longer desire a woman at all.
+\q1 Then you will die and go to your eternal home,
+\q2 and the people who will mourn for you will be in the streets.
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 5 That will be the time when men become afraid of heights  
+\q2 and of dangers along on the road, 
+\q1 and when almond tree blossoms, 
+\q2 and when the grasshoppers force themselves along,
+\q2 and when natural desires fail.
+\q1 Then man goes to his eternal home, 
+\q2 and the mourners go down the streets.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ecc:12|Ecclesiastes Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ecc/12/04|<<]] | [[en/bible/notes/ecc/12/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

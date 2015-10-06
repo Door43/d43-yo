@@ -1,0 +1,51 @@
+====== Acts 08:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 The believers who had left Jerusalem went to different places, where they continued preaching the message about Jesus.
+\v 5 \add One of those believers whose name was\add* Philip went down \add from Jerusalem\add* to a city in Samaria \add province\add*. There he was telling \add the people that Jesus is\add* \f + \ft metonymy \f* the Messiah.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 The believers who had left Jerusalem went to different places, where they continued preaching the message about Jesus.
+\v 5 One of those believers whose name was Philip went down from Jerusalem to a city in the district of Samaria. There he was telling the people that Jesus is the Christ.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 4 Yet the believers who had been scattered went about preaching the word.
+\v 5 Philip went down to the city of Samaria and proclaimed to them the Christ.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:believer]]
+  * [[en:obe:other:proclaim]]
+  * [[en:obe:kt:word]]
+  * [[en:obe:other:philip]]
+  * [[en:obe:other:samaria]]
+  * [[en:obe:kt:christ]]
+ 
+
+===== Translation Notes: =====
+
+  * **who had been scattered...**  - "who had been scattered by the great persecution". The cause for the scattering, the persecution, was specified previously. (See: [[en:ta:vol2:translate:writing_background]])
+  * **the city of Samaria**: It is unclear if the city of Samaria refers to "the city" (ULB) or "a city" (UDB). Suggest translating this as "the city".
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:08|Acts Chapter 08 Comprehension Questions]]**
+**[[:yo:bible:notes:act:08:01|<<]] | [[:yo:bible:notes:act:08:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish proclaim word  samaria}}
+
+~~NOCACHE~~

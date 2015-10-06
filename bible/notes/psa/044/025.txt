@@ -1,0 +1,70 @@
+====== Psalms 044:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 We are pushed down to the ground
+\q2 and we cannot get up.
+\q1
+\v 26 Arise, and come and help us!
+\q2 Rescue us because you faithfully love us.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 They have pushed us down to the ground;
+\q2 we cannot get up.
+\q1
+\v 26 Arise, come and help us!
+\q2 Rescue us because you love us as you promsied to do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 25 For our soul has bowed down to the dust;
+\q our body clings to the earth.
+\q
+\v 26 Rise up for our help
+\q and redeem us for the sake of your covenant faithfulness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:kt:bow]]
+  * [[:yo:obe:kt:body]]
+  * [[:yo:obe:kt:redeem]]
+  * [[:yo:obe:kt:faithful]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:044|Psalms Chapter 044 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/044/023|<<]] | [[en/bible/notes/psa/045/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

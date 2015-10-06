@@ -1,0 +1,80 @@
+====== Psalms 050:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 God, the all-powerful one, speaks;
+\q1 he summons all people,
+\q2 from the east to the west.
+\q1
+\v 2 His glory shines from Zion \add Hill in Jerusalem\add*,
+\q2 an extremely beautiful city.
+\q
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 God, the all-powerful one, speaks;
+\q1 he summons all people,
+\q2 from the east to the west.
+\q1
+\v 2 His glory shines from Mount Zion in Jerusalem,
+\q2 an extremely beautiful city.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 50
+\d A Psalm of Asaph.
+\q
+\v 1 The Mighty One, God, Yahweh, has spoken,
+\q and called the earth from the rising of the sun to its setting.
+\q
+\v 2 Out of Zion, the perfection of beauty,
+\q God has shone.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:psalm]]
+  * [[:yo:obe:other:mighty]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:kt:perfect]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:050|Psalms Chapter 050 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/049/018|<<]] | [[en/bible/notes/psa/050/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

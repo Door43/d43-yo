@@ -1,0 +1,48 @@
+====== John 13:34-35 ======
+
+===== TFT: =====
+
+<usfm>
+\v 34 Now I am giving you a new commandment: You must love each other. You must love each other in the way that I have loved you.
+\v 35 If you keep loving each other, everyone \add who is aware of that\add* \f + \ft hyperbole \f* will know that you are my disciples."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 34 I will give you this new command: You must love one another, just as I have loved you.
+\v 35 If you love one another, all people will know that you are my disciples."
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 34 I am giving you a new commandment, that you should love one another; as I have loved you, so also you should love one another.
+\v 35 By this all people will know that you are my disciples, if you have love one for another."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:command]]
+  * [[:yo:obe:kt:love]]
+  * [[:yo:obe:kt:disciple]]
+
+===== Translation Notes: =====
+
+  * **all people** - The term "all people" refers to those people who see the disciples' love for each other. (See: [[:yo:ta:vol2:translate:figs_hyperbole]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:13|John Chapter 13 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:13:31|<<]] | [[:yo:bible:notes:jhn:13:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== 1 Corinthians 01:17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Christ sent me not \add primarily\add* to baptize people but to preach the good message about him. When I do that, he does not want me to use words that human philosophers \add consider\add* wise \f + \ft irony \f*. I do not want the message about \add what\add* he \add accomplished when he was nailed to\add* the cross \f + \ft metonymy \f* to lose its power.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 The most important reason Christ sent me was not to baptize people but to tell everyone the good news about him. I proclaimed the good news not so it was established by human wisdom and with the use of clever words, but so that the message is built on the foundation of the work of Christ when he died on the cross.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 For Christ did not send me to baptize but to preach the gospel, and not with words of human wisdom, so that the cross of Christ should not be emptied of its power.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:send]]
+  * [[:yo:obe:kt:baptize]]
+  * [[:yo:obe:other:preach]]
+  * [[:yo:obe:kt:goodnews]]
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:kt:cross]]
+  * [[:yo:obe:kt:power]]
+ 
+ 
+===== Translation Notes: =====
+
+  * **Christ did not send me to baptize** - This means that baptism was not the primary goal of Paul's ministry.
+  * **words of human wisdom** - "words of merely human wisdom" 
+  * **the cross of Christ should not be emptied of its power** -  AT: "human wisdom should not empty the cross of christ of it's power." (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1co:01|1 Corinthians Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1co/01/14|<<]] | [[en/bible/notes/1co/01/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr1co}}
+
+~~NOCACHE~~

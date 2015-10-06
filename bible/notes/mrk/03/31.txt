@@ -1,0 +1,43 @@
+====== Mark 03:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 Jesus' mother and \add younger\add* siblings arrived. While they stood outside, they sent \add someone inside\add* in order to call him \add outside\add*.
+\v 32 A crowd was sitting around Jesus. One of them said to him, "Listen\f + \ft Or: Hey \f*, your mother and your \add younger\add* brothers and sisters are outside, and they are wanting to see\f + \ft Or: to talk with \f* you!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Jesus' mother and younger siblings arrived. While they stood outside, they sent someone inside in order to call him outside.
+\v 32 A crowd was sitting around Jesus. One of them said to him, "Your mother and younger siblings are outside. They want to see you."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 31 His mother and his brothers came and they stood outside. They sent to him and they called for him.
+\v 32 A crowd sat around him, and they spoke to him, "Your mother and your brothers are outside, and they want to know where you are."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:brother]]
+===== Translation Notes: =====
+
+  * **They sent to him and they called for him.** - "Jesus' mother and younger brothers sent someone inside to tell him that they were outside and to have him come out to them."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:03|Mark Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:03:28|<<]] | [[:yo:bible:notes:mrk:03:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

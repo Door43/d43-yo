@@ -1,0 +1,41 @@
+====== Exodus 21:35-36 ======
+
+===== TFT: =====
+
+<usfm>
+\v 35 If someone's bull hurts another person's bull with the result that it dies, the owners of both bulls must sell the bull that is living, and they must divide \add between them\add* the money \add that they receive\add* for it. They must also divide \add between them the meat of\add* the animal that died.
+\v 36 However, if people know that the bull often attacked other animals previously, and its owner did not keep it inside a fence, then the owner of that bull must give the owner of the bull that died one of his own bulls, but he can take away the animal that died \add and do whatever he wants to with it\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 35 If someone's bull hurts another person's bull so that it dies, the owners of both bulls must sell the bull that is living, and they must divide between them the money that they get for it. They must also divide between them the meat of the animal that died.
+\v 36 However, if people know that the bull often attacked other animals before, and its owner did not keep it inside a fence, then the owner of that bull must give the owner of the bull that died one of his own bulls, but he can take away the animal that died and do whatever he wants to with it."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 35 If one man’s ox hurts another man's ox so that it dies, then they must sell the live ox and divide its price, and they must also divide the dead ox.
+\v 36 But if it was known that the ox had a habit of goring in time past, and its owner has not kept it in, he must surely pay ox for ox, and the dead animal will become his own."
+</usfm>
+
+===== Important Terms: =====
+
+There are no new important terms for these verses.
+===== Translation Notes: =====
+
+  * **divide its price** - "divide the money" or "divide the money they receive"
+  * **if it was known**  - AT: "if people knew" or "if the owner knew" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **a habit of goring in time past** - AT: "had gored other nameless before"
+  * **he must surely pay ox for ox** - "the owner of the ox that killed must surely give a living ox to the owner of the ox that died"
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:21|Exodus Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:21:33|<<]] | [[:yo:bible:notes:exo:22:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

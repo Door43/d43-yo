@@ -1,0 +1,58 @@
+====== Romans 01:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 \add People\add* cannot see what God is like. But ever since he created the world, by means of what he created he has clearly revealed what he is like. He has made clear to everyone that he has always been able to do very powerful deeds. \add Therefore, we should recognize that\add* he is God, \add completely different from all that he created\add*. So no one has a basis for saying\add , "We never knew about God\add*."
+\v 21 Although \add the non-Jews\add* knew what God \add is like\add*, they did not honor him as God, nor did they thank \add him for what he had done\add*. But instead, they began to think foolish \add things about him\add*, and they became unable to understand \f + \ft metaphor \f* \add what he wanted them to know\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 People cannot actually see with their eyes what God is like. But ever since he created the world, the things in it make us understand things about him—for example, he has always been able to do powerful things. Another example is that everyone knows that he is completely different from all that he has created. So no one is able to say truthfully, "We never knew about God."
+\v 21 Although non-Jews knew what God is like, they did not honor him as God, nor did they thank him for what he had done. But instead, they began to think foolish things about him, and they were no longer able to understand what he wanted them to know about himself.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 For the unseen things about him have been clearly visible since the creation of the world, being understood by the created things—that is, his everlasting power and divine nature, so that they are without excuse.
+\v 21 Because, although knowing about God, they did not glorify him as God, nor give thanks, but became foolish in their thoughts, and their senseless heart was darkened.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:creation]]
+  * [[:yo:obe:kt:world]]
+  * [[:yo:obe:kt:eternity]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:kt:divine]]
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:kt:foolish]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:darkness]]
+
+===== Translation Notes: =====
+
+  * **For**  - Paul explains how God revealed himself to humankind.
+  * **the unseen things about him have been clearly visible**  - The "unseen things" refer to what cannot be seen with the eye. They are "clearly visible" because people understand that they are there even though they cannot see them with their eyes. [[en:ta:vol1:translate:figs_metaphor|Metaphor]], [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **world **  - This refers to the heavens and the earth, as well as everything in them.
+  * **divine nature**  - Alternate translations: "all the qualities and characteristics of God" or "the things about God that make him God"
+  * **being understood by the created things**  - Alternative translation: "people can understand about God by looking at the things he has made." (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **they are without excuse**  - Alternative translation: "they can never say that they did not know"
+  * **they **  - the "mankind" of [[:yo:bible:notes:rom:01:18|1:18]]
+  * **became foolish in their thoughts**  - "began to think foolish things" (UDB)
+  * **their senseless heart was darkened**  - This expression uses the idea of the heart becoming dark to mean that the lacked understanding. Translation alternative: "their heart no longer could understand" (UDB). (See: [[en:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:01|Romans Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:01:18|<<]] | [[:yo:bible:notes:rom:01:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

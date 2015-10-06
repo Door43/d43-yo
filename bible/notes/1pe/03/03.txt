@@ -1,0 +1,50 @@
+====== 1 Peter 03:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Do not be  \add trying to make\add* yourselves beautiful by decorating the outside  \add of your bodies\add*, such as by the way you comb your hair\f + \ft Or: by your hair  \add style\add* \f* or by wearing gold jewelry and fine clothes.
+\v 4 Instead, make your inner beings\f + \ft Or: hearts \f* \add beautiful\add* with qualities\f + \ft Or: attitudes \f* that will not fade away. Specifically, have a humble and quiet, Or: calm attitude, which is something that God considers to be very valuable.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Do not try to do this by decorating the outside of your bodies, such as having fancy hair arrangements or wearing gold jewelry and fine clothes.
+\v 4 Instead, make your inner beings beautiful in a way that will not fade. I mean, have a humble and quiet attitude, which is something that God considers to be very valuable.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 Let it not be done with outward ornaments—braided hair, jewels of gold, or fashionable clothing.
+\v 4 But instead the inner person of the heart in incorruption of the gentle and quiet spirit, which is precious in the sight of God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:gold]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:kt:god]]
+
+ 
+
+===== Translation Notes: =====
+
+Peter has just instructed the wives to submit to their own husbands.
+
+  * **Let it not be done** - The word "it" refers to the wives' honoring their husbands.
+  * **instead the inner person** - "instead let it be done with the inner person" (See: [[:yo:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:03|1 Peter Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1pe:03:01|<<]] | [[:yo:bible:notes:1pe:03:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

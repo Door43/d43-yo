@@ -1,0 +1,52 @@
+====== Romans 15:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 \add David\add* also wrote, "Rejoice, you non-Jews, with us who are God's people."
+\v 11 \add And Moses wrote in\add* the \add Scriptures\add*, "Praise the Lord, all \add you\add* non-Jews, and may everyone praise him \f + \ft doublet \f*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Moses also wrote, "You non-Jews, rejoice with us who are God's people."
+\v 11 And David wrote in the scriptures, "Praise the Lord, all you non-Jews; may everyone praise him."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Again it says,
+\q "Rejoice, you Gentiles, with his people."
+\p
+\v 11 And again,
+\q "Praise the Lord, all you Gentiles;
+\q let all the peoples praise him."
+\m
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:gentile]]
+  * [[:yo:obe:other:praise]]
+  * [[:yo:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+  * **Again he says**  - "Again Moses says"
+  * **with his people**  - "with the people of God"
+  * **praise him**  - "praise the Lord"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:15|Romans Chapter 15 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:15:08|<<]] | [[:yo:bible:notes:rom:15:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

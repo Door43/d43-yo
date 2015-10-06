@@ -1,0 +1,51 @@
+====== Acts 26:24-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 Before Paul could say anything \add further\add* to defend himself, Festus shouted: "Paul, you are crazy! You have studied too much, and it has made you insane!"
+\v 25 But Paul answered, "Your Excellency, Festus, I am not raving \add insanely\add*! On the contrary, what I am saying is true and sensible!
+\v 26 King Agrippa knows the things \add that I have been talking about\add*, and I can speak confidently to him \add about them\add*. I am sure that he knows \f + \ft litotes \f* these things, because people everywhere \f + \ft idiom \f* have heard \f + \ft litotes \f* about what happened \add to Jesus\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 Before Paul could say anything further, Festus shouted out in a loud voice: "Paul, you are crazy! You have studied too much, and it has made you insane!"
+\v 25 But Paul answered, "Your Excellency Festus, I am not insane! On the contrary, what I am saying is true and quite  sane!
+\v 26 For King Agrippa knows the things that I have been talking about, and I can speak freely to him about them. I am sure that none of these things could have escaped his notice, because none of these things happened in secret."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 24 As Paul completed his defense, Festus said with a loud voice, "Paul, you are insane; your great learning makes you insane."
+\v 25 But Paul said, "I am not insane, most excellent Festus; but with courage I speak words of truth and soberness.
+\v 26 For the king knows about these things; and so, I speak freely to him, for I am persuaded that none of this is hidden from him; for this has not been done in a corner.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:paul]]
+  * [[:yo:obe:kt:true]]
+  * [[:yo:obe:other:king]] 
+
+===== Translation Notes: =====
+
+  * ** you are insane** - "you are speaking nonsense" or "you are crazy"
+  * **sobernesss** - "seriousness" or "about a serious matter"
+  * ** I speak freely to him** - "I speak freely to King Agrippa"
+  * **has not been done in a corner** - It has been made known. Alternate Translation: "has not been done in secret".
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:26|Acts Chapter 26 Comprehension Questions]]**
+**[[:yo:bible:notes:act:26:22|<<]] | [[:yo:bible:notes:act:26:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish true}}
+
+~~NOCACHE~~

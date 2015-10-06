@@ -1,0 +1,62 @@
+====== Deuteronomy 21:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 "Suppose someone has been murdered in a field in the land that Yahweh our God is giving to you, and you do not know who killed that person.
+\v 2 \add If that happens\add*, your elders and judges must go out to where that person's corpse was found and measure the distance from there to each of the nearby towns.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 "Suppose someone has been murdered in a field in the land that Yahweh our God is giving to you, and you do not know who killed that person.
+\v 2 If that happens, your elders and judges must go out to where that person's corpse was found and measure the distance from there to each of the nearby towns.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 21
+\p
+\v 1 If someone is found killed in the land that Yahweh your God is giving you to possess, lying in the field, and it is not known who has attacked him;
+\v 2 then your elders and your judges must go out, and they must measure to the cities that are around him who has been killed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:possess]]
+  * [[:yo:obe:other:elder]]
+  * [[:yo:obe:kt:judge]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:21|Deuteronomy Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/20/19|<<]] | [[en/bible/notes/deu/21/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

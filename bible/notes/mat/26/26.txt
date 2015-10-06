@@ -1,0 +1,42 @@
+====== Matthew 26:26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 26 While we were eating, Jesus took \add a small loaf of\add* bread and thanked God for it. He broke it \add into pieces\add* and gave it to \add us\add* disciples, and said, "Take this \add bread and\add* eat \add it\add*. \add It represents\add* my body."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 26 While they were eating, Jesus took a small loaf of bread and thanked God for it. He broke it into pieces, gave it to the disciples, and said, "Take this bread and eat it. It is my body."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 As they were eating, Jesus took bread, blessed it, and broke it. He gave it to the disciples and said, "Take, eat. This is my body."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:bread]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:kt:disciple]]
+
+===== Translation Notes: =====
+
+Jesus continues to teach his disciples as he eats the Passover meal with them.
+
+  * **blessed it** - "gave thanks for it" or "thanked God for it" (UDB).
+  * **This is my body **- Possible meanings are 1) “This bread is my body” and 2) “This bread represents my body.” (See: Metaphor)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:26|Matthew Chapter 26 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:26:23|<<]] | [[:yo:bible:notes:mat:26:27|>>]]**
+
+~~DISCUSSION~~{{tag>check bless }}
+
+~~NOCACHE~~

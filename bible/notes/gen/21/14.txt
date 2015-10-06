@@ -1,0 +1,56 @@
+====== Genesis 21:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 So Abraham got up early the next morning. He got some food ready, put water in a container, and gave it to Hagar. He put the bag on her shoulder and sent them away.
+\p They wandered in the desert near Beersheba.
+\v 15 After they had drunk all the water in the container, she put the boy under one of the bushes there.
+\v 16 Then she went and sat nearby, about as far as someone can shoot an arrow\f + \ft Or: 100 meters away \f*, because she thought, "I cannot endure seeing my son die!" As she sat there, she began to cry loudly \f + \ft metonymy \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 So Abraham got up early the next morning. He got some food ready, put water in a bag, and gave it to Hagar. He put the bag on her shoulder, handed her Ishmael, and sent them away into the wilderness of Beersheba.
+\p
+\v 15 After Hagar and her son had drunk all the water in the bag, she put the boy under one of the bushes there.
+\v 16 Then she went and sat nearby, about as far as someone can shoot an arrow. She thought, “I cannot endure seeing my son die!” As she sat there, she began to cry loudly.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 Abraham rose up early in the morning, took bread and a skin of water, and gave it to Hagar, putting it on her shoulder. He gave her the boy and sent her away. She departed and wandered in the wilderness of Beersheba.
+\v 15 When the water in the waterskin was gone,  she abandoned the child under one of the bushes.
+\v 16 Then she went, and sat down a short distance from him, about  the distance of a bowshot away, for she said, "Let me not look upon the death of the child." As she sat there across from him, she lifted up her voice and wept.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:abraham]]
+  * [[en:obe:other:hagar]]
+  * [[en:obe:other:desert]]
+  * [[en:obe:other:beersheba]]
+ 
+
+===== Translation Notes: =====
+
+  * **bread**  - This may have referred to food in general (as in the UDB) or specifically to bread.
+  *  **a skin of water** - "a bag of water." The water container was made out of animal skin.
+  * **when the water in the waterskin was gone** - This can be translated as "when the water bag was empty"
+  * **about the distance of a bowshot away** - This refers to the distance that a person could shoot an arrow with a bow. This is about 100 meters.
+  * **Let me not look upon the death of the child**  - "I do not want to watch the boy die"
+  * **she lifted up her voice and wept**  - "she cried out loudly and wept" or "she wept loudly"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:21|Genesis Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:21:12|<<]] | [[:yo:bible:notes:gen:21:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish  beersheba }}
+
+~~NOCACHE~~

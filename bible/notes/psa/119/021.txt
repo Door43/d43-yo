@@ -1,0 +1,74 @@
+====== Psalms 119:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 You rebuke those who are proud;
+\q2 you curse those who disobey your commands\f + \ft Or: what you have commanded \f*.
+\q1
+\v 22 Do not allow them to continue to insult and scorn me;
+\q2 \add I request this\add* because I have obeyed your requirements\f + \ft Or: what you have instructed us to do \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 You rebuke those who are proud;
+\q2 you curse those who disobey your commands.
+\q1
+\v 22 Do not allow them to continue to insult and scorn me;
+\q2 I request this because I have obeyed your requirements.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 You rebuke the proud, who are cursed,
+\q who wander from your commandments.
+\q
+\v 22 Spare me disgrace and humiliation,
+\q for I have obeyed your covenant decrees.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rebuke]]
+  * [[:yo:obe:other:proud]]
+  * [[:yo:obe:kt:curse]]
+  * [[:yo:obe:other:obey]]
+  * [[:yo:obe:kt:covenant]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/119/019|<<]] | [[en/bible/notes/psa/119/023|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

@@ -1,0 +1,76 @@
+====== Psalms 119:129-130 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 129 Your requirements are\f + \ft Or: All the things that you have instructed us to do are \f* wonderful,
+\q2 so I obey them with all my inner being.
+\q1
+\v 130 When someone explains your words\f + \ft Or: what you have said \f*,
+\q2 \add it is as though\add* they are lighting a light;
+\q2 what they say causes even people who have not learned your laws to be wise.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 129 Your requirements are wonderful,
+\q2 so I obey them with all my inner being.
+\q1
+\v 130 When someone explains your words,
+\q2 it is as though they are lighting a light;
+\q2 what they say causes even people who have not learned your laws to be wise.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\d PE.
+\q
+\v 129 Your covenant decrees are wonderful;
+\q therefore I observe them.
+\q
+\v 130 The unfolding of your words gives light;
+\q it gives understanding to the untrained.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:other:decree]]
+  * [[:yo:obe:kt:wordofgod]]
+  * [[:yo:obe:kt:light]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/119/127|<<]] | [[en/bible/notes/psa/119/131|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

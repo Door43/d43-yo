@@ -1,0 +1,62 @@
+====== Joshua 14:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 The other men who went with us \add gave a report that\add* caused the people to be afraid [IDI]. But I fully\f + \ft Or: completely \f* believed that Yahweh \add would enable us to take the land from the people who lived there\add*.
+\v 9 So on that day, Moses solemnly promised me, '\add Some of\add* the land on which you walked will become yours. It will belong to your descendants forever. I am giving it to you because you fully trusted in Yahweh, my God.'
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 The other men who went with us gave a report that caused the people to be afraid. But I fully followed Yahweh and obeyed everything he commanded us to do.
+\v 9 Moses promised me, 'It is a firm promise that the land on which you walked will become yours as your permanent possession, to belong to you and your descendants forever. I am giving it to you because you obeyed Yahweh, my God, in everything you did.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 But my brothers who went up with me made the heart of the people melt with fear. But I completely followed Yahweh my God.
+\v 9 Moses swore on that day, saying, 'Surely the land on which your foot has walked will be an inheritance for you and for your children forever, because you have completely followed Yahweh my God.'
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:brother]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:other:moses]]
+  * [[en:obe:kt:walk]]
+  * [[en:obe:kt:inherit]]
+  * [[en:obe:kt:children]]
+  * [[en:obe:kt:forever]]
+  * [[en:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+    * **heart of the people melt with fear** - Refers to the people of Israel and their reaction to the bad report of the spies in Numbers 13:31-33. (See: [[en:ta:vol2:translate:figs_synecdoche]])
+    * **completely followed** - past tense of "follow" which means to go or come after someone or something.
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:14|Joshua Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/14/06|<<]] | [[en/bible/notes/jos/14/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

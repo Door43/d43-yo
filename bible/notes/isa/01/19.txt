@@ -1,0 +1,64 @@
+====== Isaiah 01:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 If you are willing to obey me,
+\q2 \add I will enable you\add* to have plenty to eat.
+\q1
+\v 20 But, if you turn away from me and rebel against me,
+\q2 you will be killed by your enemies' swords.
+\q1 \add That will surely happen, because\add* I, Yahweh, have said it."
+
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 If you are willing to obey me,
+\q2 you will eat good food from the land.
+\q1
+\v 20 But if you turn away from me and rebel against me,
+\q2 your enemies will slaughter you."
+\q1 That will happen because Yahweh said it.
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 19 If you are willing and obedient, you will eat the good of the land.
+\q1
+\v 20 but if you refuse and rebel, the sword will devour you," 
+\q1 for the mouth of Yahweh has spoken it.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:obey]]
+  * [[:yo:obe:kt:good]]
+  * [[:yo:obe:other:rebel]]
+  * [[:yo:obe:other:sword]]
+
+===== Translation Notes: =====
+
+God continues to speak to the people of Judah.
+
+  * **if you are willing and obedient** - Here, “willing” and “obedient” are  used together to express one idea. Alternate translation: “if you willingly obey.” (See: [[en:ta:vol2:translate:figs_hendiadys]])
+  * **you will eat the good of the land** - "the land will produce good food for you to eat"
+  * **but if you refuse and rebel** - "but if you refuse to listen and instead disobey me"
+  * **the sword will devour you** - The word “sword” refers to Judah's enemies. Also, the word “devour” compares Judah's enemies coming to kill them to a wild animal that attacks and eats other animals. Alternate translation: “Your enemies will kill you.” (See: [[en:ta:vol2:translate:figs_metonymy]] and [[en:ta:vol1:translate:figs_metaphor]])
+  * **the mouth of Yahweh has spoken it** - The word “mouth” emphasizes that Yahweh has spoken and what he says will certainly happen. Alternate translation: “Yahweh has spoken” or "Yahweh has said that this will happen." (See: [[en:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:01|Isaiah Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:01:18|<<]] | [[:yo:bible:notes:isa:01:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,84 @@
+====== Psalms 011:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 I trust that Yahweh will protect \f + \ft metonymy \f* me.
+\q2 So do not \f + \ft rhetorical question \f* say to me, "You need to escape\f + \ft Or: flee \f* to the mountains like birds do,
+\q1
+\v 2 because wicked people have hidden in the darkness,
+\q1 they have pulled back their bowstrings and aimed their arrows
+\q2 to shoot them at godly\f + \ft Or: righteous \f* [IDI] people.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 I trust that Yahweh will protect me.
+\q2 So I do not fly off to the mountains like birds do,
+\q1
+\v 2 It is true that wicked people have hidden in the darkness,
+\q1 that they have pulled back their bowstrings and aimed their arrows
+\q2 to shoot them at people who honor Yahweh.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\c 11
+\d For the Chief Musician. A Psalm of David.
+\q
+\v 1 I take refuge in Yahweh; 
+\q how will you say to my soul,
+\q "Flee like a bird to the mountain"?
+\q
+\v 2 For see! The wicked prepare their bows.
+\q They make ready their arrows on the strings,
+\q to shoot in the darkness at the upright in heart.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:psalm]]
+  * [[:yo:obe:other:david]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:other:bowweapon]]
+  * [[:yo:obe:kt:darkness]]
+  * [[:yo:obe:other:heart]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:011|Psalms Chapter 011 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/010/017|<<]] | [[en/bible/notes/psa/011/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,64 @@
+====== Genesis 18:16-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 When the three men got up to leave, they looked down into the valley toward Sodom \add city\add*. Abraham was walking with them to say "Farewell" to them.
+\v 17 Yahweh said to himself, "It is not right for me to prevent Abraham from knowing what I plan to do \f + \ft rhetorical question \f*.
+\v 18 Abraham's descendants \f + \ft metonymy \f* will become a great and powerful nation. And people of \f + \ft metonymy \f* all nations will be blessed because of what I do for him.
+\v 19 I have chosen him in order that he will direct his children and their families so that they will obey me and do what is right and fair, so that I can do for Abraham what I promised."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 When the three men got up to leave, they looked down into the valley toward the city of Sodom. Abraham was walking with them to say "Farewell" to them.
+\v 17 Yahweh said to himself, "It is not right for me to prevent Abraham from knowing what I plan to do.
+\v 18 Abraham's descendants will become a great and powerful people group.  And people of all people groups will be blessed because of what I do for him.
+\v 19 I have chosen him in order that he will direct his children and their families so that they will obey me and do what is right and fair, so that I will do for Abraham what I have promised to do for him."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 Then the men arose to leave and looked down toward Sodom. Abraham went with them to see them on their way.
+\v 17 But Yahweh said, "Should I hide from Abraham what I am about to do,
+\v 18 since Abraham will indeed become a great and mighty nation, and all the nations of the earth will be blessed in him?
+\v 19 For I have chosen him so that he may instruct his children and his household after him to keep the way of Yahweh, to do righteousness and justice, so that Yahweh may bring upon Abraham what he has said to him."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:sodom]]
+  * [[en:obe:other:abraham]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:nation]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:other:household]]
+  * [[en:obe:kt:righteous]]
+  * [[en:obe:kt:justice]]
+  * [[en:obe:kt:promise]]
+===== Translation Notes: =====
+
+  * **to see them on their way**  - "to send them on their way" or "to say 'Farewell' to them" (UDB).
+  * **Shall I hide from Abraham what I am about to do** - God used this rhetorical question to say that he was going to talk to Abraham about something very important. "I will not hide from Abraham what I am about to do" or "I will tell Abraham what I am about to do." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **since Abraham will indeed become** - This tells why God planned to tell Abraham what he was going to do. It can be translated as a separate sentence after the rhetorical question.
+  * **all the nations of the earth will be blessed in him** - This can be translated with an active clause: "I will bless all the nations of the earth through Abraham." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **will be blessed in him** - This can be translated as "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." For translating "in him" see how you translated "through you" in [[en:bible:notes:gen:12:01|12:3]].
+  * **that he may instruct**  - "that he will direct" or "so that he will command"
+  * **to keep the way of Yahweh** - "to obey what Yahweh requires." God was speaking about himself. It can also be translated as "to keep my way."
+  * **to do righteousness and justice** - This tells how they were do keep the way of Yahweh. It can be translated as "by doing righteousness and justice."
+  * **so that Yahweh may bring upon Abraham what he has said to him** - This refers to the covenant promise to bless Abraham and make him a great nation. If you need to state this more clearly, you could translate it as "so that Yahweh may bless Abraham just as he said he would."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:18|Genesis Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:18:13|<<]] | [[:yo:bible:notes:gen:18:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

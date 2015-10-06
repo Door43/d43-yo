@@ -1,0 +1,56 @@
+====== Leviticus 05:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 However, if you \add are very poor and\add* cannot afford two doves or two young pigeons, you must bring to be an offering for your sin 1 pound\f + \ft Or: 1 kg. \f* of fine flour. You must not put olive oil or incense on it, because it is an offering for sin.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 However, if you are very poor and cannot afford two doves or two young pigeons, you must bring to be an offering for your sin two liters of fine flour. You must not put olive oil or incense on it, because it is an offering for sin.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 But if he cannot afford to buy two doves or two young pigeons, then he must bring as his sacrifice for his sin a tenth of an ephah of fine flour for a sin offering. He must not put oil or any incense on it, for it is a sin offering.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:tenth]]
+  * [[:yo:obe:other:oil]]
+  * [[:yo:obe:other:incense]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **ephah**  - (See: [[:yo:obe:other:biblicalvolume]])
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lev:05|Leviticus Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/05/10|<<]] | [[en/bible/notes/lev/05/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

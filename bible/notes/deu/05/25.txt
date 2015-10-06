@@ -1,0 +1,66 @@
+====== Deuteronomy 05:25-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 But we are afraid that we will die \f + \ft rhetorical question \f* if we hear Yahweh our God speak \f + \ft metonymy \f* to us again; his terrible fire will destroy\f + \ft Or: kill \f* us.
+\v 26 Who has\f + \ft Or: Certainly no human has \f* remained alive after hearing the all-powerful God speak \f + \ft metonymy \f* to them from a fire.
+\v 27 \add So Moses\add*, you go up the mountain and listen to everything that Yahweh our God will say. Then \add come back and\add* tell us everything that he has said, and we will listen to what he has said and obey it.'
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 But we are afraid that we will die. We are afraid that this immense fire will burn us all up, if we go on hearing Yahweh's voice.
+\v 26 Who has remained alive after hearing the all-powerful God speak to them from a fire?
+\v 27 So Moses, you go up the mountain and listen to everything that Yahweh our God says. Then come back and tell us everything that he has said, and we will listen to what he has said and obey it.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 But why should we die? For this great fire will consume us; if we hear the voice of Yahweh our God any longer, we will die.
+\v 26 For who is there among all flesh who has heard the voice of the living God speak out of the middle of the fire and lived, as we have done?
+\v 27 As for you, you should go and listen to everything that Yahweh our God will say; repeat to you to us everything  that Yahweh our God will say to you;  we will listen to it and obey it.’
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:other:consume]]
+  * [[:yo:obe:kt:flesh]]
+  * [[:yo:obe:other:obey]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:05|Deuteronomy Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/05/23|<<]] | [[en/bible/notes/deu/05/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

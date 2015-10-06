@@ -1,0 +1,79 @@
+====== Psalms 069:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 Erase their names \f + \ft synecdoche \f* from the book \add containing the names of those who have eternal\add* life;
+\q2 do not include them in the list of righteous people.
+\b
+\q1
+\v 29 As for me, I have pain and am suffering.
+\q2 O God, protect me and rescue me.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Erase their names from the book containing the names of those who have eternal life;
+\q2 do not include them in the list of righteous people.
+\b
+\q1
+\v 29 As for me, I have pain and am suffering.
+\q2 O God, protect me and rescue me.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 28 Let them be blotted out of the book of life
+\q and not be written down along with the righteous.
+\q
+\v 29 But I am poor and sorrowful;
+\q let your salvation, God, set me up on high.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:other:written]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:salvation]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:onhigh]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:069|Psalms Chapter 069 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/069/026|<<]] | [[en/bible/notes/psa/069/030|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

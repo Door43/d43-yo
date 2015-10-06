@@ -1,0 +1,52 @@
+====== John 05:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 The paralyzed man replied to him, "\add Yes\add*, sir, \add I want to get well, but\add* there is no one to help me get down into the pool when the water is stirred \f + \ft Or:stirs \f*. While I am trying to get \add to the pool\add*, someone else always gets there before me."
+\v 8 Jesus said to him, "Get up! Then pick up your mat and walk!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 The man replied to him, "Sir, I have no one here to help me get down into the pool when the water is stirred. While I am trying to get to the pool, someone else always steps down in front of me."
+\v 8 Jesus said to him, "Get up! Take up your bed and walk!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 The sick man replied, "Sir, I do not have anyone, when the water is stirred up, to put me into the pool. When I am trying, another steps down before me."
+\v 8 Jesus said to him, "Get up, take up your mat, and walk."
+</usfm>
+
+
+===== Important Terms: ===== 
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:water]]
+  * [[en:obe:kt:jesus]]
+===== Translation Notes: =====
+
+  * **when the water is stirred up** - "when the angel moves the water." (See: [[en:ta:vol2:translate:figs_activepassive]]).
+  * **another steps down before me** - "someone else always enters the water before me." People would go down a staircase to get into the water in the pool.
+  * **get up** - "stand up"
+  * **take up your mat** - "pick up your sleeping mat"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:05|John Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/05/05|<<]] | [[en/bible/notes/jhn/05/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,81 @@
+====== Jeremiah 23:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 \add Yahweh also says\add*, "I have not appointed \f + \ft metonymy \f* those prophets,
+\q2 but they run around telling people their messages.
+\q1 I did not speak to them,
+\q2 but they continue to prophesy.
+\q1
+\v 22 If they had been in my council meetings,
+\q2 they would have been able to speak messages from me,
+\q1 and they would have caused people to turn away from committing evil deeds. \f + \ft doublet \f*"
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Yahweh also says, "I have not appointed  those prophets,
+\q2 but they run around telling people their messages.
+\q1 I did not speak to them,
+\q2 but they continue to prophesy.
+\q1
+\v 22 If they had been in my council meetings,
+\q2 they would have been able to speak messages from me,
+\q1 and they would have caused people to turn away from committing evil deeds. "
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 I did not send out these prophets. They just appeared.
+\q I did not proclaim anything to them, but they have still prophesied.
+\q
+\v 22 For if they had stood in my council meeting, they they would have caused my people to hear my word;
+\q they would have caused them to turn from their wicked words and corrupt practices.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jer:23|Jeremiah Chapter 23 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/23/19|<<]] | [[en/bible/notes/jer/23/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

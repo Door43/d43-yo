@@ -1,0 +1,62 @@
+====== Acts 03:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 As the man clung to Peter and John, all the people were so surprised \add that they did not know what to think\add*! So they ran to them at the place \add in the Temple courtyard\add* that is called \f + \ft Or:that \add people\add* call \f* Solomon's Porch.
+
+
+\p
+\v 12 When Peter saw that, he said to them, "fellow Israelites, you should not be surprised about what has happened to this man!\f + \ft Or: why are you so surprised about what has happened to this man? \f* \f + \ft rhetorical question \f* And you should not stare at us, either! You seem to \f + \ft rhetorical question \f* think that the two of us enabled this man to walk because we\add \f + \ft exclusive \f*\add* ourselves are powerful or because we please God very much!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 As the man clung to Peter and John, all the people were so surprised that they did not know what to think! So they ran to them at the place in the Temple courtyard that is called  Solomon's Porch.
+
+
+\p
+\v 12 When Peter saw the people, he said to them, "Fellow Israelites, you should not be surprised about what has happened to this man! Why do you look at us as though we had power by ourselves to make this man walk?
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 As he was holding on to Peter and John, all the people ran together to them in the porch that is called Solomon’s, greatly marvelling.
+\v 12 When Peter saw this, he answered the people, "You men of Israel, why do you marvel? Why do you  fix your eyes on us, as if we had made him to walk by our own power or godliness?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:peter]]
+  * [[en:obe:other:johntheapostle]]
+  * [[en:obe:other:israel]]
+  * [[en:obe:kt:power]]
+  * [[en:obe:kt:godly]]
+ 
+
+===== Translation Notes: =====
+
+  * **As**  - "While"
+  * **the porch that was called Solomon's**  - "Solomon's Porch." Solomon was the name of a king of Israel who had lived long before that time. A porch is a row of pillars covered by a roof, and open on one side. This could be translated as "Solomon's Veranda." Solomon's Porch was very large.
+  * **greatly marveling **  - "full of surprise" or "astonished" or "full of awe"
+  * **When Peter saw this**  - "When Peter saw the crowd growing" or "When Peter saw the people" (UDB)
+  * **You men of Israel**  - "Fellow Israelites" (UDB). Peter was addressing the crowd. "men" in this context would extend to everyone present (men, women, children).
+  * **Why do you marvel?** - This is a rhetorical question. It can be translated as "you should not be surprised" UDB. (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Why do you fix your eyes on us**  - This rhetorical question can also be translated as "You should not focus on us" or "There is no reason for you to focus on us."
+  * **us**  - "us" refers to Peter and John, the dual & exclusive form.
+  * **we**  - "we" refers to Peter and John, the dual & exclusive form.
+  * **as if we had made him to walk by our own power or godliness?**  - This is a rhetorical question. It can be translated as "We did not make him walk by our own power or godliness."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:act:03:09|<<]] | [[:yo:bible:notes:act:03:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish power godly}}

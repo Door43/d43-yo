@@ -1,0 +1,45 @@
+====== Mark 06:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 He also instructed them, "After you enter a town, \add if someone invites you to stay in his house\add*, go into his house. Eat and sleep in that same home until you leave that town.
+\v 11 Wherever the people do not welcome you and wherever the people do not listen to you, shake off the dust from your feet as you leave \add that place\add*. By doing that, you will warn them \add that God will punish them for rejecting your message\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 He also instructed them, "After you enter a town, if someone invites you to stay in his house, go into his house. Eat and sleep in that same home until you leave that town.
+\v 11 Wherever the people do not welcome you and wherever the people do not listen to you, shake off the dust from your feet as you leave that place. By doing that, you will be testifying that they did not welcome you."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 He said, "Whenever you enter a house, stay there until you leave.
+\v 11 If any place will not receive you or listen to you, when you leave that place, shake off the dust that is under your feet, for a testimony against them."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:receive]]
+  * [[:yo:obe:kt:testimony]]
+ 
+
+===== Translation Notes: =====
+
+  * **stay there until you leave** - "stay in that house until you leave that town"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:06|Mark Chapter 06 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:06:07|<<]] | [[:yo:bible:notes:mrk:06:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

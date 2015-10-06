@@ -1,0 +1,60 @@
+====== Romans 01:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 From \add where God rules in\add* heaven he is making it clear to all \add non-Jewish\add* people who show no respect for God and who do wicked things, that he is angry with them \add and that they deserve to be punished\add* \f + \ft Or:\add that he would punish them\add* \f* \f + \ft metonymy \f*. By means of \add their behaving\add* wickedly, they keep other people \add from believing what they know\add* to be true \add about God\add*.
+
+
+\p
+\v 19 \add Everyone\add* can clearly know what God \add is like\add*, because God himself has revealed to everyone \add what he is like\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 God in heaven makes it clear that he is angry with everyone who shows no respect for him and who does wicked things. He shows them that they deserve for him to punish them. Because they do wicked things, they also keep other people from knowing what is true about God.
+
+
+\p
+\v 19 All non-Jews can clearly know what God is like, because God himself has revealed this to everyone.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of people, who through unrighteousness hold back the truth,
+\v 19 because that which is known about God is visible to them. For God has enlightened them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wrath]]
+  * [[en:obe:kt:reveal]]
+  * [[en:obe:kt:heaven]]
+  * [[:yo:obe:kt:ungodly]]
+  * [[:yo:obe:kt:unjust]]
+  * [[:yo:obe:kt:true]]
+  * [[en:obe:kt:light]]
+
+===== Translation Notes: =====
+
+  * **For the wrath** - Paul explains why people need to hear the gospel.
+  * **the wrath of God is revealed** - Alternate translation: "God reveals his anger." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **against** - "toward"
+  * **all ungodliness and unrighteousness of people** - Alternate translation: "all the ungodly and unrighteous things that people do."
+  * **hold back the truth** - Alternate translation: "they hide the true information about God."
+  * **that which is known about God is visible to them** - Alternate translation: "they can know about God because of what they can see."
+  * **For God** - Paul shows why these people know things about God.
+  * **God has enlightened them** - Alternate translation: "God has shown it to them."
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:01|Romans Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:01:16|<<]] | [[:yo:bible:notes:rom:01:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish wrath}}
+
+~~NOCACHE~~

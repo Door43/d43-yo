@@ -1,0 +1,69 @@
+====== Psalms 075:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 But as for me, I will never stop saying what the God whom Jacob \add worshiped has done\add*;
+\q1 I will never quit singing to praise him.
+\q1
+\v 10 He will get rid of the power [IDI] of wicked people,
+\q1 but he will increase the power of righteous people.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 But as for me, I will never stop saying what the God whom Jacob worshiped has done;
+\q1 I will never stop singing to praise him.
+\q1
+\v 10 He promises this: "I will get destroy the power of wicked people,
+\q1 but I will increase the power of righteous people."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 But I will continually tell what you have done;
+\q I will sing praises to the God of Jacob.
+\q
+\v 10 He says, "I will cut off all the horns of the wicked,
+\q but the horns of the righteous will be raised up."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:praise]]
+  * [[:yo:obe:other:jacob]]
+  * [[:en;obe:kt:cutoff]]
+  * [[:yo:obe:kt:righteous]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:075|Psalms Chapter 075 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/075/007|<<]] | [[en/bible/notes/psa/076/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book3}}
+
+~~NOCACHE~~

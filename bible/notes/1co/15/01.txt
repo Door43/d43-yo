@@ -1,0 +1,69 @@
+====== 1 Corinthians 15:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Now, my fellow believers, I want to remind you about the message about Christ that I preached to you. It is the message that you received and that you have continued to trust firmly.
+\v 2 If you keep on firmly\add believing\add* this message that I preached to you, you will be saved \f + \ft Or:\add God\add* will save you \f*. If you do not continue to believe it, your believing \add in Christ\add* was all for nothing\f + \ft Or: useless \f*!
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 And now I wish to remind you, brothers and sisters, about the good news I proclaimed to you. You believed this message and now you live according to it.
+\v 2 This good news saved you, as long as you hold firmly to it—unless you did not truly believe it.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 15
+\p
+\v 1 Now I remind you, brothers and sisters, of the gospel I proclaimed to you, which you received and on which you stand,
+\v 2 and by which you are being saved, if you hold firmly to the word I preached to you—unless you believed in vain.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:goodnews]]
+  * [[:yo:obe:other:proclaim]]
+  * [[:yo:obe:kt:receive]]
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:other:preach]]
+  * [[:yo:obe:kt:save]]
+  * [[:yo:obe:kt:believe]]
+  * [[:yo:obe:other:vain]]
+ 
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1co:15|1 Corinthians Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1co/14/39|<<]] | [[en/bible/notes/1co/15/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

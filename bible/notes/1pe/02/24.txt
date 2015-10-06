@@ -1,0 +1,58 @@
+====== 1 Peter 02:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 He himself endured the punishment for our sins in his body when he died on the cross,
+\q1 in order that we would stop sinning \f + \ft Or: no longer respond to sinful desires \f* and start living righteous lives.
+\p It is because he was wounded \f + \ft Or:they wounded him \f* that your \add souls have been saved\add* \f + \ft metaphor \f* \add from being sinful, as people's bodies\add* are healed \add from being sick\add*.
+\v 25 Truly you were like sheep that had gone astray \f + \ft simile \f*, but now you have returned to \add Jesus\add*, who cares for your souls \add as\add* a shepherd \add cares for his sheep\add* \f + \ft metaphor \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 He himself endured the punishment for our sins in his body when he died on the cross, in order that we would stop sinning and start living rightly.
+\p It is because they wounded him that God has healed you.
+\v 25 Truly you were like sheep that had become lost, but now you have returned to Jesus, who cares for you as a shepherd cares for his sheep.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 He himself carried our sins in his body to the tree, so that we might have no more part in sin, and so that we might live for righteousness. By his bruises you have been healed.
+\v 25 All of you had been wandering away like lost sheep, but now you have returned to the shepherd and guardian of your souls.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:body]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:other:heal]]
+  * [[:yo:obe:other:sheep]]
+  * [[:yo:obe:other:shepherd]]
+  * [[:yo:obe:kt:sin]]
+ 
+
+===== Translation Notes: =====
+
+  * **He himself** - This refers to Jesus for emphasis. (See: [[en:ta:vol2:translate:figs_rpronouns]])
+  * **our sins** - All occurrences of "our" and "we" refer to Peter the speaker and the believers mentioned in [[:yo:bible:notes:1pe:01:01|1:1-25]]. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **By his bruises you have been healed.** - "God has healed you by Christ's bruises." (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **All of you had been wandering away** - The word "you" refers to the believers in [[:yo:bible:notes:1pe:01:01|1:1-25]].
+  * **the shepherd and guardian of your souls** - "Jesus guides and protects you" (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:02|1 Peter Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:1pe:02:21|<<]] | [[:yo:bible:notes:1pe:03:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

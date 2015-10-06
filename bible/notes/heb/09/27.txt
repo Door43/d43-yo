@@ -1,0 +1,59 @@
+====== Hebrews 09:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 All people must die once, and after that \add God\add* will judge them \add for their sins\add*.
+\v 28 Likewise, when Christ \add died\add*, \add God\add* offered him once to be a sacrifice, to punish him instead of the many \add people who had\add* sinned. He will come \add to earth\add* a second time, not \add in order to sacrifice himself again for those who\add* have sinned, but in order to \add complete\add* his saving those who expectantly wait for him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 All people must die once, and after that God will judge them for their sins.
+\v 28 Likewise, when Christ died, God offered him once to be a sacrifice, to punish him in the place of the many people who had sinned. He will come to earth a second time, not in order to sacrifice himself again for those who have sinned, but in order to save us who wait for him and expect him to come.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 27 Just as every person is destined to die once, and after that comes judgment,
+\v 28 so also Christ, who was offered once to take away the sins of many, will appear a second time, not for the purpose of dealing with sin, but for the salvation of those who wait patiently for him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:destiny]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:christ]]
+  * [[:yo:obe:other:sacrifice]]
+  * [[:yo:obe:kt:salvation]]
+  * [[:yo:obe:other:patient]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Christ, who was offered**  - AT: "Christ, who offered himself" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+    
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:09|Hebrews Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/09/25|<<]] | [[en/bible/notes/heb/10/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

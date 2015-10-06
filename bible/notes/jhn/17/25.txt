@@ -1,0 +1,43 @@
+====== John 17:25-26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 \add My\add* righteous Father, although the people who do not belong to you \f + \ft metonymy \f* do not know what you \add are like\add*, I know what you \add are like\add*, and my disciples know that you sent me.
+\v 26 I have revealed to them \add what\add* you \add are like\add*, and I will continue to reveal to them \add what\add* you \add are like\add*. I will do that in order that they may love \add others\add* just like you love me, and in order that I may live in them \add by my Spirit\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 O Righteous Father, the world does not know you, but I know you; and these with me here know that you have sent me to them.
+\v 26 I have made them know who you are. I will continue to do this so that you may love them like you love me and so that I may be united with them."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 25 Righteous Father, the world did not know you, but I know you; and these know that you sent me.
+\v 26 I made known your name to them, and I will make it known so that the love with which you have loved me may be in them, and I may be in them.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:world]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:kt:love]]
+
+===== Translation Notes: =====
+
+  * **the world did not know you, but I know you; and these know that you sent me**- "The world does not have the experience of knowing you as I know you; and these know that you have sent me" (See: [[en:ta:vol1:translate:figs_idiom]])
+  
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jhn:17|John Chapter 17 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:17:24|<<]] | [[:yo:bible:notes:jhn:18:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

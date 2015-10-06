@@ -1,0 +1,43 @@
+====== Genesis 27:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 But first Isaac asked, "Are you really my son Esau?" Jacob replied, "Yes, I am."
+\v 25 Isaac said, "My son, bring me some of the meat that you have cooked, so that I may eat it and then give you my blessing." So Jacob brought him some, and he ate it. Jacob also brought him some wine, and he drank it.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 But first Isaac asked, "Are you really my son Esau?" Jacob replied, "Yes, I am."
+\v 25 Isaac said, "My son, bring me some of the meat that you have cooked, so that I may eat it and then give you my blessing." So Jacob brought him some, and he ate it. Jacob also brought him some wine, and he drank it.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 24 He said, "Are you  really my son Esau?" And he said, "I am."
+\v 25 Isaac said, "Bring the food to me, and I will eat of your game, so that I may bless you." Jacob brought the food to him. Isaac ate, and Jacob brought him wine, and he drank.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:esau]]
+  * [[:yo:obe:other:isaac]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:other:wine]]
+
+===== Translation Notes: =====
+
+  * **eat of your game** - See how "game" was translated in [[en:bible:notes:gen:27:05|27:7]]
+  * **and he drank**  - "and Isaac drank it"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:27|Genesis Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:27:22|<<]] | [[:yo:bible:notes:gen:27:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

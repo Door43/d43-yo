@@ -1,0 +1,60 @@
+====== Genesis 41:35-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 They should collect this amount of grain during those seven years that are coming, when there will be plenty of food. You should supervise them as they store it in the cities.
+\v 36 This grain should be kept so that it can be eaten during the seven years when there will be a famine here in Egypt, so that the people in this country will not die from hunger."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 They should collect this amount of grain during those seven years that are coming, when there will be plenty of food. You should supervise them as they store it in the cities and as they guard it.
+\v 36 This grain should be kept so that it can be eaten during the seven years when there will be a famine here in Egypt, so that the people in this country will not die from hunger."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 35 Let them gather all the food of these good years that are coming. Let them store up grain under the authority of Pharaoh for food in the cities. Let them guard it.
+\v 36 The food will be a supply for the land for the seven years of famine which will be in the land of Egypt. In this way the land will not be devastated by the famine."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:good]]
+  * [[en:obe:other:grain]]
+  * [[en:obe:kt:authority]]
+  * [[en:obe:other:pharaoh]]
+  * [[en:obe:other:famine]] 
+  * [[en:obe:other:egypt]]
+  * [[en:obe:devastated-devastation|devastated]]
+
+===== Translation Notes: =====
+Joseph continues to counsel Pharaoh
+
+  * **Let them gather** - "allow the overseers to gather"
+  * **store up** - "store" or "save"
+  * **Let them guard it** - "Let the overseers guard the grain"
+  * **the food will be a supply** - "the food will be a stockpile"
+  * **will not be devastated by the famine** - The people and animals will not starve to death as a result of the coming harvest shortages.
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:41|Genesis Chapter 41 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:41:33|<<]] | [[:yo:bible:notes:gen:41:37|>>]]**
+
+~~DISCUSSION~~{{tag>publish authority}}
+
+~~NOCACHE~~

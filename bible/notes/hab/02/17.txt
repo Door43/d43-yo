@@ -1,0 +1,67 @@
+====== Habakkuk 02:17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 You did violent \f + \ft personification \f* things to the people in Lebanon,
+\q2 and you killed the wild animals there,
+\q1 but you will be punished severely for doing that.
+\q1 You have killed \f + \ft metonymy \f* many people
+\q2 and you have destroyed their lands and their cities.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 You did violent things to the people in Lebanon,
+\q2 and you killed the wild animals there,
+\q1 but you will be punished severely for doing that.
+\q1 You have killed many people
+\q2 and you have destroyed their lands and their cities.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q2
+\v 17 The violence done to Lebanon will cover you, and the destruction of beasts will terrify you 
+\q2 because of the blood of men and because of the violence done to the land, to the cities, and to all their inhabitants.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:lebanon]]
+  * [[en:obe:kt:blood]]
+  
+===== Translation Notes: =====
+
+God continues to speak of how he will punish the Chaldeans
+
+    * **cover** - overwhelm
+    * **destruction of beasts will terrify you** "the deaths of animals will make you afraid"
+
+   
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hab:02|Habakkuk Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hab/02/15|<<]] | [[en/bible/notes/hab/02/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

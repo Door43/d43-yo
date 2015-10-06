@@ -1,0 +1,52 @@
+====== Mark 04:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 Then he said to them, "Consider carefully what you hear \add me say to you\add*, for \add God\add* will let you \add understand\add* to the same degree that you \add consider what I say\add*. \add He\add* will let you \add understand\add* even more than that.
+\v 25 Those who \add consider what I say\add* and understand it, \add God\add* will enable them to understand more. But those who do not \add consider carefully what I say\add*, they will forget even what they already know."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 Then he said to them, "Consider carefully what you hear me say to you, for God will let you understand to the same degree that you consider what I say. He will let you understand even more than that.
+\v 25 Those who consider what I say and understand it, God will enable them to understand more. But those who do not consider carefully what I say, they will forget even what they already know."
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 He said to them, "Pay attention to what you hear, for the measure you use, is the measure you will receive; and even more you will get.
+\v 25 Because whoever has, to him will be given more, and whoever has not, from him will be taken away even what he has."
+</usfm>
+
+
+===== Important Terms: =====
+ 
+
+===== Translation Notes: =====
+
+Jesus continues telling his disciples another parable.
+
+  * **for the measure you use, is the measure you will receive; and even more you will get**- "the better you listen, the more understanding God will give to you."
+  * **whoever has **- "whoever has understood my words." (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:04|Mark Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:04:21|<<]] | [[:yo:bible:notes:mrk:04:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

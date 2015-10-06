@@ -1,0 +1,58 @@
+====== Exodus 02:23-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 Many years later the king of Egypt died. The Israelite people \add in Egypt\add* were still groaning because of the \add hard work they had to do as\add* slaves. They called out for \add someone to\add* help them, and God heard them call out \f + \ft personification \f*.
+\v 24 He heard them groaning. And he thought about\f + \ft Or: did not forget \f* that he had solemnly promised to Abraham, Isaac, and Jacob \add to bless their descendants\add*.
+\v 25 God saw how the Israelite people were \add being badly treated\add*, and he was concerned about them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 Many years later the king of Egypt died. The Israelite people in Egypt were still crying out because of the hard work they had to do as slaves. They called out for someone to help them, and God heard them.
+\v 24 When he heard them crying out, he thought about his promise to Abraham, Isaac, and Jacob.
+\v 25 God saw how the Israelite people were being badly treated, and he wanted to help them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 A long time later, the king of Egypt died. The Israelites groaned because of the slave labor.  They cried out for help, and their pleas went up to God because of their bondage.
+\v 24 When God heard their groaning, God called to mind his covenant with Abraham, with Isaac, and with Jacob.
+\v 25 God saw the Israelites, and he understood their situation.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:egypt]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:labor]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:other:isaac]]
+  * [[:yo:obe:other:jacob]]
+ 
+
+===== Translation Notes: =====
+
+  * **groaned**  - "sighed deeply." They did this because of their sorrow and misery.
+  * **God called to mind his covenant**  - AT: "God remembered his covenant" (See: [[:yo:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:02|Exodus Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:02:21|<<]] | [[:yo:bible:notes:exo:03:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

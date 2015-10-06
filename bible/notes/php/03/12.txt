@@ -1,0 +1,55 @@
+====== Philippians 03:12-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 I do not claim that I have already become completely like Christ Jesus; that is, I have not already become all that God intends me to be \f + \ft doublet \f*. But I earnestly try to become \add more and more like Christ\add*, because he chose me \add in order that I might become like him\add*.
+\v 13 My fellow believers, I certainly do not consider that I have already become completely like Christ. But I \add am like a runner. A runner does not look backward\add* \f + \ft metaphor \f*. Instead, he leans\f + \ft Or: stretches \f* forward as he runs straight toward the goal \add in order that he might win the race and get the prize. Similarly\add*, I do not think about what I have already done.
+\v 14 Instead, I concentrate only on \add continuing to become more and more like Christ right up to the end of my life\add* \f + \ft metaphor \f*. As a result, because of my relationship with Christ Jesus, God will call\f + \ft Or: summon \f* me to receive a reward from him \add in heaven\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 I do not claim that all of these things have fully happened to me yet. But I keep trying to receive these things, because these things are why Christ Jesus took possession of me.
+\v 13 My fellow believers, I certainly do not yet think that all these things have completely happened to me. But I am like a runner, because I do not look backward as I run toward the finish line.
+\v 14 Instead, I keep running toward the finish line, in order to win the prize, which is to live forever with God. This is what God has called me for, and what Christ Jesus has made possible.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 I have not yet received these things, so I am not yet complete. But I continue pressing on, in order that I may grasp that for which I was grasped by Christ Jesus.
+\v 13 Brothers, I do not think that I myself have taken possession of it.  But one thing I do is this: I forget what is behind and strive for what is ahead.
+\v 14 I continue pressing on toward the goal to win the prize of the upward calling of God in Christ Jesus.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:receive]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:kt:god]]
+
+===== Translation Notes: =====
+ 
+  * **received these things**  - These include knowing Christ, knowing the power of his resurrection, sharing in Christ's suffering, and being united with Christ in his death and resurrection.
+  * **so I am not yet complete**  - "so I am not yet perfect" or "so I am not yet mature"
+  * **But I continue pressing on**  - "But I keep trying" (UDB)
+  * **I may grasp** - "I may receive these things" 
+  * **that for which I was grasped by Christ Jesus** - This can be translated with an active verb: "because that is why Jesus claimed me as his own" (See: [[en:ta:vol2:translate:figs_activepassive]]).
+  * **Brothers, ...**  - Paul is referring to the Philippian believers. Alternate translation: "Fellow believers"
+  * **I myself have taken possession of it** - "all these things belong to me yet"
+  * **I forget what is behind and strive for what is ahead** - Like a runner in a race is no longer concerned about the sections of the race complete, but only focuses on those sections that are to come, Paul speaks of setting aside his religious works of righteousness and only focuses on the race of life that Christ as set before him to complete. Alternate Translation "I do not care what I have done in the past."(See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **I continue pressing on toward the goal to win the prize of the upward calling of God in Christ Jesus.** - Paul continues the comparison, as a runner presses onward to win the race, Paul presses onward in serving and walking in obedience to Christ. "I continue believing in Christ so that I may belong to him and God may call me to himself after I die."
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:php:03|Philippians Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:php:03:08|<<]] | [[:yo:bible:notes:php:03:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,75 @@
+====== Job 27:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 \add I will tell you\add* what Almighty God does to wicked people,
+\q2 the things that people who oppress others receive from him.
+\q1
+\v 14 Even if they have many children, many of those children will die in wars \f + \ft metonymy \f*,
+\q2 and their other children will \add die because they do\add* not have enough food to eat.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 I will tell you what Almighty God does to wicked people,
+\q2 what he does to people who mistreat others.
+\q1
+\v 14 Even if they have many children, those children will die in wars,
+\q2 or  they will die because they do not have enough food to eat.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 This is the destiny of a wicked man with God,
+\q the heritage of the oppressor that he receives from the Almighty:
+\q
+\v 14 If his children multiply, it is for the sword;
+\q his offspring will never have enough food.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:destiny]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:oppress]]
+  * [[:yo:obe:kt:receive]]
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:other:sword]]
+  * [[:yo:obe:other:offspring]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:27|Job Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/27/11|<<]] | [[en/bible/notes/job/27/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

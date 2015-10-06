@@ -1,0 +1,66 @@
+====== Acts 18:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 When the ship arrived at Caesarea, \add a port city\add*, Paul \add got off. He\add* went up \add to Jerusalem\add* and greeted the believers there. Then he went back down to Antioch \add city in Syria province\add*.
+\p
+\v 23 Paul spent some time \add with the believers\add* there. Then he left Antioch and traveled to several towns \add that he had visited previously\add* in Galatia and Phrygia \add provinces\add*. He taught all of the believers more \add of the message from God about Jesus\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 When the ship came to the city of Caesarea, Paul got off. He went up to Jerusalem and greeted the believers there. Then he went to the city of Antioch in the region of Syria.
+\p
+\v 23 Paul spent some time with the believers there. Then he left Antioch and walked to many cities in the regions of Galatia and Phrygia. He urged the believers to believe more and more in the message from God about Jesus.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 When Paul had landed at Caesarea, he went up and greeted the Jerusalem church and then went down to Antioch.
+\v 23 After having spent some time there, Paul departed and went through the regions of Galatia and Phrygia and encouraged all the disciples.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:paul]]
+  * [[:yo:obe:other:caesarea]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:church]]
+  * [[:yo:obe:other:antioch]]
+  * [[:yo:obe:other:galatia]]
+  * [[:yo:obe:kt:disciple]]
+ 
+
+===== Translation Notes: =====
+
+  * **landed at Caesarea** - "arrived at Caesarea"
+  * **he went up** - "Paul traveled to the city of Jerusalem."
+  * **greeted the Jerusalem church ** - "greeted the members of the church of Jerusalem"
+  * **then went down** - "then went down from Jerusalem". Though Jerusalem was on a hill, the up and down directionals refer to the spiritual significance of Jerusalem rather than physical elevation.
+  * **Pual departed** - "Paul went away" or "Paul left"
+  * **regions of Galatia and Phrygia** - provinces in Asia that are now modern day Turkey. (See: [[en:ta:vol1:translate:translate_names]])
+  * **encouraged all the disciples** - "strengthened all the disciples"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:18|Acts Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:act:18:20|<<]] | [[:yo:bible:notes:act:18:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

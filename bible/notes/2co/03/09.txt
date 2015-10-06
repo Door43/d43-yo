@@ -1,0 +1,72 @@
+====== 2 Corinthians 03:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 The message \add that Moses taught them was wonderful, but when people heard\add* that message, \add they realized that they were sinners and that God\add* would punish them. But God's message that we\add \f + \ft exclusive \f* teach is a\add* much more wonderful message. We teach people that God will erase the record of\f + \ft Or: declare people no longer guilty for \f* \add the sinful things that they have done\add*.
+\v 10 \add The truth is that, although the work of teaching the people to obey God's laws\add* was once important, it is not as important now, because \add the work of teaching people that God will forgive them and\add* enable them to live to please him is far more important.
+\v 11 Furthermore, \add the message that Moses taught was not a lasting message, just like\add* the brightness on his face was not lasting and soon faded away. But \add when God gives his Spirit to people\add*, the wonderful work that \add God's Spirit does in their lives\add* is much greater \add because\add* it lasts forever.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Even the Law shone with God's light. But that Law can only kill people eventually. So when God makes us right with himself, this action will be even more wonderful.
+\v 10 As a result, when the Law is compared to God's work of putting us right with himself, it is as if the Law is not wonderful at all—like the moon when it comes near the sun.
+\v 11 So you can see that the Law, which is passing away, was wonderful, but you can also see that the thing that is replacing it will be even more wonderful, because it will last forever. 
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 For if the service of condemnation had glory, how much more does the service of righteousness abound in glory!
+\v 10 For indeed, that which was once made glorious is no longer glorious in this respect, because of the glory that exceeds it.
+\v 11 For if that which was passing away had glory, how much more will what is permanent have glory!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:serve]]
+  * [[:yo:obe:kt:condemn]]
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:kt:righteous]]
+ 
+
+===== Translation Notes: =====
+Paul continues comparing the Law of Moses to the ministry of Christ.
+
+    * **service of condemnation **  - This phrase refers to the Law that God gave to Moses. It could only point out man's disobedience before God, thus condemning man to die.
+    * **service of righteousness **  - This phrase refers to message about the forgiveness offered through Jesus christ. It offers forgiveness and new life unlike the law that only condemns to death. 
+    * **abound in glory** - Christ's service of righteousness is far more glorious to the Law which also had glory.
+    * **that which was once made...For if that**  - The word "that" refers to the law of Moses.
+    * **in this respect** - "in this way"
+    * **that exceeds it** - "that is better than it"
+    * **was passing away**  - "has completed its purpose"
+  
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2co:03|2 Corinthians Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2co/03/07|<<]] | [[en/bible/notes/2co/03/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

@@ -1,0 +1,72 @@
+====== Proverbs 19:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 Anyone who mistreats\f + \ft Or: abuses \f* his father or forces his mother to leave the home
+\q2 is a child who is acting shamefully and disgracefully.
+\b
+\q1
+\v 27 My son, if you stop learning things,
+\q2 you will \add soon\add* forget what \add you already\add* know.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Someone who steals from his father, alienates his mother—
+\q2 he brings shame and disgrace to himself. 
+\q1
+\v 27 My son, if you will not listen to the teaching,
+\q2 you will wander away from the words of knowledge.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 26 The one who robs his father chases his mother away— 
+\q he is a child who brings shame and reproach.
+\q
+\v 27 If you cease to hear instruction, my child,
+\q you will stray from the words of knowledge.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:reproach]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:19|Proverbs Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/19/25|<<]] | [[en/bible/notes/pro/19/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

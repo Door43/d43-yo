@@ -1,0 +1,59 @@
+====== Judges 03:16-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Ehud had with him a double-edged dagger, about a foot and a half long. He strapped it to his right thigh, under his clothes.
+\v 17 He gave the money to King Eglon, who was a very fat man.
+\v 18 Then Ehud started to go back home with the men who had carried the money.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Ehud had with him a short double-edged sword, about one half meter in length. He hid it under his cloths by strapping the sword to his right thigh.
+\v 17 He gave the money to King Eglon, who was a very fat man.
+\v 18 Then Ehud started to go back home with the men who had carried the money.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 Ehud made himself a sword that had two edges, one cubit in length; he strapped it on under his clothing on his right thigh.
+\v 17 He gave the tribute payment to king Eglon of Moab. (Now Eglon was a very fat man.)
+\v 18 When Ehud presented the tribute payment, he sent away those who brought it in.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:Sword]]
+  * [[:yo:obe:other:tribute]] 
+
+===== Translation Notes: =====
+
+
+    * **cubit**  - (See: [[:En:obe:other:biblicaldistance]])
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jdg:03|Judges Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/03/15|<<]] | [[en/bible/notes/jdg/03/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Genesis 36:9-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 This is\f + \ft Or: I will now give you \f* another list of the male descendants of Esau. He was the ancestor of the Edom people-group who live in the Seir area.
+\v 10 Esau's wife Adah gave birth to Eliphaz, and Esau's wife Basemath gave birth to Reuel.
+\v 11 The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
+\v 12 Esau's son Eliphaz also had a concubine\f + \ft Or: female slave whom he took as a secondary wife \f*. Her name was Timna. She gave birth to Amalek. Those six men were grandsons of Esau's wife Adah.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 These are those who descended from Esau, the ancestor of the Edom people group who live in the Seir area.
+\v 10 Esau's wife Adah gave birth to Eliphaz, and Esau's wife Basemath gave birth to Reuel.
+\v 11 The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
+\v 12 Esau's son Eliphaz also had a concubine. Her name was Timna. She gave birth to Amalek. Those six men were grandsons of Esau's wife Adah.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 Following were the descendants of Esau, the ancestor of the Edomites in the hill country of Seir.
+\v 10 These were the names of Esau’s sons: Eliphaz, the son of Adah, the wife of Esau; Reuel, the son of Basemath, the wife of Esau.
+\v 11 The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
+\v 12 Timna, a concubine of Eliphaz, Esau’s son, bore Amalek. These were the grandsons of Adah, Esau’s wife.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:descendant]]
+  * [[:yo:obe:other:esau]]
+  * [[en:obe:other:father]]
+  * [[:yo:obe:other:edom]]
+  * [[:yo:obe:other:concubine]]
+ 
+
+===== Translation Notes: =====
+
+    * **These are the descendants of Esau** - This sentence introduces the account of Esau's descendants in Genesis 36:9-43. Alternate translation: "This is an account of the descendants of Esau."
+    * **Eliphaz...Reuel** - See how you translated these names in [[en:bible:notes:gen:36:04|36:4]].
+    * **Adah...Basemath** - See how you translated these names in [[en:bible:notes:gen:36:01|36:2-3]].
+    * **Teman, Omar, Zepho, Gatam, and Kenaz...Amalek** - These are names of the sons of Eliphaz. (See: [[en:ta:vol1:translate:translate_names]])
+    * **Timna** - This is the name of Eliphaz's concubine.
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:36|Genesis Chapter 36 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:36:06|<<]] | [[:yo:bible:notes:gen:36:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish  concubine}}
+
+~~NOCACHE~~

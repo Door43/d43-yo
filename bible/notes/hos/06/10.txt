@@ -1,0 +1,80 @@
+====== Hosea 06:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 I have seen horrible things being done in Israel \f + \ft metonymy \f*.
+\q2 The people have abandoned me \add like prostitutes who have abandoned their husbands\add* \f + \ft metaphor \f*;
+\q1 \add so the people of\add* Israel have become unacceptable to me.
+\b
+\q1
+\v 11 And you \add people of\add* Judah,
+\q2 I have appointed a time when I will punish \f + \ft metaphor \f* you, too.
+\b
+\q1 Whenever I wanted to enable my people to prosper again,"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Among the people of Israel, I have seen a horrible thing—  
+\q2 Ephraim's sexual promiscuity is seen everywhere.
+\q1 Israel is made filthy by what they have done.
+\b
+\q1
+\v 11 And for you also, you people of Judah,
+\q2 I have set for you a time when I will separate out your good from your bad. 
+\q1 Just like in the harvest when all the crop is taken in, 
+\q2 and the good is kept and the bad is thrown away, 
+\q1 that is what is coming for you, Judah. 
+\b
+\q1 That will the day when I restore the blessings and riches of my people once more."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 In the house of Israel I have seen a horrible thing;
+\q Ephraim's sexual promiscuity is there; and Israel is defiled.
+\q
+\v 11 For you also, Judah, a harvest has been appointed,
+\q when I will restore the fortunes of my people.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:06|Hosea Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/06/08|<<]] | [[en/bible/notes/hos/07/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

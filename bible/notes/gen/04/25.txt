@@ -1,0 +1,53 @@
+====== Genesis 04:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 Adam continued to have sex\f + \ft Or: sleep \f* with \f + \ft euphemism \f* his wife, and she \add became pregnant and\add* gave birth to another son, whom she named Seth, \add which sounds like the Hebrew word that means 'given'\add*, because, she said, "God has given me another child to take the place of Abel, since Cain killed him."
+\v 26 When Seth grew up, he became the father of a son whom he named Enosh. About that time people began to worship Yahweh \add again\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 Adam continued to sleep with his wife, and she again became pregnant and gave birth to another son, whom she named Seth. She said, "I name him Seth because God has given me another child to take the place of Abel, since Cain killed him."
+\v 26 When Seth grew up, he became the father of a son whom he named Enosh. About that time people began to worship Yahweh.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 25 Adam had marital relations with his wife again, and she bore another son. She called his name Seth and said, "God has given me another son in the place of Abel, for Cain killed him."
+\v 26 A son was born to Seth and he called his name Enosh. Then people began to call on the name of Yahweh.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:adam]]
+  * [[en:obe:other:abel]]
+  * [[en:obe:other:cain]]
+  * [[en:obe:kt:call]]
+  * [[en:obe:kt:name]]
+  * [[en:obe:kt:yahweh]]
+ 
+===== Translation Notes: =====
+
+  * **had marital relations**  - “had sex with.” Your language may have a way of saying this politely. Some languages say “knew” or “slept with.” (See: [[en:ta:vol2:translate:figs_euphemism|Euphemism]]). See how you translated this in [[:yo:bible:notes:gen:04:01|4:1]].
+  * **and said, "God has given me another son**  - This is the reason that she named Seth. This implicit information could be made explicit: "and explained, 'God has given me another child.'" (See [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit Information]]).
+  * **Seth**  - Translators may add a footnote that says "This name sounds like the Hebrew word that means 'has given'."
+  * **A son was born to Seth**  - This can be translated as "Seth had a son."
+  * **to call on the name of Yahweh**  - “to pray in the name of Yahweh” or “to trust in the name of Yahweh” or “to worship Yahweh." This is the first time in Genesis that people addressed God by the name Yahweh. This could also be translated as "to worship God by using the name Yahweh."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:04|Genesis Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:04:23|<<]] | [[:yo:bible:notes:gen:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish adam abel  }}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Hebrews 03:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 The Holy Spirit \add caused the Psalmist to write these words in the Scriptures to the Israelites\add*:
+\q Now, when you\add \f + \ft plural \f*\add* hear God speaking to you \f + \ft metonymy \f*,
+\v 8 do not stubbornly \add disobey\f + \ft Or: refuse to\add* obey \add him\add* \f* \f + \ft idiom \f*, \add as the your ancestors stubbornly disobeyed him\add* when they rebelled against \add him\add* in the desert.
+\p \add At that time, God said to them\add*, "They tried to determine how many \add things that displeased me they could do\add* in the desert \add without me punishing them\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 The Holy Spirit caused the Psalmist to write these words in the Scriptures to the Israelites:
+\q "Now, when you hear God speak to you,
+\v 8 do not stubbornly disobey him, as your ancestors did when they rebelled against him in the wilderness.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 Therefore, it is just as the Holy Spirit says:
+\q "Today, if you hear his voice,
+\q
+\v 8 Do not harden your hearts
+\q as the Israelites did in the rebellion,
+\q in the time of testing in the wilderness.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:holyspirit]]
+  * [[:yo:obe:other:voice]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:other:rebel]]
+  * [[:yo:obe:kt:test]]
+  * [[:yo:obe:other:desert]]
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:heb:03|Hebrews Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:heb:03:05|<<]] | [[:yo:bible:notes:heb:03:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

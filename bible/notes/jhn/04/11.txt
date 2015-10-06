@@ -1,0 +1,48 @@
+====== John 04:11-12 ======
+
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 She \add thought he was talking about\add* ordinary \add water. So she\add* said to him, "Sir, you do not have a bucket \add or a rope with which to get water from the well\add*, and the well is deep. So\add since you cannot get water from this well\add*, where can you get that life-giving water?
+\v 12 Our ancestor Jacob left us this well. He drank water from it, and there was \add enough good water\add* so that his sons and his flocks \add of sheep\add* and goats drank from it also. \add Do you claim that\add* you are greater than Jacob, \add and because of that you can give us life-giving water\add*?"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 "Sir, you do not have a bucket or a rope with which to draw the water up out of the well, and this well is deep. Where would you get this living water?
+\v 12 You cannot be greater than our father Jacob. He dug this well that we use today, and he drank from it himself, as did his children and his animals."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 The woman replied, "Sir, you do not have a bucket, and the well is deep. Where would you get that living water?
+\v 12 You are not greater, are you, than our father Jacob who gave us the well and drank from it himself as did his sons and his cattle?"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:water]]
+  * [[:yo:obe:other:father]]
+  * [[:yo:obe:other:jacob]]
+ 
+===== Translation Notes: =====
+
+
+  * **You are not greater, are you, than our father Jacob...?** - "You could not be greater than our father Jacob..." (See: [[en:ta:vol1:translate:figs_rquestion]])
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:04|John Chapter 04 Comprehension Questions]]**
+  * **[[:yo:bible:notes:jhn:04:09|<<]] | [[:yo:bible:notes:jhn:04:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish father }}
+
+~~NOCACHE~~

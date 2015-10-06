@@ -1,0 +1,56 @@
+====== Ecclesiastes 09:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 It seems wrong that the same thing happens to everyone on this earth: Everyone dies \f + \ft euphemism \f*. Furthermore, people's inner beings are full of evil. People do foolish things while they are alive, and then they join those who are dead.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 It seems wrong that the same thing happens to everyone on this earth. Everyone dies. Furthermore, people's inner beings are full of evil. People do foolish things while they are alive, and then they join those who are dead.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 There is an evil fate for everything that is done under the sun, one destiny for everyone. The hearts of human beings are full of evil, and madness is in their hearts while they live. So after that they go to the dead.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ecc:09|Ecclesiastes Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ecc/09/02|<<]] | [[en/bible/notes/ecc/09/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

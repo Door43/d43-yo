@@ -1,0 +1,59 @@
+====== Psalms 089:52 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 52 I hope\f + \ft Or: desire \f* that Yahweh will be praised forever!
+\q1 Amen! May it be so!
+\ms1 Book Four
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 52 I hope that Yahweh will be praised forever!
+\q1 Amen! May it be so!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 52 Blessed be Yahweh forever.
+\q Amen and Amen.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:kt:amen]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:089|Psalms Chapter 089 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/089/049|<<]] | [[en/bible/notes/psa/090/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book3}}
+
+~~NOCACHE~~

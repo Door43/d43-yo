@@ -1,0 +1,70 @@
+====== Psalms 017:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 They have hunted\f + \ft Or: searched \f* for me and found me.
+\q2 They surround me, watching for an opportunity to throw me to the ground.
+\q1
+\v 12 They are like lions \f + \ft simile \f* that are ready to tear apart the animals that they capture;
+\q2 They are like young lions that are hiding, waiting to pounce \add on some animal\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 They have hunted for me and found me.
+\q2 They surround me, watching for an opportunity to throw me to the ground and kill me.
+\q1
+\v 12 They are like lions that are ready to tear apart the animals that they capture;
+\q2 They are like young lions that are hiding, waiting to jump on their prey.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 They have surrounded our steps. They set their eyes to strike me to the ground.
+\q
+\v 12 They are like a lion eager for a victim, like a young lion crouching in hidden places.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:lion]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:017|Psalms Chapter 017 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/017/009|<<]] | [[en/bible/notes/psa/017/013|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,67 @@
+====== Proverbs 05:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 My son, listen carefully to some \add more\add* wise things that I will tell you.
+\q2 Listen well to what I am going to teach you.
+\q1
+\v 2 If you do that, you will be able to choose wisely \add what to do\add*,
+\q2 and you will know \add the right things\add* to say \f + \ft metonymy \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 My son, learn the lessons I teach you about wisdom. 
+\q2 I understand much about this, so listen very carefully to what I tell you. 
+\q1
+\v 2 If you do that, you will be learn the difference between what is important and what is not,
+\q2 and you defend knowledge from error.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 5
+\q
+\v 1 My son, pay attention to my wisdom,
+\q listen carefully to my understanding
+\q
+\v 2 so you may learn about discretion,
+\q and your lips may protect knowledge.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:wise]]
+  * [[:En:obe:other:know]]
+
+===== Translation Notes: =====
+
+
+    * **discretion**  - the quality of being careful with regard to one's actions and speech
+    * **your lips may protect knowledge**  - "you will say the right thing" (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+     
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:05|Proverbs Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/04/26|<<]] | [[en/bible/notes/pro/05/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

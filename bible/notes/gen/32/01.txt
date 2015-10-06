@@ -1,0 +1,47 @@
+====== Genesis 32:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 As Jacob and his family continued traveling, some angels, whom God sent, met him.
+\v 2 When Jacob saw them, he said, "This is God's army camp!" So he named that place Mahanaim, which means 'two camps.'
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 As Jacob and his family continued traveling, some angels came from God and met him.
+\v 2 When Jacob saw them, he said, "This is God's army camp!" So he named that place Mahanaim.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 32
+\p
+\v 1 Jacob also  went on his way, and the angels of God met him.
+\v 2 When Jacob saw them, he said, "This is God’s camp," so he called the name of that place Mahanaim.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:kt:angel]]
+  * [[:yo:obe:kt:god]]
+
+===== Translation Notes: =====
+
+  * **Verse 1**  - Verse [[:yo:bible:notes:gen:31:54|31:55]] is the first verse of this chapter in the original Hebrew text. This affects the numbering of all the verses in this chapter in Hebrew. However, most modern Bibles do not use the Hebrew pattern. We suggest that you follow the numbering of Bibles in your national language.
+  * **Mahanaim**  - Translators may also add a footnote that says “The name Mahanaim means 'two camps.'”
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:32|Genesis Chapter 32 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:31:54|<<]] | [[:yo:bible:notes:gen:32:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish jacob}}
+
+~~NOCACHE~~

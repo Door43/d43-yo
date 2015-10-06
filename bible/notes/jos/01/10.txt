@@ -1,0 +1,50 @@
+====== Joshua 01:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Then Joshua commanded the leaders of the people of Israel,
+\v 11 "Go throughout the camp and tell the people this: 'Prepare all the food that you will take with you, because the day after tomorrow you will cross this Jordan \add River\add*, in order to possess the land that Yahweh, our God, is about to give you.'~"
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Then Joshua commanded the leaders of the people of Israel,
+\v 11 "Go throughout the camp and give these orders to the people: 'Prepare all the food that you will take with you. In three days you will go across the Jordan River in front of you, and you will go in and capture the land that Yahweh, your God, is about to give to you.'"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 Then Joshua commanded the leaders of the people,
+\v 11 "Go through the camp and command the people, 'Prepare provisions for yourselves. In three days you will cross over this Jordan and go in and possess the land that Yahweh your God is giving you to possess.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:command|command, to command, commandment]]
+  * [[:yo:obe:other:jordanriver|Jordan River]]
+  * [[:yo:obe:other:possess|possess, possession]]
+  * [[:yo:obe:kt:yahweh|Yahweh]]
+  * [[:yo:obe:kt:god|God]]
+
+===== Translation Notes: =====
+
+  * **In three days** - "Three days from now"
+  * **cross over this Jordan**  - "Cross over" means "go to the opposite side of the river." AT: "travel to the other side of the Jordan River."
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jos:01|Joshua Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:jos:01:08|<<]] | [[:yo:bible:notes:jos:01:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

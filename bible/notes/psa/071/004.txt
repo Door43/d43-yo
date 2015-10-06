@@ -1,0 +1,76 @@
+====== Psalms 071:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 God, rescue me from wicked people,
+\q2 from the power of unjust and evil men.
+\b
+\q1
+\v 5 Yahweh, my Lord, you are the one whom I confidently expect \add to help me\add*;
+\q2 I have trusted in you since I was young.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 God, rescue me from wicked people,
+\q2 from the power of unjust and evil men.
+\b
+\q1
+\v 5 Yahweh, my Lord, you are the one whom I confidently expect to help me;
+\q2 I have trusted in you ever since I was young.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 Rescue me, my God, out of the hand of the wicked,
+\q out of the hand of the unrighteous and cruel man.
+\q
+\v 5 For you are my hope, Lord;
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:unjust]]
+  * [[:yo:obe:kt:hope]]
+  * [[:yo:obe:kt:lordyahweh]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:071|Psalms Chapter 071 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/071/001|<<]] | [[en/bible/notes/psa/071/006|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

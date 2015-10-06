@@ -1,0 +1,69 @@
+====== Deuteronomy 17:2-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 "When you are living in any of the towns \add in the land\add* that Yahweh our God is giving to you, suppose there is some man or woman who sins by disobeying the agreement that Yahweh has made with you.
+\v 3 Suppose that person has worshiped and served other gods, or the sun, or the moon, or the stars.
+\v 4 If someone tells you that some person has been doing that, you must investigate it thoroughly. If \add you find out that\add* it is true that this detestable thing has happened in Israel,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 When you are living in any of the towns in the land that Yahweh our God is giving to you, suppose some man or woman sins by disobeying the covenant that Yahweh has made with you.
+\v 3 Suppose that person has worshiped and bowed down to other gods, or the sun, or the moon, or the stars.
+\v 4 If someone tells you that some person has been doing that, you must investigate it thoroughly to see whether this detestable thing has happened in Israel.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 2 If there is found among you, within any of your city gates that Yahweh your God is giving you, any man or woman  who does what is evil in the sight of Yahweh your God and transgresses his covenant—
+\v 3 anyone who has gone and worshiped other gods and bowed down to them, either the sun, the moon, or any of the host of heaven—nothing that I have commanded,
+\v 4 and if you are told about this, or if you have heard of it—then you must make a careful investigation. If it is true and certain that such a detestable thing has been done in Israel—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:gate]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:transgression]]
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:kt:worship]]
+  * [[:yo:obe:kt:falsegod]]
+  * [[:yo:obe:kt:bow]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:other:israel]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:17|Deuteronomy Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/17/01|<<]] | [[en/bible/notes/deu/17/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

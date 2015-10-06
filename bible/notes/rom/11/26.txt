@@ -1,0 +1,72 @@
+====== Romans 11:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 And then all \f + \ft hyperbole \f* \add the people of\add* Israel will be saved \f + \ft Or:\add God\add* will save all \f + \ft hyperbole \f* \add the people of\add* Israel \f*. Then these words that are written \f + \ft Or:that \add a prophet\add* wrote \f* \add in the Scriptures will\add* \add become true\f + \ft Or: be fulfilled\add* \f*:
+\p The one who sets \add his people\add* free will originate from \add the place where\add* God dwells \f + \ft Or: from the Jews \f* \f + \ft metonymy \f*. Then he will remove the guilt of the Israelite people \f + \ft Or: descendants of Jacob \f* \f + \ft metonymy \f*.
+\p
+\v 27 And \add as God says\add*,
+\p The contract that I will make with them is that I will forgive their sins.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 And then God will save all the people of Israel. Then these words in the scriptures will become true:
+\p "The one who sets his people free will come from where God is among the Jews. He will forgive the sins of the Israelite people."
+\p
+\v 27 And as God says,
+\p "The covenant that I will make with them is one by which I will forgive their sins."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 26 Thus all Israel will be saved, just as it is written:
+\q "There will come out of Zion the Deliverer;
+\q He will remove ungodliness from Jacob.
+\q
+\v 27 And this is my covenant with them,
+\q when I will take away their sins."
+\m
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:other:written]]
+  * [[:yo:obe:kt:save]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:kt:deliverer]]
+  * [[:yo:obe:kt:ungodly]]
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:kt:covenant]]
+  * [[:yo:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+  * **Thus all Israel will be saved** - This sentence could be stated in the active form: "Thus God will save all Israel" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **all Israel will be saved** - This is an exaggeration: many Jews will be saved. (See: [[en:ta:vol2:translate:figs_hyperbole]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:11|Romans Chapter 11 Comprehension Questions]]**
+
+
+**[[en/bible/notes/rom/11/25|<<]] | [[en/bible/notes/rom/11/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

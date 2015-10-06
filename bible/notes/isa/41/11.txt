@@ -1,0 +1,58 @@
+====== Isaiah 41:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 It is certain that all those who are angry with you \add Israelite people\add* will be disgraced \f + \ft doublet \f*.
+\q2 Those who oppose you will be wiped out;
+\q2 they will all die.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 It is certain that all those who are angry with you Israelite people will be disgraced.
+\q2 Those who oppose you will be wiped out;
+\q2 they will all die.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 11 See, they will be ashamed and disgraced, all who have been angry with you; 
+\q1 they will be as nothing and will perish, those who oppose you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:shame]]
+  * [[:yo:obe:other:angry]]
+  * [[:yo:obe:kt:perish]]
+ 
+
+===== Translation Notes: =====
+Yahweh continues speaking to the people of Israel.
+  * **they will** - "the people of the nations will"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:41|Isaiah Chapter 41 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/41/10|<<]] | [[en/bible/notes/isa/41/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

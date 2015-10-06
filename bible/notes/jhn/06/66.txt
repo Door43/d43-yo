@@ -1,0 +1,64 @@
+====== John 06:66-69 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 66 From that \add time\add*, many of his disciples left him and no longer went with him.
+\v 67 So he said to \add us\add* twelve \add apostles\add*, "You do not want to leave me also, do you?"
+\v 68 Simon Peter replied to him, "Lord, \add we\add* will not\add leave you\add*, \add because\add* there is no other person \add like you\add* to whom we can go!\f + \ft Or: what other person is there like \add you\add* to whom we can go? \f* \f + \ft rhetorical question \f* You have the message about eternal life!
+\v 69 We have come to believe for certain that you are the holy one \add who has come\add* from God!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 66 From that time on, many of Jesus' disciples turned back from following him.
+\v 67 So he said to the Twelve, "You also do not want to leave me, do you?"
+\v 68 Simon Peter replied, "Lord, to whom would we go? Only you have the message that allows us to live forever!
+\v 69 We trust in you, and we know for certain that you are the Holy One whom God has sent!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 66 After this, many of his disciples went back and walked no more with him.
+\v 67 Jesus said then to the twelve, "You do not want to go away also, do you?"
+\v 68 Simon Peter answered him, "Lord, to whom shall we go? You have the words of everlasting life,
+\v 69 and we have believed and come to know that you are the Holy One of God."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:disciple]]
+  * [[:yo:obe:kt:thetwelve]]
+  * [[:yo:obe:other:peter]]
+  * [[:yo:obe:kt:lordgod]]
+  * [[:yo:obe:kt:eternity]]
+  * [[:yo:obe:kt:holyone]]
+ 
+===== Translation Notes: =====
+
+
+    * **his disciples** - Here "his disciples" refers to the general group of people who followed Jesus. 
+    * **the twelve** - This is a specific group of twelve men who followed Jesus for his entire ministry. This could also be translated "the twelve disciples." (See: [[en:ta:vol2:translate:figs_ellipsis]])
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:06|John Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/06/64|<<]] | [[en/bible/notes/jhn/06/70|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

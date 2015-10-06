@@ -1,0 +1,60 @@
+====== Acts 11:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 Then Barnabas went to Tarsus \add city in Cilicia province to try\add* to find Saul.
+\v 26 After he found him, Barnabas brought him \add back to\add* Antioch \add to help teach the believers. So during\add* a whole year \add Barnabas and Saul\add* met \add regularly\add* with the congregation \add there\add* and taught many of them \add about Jesus. It was\add* at Antioch that the believers were first called Christians \f + \ft Or:\add that people\add* first called the believers Christians \f*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 Then Barnabas went to Tarsus city in Cilicia to look for Saul.
+\v 26 After he found him, Barnabas brought him back to Antioch to help teach the believers. So during a whole year Barnabas and Saul met regularly with the church there and taught large numbers of people about Jesus. It was at Antioch that the disciples were first called Christians.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 Barnabas then went out to Tarsus to look for Saul.
+\v 26 When he found him, he brought him to Antioch. It came about, that for an entire year they gathered together with the church and taught many people. The disciples were called Christians first in Antioch.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:barnabas]]
+  * [[en:obe:other:tarsus]]
+  * [[en:obe:other:paul]]
+  * [[en:obe:other:antioch]]
+  * [[en:obe:kt:church]]
+  * [[en:obe:kt:disciple]]
+  * [[en:obe:kt:christian]]
+
+===== Translation Notes: =====
+
+  * ** out to Tarsus** - "out to the city of Tarsus"
+  * **When he found him, he brought him** - "When Barnabas found Saul, Barnabas brought Saul"
+  * **They gathered together with** - "Barnabas and Saul gathered together with" or "Barnabas and Saul met regularly with"
+  * **The disciples were called Christians **- "The Antioch people called the disciples Christians" (see: [[en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:11|Acts Chapter 11 Comprehension Questions]]**
+**[[:yo:bible:notes:act:11:22|<<]] | [[:yo:bible:notes:act:11:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish barnabas tarsus  antioch disciple christian }}
+
+~~NOCACHE~~

@@ -1,0 +1,83 @@
+====== Psalms 072:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 I hope\f + \ft Or: desire \f* that our king will live a long time!
+\q2 I hope\f + \ft Or: desire \f* that he will be given gold from Sheba.
+\q1 I desire that people will always pray for our king
+\q2 and praise him all the time, \add every day\add*.
+\q1
+\v 16 I hope\f + \ft Or: desire \f* that the fields will produce plenty of grain \add everywhere, even\add* on the tops of the hills in the land where he rules,
+\q2 like the grain that grows on the hills in Lebanon.
+\q1 I hope\f + \ft Or: desire \f* that the cities \add in Israel\add* will be full of people
+\q2 like the fields are full of grass.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 I hope that our king may live a long time!
+\q2 I hope that he may be given gold from Sheba.
+\q1 I desire that people may always pray for our king
+\q2 and praise him all the time, every day.
+\q1
+\v 16 I hope that the fields may produce plenty of grain everywhere, even on the tops of the hills in the land where he rules,
+\q2 like the grain that grows on the hills in Lebanon.
+\q1 I hope that the cities in Israel will be full of people
+\q2 as the fields are full of grass.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 May the king live! May the gold of Sheba be given to him.
+\q May people always pray for him;
+\q may God bless him all day long.
+\q
+\v 16 May there be abundance of grain in the earth on the mountaintops;
+\q may their crops wave in the breeze like the trees of Lebanon.
+\q And the people in the cities flourish like grass on the earth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:gold]]
+  * [[:yo:obe:other:pray]]
+  * [[:yo:obe:other:grain]]
+  * [[:yo:obe:other:lebanon]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:072|Psalms Chapter 072 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/072/013|<<]] | [[en/bible/notes/psa/072/017|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

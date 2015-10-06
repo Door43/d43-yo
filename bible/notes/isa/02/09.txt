@@ -1,0 +1,89 @@
+====== Isaiah 02:9-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 So now they will be humbled
+\q2 and they will be caused to become disgraced—
+\q2 Yahweh, do not forgive them!
+\b
+\q1
+\v 10 All you people should crawl into \add the caves in\add* the rock cliffs!
+\q2 You should hide \add in pits\f + \ft Or: holes \f*\add* in the ground
+\q2 because of being afraid of Yahweh
+\q2 and of his glorious and awesome power.
+\q1
+\v 11 Yahweh will cause you people to no longer be arrogant
+\q2 and he will stop you from being proud.
+\q1 Only Yahweh will be praised\f + \ft Or: honored \f* on that day.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 So now they will be humbled;
+\q2 Yahweh will disgrace them.
+\q2 Yahweh, do not forgive them!
+\b
+\q1
+\v 10 All you people should crawl into the caves in the rock cliffs!
+\q2 You should hide in pits in the ground
+\q2 because you will be afraid of Yahweh
+\q2 and of his glorious and awesome power.
+\q1
+\v 11 Yahweh will cause you people to no longer be arrogant
+\q2 and he will stop you from being proud.
+\q1 On that day people will praise and honor only Yahweh.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 9 The people will be bowed down, and individuals will fall down; therefore do not accept them.
+\q1
+\v 10 Go into the rocky places and hide in the ground
+\q1 from the terror of Yahweh and from the glory of his majesty.
+\q1
+\v 11 The lofty gaze of man will be brought low, and the pride of men will be brought down, 
+\q1 and Yahweh alone will be exalted on that day.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:bow]]
+  * [[:yo:obe:kt:forgive]]
+  * [[:En:obe:other:terror]]
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:kt:majesty]]
+  * [[:yo:obe:other:proud]]
+  * [[:yo:obe:kt:exalt]]
+  * [[:yo:obe:kt:dayofthelord]]
+
+===== Translation Notes: =====
+
+In 2:9 Isaiah was speaking to God. In 2:10-11 Isaiah was speaking to the people.
+
+  * **The people will be bowed down, and individuals will fall down**  - The phrases "the people" and "individuals" used together means "all people." Alternate translation: "Every person will be made to bow down and be humbled." (See: [[en:ta:vol2:translate:figs_merism]])
+  * **therefore do not forgive them**  - Here Isaiah is talking to Yahweh.
+  * **Go into the rocky places**  - Here Isaiah is again talking to the people of Judah.
+  * **hide in the ground**  - "hide in the holes in the ground"
+  * **from the terror of Yahweh**  - Alternate translations: "to get away from Yahweh's terrifying presence" or "from Yahweh because you will be extremely afraid of him"
+  * **the glory of his majesty**  - Alternate translation: "his awesome power" or "his great power"
+  * **The lofty gaze of man will be brought low, and the pride of men will be brought down**  - Both of these phrases mean basically the same thing and are used for emphasis. This could be translated with an active verb: “He will make every prideful person humble." (See: [[en:ta:vol2:translate:figs_parallelism]] and [[en:ta:vol2:translate:figs_activepassive]])
+  * **Yahweh alone will be exalted**  - This can be translated with an active verb: "people will praise only Yahweh."
+  * **on that day**  - This refers to the time when Yahweh will judge all people. Translation alternate: “on the day that Yahweh comes to judge everyone.” (See: [[en:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:02|Isaiah Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:02:05|<<]] | [[:yo:bible:notes:isa:02:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,82 @@
+====== Isaiah 60:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Previously everyone hated you and ignored you,
+\q2 but now your city will be majestic\f + \ft Or: honored \f* forever;
+\q1 and \add I will cause you to be\add* joyful forever.
+\q1
+\v 16 People of all nations and their kings will gladly bring \f + \ft metaphor \f* their wealth to you.
+\q1 And when that happens, you will realize that I truly am Yahweh,
+\q2 the one who saves you and rescues you \add from your enemies\add*,
+\q2 and that I am the mighty one to whom you Israelite people belong.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Previously everyone hated you and ignored you,
+\q2 but now your city will be majestic forever;
+\q1 and I will cause you to be joyful forever.
+\q1
+\v 16 People of all nations and their kings will gladly bring their wealth to you.
+\q1 When that happens, you will realize that I truly am Yahweh,
+\q2 the one who saves you and rescues you from your enemies,
+\q2 and that I am the mighty one to whom you Israelite people belong.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 15 Instead of you being abandoned and hated, there will be no one to pass through you, 
+\q1 but I, I will make you a thing of pride forever, a
+joy from generation to generation.
+\q1
+\v 16 You will also drink the milk of the nations, and will nurse at the breast of kings; 
+\q1 you will know that I, Yahweh, am
+your Savior and your Redeemer, the Mighty One of Jacob.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:proud]]
+  * [[:yo:obe:kt:forever]]
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:other:generation]]
+  * [[:yo:obe:kt:savior]]
+  * [[:yo:obe:kt:redeem]]
+  * [[:yo:obe:other:mighty]]
+  * [[:yo:obe:other:jacob]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **there will be no one to pass through you** - "no one will ignore you"
+    * **You will also drink the milk of the nations, and will nurse at the breast of kings** - "Milk" is being compared to the wealth that the kings of all the other nations will gladly bring. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:60|Isaiah Chapter 60 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/60/14|<<]] | [[en/bible/notes/isa/60/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

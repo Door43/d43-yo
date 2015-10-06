@@ -1,0 +1,60 @@
+====== Genesis 41:55-57 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 55 When all the people of \f + \ft metonymy \f* Egypt had eaten all of their own food and were still hungry, they begged the king for food. So the king told all the people of Egypt, "Go to Joseph, and do what he tells you to do."
+\p
+\v 56 When the famine was very bad over the whole country, Joseph ordered his helpers to open the storehouses. Then they sold the grain in the storehouses to the people of Egypt, because the famine was very severe all over Egypt.
+\v 57 And people from many \f + \ft hyperbole \f* nearby countries came to Egypt to buy grain from Joseph, because the famine was very severe everywhere \f + \ft hyperbole \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 55 When all the people of  Egypt had eaten all of their own food and were still hungry, they begged the king for food. So the king told all the people of Egypt, "Go to Joseph and do what he tells you to do."
+\p
+\v 56 When the famine was very bad over the whole country, Joseph ordered his helpers to open the storehouses. Then they sold the grain in the storehouses to the people of Egypt, because the famine was very severe all over Egypt.
+\v 57 People from many nearby countries came to Egypt to buy grain from Joseph, because the famine was very severe everywhere.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 55 When all the land of Egypt was famished, the people cried to Pharaoh for food. Pharaoh said to all the Egyptians, "Go to Joseph and do what he says."
+\v 56 The famine was over all the face of the whole land. Joseph opened all the storehouses and sold to the Egyptians. The famine was severe in the land of Egypt.
+\v 57 All the earth was coming to Egypt to buy grain from Joseph, because the famine was severe in all the earth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:egypt]]
+  * [[en:obe:other:peoplegroup]]
+  * [[en:obe:other:pharaoh]]
+  * [[en:obe:other:egypt]]
+  * [[en:obe:other:josephot]]
+  * [[en:obe:other:famine]]
+  * [[en:obe:kt:face]]
+  * [[en:obe:other:grain]]
+ 
+
+===== Translation Notes: =====
+
+  * **When all the land of Egypt was famished** - "When all the Egyptians were starving" 
+  * **The famine was over all the face of the whole land** - "The famine had spread throughout the land"
+  * **storehouses** - buildings where grain was stored for future use
+  * **severe** - very harsh
+  * **All the earth was coming to Egypt** - "people were coming from all the regions around Egypt"
+  * **in all the earth**  - "throughout the land". It is likely that all the different trading partners and nations that were part of the Egyptian trading routes effected by the drought came to Egypt for grain.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:41|Genesis Chapter 41 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:41:53|<<]] | [[:yo:bible:notes:gen:42:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish egypt josephot famine}}
+
+~~NOCACHE~~

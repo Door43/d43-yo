@@ -1,0 +1,51 @@
+====== Genesis 29:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 When Yahweh saw that Jacob did not love Leah \add very much\add*, he enabled her to become pregnant. But Rachel was not able to become pregnant.
+\v 32 Leah gave birth to a son, whom she named Reuben, which sounds like the Hebrew words that mean 'look, a son!' She said, "Yahweh has seen that I was miserable, and because of that he has given me a son. Now, surely my husband will love me for giving birth to a son for him."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 When Yahweh saw that Jacob did not love Leah very much, he enabled her to become pregnant. But Rachel was not able to become pregnant.
+\v 32 Leah gave birth to a son, whom she named Reuben, which sounds like the Hebrew words that mean "look, a son!" She said, "Yahweh has seen that I was miserable, and because of that he has given me a son. Now, surely my husband will love me for giving birth to a son for him."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 31 Yahweh saw that Leah was not loved, so he caused her to become pregnant, but Rachel was childless.
+\v 32 Leah conceived and bore a son, and she called his name Reuben. For she said, "Because Yahweh has looked upon my affliction; for now my husband will love me."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[en:obe:kt:love]]
+  * [[:yo:obe:other:reuben]]
+  * [[:yo:obe:kt:afflict]]
+
+===== Translation Notes: =====
+
+  * **Leah was not loved**  - This can be translated with an active verb: "Jacob did not love Leah." (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **was childless**  - "was not able to have children"
+  * **Leah conceived and bore a son**  - "Leah became pregnant and gave birth to a son"
+  * **she called his name Reuben**  - Translators may also add a footnote that says: "The name Reuben means 'See, a son.'"
+  * **my affliction** - Leah was experiencing a certain amount of rejection from Jacob. "my emotional pain" or "my sorrow".
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:29|Genesis Chapter 29 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:29:28|<<]] | [[:yo:bible:notes:gen:29:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish  reuben afflict}}
+
+~~NOCACHE~~

@@ -1,0 +1,66 @@
+====== Psalms 053:6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 I wish\f + \ft Or: desire \f* that someone from Jerusalem \f + \ft metonymy \f* would come and rescue the Israelite people!
+\q2 God, when you bless your people again,
+\q1 all the Israelite people, all the descendants of Jacob, will rejoice.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 I wish that God would come and rescue the Israelite people!
+\q2 God, when you bless your people again,
+\q1 all the Israelite people, all the descendants of Jacob, will rejoice.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Oh, that the salvation of Israel had come from Zion!
+\q When God brings back his people from  the captivity,
+\q then Jacob will rejoice and Israel will be glad!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:salvation]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:kt:peopleofgod]]
+  * [[:yo:obe:other:captive]]
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:other:rejoice]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:053|Psalms Chapter 053 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/053/004|<<]] | [[en/bible/notes/psa/054/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

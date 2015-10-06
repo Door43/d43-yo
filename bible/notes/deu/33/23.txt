@@ -1,0 +1,70 @@
+====== Deuteronomy 33:23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 I say this about \add the tribe of\add* Naphtali:
+\q1 \add The people of the tribe of\add* Naphtali have been blessed by Yahweh, who has been very kind to them;
+\q2 their land extends far south from Lake \add Galilee\add*.
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 I say this about the tribe of Naphtali:
+\q The people of the tribe of Naphtali have been blessed by Yahweh, who has been very kind to them;
+\q their land extends far south from Lake Galilee.
+\b
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 About Naphtali, Moses said,
+\q “Naphtali, satisfied with favor,
+\q and full of the blessing of Yahweh,
+\q take possession of the land to the west and south.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:naphtali]]
+  * [[:yo:obe:kt:favor]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:other:possess]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/22|<<]] | [[en/bible/notes/deu/33/24|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

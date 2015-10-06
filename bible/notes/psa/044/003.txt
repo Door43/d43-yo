@@ -1,0 +1,88 @@
+====== Psalms 044:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 It was not by using their own swords that they conquered the people that lived in that land,
+\q2 and it was not by their own power that they were victorious;
+\q1 it was only by your power \f + \ft metonymy, doublet \f* \add that they did those things\add*;
+\q2 and they were sure that you were with them,
+\q2 and that showed that you were pleased with them.
+\b
+\q1
+\v 4 You are my King and my God;
+\q2 it is you who enable us, your people \f + \ft metonymy \f*, to defeat our enemies.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 It was not by using their own swords that they conquered the people that lived in that land,
+\q2 and it was not by their own power that they were victorious;
+\q1 it was only by your power that they did those things;
+\q2 and they were sure that you were with them,
+\q2 and that showed that you were pleased with them.
+\b
+\q1
+\v 4 You are my King and my God;
+\q2 Make us able, your people, to defeat our enemies.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 For they did not obtain the land for their possession by their own sword,
+\q neither did their own arm save them;
+\q but your right hand, your arm, and the light of your face,
+\q because you were favorable to them.
+\q
+\v 4 God, You are my King;
+\q command victory for Jacob.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:possess]]
+  * [[:yo:obe:other:sword]]
+  * [[:yo:obe:kt:save]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:face]]
+  * [[:yo:obe:kt:favor]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:other:jacob]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:044|Psalms Chapter 044 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/044/001|<<]] | [[en/bible/notes/psa/044/005|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

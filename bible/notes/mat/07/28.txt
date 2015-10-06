@@ -1,0 +1,44 @@
+====== Matthew 07:28-29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 28 When Jesus finished saying all those things, the crowd \add who had heard him was\add* amazed at the \add new\add* teaching that he had taught them.
+\v 29 The reason they were amazed was that he was teaching as a person does who has \add his own\add* authority. He was not teaching like the men who taught the \add Jewish\add* laws, \add who just repeated what other people had taught them\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 28 When Jesus finished teaching all those things, the crowds who had heard him were amazed by how he taught.
+\v 29 He taught like a teacher who relies on what he himself knows. He did not teach like those who taught the Jewish laws, who repeated the different things that other men had taught.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 28 It came about that when Jesus finished speaking these words, the crowds were astonished by his teaching,
+\v 29 for he taught them as one who had authority, and not as their scribes.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:amazed]]
+  * [[:yo:obe:other:scribe]]
+  * [[:yo:obe:kt:authority]]
+
+===== Translation Notes: =====
+
+  * **It came about**  - If your language has a way of expressing the beginning of a new section in a story, use it here. (See: TAlink:Discourse)
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:07|Matthew Chapter 07 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:07:26|<<]] | [[:yo:bible:notes:mat:08:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish amazed scribe talink}}
+
+~~NOCACHE~~

@@ -1,0 +1,53 @@
+====== Romans 02:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 It is not those who perform rituals  \add to show they are God's people\add* who are  \add true\add* Jews, and it is not being circumcised in their bodies  \add that causes God to accept them\add* \f + \ft metonymy \f*.
+\v 29 On the contrary, we whom  \add God has changed\add* inwardly are  \add true\add* Jews \f + \ft metonymy \f*. And  \add God has accepted us because we have allowed God's\add* Spirit to change our hearts, not because we perform rituals. Even if  \add other\add* people will not praise us, God will praise us.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 It is not those who perform rituals for God who are true Jews, and it is not being circumcised in their bodies that causes God to accept them.
+\v 29 On the contrary, we whom God has changed inwardly are the true Jews. God has accepted us because we have allowed God's Spirit to change our nature, not because we perform rituals. Even if other people will not praise us, God will praise us.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 For he is not a Jew who is merely one outwardly; neither is circumcision that which is merely outward in the flesh.
+\v 29 But he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit, not in the letter. The praise of such a person comes not from people but from God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jew]]
+  * [[en:obe:kt:circumcise]]
+  * [[en:obe:kt:flesh]]
+  * [[en:obe:other:heart]]
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:other:praise]]
+  * [[en:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+
+  * **outwardly** - This refers to Jewish rituals which people can see.
+  * **outward** - This is the physical evidence on his genitals that a man has received circumcision.
+  * **he is a Jew who is one inwardly, and circumcision is that of the heart** - This is a doublet in which "he is a Jew who is one inwardly" explains the metaphor "circumcision is that of the heart."
+  * **inwardly** – This refers to the values and motivations of the person whom God has transformed.
+  * **in the spirit** - This probably refers to the internal, spiritual part of a person, in contrast to the outward "letter" of the Law. However, it is also possible that it refers to the Holy Spirit (see UDB).
+  * **not in the letter** - A “letter” is the smallest part of written language. Here it refers to written Scripture. Alternative translation: “through the work of the Holy Spirit, not because you know the scriptures.” (See: [[en:ta:vol2:translate:figs_synecdoche]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:02|Romans Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:02:25|<<]] | [[:yo:bible:notes:rom:03:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

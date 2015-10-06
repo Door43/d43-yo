@@ -1,0 +1,57 @@
+====== Genesis 27:43-45 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 43 So now, my son, listen carefully to what I am telling you. Escape quickly and go and stay with my brother Laban, in Haran.
+\v 44 Stay with him a while, until your older brother is no longer angry.
+\v 45 When he forgets what you did to him, I will send a message to you, to tell you to return from there. If Esau kills you, then others will kill him, and then both my sons would die at the same time!" \f + \ft rhetorical question \f*
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 43 So now, my son, listen carefully to what I am telling you. Escape quickly and go and stay with my brother Laban, in Haran.
+\v 44 Stay with him a while, until your older brother is no longer angry.
+\v 45 When he forgets what you did to him, I will send a message to you to tell you to return from there. If Esau killed you, then others would kill him, and then both my sons would die at the same time!" 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 43 Now therefore, my son, obey me and  flee  to Laban, my brother, in Haran.
+\v 44 Stay with him there for a few days, until your brother’s fury subsides,
+\v 45 until your brother’s anger turns away from you, and he forgets what you have done to him. Then I will send and bring you back from there. Why should I lose you  both in one day?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:obey]]
+  * [[:yo:obe:other:laban]]
+  * [[:yo:obe:other:haran]]
+
+
+===== Translation Notes: =====
+
+  * **flee to Laban** - "leave here quickly and go to Laban"
+  * **for a few days** - "for a period of time" or "for a while"
+  * **until your brother’s fury subsides** - "until you brother calms down"
+  * **until your brother’s anger turns away from you** - "until he is no longer angry with you"
+  * **Why should I lose you both in one day?**  - Rebekah uses a question to emphasize her concern. This can be translated as a statement: "I do not want to lose both of you in one day." (See: [[en:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:27|Genesis Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:27:41|<<]] | [[:yo:bible:notes:gen:27:46|>>]]**
+
+~~DISCUSSION~~{{tag>publish  haran laban}}
+
+~~NOCACHE~~

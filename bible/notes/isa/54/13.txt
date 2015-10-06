@@ -1,0 +1,77 @@
+====== Isaiah 54:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 I will be the one who will teach you people
+\q2 and cause things to go well with you.
+\q1
+\v 14 Your \add government\add* will be strong because of acting justly\f + \ft Or: fairly \f*;
+\q1 no one will oppress you\f + \ft Or: cause you to suffer \f*;
+\q2 you will not be afraid,
+\q2 because there will be nothing \f + \ft personification \f* that will terrorize you\f + \ft Or: cause you to become extremely afraid \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 I will be the one who will teach you people
+\q2 and cause things to go well with you.
+\q1
+\v 14 Your government will be strong because it will act justly;
+\q1 no one will oppress you;
+\q2 you will not be afraid,
+\q2 because nothing will come near you that will make you fear.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 13 And all your children will be taught by Yahweh; 
+\q1 and the peace of your children will be great.
+\q1
+\v 14 "In righteousness I will reestablish you. 
+\q1 You  will no longer experience persecution, for you will not be afraid, and nothing frightening 
+will come near you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:peace]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:other:persecute]]
+  * [[:yo:obe:kt:fear]]
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **and nothing frightening will come near you** - Here Yahweh is speaking of "fearful things" with humanistic characteristics. (See: [[en:ta:vol2:translate:figs_personification]])
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:54|Isaiah Chapter 54 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/54/11|<<]] | [[en/bible/notes/isa/54/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

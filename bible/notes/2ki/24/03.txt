@@ -1,0 +1,66 @@
+====== 2 Kings 24:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 These things happened to the people of Judah according to what Yahweh commanded. \add He had decided\add* to get rid of the people of Judah because of the many sins that King Manasseh \add had committed\add*.
+\v 4 Manasseh had even caused many innocent people in Jerusalem to be killed, and Yahweh would not forgive that.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 These things happened to the people of Judah just as Yahweh had commanded. He decided to destroy the people of Judah because of the many sins that King Manasseh had committed.
+\v 4 Manasseh had even caused many innocent people in Jerusalem to be killed, and Yahweh would not forgive that.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 It was certainly at the commandment of Yahweh that this came on Judah, to remove them out of his sight, because of the sins of Manasseh, all that he did,
+\v 4 and also because of the innocent blood that he shed, for he filled Jerusalem with innocent blood. Yahweh was not willing to pardon that.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:other:manasseh]]
+  * [[:yo:obe:kt:innocent]]
+  * [[:yo:obe:kt:blood]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:other:pardon]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:24|2 Kings Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/24/01|<<]] | [[en/bible/notes/2ki/24/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

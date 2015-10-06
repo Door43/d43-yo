@@ -1,0 +1,57 @@
+====== 1 Corinthians 10:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 However, \add we also conclude that\add* God was angry \f + \ft litotes \f* with most of those people \add because they sinned against him. He caused almost all of them to die, and as\add* a result their bodies were scattered in the desert.
+
+
+\p
+\v 6 Those things \add that happened long ago\add* became examples to teach us \add the following things\add*: We should not desire to \add do\add* evil things as those people desired to do.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 But God was angry with most of them because they worshiped other gods and rebelled against him, so their dead bodies lay on the ground all across the wilderness.
+
+\p
+\v 6 Now these things were an example for us, so we would learn not to greatly desire evil things, as they did.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 But God was not well pleased with most of them, and their corpses were strewn about in the wilderness.
+\v 6 Now these things were examples for us, so we would not crave evil things as they did.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:body]]
+  * [[:yo:obe:other:desert]]
+  * [[:yo:obe:other:lust]]
+  * [[:yo:obe:kt:evil]] 
+===== Translation Notes: =====
+
+  * **not well pleased** - "displeased" or "angry" (See: UDB)
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1co:10|1 Corinthians Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1co/10/01|<<]] | [[en/bible/notes/1co/10/07|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

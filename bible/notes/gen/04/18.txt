@@ -1,0 +1,42 @@
+====== Genesis 04:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Enoch \add grew up and married and\add* became the father of a son whom he named Irad. When Irad \add grew up he\add* became the father of a son whom he named Mehujael. Mehujael \add grew up and\add* became the father of a son whom he named Methuselah. Methuselah \add grew up and\add* became the farther of Lamech.
+\v 19 When Lamech \add grew up he\add* married two women. The name of one was Adah and the other was Zillah.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Enoch grew up and married and became the father of a son whom he named Irad. When Irad grew up he became the father of a son whom he named Mehujael. Mehujael grew up and became the father of a son whom he named Methushael. Methushael grew up and became the father of Lamech.
+\v 19 When Lamech grew up he married two women. The name of one was Adah and the name of the other was Zillah.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 To Enoch was born Irad. Irad became the father of Mehujael. Mehujael became the father of Methushael. Methushael became the father of Lamech.
+\v 19 Lamech took for himself two wives: the name of the one was Adah, and the name of the other was Zillah.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:lamech]]
+
+===== Translation Notes: =====
+
+  * **To Enoch was born Irad**  - This can be translated as "Enoch had a son and named him Irad" or "Enoch became the father of Irad." Verse 17 told about Enoch being born. Verse 18 tells about Enoch having a son. The implied information is that Enoch grew up and married a woman. This can be made explicit as it is in the UDB. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Irad became the father of Mehujael** - This can be translated as "Irad had a son and named him Mehujael."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:04|Genesis Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:04:16|<<]] | [[:yo:bible:notes:gen:04:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish lamech}}

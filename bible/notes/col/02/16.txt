@@ -1,0 +1,52 @@
+====== Colossians 02:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 So disregard anyone who says that God will punish you because you eat \add certain foods\add* and because you drink \add certain drinks\add* or because \add you do not celebrate\add* special \add yearly\add* festivals or celebrate the time when the new moon \add appears\add* or weekly Sabbaths\f + \ft Or: Jewish days of rest \f*.
+\v 17 \add Disregard such people\add* because those \add regulations\f + \ft Or: rules \f* about food and drink and festivals\add* are \add only\add* like a shadow \f + \ft metaphor \f* \add that is cast by something that is approaching; that is, they merely represent\add* the real spiritual blessings that Christ \add has given to you\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 So disregard anyone who says that God will punish you because you eat certain foods and drink certain drinks or because you do not celebrate special yearly festivals or when the new moon appears or weekly Sabbaths.
+\v 17 These kinds of rules and events only picture what is truly  coming. What is truly coming is Christ himself.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 So then, let no one judge you in eating or in drinking, or about a feast day or a new moon, or about Sabbath days.
+\v 17 These are a shadow of the things to come, but the reality is Christ.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:judge]]
+  * [[en:obe:other:feast]]
+  * [[en:obe:kt:sabbath]]
+  * [[en:obe:kt:christ]]
+ 
+
+===== Translation Notes: =====
+
+  * **let no one judge you** - Paul was warning the believers against the Jews who wanted to make the Gentiles follow the Law of Moses. 
+  * **in eating or in drinking** - The Law of Moses included what one can eat and drink. This can be translated as, "in what you eat or in what your drink". 
+  * **about a feast day or a new moon, or about Sabbath days**  - The Law of Moses specified what days to celebrate, days to worship, and days to offer sacrifice.
+  * **a shadow of the things to come ** - This metaphor compares the way a shadow only gives an vague idea of the shape and nature of an object to the way religious traditions such as the Law of Moses can only partially show the reality of Jesus Christ. (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:col:02|Colossians Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:col:02:13|<<]] | [[:yo:bible:notes:col:02:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

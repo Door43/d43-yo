@@ -1,0 +1,59 @@
+====== Philippians 03:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 I was \add so\add* zealous \add to make people obey those laws that\add* I caused the people who believe in Christ to suffer \add because I thought they were trying to abolish those laws. Indeed\add*, as far as my obeying those laws is concerned, no \add one could\add* have accused \add me by\add* saying that I had disobeyed any of those laws.
+
+
+\p
+\v 7 Nevertheless, all such things as those, which I used to \add consider to\add* be useful to me, those \add very\add* things I now consider worthless, because I \add want to know\add* Christ \f + \ft Or: in order that I \add may know\add* Christ \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 I was so passionate to make people obey the Law that I caused believers in Christ to suffer. No one could say that I ever disobeyed the Law.
+
+
+
+\p
+\v 7 But everything that I then considered to be important I now consider to be worthless, because Christ has changed me.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 I zealously persecuted the church and was blameless in respect to the righteousness of the law. 
+\v 7 But whatever things seemed to count to my credit, I have counted them as worthless because of Christ.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:zealous]]
+  * [[en:obe:other:persecute]]
+  * [[en:obe:kt:church]]
+  * [[en:obe:kt:blameless]]
+  * [[en:obe:kt:righteous]]
+  * [[en:obe:kt:lawofmoses]]
+  * [[en:obe:kt:christ]]
+ 
+
+===== Translation Notes: =====
+
+  * **I zealously persecuted the church** - "I was very determined to hurt Christian believers"
+  * **was blameless in respect to the righteousness of the Law** - "obeyed the law completely"
+  * **I have counted them as worthless** - Paul concludes that all his religious acts of righteousness as being worthless before Christ.
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:php:03|Philippians Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:php:03:04|<<]] | [[:yo:bible:notes:php:03:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish  zealous persecute blameless }}
+
+~~NOCACHE~~

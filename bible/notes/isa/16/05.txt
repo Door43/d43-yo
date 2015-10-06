@@ -1,0 +1,58 @@
+====== Isaiah 16:5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 Then Yahweh will appoint someone to be king
+\q2 who will be \add a descendant of King\add* David.
+\q2 As he rules \f + \ft metonymy \f*, he will be merciful and truthful.
+\q1 He will always do what is fair\f + \ft Or: just \f*
+\q2 and quickly do what is righteous."
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Then Yahweh will appoint someone to be king
+\q2 who will be a descendant of King David.
+\q2 As this man rules, he will be merciful and truthful.
+\q1 He will always do what is fair
+\q2 and quickly do what is righteous.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 5 A throne will be established in covenant faithfulness; and one from David's tent will faithfully sit there. 
+\q1 He will  judge as he seeks justice and does righteousness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:throne]]
+  * [[:yo:obe:kt:covenant]]
+  * [[en:obe:other:david]]
+  * [[:yo:obe:kt:faithful]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:justice]]
+  * [[:yo:obe:kt:righteous]]
+
+===== Translation Notes: =====
+
+  * **A throne will be established in covenant faithfulness** - Here "throne" refers to the power to rule as king over the people. AT: "Yahweh will be faithful to the covenant and he will appoint a king." (See: [[en:ta:vol2:translate:figs_metonymy]] and [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **and one from David's tent will faithfully sit there** - Here "David's tent" means the king will be a descendant of King David. AT: "and he will be a descendant of King David and he will be faithful"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:16|Isaiah Chapter 16 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:16:03|<<]] | [[:yo:bible:notes:isa:16:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

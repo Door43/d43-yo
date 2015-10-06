@@ -1,0 +1,57 @@
+====== Joshua 15:25-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 Hazor-Hadattah, Kerioth-Hezron (which is also named Hazor),
+\v 26 Amam, Shema, Molodah,
+\v 27 Hazar-Gaddah, Heshmon, Beth-Pelet,
+\v 28 Hazar-Shual, Beersheba, Biziothiah,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 Also Hazor Hadattah, Kerioth Hezron (also called Hazor),
+\v 26 Amam, Shema, Molodah,
+\v 27 Hazar Gaddah, Heshmon, Beth Pelet,
+\v 28 Hazar Shual, Beersheba, and Biziothiah.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 Hazor Hadattah, Kerioth Hezron (this was also known as Hazor),
+\v 26 Amam, Shema, Moladah,
+\v 27 Hazar Gaddah, Heshmon, Beth Pelet,
+\v 28 Hazar Shual, Beersheba, Biziothiah.
+</usfm>
+
+
+===== Important Terms: =====
+  *[[en:obe:other:beersheba]]
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **Hazor, Hadattah, Kerioth Hezron, Amam, Shemah, Moladah, Hazar Gaddah, Heshmon, Beth Pelet, Hazar Shual, Biziothiah**  - names of places or locations (See: [[en:ta:vol1:translate:translate_names]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:15|Joshua Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/15/21|<<]] | [[en/bible/notes/jos/15/29|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

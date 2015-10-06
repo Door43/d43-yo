@@ -1,0 +1,74 @@
+====== Psalms 054:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 But God is the one who helps me;
+\q2 Yahweh defends\f + \ft Or: protects \f* me \add from my enemies\add*.
+\q1
+\v 5 He will cause the evil things that they want to do to me to happen to them instead;
+\q2 because he faithfully \add does what he promises\add*, he will get rid of them.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 But God is the one who helps me;
+\q2 Yahweh defends me from my enemies.
+\q1
+\v 5 He will cause the evil things that they want to do to me to happen to them instead;
+\q2 because you faithfully does what you have promised to me, destroy them.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 See, God is my helper;
+\q the Lord is the one who sustains my soul.
+\q
+\v 5 He will repay the evil to my enemies;
+\q destroy them in your trustworthiness for me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:trust]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:054|Psalms Chapter 054 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/054/001|<<]] | [[en/bible/notes/psa/054/006|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

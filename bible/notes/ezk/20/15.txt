@@ -1,0 +1,54 @@
+====== Ezekiel 20:15-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 I liften up my hand and solemnly declared to them in the desert that I would not take them into the land that I \add had promised to\add* give them, a land that was very fertile [IDI] and very beautiful\f + \ft Or: more beautiful than any other \f* land.
+\v 16 The reason that I promised that was because they rejected and disobeyed all my laws \f + \ft doublet \f* and desecrated\f + \ft Or: refused to rest on \f* the Sabbath days. They did that because they \f + \ft synecdoche \f* were devoted to \add worshiping\add* their idols.
+\v 17 But, I still pitied them and did not get rid of them in the desert.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 I solemnly swore to your people in the wilderness that I would not take them into the land that I had promised to give them, a land that was the most fertile and beautiful land in the world.
+\v 16 I made this oath, because they had rejected and disobeyed all my laws, and because they were treating the Sabbath days like any other day. And they insisted on worshiping their idols.
+\v 17 But I still pitied them, so I did not destroy them in the wilderness.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 So I myself also raised my hand to swear an oath to  them in the wilderness not to bring them into the land that I had been going to give them, a land flowing with milk and honey. which was the most beautiful ornament among all the lands.
+\v 16 I swore this because they had rejected my decrees and did not walk in my statutes, and they profaned my Sabbaths, since their hearts walked after 
+their idols.
+ 
+\v 17 But my eye had compassion for them because of their destruction, so I did not annihilate them in the wilderness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:compassion]]
+
+
+===== Translation Notes: =====
+
+  * **I, my**  - These pronouns refer to Yahweh
+  * **lifted up my hand **  - See how you translated this in Ezekiel 20:5
+  * **land….flowing with milk and honey**- This means the land is beautiful and fertile (See: Metonymy).
+  * **rejected my judgments **  - This means they pushed Yahweh's laws away.
+  * **did not walk in my statutes **  - "were disobedient to Yahweh's laws"
+  * **profaned **- "disrespected" or "violated"
+  * **Sabbath**- See how we translated in Ezekiel 20:12
+  * **their hearts walked after their idols**- This means they desired to worship their idols (See: Metaphor).
+  * **my eye had compassion **  -This means Yahweh looked at them with pity (See: Metaphor).
+  * **annihilate**  - "destroy"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:20|Ezekiel Chapter 20 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:20:13|<<]] | [[:yo:bible:notes:ezk:20:18|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

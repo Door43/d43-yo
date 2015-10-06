@@ -1,0 +1,57 @@
+====== Matthew 24:15-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 "\add But before the world ends\add*, the disgusting person who will defile \add the\add* holy\add Temple and cause people to abandon it will stand in the Temple. Daniel the prophet spoke and wrote\add* about that \add long ago\add*. May everyone who reads \add this\add* pay attention \add to the following warning from me:\add*
+\v 16 When you see that happen\add in the Temple, those of you\add* who are in Judea \add district\add* must flee to the \add higher\add* hills!
+\v 17 Those who are outside their houses must not go back into their houses to get things \add before they flee\add*.
+\v 18 Those who are \add working\add* in a field should not turn back to get their outer clothing \add before they flee\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 "But before the world ends, the disgusting person who will defile the holy Temple and cause people to abandon it will stand in the Temple. Daniel the prophet spoke and wrote about that long ago. May everyone who reads this pay attention to me, because I am warning you.
+\v 16 When you see that happen in the Temple, those of you who are in the reigion of Judea must flee to the higher hills!
+\v 17 Those who are outside their houses must not go back into their houses to get things before they run away.
+\v 18 Those who are working in a field should not turn back to get their outer clothing before they flee.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Therefore, when you see the abomination of desolation, which was spoken of by Daniel the prophet, standing in the holy 
+place (let the reader understand),
+\v 16 let those who are in Judea flee to the mountains, 
+\v 17 let him who is on the housetop not go down to take out anything that is in his house, 
+\v 18 and let him who is in the field not return to take his cloak.
+</usfm>
+
+===== Important Terms: =====
+
+  * abomination
+  * [[:yo:obe:other:daniel]]
+  * [[:yo:obe:other:judea]]
+
+===== Translation Notes: =====
+
+Jesus continues to tell his disciples what will happen before he comes again.
+
+  * **abomination**  - This means something one hates and considers very bad.
+  * **desolation**  - This means ruin, devastation. ​
+  * **when you see the abomination of desolation **- This probably refers to something that is religiously unclean and a symbol of destroying God's name.
+  * **which was spoken of by Daniel the prophet **- written about by the Old Testament prophet Daniel (9:27; 11:31). This can be translated as "which Daniel, the Old Testament prophet, wrote about (9:27, 11:31). (See: Active/Passive)
+  * **standing in the holy place **  - This means that the abomination of desolation, either a very bad person or a statute representing him, will be set up in the holy place.
+  * **the holy place**  - This refers to: 1) the part of the Jewish temple that was set apart for special offerings; or 2) a place that the people considered special for God's service.
+  * **housetop**  - This refers to the roof, which at that time was usually flat with an outside stairway; a place to rest and relax.
+  * **cloak**  - "coat​"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:24|Matthew Chapter 24 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:24:12|<<]] | [[:yo:bible:notes:mat:24:19|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,41 @@
+====== Ezekiel 01:26 ======
+
+===== TFT: =====
+
+<usfm>
+\v 26 Above the dome was something that resembled a huge throne \add that was made of a huge\add* sapphire\f + \ft Or: valuable blue stone \f*. Sitting on the throne was someone that resembled a human.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 26 Above the dome was something that resembled a huge throne that was made of a huge sapphire. Sitting on the throne was someone that resembled a human.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 Above the dome over their heads was the appearance of a throne that looked like sapphire, and on the throne was the appearance of one who looked like a man.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:throne]]
+
+===== Translation Notes: =====
+
+  * **over their heads** – "over the heads of the living creatures"
+  * **was the appearance of a throne** - "was something that looked like a throne"
+  * **sapphire**  - a very valuable stone that is clear blue and very shiny
+  * **on the throne was** - "on the throne there was"
+  * **the appearance of one who looked like a man** – "someone who looked like a man" or "someone who looked like person"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:01|Ezekiel Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:01:24|<<]] | [[:yo:bible:notes:ezk:01:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

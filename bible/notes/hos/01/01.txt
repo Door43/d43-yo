@@ -1,0 +1,62 @@
+====== Hosea 01:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add I am\add* Hosea, the son of Beeri. Yahweh gave me these messages \add at various times\add* during the years that Uzziah, Jotham, Ahaz, and Hezekiah were the kings of Judah, and Jeroboam the son of Jehoash was the king of Israel.
+
+\p
+\v 2 When Yahweh first began to give messages to me \add to tell to the people of Israel\add*, he said to me, "Go and marry a prostitute, in order that \add some of\add* her children will be born as a result of her having sex with men to whom she is not married. That will illustrate how the people of Israel have turned away from me and worship idols\f + \ft Or: other gods \f*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh gave Hosea these messages during the years that Uzziah, Jotham, Ahaz, and Hezekiah were kings of Judah, and Jeroboam son of Jehoash, was king of Israel.
+\p
+\v 2 When Yahweh spoke through the prophet Hosea, and he said, "Go and marry a prostitute, and she will have children who will be born because she has given herself to other men. When you marry a prostitute, this will show how my people have been so shamefully unfaithful to me, and they have left Yahweh, their God."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 The word of Yahweh that came to Hosea (the son of Beeri), in the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
+\v 2 When Yahweh spoke at first through Hosea, Yahweh said to Hosea,
+\q "Go, take for yourself a wife who is a prostitute 
+\q and she will have children who are the result of her prostitution.
+\q For the land commits a great act of prostitution
+\q because they have forsaken Yahweh."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:01|Hosea Chapter 01 Comprehension Questions]]**
+** | [[:yo:bible:notes:hos:01:03|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,72 @@
+====== Psalms 132:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Yahweh has chosen Jerusalem;
+\q1 he has wanted to make that city his home;
+\q1
+\v 14 he said, "This is the city where I will live forever \f + \ft doublet \f*;
+\q2 this is the place where I wanted to stay.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Yahweh has chosen Jerusalem;
+\q1 he has wanted to make that city his home;
+\q1
+\v 14 he said, "This is the city where I will live forever;
+\q2 this is the place where I wanted to stay.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Certainly Yahweh has chosen Zion;
+\q he has desired it for his seat.
+\q
+\v 14 This is my resting place forever;
+\q I will live here, for I desire it.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:elect]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:kt:life]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:132|Psalms Chapter 132 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/132/011|<<]] | [[en/bible/notes/psa/132/015|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

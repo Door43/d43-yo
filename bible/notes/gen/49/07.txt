@@ -1,0 +1,56 @@
+====== Genesis 49:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 God says, 'I will curse\f + \ft Or: cause bad things to happen to \f* them for being very angry,
+\q for acting very cruelly when they were very furious.
+\q I will scatter their descendants \f + \ft metonymy \f* throughout Israel land.'
+\q
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 God says, 'I will curse them for being very angry,
+for acting very cruelly when they were very furious.
+I will scatter their descendants throughout Israel land.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 May their anger be cursed, for it was fierce—
+\q and their fury, for it was cruel.
+\q I will divide them in Jacob
+\q and scatter them in Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:curse]]
+  * [[en:obe:other:angry]]
+  * [[:yo:obe:other:israel]] 
+
+===== Translation Notes: =====
+
+
+    * **Cursed be their anger** - In prophecy, the prophet will often speak the words of God as if God himself were speaking. This emphasizes how closely united the prophet and God are. Alternate translation: "The Lord says, "I will curse them because of their anger" or "I, the Lord, will curse them because of their anger."
+    * **I will divide them in Jacob and scatter them in Israel** - The word "I" refers to God. The word "them" refers to Simeon and Levi but it is a prophecy about their descendants. The words "Jacob" and "Israel" refer to all people of Israel. Alternate translation: "I will divide their descendants and scatter them among all the people of Israel." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:gen:49|Genesis Chapter 49 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:49:05|<<]] | [[:yo:bible:notes:gen:49:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

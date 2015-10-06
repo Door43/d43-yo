@@ -1,0 +1,49 @@
+====== Genesis 21:28-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 28 Abraham separated seven female lambs from the flock.
+\v 29 Abimelech asked Abraham, "What are these seven female lambs that you have separated from the rest of the flock?"
+\v 30 Abraham replied, "I want you truly to accept these female lambs from me \f + \ft synecdoche \f*, so that it may be a public witness\f + \ft Or: proof \f* that this well belongs to me because I dug it."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 28 Abraham went to his flock and chose seven female lambs from it.
+\v 29 Abimelech asked Abraham, "Why have you taken these seven female lambs from your flock?"
+\v 30 Abraham replied, "I want you to accept these female lambs from me. In this way, my gift to you will be proof to everyone that this well belongs to me because I dug it."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 28 Then Abraham set seven female lambs of the flock by themselves.
+\v 29 Abimelech said to Abraham, "What is the meaning of these seven female lambs that you have set by themselves?"
+\v 30 He replied, "These seven female lambs you will receive from my hand, so that it may be a witness for me, that I dug this well."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:kt:lamb]]
+  * [[:yo:obe:other:abimelech]]
+  * [[:yo:obe:kt:witness]]
+===== Translation Notes: =====
+
+  * **Abraham set seven female lambs of the flock by themselves**  - "Abraham separated seven female lambs from the flock"
+  * **seven**  - "7" (See: [[en:ta:vol2:translate:translate_numbers]])
+  * **the flock**  - This refers to the group of Abraham's sheep.
+  * **What is the meaning of these seven female lambs that you have set by themselves?**  - "Why have you separated these seven lambs from the flock?"
+  * **you will receive **- "you will take"
+  * **from my hand**  - "from me" (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **so that it may be a witness for me**  - This can be translated as "to prove to everyone."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:21|Genesis Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:21:25|<<]] | [[:yo:bible:notes:gen:21:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

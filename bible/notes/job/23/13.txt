@@ -1,0 +1,71 @@
+====== Job 23:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 He never changes. There is no one who can \f + \ft rhetorical question \f* stop him \add from doing what he desires\add*.
+\q2 Whatever he wants to do, he does.
+\q1
+\v 14 And he will finish doing the things that he has planned for me;
+\q2 \add and I am sure that\add* he has thought about doing many things for me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 He never changes. There is no one who can stop him from doing what he desires.
+\q2 Whatever he wants to do, he does.
+\q1
+\v 14 He will finish doing the things that he has planned for me,
+\q2 and I am sure that he has thought about doing many things for me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 But he is unchangeable; who can turn him?
+\q What his soul desires, that is what he does.
+\q
+\v 14 For he carries out his decrees for me;
+\q there are many examples of him doing this.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:other:decree]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:23|Job Chapter 23 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/23/10|<<]] | [[en/bible/notes/job/23/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

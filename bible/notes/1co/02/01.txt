@@ -1,0 +1,58 @@
+====== 1 Corinthians 02:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 My fellow believers, when I came to you, I proclaimed to you the message that God had revealed to me. But I did not proclaim it using eloquent words that would make people think highly of me, nor did I argue in a way that unbelievers would think was very wise.
+\v 2 I did that because I decided that I would speak only about Jesus Christ. Specifically, I told you  \add what he accomplished for us when\add* he was killed by being nailed \f + \ft Or:\add when they\add* killed him by nailing him \f* to a cross.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 When I came to you, brothers and sisters, I did not make beautiful speeches, nor did I repeat to you the things that wise men said. I told you the hidden truths about God.
+\v 2 I decided not to talk to you about anything other than Jesus Christ and his death on the cross.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 When I came to you, brothers and sisters, I did not come with eloquence of speech or wisdom as I proclaimed hidden truths about God. 
+\v 2 For I decided to know nothing when I was among you except Jesus Christ, and him crucified.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:other:proclaim]]
+  * [[:yo:obe:other:mystery]]
+  * [[:yo:obe:other:know]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:crucify]]
+
+===== Translation Notes: =====
+
+  * **eloquence of speech**  - a persuasive and elegant way of speaking.
+  * **to know nothing**  - Paul focused on the crucifixion of Christ rather than on human ideas. By stating he would "know nothing ... except Christ" he was emphasizing complete focus on Christ.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1co:02|1 Corinthians Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1co/01/30|<<]] | [[en/bible/notes/1co/02/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr1co}}
+
+~~NOCACHE~~

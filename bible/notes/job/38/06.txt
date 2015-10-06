@@ -1,0 +1,75 @@
+====== Job 38:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6-7 What supports the pillars on which the earth rests?
+\q1 When the stars \add that shine early in\add* the morning sang together,
+\q2 and someone put in place the stone that causes the earth to stay in its place,
+\q2 and all the angels shouted joyfully \add when they saw that happening\add*,
+\q1 who laid that cornerstone?
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6-7 What supports the pillars on which the earth rests?
+\q1 When the stars that shine early in the morning sang together,
+\q2 and someone put in place the stone that causes the earth to stay in its place,
+\q2 and all the angels shouted joyfully when they saw that happen,
+\q1 who laid that cornerstone?
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 On what were its foundations laid?
+\q Who laid its cornerstone
+\q
+\v 7 when the morning stars sang together,
+\q and all the sons of God shouted for joy?
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:foundation]]
+  * [[:yo:obe:kt:sonsofgod]]
+  * [[:yo:obe:kt:joy]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:38|Job Chapter 38 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/38/04|<<]] | [[en/bible/notes/job/38/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

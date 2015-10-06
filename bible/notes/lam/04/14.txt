@@ -1,0 +1,78 @@
+====== Lamentations 04:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 The prophets and priests wandered through the streets
+\q2 \add as though they were\add* blind.
+\q1 No one would touch them
+\q2 because their clothes were stained with the blood \add of people who had been killed\add*.
+\b
+\q1
+\v 15 The people \add who were alive\add* shouted, "Stay away from us \f + \ft doublet \f*! You are defiled\f + \ft Or: untouchable \f*!
+\q2 Do not touch us!"
+\q1 So the prophets and priests fled \add from Israel\add*,
+\q2 and they wandered around from one country to another,
+\q2 because people \add in each country\add* kept saying to them, "You cannot stay here!"
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 The prophets and priests wander through the streets
+\q2 as though they were blind.
+\q1 No one will touch them
+\q2 because their clothes are stained with the blood of those innocent people.
+\b
+\q1
+\v 15 The people who are still alive shout, "Stay away from us!
+\q2 Do not touch us!"
+\q1 So the prophets and priests have fled from Israel,
+\q2 and they wander around from one country to another,
+\q2 because people in each country keep saying to them, "You cannot stay here!"
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 They now wander as blind men in the streets. They are defiled by that blood
+\q so none are able to even touch their clothes.
+\q
+\v 15 "Flee! Unclean" they cry out, "Flee, flee! Do not touch me!"
+\q So they wander abroad, but among the Gentiles people say," They can no longer live here as foreigners!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:unclean]]
+  * [[en:obe:other:gentile]] 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lam:04|Lamentations Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:lam:04:12|<<]] | [[:yo:bible:notes:lam:04:16|>>]]**
+
+~~DISCUSSION~~{{tag>draft }}
+
+~~NOCACHE~~

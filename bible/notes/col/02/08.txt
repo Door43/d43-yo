@@ -1,0 +1,51 @@
+====== Colossians 02:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Make sure that no one forces you\add \f + \ft plural \f*\add* to become his disciples \f + \ft metaphor \f* by his teaching you a religious philosophy\f + \ft Or: doctrine \f* that is valueless and false. Such a philosophy is false because it teaches what mere human beings think, because it teaches people elementary regulations\f + \ft Or: rules \f* \add that are concerned merely with what is external\f + \ft Or: physical \f*\add*, and because it teaches what is contrary to \add the true teaching about\add* Christ.
+\v 9 \add Make sure of this\add*, because it is in Christ's body that God lives completely.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Do not believe anyone who says that you must obey what people have taught about how to honor God or that you must obey what they worship in this world. Instead, obey Christ,
+\v 9 because the man Jesus Christ is fully God.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 See that no one captures you through the philosophy and the empty deceit that is based on human tradition and upon the sinful belief systems of the world, and not after Christ
+\v 9 because all the fullness of God's nature lives in his body.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:tradition]]
+  * [[en:obe:kt:sin]]
+ 
+===== Translation Notes: =====
+
+  * **See that** - be cautious. This could be translated as "Beware" or "Watch out that".
+  * **captures you** - This metaphor compares the way a person can be physically caught and held by force to how a person can be emotionally and spiritually caught and captured by false teachings. (See:[[en:ta:vol1:translate:figs_metaphor]])
+  * **captures you** - "captures you, Colossian believers"
+  * **philosophy** - the religious doctrines and beliefs that are not from God's word but are based on man's thoughts about God and life.
+  * **empty deceit** - misleading ideas that do not lead to life in christ. They produce nothing, they are empty or without value.
+  * **human tradition and upon sinful belief systems of the world** - Both Jewish traditions and pagan (gentile) belief systems are worthless.
+  * **after Christ** - "according to Christ". Only those belief systems based on Christ have value.
+  * **because all the fullness of God's nature lives in his body.** - "God's full nature lives in Christ's body." Not to be confused with all of God's nature dwelling in Christ, which is not true. 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:col:02|Colossians Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:col:02:06|<<]] | [[:yo:bible:notes:col:02:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish tradition }}
+
+~~NOCACHE~~

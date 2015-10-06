@@ -1,0 +1,53 @@
+====== Romans 04:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 even though there was no physical reason for him to hope \add that he would have descendants, because he and his wife were too old to bear children\add*. But God is the one who causes dead people to live again, and who talks about things that do not yet exist as already existing. \add God said to Abraham\add*, "You will have so many descendants that they will be \add as impossible to count as the stars\add*." And Abraham believed that, and he believed that he would become the ancestor of many ethnic groups.
+\v 19 He did not doubt \add that God would do what he promised\add*, even though he knew that his body was already \add as incapable of begetting children as if he were\add* dead \f + \ft metaphor \f* because he was about a hundred years old. And \add even though he realized that\add* Sarah had never been able to become pregnant \f + \ft idiom \f*,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 He trusted in this promise of God, even though there was no physical reason for him to expect that he would have descendants, because he and his wife were too old to bear children. God had said to Abraham, "You will have so many descendants that they will be as impossible to count as the stars." Abraham believed that, and he believed that he would become the ancestor of many ethnic groups.
+\v 19 He did not doubt that God would do what he promised, even though he knew that his body was already as incapable of begetting children as if he were dead (he was, after all, about one hundred years old), and even though he knew that Sarah had never been able to become pregnant.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 Despite all outward circumstances, Abraham confidently trusted God, in order to become the father of many nations, according to what had been spoken, "...Thus will be your descendants."
+\v 19 Not being weak in faith, Abraham considered his own body already to be dead—he was about a hundred years old—and the deadness of Sarah’s womb.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:abraham]]
+  * [[en:obe:kt:trust]]
+  * [[en:obe:other:nation]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:kt:faith]]
+  * [[:yo:obe:other:sarah]]
+
+===== Translation Notes: =====
+
+  * **Despite all outward circumstances**  - The full meaning of "outward circumstances" can be made explicit: "Even though it seemed impossible for him to have descendants." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **in order to become the father of many nations**  - This can be translated as a new sentence: "And Abraham's faith resulted in him becoming the father of many nations."
+  * **according to what had been spoken**  - "just as God said to Abraham"
+  * **"…Thus will be your descendants."**  - The full promise God gave to Abraham can be made explicit: "You will have more descendants than you can count."
+  * **Not being weak in faith**  - Alternate translation: "While still remaining strong in his faith" (See: [[en:ta:vol2:translate:figs_litotes]])
+  * **Abraham considered his own body already to be dead—he was about a hundred years old—and the deadness of Sarah’s womb** - Here Abraham's old age and Sarah's inability to have children is compared to something that is dead. This emphasizes that it seemed impossible for them to have children. Alternate translation: "Abraham realized he was very old and his wife Sarah could not have children." (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:04|Romans Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:04:16|<<]] | [[:yo:bible:notes:rom:04:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

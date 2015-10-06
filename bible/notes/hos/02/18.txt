@@ -1,0 +1,80 @@
+====== Hosea 02:18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 At that time \add it will be as though\add* I will make an agreement
+\q2 with all the wild animals and birds,
+\q2 and \add even with\add* the little animals that crawl along the ground,
+\q2 so that they will never harm my people \add again\add*.
+\q1 And I will remove from their nation all the weapons \add for fighting battles\add*,
+\q2 like swords and bows \add and arrows\add*.
+\q1 The result will be that my people will live peacefully and safely,
+\q2 and will not be afraid.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 At that time it will be as though I will pledge myself to Israel, 
+\q2 a pledge and promise with all the wild animals and birds,
+\q2 and even with the little animals that crawl along the ground,
+\q2 that one day they will never harm my people again.
+\q1 I will promise to remove all the weapons that are used for fighting battles,
+\q2 the bows and arrows, and the swords, and every war, I will take them all away and destroy all of them.
+\q1 And I will let all of my people rest in peace,
+\q2 and they will be not be afraid any more.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 18 In that day will I make a covenant for them
+\q with the beasts of the field,
+\q with the birds of the sky,
+\q and with the crawling things on the ground.
+\q I will abolish the bow, the sword, and the battle from the land,
+\q and I will make you lie down in safety.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:02|Hosea Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/02/16|<<]] | [[en/bible/notes/hos/02/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

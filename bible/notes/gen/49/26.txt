@@ -1,0 +1,69 @@
+====== Genesis 49:26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 The blessings that I want God to give you are great ones.
+\q They are greater than the blessings that come from the eternal mountains,
+\q than the ones that come from the everlasting hills.
+\q Joseph, I pray that these blessings will be given to you\f + \ft Or: come upon your head \f*,
+\q because you are the leader of your \add older\add* brothers \add and younger brother\add*.
+\q
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 The blessings that I want God to give you are great ones.
+They are greater than the blessings that come from the eternal mountains,
+than the ones that come from the everlasting hills.
+Joseph, I pray that these blessings will be given to you,
+because you are the leader of your brothers.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 26 The blessings of your father
+\q will be greater than of the ancient mountains
+\q or of the desirable things of the everlasting hills.
+\q They will be on the head of Joseph,
+\q blessings that crown the head of the one who was prince over his brothers.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:bless]]
+  * [[:yo:obe:kt:eternity]]
+  * [[en:obe:other:crown]]
+  * [[:yo:obe:other:prince]] 
+
+===== Translation Notes: =====
+
+Jacob continues to bless Joseph and his descendants.
+
+  * **They will be on the head of Joseph, blessings that crown the head of him** - "They" refers to the blessings of his father. Jacob compares the blessing he gives Joseph to a crown that a prince wears. This emphasizes that these blessings are a sign of Joseph's honor and that he has authority over his brothers. Alternate translation: "These blessings will be like a crown on Joseph's head." (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  * **prince over his brothers **- "set apart from his brothers"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:49|Genesis Chapter 49 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/49/25|<<]] | [[en/bible/notes/gen/49/27|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish  prince}}
+
+~~NOCACHE~~

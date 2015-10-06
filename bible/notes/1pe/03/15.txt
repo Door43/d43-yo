@@ -1,0 +1,51 @@
+====== 1 Peter 03:15-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Instead, acknowledge in your inner beings\f + \ft Or: hearts \f* that Christ is the one who is in complete control  \add of your lives\add*. Always be ready to answer everyone who demands that you tell them about what you confidently expect  \add God to do for you\add*.
+\v 16 But answer them humbly and respectfully, and make sure that you do\f + \ft Or: have done \f* nothing wrong, in order that those who speak evil about you may be ashamed when they see the good way in which you are conducting yourselves because of your relationship with Christ.
+\v 17  \add It may be that God wants you\add* to suffer. But it is better to do good deeds, \add even you suffer for doing them\add*, than to do evil deeds and suffer  \add for doing that\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Instead, acknowledge in your inner beings that Christ is your master, whom you love. Always be ready to answer anyone who demands that you tell them about what you are confidently expecting God to do for you. But answer them humbly and respectfully,
+\v 16 and make sure that you do nothing wrong, in order that those who speak evil about you may be ashamed when they see the good way in which you are conducting yourselves because you are joined to Christ.
+\v 17 It may be that God wants you to suffer. If so, it is better to do good deeds, even if you suffer for doing them, than to do evil deeds.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 Instead, set apart the Lord Christ as precious in your hearts. Always be ready to answer everyone who asks you why you have confidence in God. Do this with meekness and respect.
+\v 16 Have a good conscience so that the people who insult your good life in Christ may be ashamed because they are speaking against you as if you were evildoers. 
+\v 17 It is better, if God desires, that you suffer for doing good than for doing evil.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:christ]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:confidence]]
+  * [[:yo:obe:other:meek]]
+  * [[:yo:obe:other:conscience]]
+  * [[:yo:obe:other:shame]]
+  * [[:yo:obe:kt:evil]]
+
+===== Translation Notes: =====
+
+Peter has been instructing believers to live righteously and not fear those that persecute them.
+
+  * **Instead, set apart the Lord Christ as precious in your hear** - "Respect Christ deeply and willingly obey him."" here marks what the believer should do other than those things which have been previously listed in [[en/bible/notes/1pe/03/15|03:1-14]]
+  * **precious** - "holy," "greatly valued," or "treasured"
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:03|1 Peter Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1pe:03:13|<<]] | [[:yo:bible:notes:1pe:03:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish confidence}}
+
+~~NOCACHE~~

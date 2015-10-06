@@ -1,0 +1,47 @@
+====== Haggai 02:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 This is what the Almighty Commander of the armies of angels says: "Soon I will shake again the sky and the earth, the oceans and the earth.
+\v 7 I will shake again the people of all the nations, and as a result they will bring their treasures to this temple. I will fill this temple with my glory.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 This is what Yahweh, Commander of the angel armies, says: 'Soon I will shake again the sky and the earth, the oceans and the ground.
+\v 7 I will shake again the people of all the nations, and as a result they will bring their treasures to this temple. I will fill this temple with my glory.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 For Yahweh of hosts says this: 'In a little while 
+\q I will once again shake the heavens and the earth, the sea and the dry land!
+\q
+\v 7 And I will shake every nation, and every nation will bring their precious things to me, 
+\q and I will fill this house with glory!' says Yahweh of hosts.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:YahwehofHosts]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:other:earth]]
+  * [[:En:obe:other:nation]]
+  * [[:yo:obe:kt:glory]]
+
+===== Translation Notes: =====
+
+  * **once again shake the heavens and the earth,**  - The word "shake" describes a very great disturbance, but does not tell us exactly what the disturbance will be like.
+  * **every nation will bring their precious things to me, **- The nations appear to recognize that God is the author of the terrible disturbance and bring their valuable things to the temple as an offering appease (or satisfy) Yahweh.
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:hag:02|Haggai Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:hag:02:03|<<]] | [[:yo:bible:notes:hag:02:08|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

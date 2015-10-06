@@ -1,0 +1,54 @@
+====== Romans 16:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Tell Priscilla and \add her husband\add* Aquila that I send greetings to\f + \ft Or: am thinking fondly of \f* them. They worked with me for Christ Jesus,
+\v 4 and they were even willing to die \f + \ft idiom \f* in order \add to save\add* my life. It is not only I who thank them \add for helping me\add*, but the people in all \f + \ft hyperbole \f* the non-Jewish congregations also \add thank them for saving my life\add*.
+\v 5 Also tell the congregation \add that meets\add* in their house that I send my greetings to\f + \ft Or: am thinking fondly of \f* them. Tell my dear friend Epaenetus the same thing. He is the first man in Asia \add province\add* who \add believed\add* in Christ.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Tell Priscilla and her husband Aquila that I send greetings to them. They worked with me for Christ Jesus,
+\v 4 and they were even willing to die for me. I thank them, and the non-Jewish congregations also thank them for saving my life.
+\v 5 Also tell the congregation that meets in their house that I send my greetings to them. Tell my dear friend Epaenetus the same thing. He is the first man in the province of Asia to believe in Christ.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 3 Greet Prisca and Aquila, my fellow workers in Christ Jesus,
+\v 4 who for my life risked their own lives. I give thanks to them, and not only I, but also all the churches of the Gentiles.
+\v 5 Greet the church that is in their house. Greet Epaenetus my beloved, who is the first fruit of Asia to Christ.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:inchrist]]
+  * [[en:obe:kt:church]]
+  * [[:yo:obe:other:gentile]]
+  * [[:yo:obe:kt:beloved]]
+  * [[:yo:obe:kt:firstfruit]]
+  * [[:yo:obe:other:asia]]
+
+===== Translation Notes: =====
+
+Paul is greeting many of the believers in Rome by name. (See: [[en:ta:vol1:translate:translate_names|How to Translate Names]] and [[en:ta:vol1:translate:translate_unknown]])
+
+  * **Prisca and Aquila** - Prisca, also known as Priscilla, was the wife of Aquila.
+  * **my fellow-workers in Christ Jesus** - "who work with me to tell people about Christ Jesus"
+  * **Greet the church that is in their house** - "Greet the believers who meet in their house to worship"
+  * **Epaenetus**  - This is the name of a man.
+  * **first fruit of Asia** - This phrase means that Epaenetus was the first person in Asia to believe in Jesus.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:16|Romans Chapter 16 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:16:01|<<]] | [[:yo:bible:notes:rom:16:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

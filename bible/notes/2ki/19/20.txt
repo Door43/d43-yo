@@ -1,0 +1,97 @@
+====== 2 Kings 19:20-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Then Isaiah sent this message to Hezekiah: "This is what Yahweh, the God to whom we Israelites belong, says: 'I have heard what you prayed to me about Sennacherib, the king of Assyria.
+\v 21 This is what I say to him:
+\p "The people of Jerusalem \f + \ft metonymy \f* despise you and make fun of you.
+\p They wag\f + \ft Or: shake \f* their heads to mock you while you flee from here.
+\p
+\v 22 Who do you think that you are despising and ridiculing?
+\p Who do you think you were shouting at?
+\p Who do you think you were looking at very proudly\f + \ft Or: arrogantly \f*?
+\p It was I, the holy God whom the Israelites worship.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Then Isaiah sent this message to Hezekiah to tell him what Yahweh, the God to whom the Israelites belonged, said in response: "I have heard what you prayed to me about Sennacherib, the king of Assyria.
+\v 21 This is what I say to that king:
+\q The people of Jerusalem  
+\q2 despise you and make fun of you.
+\q  They wag their heads 
+\q2 to mock you.
+\q
+\v 22 Who do you think that you were despising and ridiculing?
+\q2  Who do you think you were shouting at?
+\q2  Who do you think you were looking at very proudly?
+\q  It was I, the holy God whom the Israelites worship.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20  Then Isaiah the son of Amoz sent a message to Hezekiah, saying, "Yahweh, the God of Israel says, 'Because you have prayed to me concerning Sennacherib king of Assyria, I have heard you.
+\v 21 This is the word that Yahweh has spoken about him: 
+\q "The virgin daughter of Zion 
+\q2 despises you and laughs you to scorn. 
+\q The daughter of Jerusalem 
+\q2 shakes her head at you.
+\q 
+\v 22 Whom have you defied and insulted? 
+\q2 And against whom have you exalted your voice 
+\q and lifted up your eyes in pride? 
+\q2 Against the Holy One of Israel!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:isaiah]]
+  * [[:yo:obe:other:amoz]]
+  * [[:yo:obe:other:hezekiah]]
+  * [[:yo:obe:other:pray]]
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:other:virgin]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:exalt]]
+  * [[:yo:obe:other:voice]]
+  * [[:yo:obe:other:proud]]
+  * [[:yo:obe:kt:holyone]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:19|2 Kings Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/19/19|<<]] | [[en/bible/notes/2ki/19/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

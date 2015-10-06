@@ -1,0 +1,60 @@
+====== Judges 09:46-47 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 46 When the leaders who lived in the tower\f + \ft Or: fortress \f* outside of Shechem heard what had happened, they ran and hid inside the \add fortress, which was also a\add* temple of \add their god\add* El-Berith.
+\v 47 But someone told Abimelech that all the leaders had gathered there.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 46 When the leaders who lived in the tower outside of Shechem heard what had happened, they ran and hid inside the fortress, which was also a temple of their god El Berith.
+\v 47 But someone told Abimelech that all the leaders had gathered there.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 46 When all the leaders of the tower of Shechem heard of it, they entered the stronghold of the house of El Berith.
+\v 47 Abimelech was told that all the leaders had gathered together at the tower of Shechem.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jdg:09|Judges Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/09/44|<<]] | [[en/bible/notes/jdg/09/48|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

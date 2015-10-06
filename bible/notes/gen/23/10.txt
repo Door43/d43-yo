@@ -1,0 +1,61 @@
+====== Genesis 23:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Ephron was sitting among the people near the city gate where many \f + \ft hyperbole \f* descendants of Heth had gathered. He heard what Abraham said to them.
+\v 11 \add So, just to make the customary reply to start the real discussion about a price\add*, Ephron said, "No, sir, listen to me. I will give to you the field and the cave in it, without charge, with the people here as witnesses."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Now Ephron was sitting among the people at the city gate where many  descendants of Heth had gathered. He had heard what Abraham said to them.
+\v 11 Ephron said, "No, sir, listen to me. I will give to you the field and the cave in it, without charge, with the people here as witnesses. Please bury your wife there."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Now Ephron was sitting among the sons of Heth, and Ephron the Hittite answered Abraham in the hearing of the sons of Heth, of all those who had come into the gate of his city, saying,
+\v 11 "No, my lord, hear me. I give you the field, and the cave that is in it. I give it to you in the presence of the sons of my people. I give it to you to bury your dead."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:hittite]]
+  * [[en:obe:other:abraham]]
+  * [[en:obe:kt:gate]]
+ 
+
+===== Translation Notes: =====
+
+  * **Now** - This word is used here to mark a change from the story to information about Ephron.
+  * **Ephron** - This is the man who owned the cave that Abraham wanted to buy.
+  * **sons of Heth** - See how you translated this in [[en:bible:notes:gen:23:03|23:3]]
+  * **in the hearing of the sons of Heth**  - This can be translated as "in the presence of the sons of Heth" or "while the sons of Heth listened" or "in their hearing."
+  * **all those who had come into the gate of his city** - This tells which sons of Heth were listening. It can be translated as "all those who had gathered at the gate of his city." The city gate was where the leaders of the city would meet to make important decisions.
+  * **his city** - This phrase shows that Ephron belonged to that city. It does not mean that he owned it. It can also be translated as "the city."
+  * **in the presence of the sons of my people**  - "in the sight of the sons of my people" or "while my people watch"
+  * **my people** - This phrase shows that Ephron was part of that group of people. It does not mean that he was their leader.
+  * **I give it to you to bury your dead**  - "I give it to you. Bury your dead."
+  * **your dead** - See how you translated this in [[en:bible:notes:gen:23:05|23:6]].
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:23|Genesis Chapter 23 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/23/07|<<]] | [[en/bible/notes/gen/23/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish hittite}}
+
+~~NOCACHE~~

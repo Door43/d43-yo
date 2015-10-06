@@ -1,0 +1,69 @@
+====== Ezra 02:15-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 454 \tc2 descendants of Adin
+\tr \tc1
+\v 16 98 \tc2 descendants of Ater, whose other name was Hezekiah
+\tr \tc1
+\v 17 323 \tc2 descendants of Bezai
+\tr \tc1
+\v 18 112 \tc2 descendants of Jorah
+\tr \tc1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 454 descendants of Adin
+\v 16 Ninety-eight descendants of Ater, who descended from Hezekiah
+\v 17 323 descendants of Bezai
+\v 18 112 descendants of Jorah
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 The descendants of Adin: 454.
+\v 16 The people of Ater, descendants Hezekiah: ninety-eight.
+\v 17 The descendants of Bezai: 323.
+\v 18 The descendants of Jorah: 112.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezr:02|Ezra Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/02/11|<<]] | [[en/bible/notes/ezr/02/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Joshua 02:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 \add One of\add* the outside walls of the house where Rahab lived was part of the wall \add that was around\add* the city. So she fastened a rope outside the window \add that was in that wall\add*, by which the men could climb down the wall.
+\v 16 Then she said to them, "When you leave the city, go up into the hills so that the men who are searching for you will not find you. Hide in caves in the hills for three days, until the men who are searching for you return to the city. Then you can return safely to your camp."
+\v 17 The two men \add gave her a red cord, and\add* said to her, "This is what you must do; if you do not do this, we will not be required to do what we have solemnly promised.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 One of the outside walls of the house where Rahab lived was part of the wall of the city. She fastened a rope through a window that was built into the wall, so the men could climb out the window and down the wall.
+\v 16 Then she said to them, "When you leave the city, go up into the hills so that the men who are searching for you will not find you. Hide in caves in the hills for three days until the men who are searching for you come back. Then you can return to your camp."
+\v 17 The two men gave her a red cord and said to her, "This is what you must do, if you do not do this, we will not be required to do what we have solemnly promised.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 So she let them down out through the window using a rope. The house in which she lived was built into the wall of the city. 
+\v 16 She said to them, "Go in the hills and hide or the pursurers will find you. Hide there for three days until the pursurers have returned. Then go on your way."
+\v 17 The men said to her, "We will be not be bound to the promises of the oath you made us swear to, if you do not do this:
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:house]]
+  * [[:En:obe:kt:promise]]
+  * [[:En:obe:other:oath]]
+
+===== Translation Notes: =====
+    * **window**- an opening in the wall or roof of a building to let in light
+    * **rope**- a piece of strong cord made by twisting material together
+    * **built**- made or created
+    * **wall**- a vertical brick or stone structure that divides or separates an area of land
+    * **hide**- to put or keep out of sight
+    * **three**- (See: [[en:ta:vol2:translate:translate_numbers]])
+
+    * **"if you do not do this"**  - Expresses a condition, creating a hypothetical situation. (See:[[en:ta:vol1:translate:figs_hypo]])
+     
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:02|Joshua Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/02/14|<<]] | [[en/bible/notes/jos/02/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

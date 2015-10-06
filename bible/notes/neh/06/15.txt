@@ -1,0 +1,64 @@
+====== Nehemiah 06:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 On October 2 we finished rebuilding the wall. We did it all in 52 days.
+\v 16 When our enemies in the nearby countries heard about that, they realized that they had been humiliated, because everyone knew that it was because God helped us that we had been able to do this work \add and that they had not been able to force us to quit\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 On October second we finished rebuilding the wall. We did it all in fifty-two days.
+\v 16 When our enemies in the nearby countries heard about that, they became very afraid and their opinion of themselves was humiliated, because they knew it was God who helped us complete this work. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 So the wall was finished on the twenty-fifth day of the month Elul, after fifty-two days. 
+\v 16 When all our enemies heard of it, all the nations around us, they became afraid and they fell greatly in their own esteem. For they knew the work was done with the help of our God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:adversary]]
+  * [[en:obe:other:nation]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:works]]
+  * [[en:obe:kt:god]]
+ 
+===== Translation Notes: =====
+
+
+    * **So the wall was finished**  - This passive clause can be translated as an active clause. AT: "We finished the wall" (See: Active/Passive)
+    * **the month Elul**  - This month was in the fall or autumn. It was the 6th month of the Jewish calendar.
+    * **bold words**  - explanation
+    * **they fell greatly in their own esteem.**  - "their opinion of themselves was seriously weakened"
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:06|Nehemiah Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/06/12|<<]] | [[en/bible/notes/neh/06/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== 2 Thessalonians 01:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 \add Our Lord Jesus\add* will forbid them from ever coming near to him and near to the glory which he has \add because he is so\add* powerful \f + \ft Or: the glory that is manifested by his power \f*. He will cause those people to suffer forever.
+\v 10 \add The Lord Jesus\add* will do this when he comes \add back from heaven\add* at the time \add that God has decided\add*. As a result, all we who are his people will praise him because of \add what he has done for his own\add* people, and all we believers will marvel at our Lord because of \add what he has done. And you will be there, too\add*, because you believed what we testified to you.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Our Lord Jesus will drive them far from himself, where he will destroy them forever, far from where he rules with very great power.
+\v 10 The Lord Jesus will do this when he comes back from heaven at the time that God has decided. As a result, all we who are his people will praise him and marvel at him. And you will be there, too, because you believed what we solemnly told you.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 They will suffer the punishment of eternal destruction away from the presence of the Lord and from the glory of his power,
+\v 10 when he comes on that day to be glorified by his saints, to be marveled at by all those who believed because our testimony to you was believed.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:suffer]]
+  * [[:yo:obe:other:punish]]
+  * [[:yo:obe:kt:eternity]]
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:kt:dayofthelord]] 
+  * [[:yo:obe:kt:glorify]]
+  * [[:yo:obe:kt:saint]]
+  * [[:yo:obe:other:amazed]]
+  * [[:yo:obe:kt:believe]]
+  * [[:yo:obe:kt:testimony]]
+===== Translation Notes: =====
+
+  * **They will suffer** - "The people who do not obey the gospel"
+  * **eternal destruction** - an eternal process of being destroyed without hope.
+  * **when he comes on that day** - when Jesus come on the day of the Lord
+  * **to be glorified by his saints** - This passive phrase can be stated as "Jesus's believers will glorify him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **to be marveled at** - "to be amazed at" or "to stand in awe at"
+  * **to you** - to the Thessalonian believers (See: [[en:ta:vol1:translate:figs_you]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2th:01|2 Thessalonians Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:2th:01:06|<<]] | [[:yo:bible:notes:2th:01:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish punish}}
+
+~~NOCACHE~~

@@ -1,0 +1,92 @@
+====== Lamentations 02:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 You people of Jerusalem \f + \ft metonymy, doublet \f*,
+\q2 what can I\f + \ft Or: there is nothing that I can \f* say \add to help you\add*.
+\q1 No people have \f + \ft rhetorical question \f* suffered like you are suffering;
+\q2 I do not know what I can do to comfort you.
+\q1 The disaster \f + \ft metaphor \f* that you have experienced is as great
+\q2 as the ocean is deep;
+\q2 there is no one \f + \ft rhetorical question \f* who can restore your \add city\add*.
+\b
+\q1
+\v 14 The prophets among you claimed that they had seen visions \add from Yahweh\add*,
+\q2 but what they said was false and worthless.
+\q1 They did not save you from being exiled\f + \ft Or: forced to go to other countries \f*,
+\q2 because they did not proclaim that you had sinned.
+\q1 Instead, the messages that they gave you deceived you
+\q2 because they were not true.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 You people of Jerusalem,
+\q2 I cannot say anything to help you.
+\q1 No people have suffered like you are suffering;
+\q2 I do not know what I can do to comfort you.
+\q1 You have fallen just as far
+\q2 as if you had sunk in the ocean;
+\q2 there is no one who can bring your city back to what it was.
+\b
+\q1
+\v 14 The prophets among you claimed that they had seen visions from Yahweh,
+\q2 but what they said was false and worthless.
+\q1 They did not work to save you from your enemies;
+\q2 they did not tell you that you had sinned.
+\q1 Instead, they announced to you things that they said Yahweh had told them; 
+\q2 they tempted you to believe them, and you did.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 What can I say regarding you, Daughter of Jerusalem?
+\q What will I compare to you to comfort you, Virgin Daughter of Zion?
+\q Your collapse is as great as the sea. Who can heal you?
+\q
+\v 14 Your prophets have seen deceitful and foolish visions for you.
+\q They have not revealed your iniquity to restore your fortunes,
+\q but have perceived deceitful oracles and temptations for you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:other:zion]]
+  * [[en:obe:kt:prophet]]
+  * [[en:obe:other:vision]]
+  * [[en:obe:kt:tempt]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lam:02|Lamentations Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:lam:02:11|<<]] | [[:yo:bible:notes:lam:02:15|>>]]**
+
+~~DISCUSSION~~{{tag>draft }}
+
+~~NOCACHE~~

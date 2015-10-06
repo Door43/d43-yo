@@ -1,0 +1,73 @@
+====== Job 30:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Gangs\f + \ft Or: Groups of violent youths \f* attack me and force me to run away;
+\q2 they prepare to destroy me.
+\q1
+\v 13 They prevent me from escaping,
+\q2 and \add they do not need\add* anyone to help them \f + \ft Or: there is no one to help me \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Gangs of these people attack me and force me to run away;
+\q2 they prepare to destroy me.
+\q1
+\v 13 They prevent me from escaping,
+\q2 and there is no one to keep them from attacking me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 Upon my right hand rise the rabble;
+\q they drive me away and
+\q pile up against me their siege mounds.
+\q
+\v 13 They destroy my path;
+\q they push forward disaster for me,
+\q men who have no one to hold them back.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:righthand]]
+  * [[:yo:obe:kt:raise]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:30|Job Chapter 30 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/30/09|<<]] | [[en/bible/notes/job/30/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

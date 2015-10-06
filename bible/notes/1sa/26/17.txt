@@ -1,0 +1,64 @@
+====== 1 Samuel 26:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Saul \add woke up and\add* recognized that it was David's voice. He called out, saying, "My son David, is that your voice?"
+\p David replied, "Yes, your majesty it is my voice."
+\p
+\v 18 Then David added, "Sir, why are you pursuing me \f + \ft rhetorical question \f*? What wrong have I done \f + \ft rhetorical question \f*?
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Saul woke up and recognized that it was David's voice. He called out, saying, "My son David, is that your voice?"
+\p David replied, "Yes, your majesty it is my voice."
+\p
+\v 18 Then David added, "Sir, why are you pursuing me? I have done nothing wrong!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 Saul recognized David’s voice and said, "Is that your voice, my son David?" David said, "It is my voice, my lord, king."
+\v 18 He said, "Why does my lord pursue his servant? What have I done? What evil is in my hand?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1sa:26|1 Samuel Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/26/15|<<]] | [[en/bible/notes/1sa/26/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

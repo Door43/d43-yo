@@ -1,0 +1,86 @@
+====== Psalms 032:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Those whom God has forgiven for rebelling against him,
+\q2 whose stains of sin have been wiped away,
+\q2 are truly blessed \add by God\add*!
+\q1
+\v 2 Those whose record of their sins Yahweh has erased,
+\q2 those who no longer do deceitful things,
+\q2 are truly blessed \add by God\add*!
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Those whom God has forgiven for rebelling against him,
+\q2 those whose sin God does not look at,
+\q2 these are the ones whom he has truly blessed!
+\q1
+\v 2 Those whose record of sins Yahweh has erased,
+\q2 those who no longer do deceitful things,
+\q2 these are the ones whom he has truly blessed!
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 32
+\d A Psalm of David. Maschil.
+\q
+\v 1 Blessed is the one whose transgression is forgiven,
+\q whose sin is covered.
+\q
+\v 2 Blessed is the man to whom Yahweh reckons no guilt,
+\q and in whose spirit there is no deceit.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:psalm]]
+  * [[:yo:obe:other:david]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:kt:transgression]]
+  * [[:yo:obe:kt:forgive]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:guilt]]
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:kt:deceive]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:032|Psalms Chapter 032 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/031/023|<<]] | [[en/bible/notes/psa/032/003|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

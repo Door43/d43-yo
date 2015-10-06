@@ -1,0 +1,57 @@
+====== Ezekiel 38:7-9 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add Tell Gog,\add* 'Get ready and be prepared to be the commander of all those groups of soldiers.
+\v 8 At some future time, I will command you to leadtose armies to attack \add Israel\add*, a country whose buildings have been rebuilt after\add they were destroyed in\add* wars. Their people will have been brought back from many nations to live again on the hills of Israel, which had been deserted for a long time. They had been brought back from other nations, and will be living peacefully.
+\v 9 You and all those armies from many nations will go up to Israel, advancing like \f + \ft simile \f* a big storm. Your army will be like a huge cloud that covers the land.'
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Tell Gog this: 'Get ready, and be prepared to be the commander of all those soldiers.
+\v 8 At some future time, I will command you to lead those armies to attack Israel, a country whose buildings have been rebuilt after they were destroyed in wars. I will have brought their people back from many nations to live again on the hills of Israel, where no one had been living for long time. I will bring the Israelites back from other lands, and they will be living peacefully.
+\v 9 You and all those armies from many nations will go up to Israel, advancing like a great storm. Your army will be like a huge cloud that covers the land.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 Get ready! Yes, prepare yourself and your troops assembled with you, and be their commander.
+\v 8 You will be called after many days, and after some years you will go to a land that has recovered from the sword and that has been gathered from many peoples, gathered back to the mountains of Israel that had been a continuous ruin. But the land's people will be brought out of the peoples, and they will live in safety, all of them!
+
+\v 9 So you will go up as a storm goes; you will be like a cloud covering the land, you and all your troops, all the many soldiers with you.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:commander]]
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:other:sword]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:other:ruin]]
+  * [[:yo:obe:kt:life]]
+
+===== Translation Notes: =====
+
+Yahweh is speaking to Gog.
+  * **You will be called** – AT: "I will call you to come for war." (See: [[en:ta:vol2:translate:figs_activepassive]]) 
+  * **your troops assembled with you** - "all of your troops that you have gathered to yourself" or "all of your army that you have brought together for yourself"
+  * **that has been gathered** - "and whose people I have gathered." (See: [[en:ta:vol2:translate:figs_metonymy]])
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:38|Ezekiel Chapter 38 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:38:04|<<]] | [[:yo:bible:notes:ezk:38:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

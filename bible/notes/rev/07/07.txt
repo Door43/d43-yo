@@ -1,0 +1,75 @@
+====== Revelation 07:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 twelve thousand from the tribe of Simeon, twelve thousand from the tribe of Levi, twelve thousand from the tribe of Issachar,
+\v 8 twelve thousand from the tribe of Zebulun, twelve thousand from the tribe of Joseph, and twelve thousand from the tribe of Benjamin.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 twelve thousand from the tribe of Simeon, twelve thousand from the tribe of Levi, twelve thousand from the tribe of Issachar,
+\v 8 twelve thousand from the tribe of Zebulun, twelve thousand from the tribe of Joseph, and twelve thousand from the tribe of Benjamin.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 12,000 from the tribe of Simeon,
+\q 12,000 from the tribe of Levi,
+\q 12,000 from the tribe of Issachar,
+\q
+\v 8 12,000 from the tribe of Zebulun,
+\q 12,000 from the tribe of Joseph, and
+\q 12,000 from the tribe of Benjamin were sealed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:simeon]]
+  * [[:yo:obe:other:levite]]
+  * [[:yo:obe:other:issachar]]
+  * [[:yo:obe:other:zebulun]]
+  * [[:yo:obe:other:josephot]]
+  * [[:yo:obe:other:benjamin]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rev:07|Revelation Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/07/04|<<]] | [[en/bible/notes/rev/07/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

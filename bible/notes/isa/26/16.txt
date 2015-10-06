@@ -1,0 +1,69 @@
+====== Isaiah 26:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Yahweh, when we were distressed, we asked you \add to help us\add*;
+\q2 when you disciplined\f + \ft Or: punished \f* us, we were able only to whisper when we prayed to you.
+\q1
+\v 17 Like pregnant women writhe and cry out
+\q2 when they are giving birth,
+\q2 we suffered very much, too.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Yahweh, when we were distressed, we asked you to help us;
+\q2 when you disciplined us, we even tried to use spells and charms against disaster.
+\q1
+\v 17 Like pregnant women writhe and cry out
+\q2 when they are giving birth,
+\q2 we suffered very much, too.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 16 Yahweh, in trouble have they looked to you; they even uttered incantations against evil when your discipline was on them.
+\q1
+\v 17 Like when a pregnant woman nears the time for her to give birth, she is in pain and cries out in her labor pains; 
+\q1 so we have been before you, Lord.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:discipline]]
+  * [[:yo:obe:other:laborpains]]
+
+===== Translation Notes: =====
+
+  * **so we** - This refers to Isaiah and includes the people of Judah. (See: [[:yo:ta:vol2:translate:figs_inclusive]])
+  * **Like when a pregnant woman** (See: [[en:ta:vol1:translate:figs_simile]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:26|Isaiah Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/26/15|<<]] | [[en/bible/notes/isa/26/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

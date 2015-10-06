@@ -1,0 +1,69 @@
+====== Deuteronomy 01:34-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 Yahweh heard what they said, and he became angry. He solemnly declared,
+\v 35-36 'Caleb, the son of Jephunneh, will enter the land. He has obeyed me completely. So I will give to him and to his descendants \add some of\add* the land that he explored. He is the only one of all you people who will enter that land. None of these evil people will ever see that good land which I solemnly promised to give to your ancestors.'
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 Yahweh heard what they said, and he became angry. He solemnly declared,
+\v 35-36 'Caleb son of Jephunneh, will enter the land. He has obeyed me completely. So I will give to him and to his descendants some of the land that he explored. He is the only one of all you people who will enter that land. None of these evil people will ever see that good land which I solemnly promised to give to your ancestors.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 34 Yahweh heard the voice of your words and was angry; he swore and said,
+\v 35 “Surely not one of these men of this evil generation will see the good land that I swore to give to your ancestors,
+\v 36 save Caleb the son of Jephunneh; he will see it. To him I will give the land that he has stepped on, and to his children, because he has wholly followed Yahweh.’”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:other:angry]]
+  * [[:yo:obe:other:oath]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:other:generation]]
+  * [[:yo:obe:kt:save]]
+  * [[:yo:obe:other:caleb]]
+  * [[:yo:obe:kt:children]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:01|Deuteronomy Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/01/32|<<]] | [[en/bible/notes/deu/01/37|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,82 @@
+====== Isaiah 66:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 You have chosen to continually do the things that you want to do:
+\q1 \add some of\add* you slaughter oxen to sacrifice them to me,
+\q2 but you also bring human sacrifices \add to your idols\add*!
+\q1 You sacrifice lambs to me,
+\q2 but you kill dogs \add to offer them to your gods\add*.
+\q1 You offer grain to me,
+\q2 but you also bring pigs' blood \add to your idols\add*.
+\q1 You burn incense to me,
+\q2 but you also praise your idols.
+\q1 You delight to do those disgusting things.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 You have chosen to continually do the things that you want to do:
+\q1 some of you slaughter oxen to sacrifice them to me,
+\q2 but you also bring human sacrifices to your idols!
+\q1 You sacrifice lambs to me,
+\q2 but you kill dogs to offer them to your gods.
+\q1 You offer grain to me,
+\q2 but you also bring pigs' blood to your idols.
+\q1 You burn incense to me,
+\q2 but you also praise your idols.
+\q1 You delight to do those disgusting things.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 3 He who slaughters an ox also murders a man; he who sacrifices a lamb also breaks a dog’s neck;
+\q1 he who offers a grain offering offers swine’s blood; he who offers a memorial of incense also blesses wickedness.
+\q1 They have chosen their own ways, and their soul take pleasure in their abominations.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:slaughter]]
+  * [[:yo:obe:other:ox]]
+  * [[:yo:obe:other:sacrifice]]
+  * [[:yo:obe:kt:lamb]]
+  * [[:yo:obe:other:grain]]
+  * [[:yo:obe:other:pig]]
+  * [[:yo:obe:kt:blood]]
+  * [[:yo:obe:other:memorialoffering]]
+  * [[:yo:obe:other:incense]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:elect]]
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:kt:abomination]]
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:66|Isaiah Chapter 66 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/66/02|<<]] | [[en/bible/notes/isa/66/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

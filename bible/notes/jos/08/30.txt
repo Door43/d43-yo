@@ -1,0 +1,67 @@
+====== Joshua 08:30-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 Joshua \add told his men to\add* build on Ebal Mountain an altar for Yahweh, the God \add who is worshiped by\add* the Israelite people.
+\v 31 They built it just like Moses, the man who served God \add well\add*, had written previously in the laws \add that God had given to him\add*. They made it from stones that had not been cut, stones on which \add they had done no work\add* using iron tools. The Israelites then offered sacrifices to Yahweh that were burned completely on the altar. They also offered sacrifices to restore fellowship with Yahweh.
+\v 32 As the Israelites watched, Joshua wrote on stones the laws that \add Yahweh had given\add* to Moses previously.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 Then Joshua told his men to build on Mount Ebal an altar for Yahweh, the God of Israel.
+\v 31 They built it just like Moses, the man who served God well, had written previously in the laws that God had given to him. They made it from stones that had not been cut, stones on which they had done no work using iron tools. The Israelites then offered sacrifices to Yahweh that were burned completely on the altar. They also offered peace offerings to him.
+\v 32 As the Israelites watched, Joshua wrote on stones a copy of the laws that Yahweh had given to Moses.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 30 Then Joshua built an altar to Yahweh, the God of Israel, on Mount Ebal,
+\v 31 just as Moses, the servant of Yahweh had commanded the people of Israel, as it was written in the book of the Law of Moses: "An altar from uncut stones, on which no one has wielded an iron tool." And he offered on it burnt offerings to Yahweh, and they sacrificed peace offerings.
+\v 32 And there in the presence of the people of Israel, he wrote on the stones a copy of the Law of Moses.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:joshua]]
+  * [[:En:obe:other:altar]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:En:obe:kt:god]]
+  * [[:En:obe:other:israel]]
+  * [[:yo:obe:other:moses]]
+  * [[:En:obe:other:servant]]
+  * [[:En:obe:other:command]]
+  * [[:En:obe:other:written]]
+  * [[:En:obe:other:sacrifice]]
+  * [[:En:obe:other:peaceoffering]]
+  * [[:En:obe:kt:lawofmoses]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **built**- made or created
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:08|Joshua Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/08/29|<<]] | [[en/bible/notes/jos/08/33|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

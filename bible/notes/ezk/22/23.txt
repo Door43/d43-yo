@@ -1,0 +1,51 @@
+====== Ezekiel 22:23-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Yahweh gave me another message. He said,
+\v 24 "You human, say to the Israelite people, 'When \add Yahweh\add* is angry with you, there has been no rain or showers in your country.'
+\v 25 Their leaders are like \f + \ft simile \f* lions that tear apart the animals that they have killed. The leaders destroy their people. They steal treasures and other valuable things from people, and they cause many women to become widows \add by murdering their husbands\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 Yahweh gave me another message. He said,
+\v 24 "Son of man, say to the Israelite people, 'You are disgusting to Yahweh, completely unacceptable to him. So Yahweh is angry with you. There will be no rain in your country.'
+\v 25 Their leaders are like lions that tear apart the animals that they have killed. The leaders destroy their people. They steal treasures and other valuable things from people, and they muder many men and make their wives into widows.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 The word of Yahweh came to me and said, 
+\v 24 “Son of man, say to her, ‘You are a land that has not been cleansed. There is no rain on the day of wrath!
+\v 25 There is a conspiracy of her prophets in her midst, like a roaring lion tearing a victim; they consume life and take precious wealth! They make many widows in her midst!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:clean]]
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:other:lion]]
+
+===== Translation Notes: =====
+
+  * **The word of Yahweh came to me and said,**  - Alternate translations: “Yahweh's message came to me” or “Yahweh gave me this message” or “Yahweh spoke this message to me.”
+  * **her**  - This pronoun refers to Jerusalem.  See usage of "her" in verse 21.
+  * **day of indignation**  - An alternate translation could be "day of wrath."
+  * **conspiracy**  - This word means a secret plan made by two or more people to do something harmful or illegal.
+  * **like a roaring lion tearing prey, they consume life and take precious wealth!**  - God is saying that the prophets are hurting people, taking things from others and killing men.
+  * **multiply**  - This word means to grow in amount, number or degree.
+  * **widows**  - This word means women whose husbands have died, often leaving them in difficult situations.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:22|Ezekiel Chapter 22 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:22:20|<<]] | [[:yo:bible:notes:ezk:22:26|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

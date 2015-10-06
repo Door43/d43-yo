@@ -1,0 +1,58 @@
+====== Genesis 17:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Then God said to Abraham, "Now you must obey \add your part of\add* the agreement that I am making with you, and your descendants must also obey it, for all generations.
+\v 10 This is the agreement that I am making, between myself and you and all your descendants: Every male among you must be circumcised.
+\v 11 Cutting the foreskins of\f + \ft Or: Circumcising \f* them will be the sign \add that you have accepted\add* the agreement I am making with you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then God said to Abraham, "Now you must keep your part of the covenant that I am making with you, and your descendants must also obey it, for all generations.
+\v 10 This is a requirement of the covenant that I am making between myself and you and all your descendants: Every male among you must be circumcised.
+\v 11 Cutting the foreskins of them will be the sign that you have accepted the covenant that I am making with you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 Then God said to Abraham, "As for you, you must keep my covenant, you and your descendants after you throughout their generations.
+\v 10 This is my covenant, which you must keep, between me and you and your descendants after you: Every male among you must be circumcised.
+\v 11 You must be circumcised in the flesh of your foreskin, and this will be the sign of the covenant between me and you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:covenant]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:other:generation]]
+  * [[en:obe:kt:circumcise]]
+  * [[en:obe:kt:sign]]
+ 
+
+===== Translation Notes: =====
+
+  * **As for you**  - God used this phrase to introduce what Abram would have to do as part of God's covenant with him.
+  * **keep my covenant**  - "observe my covenant" or "honor my covenant" or "obey my covenant"
+  * **This is my covenant**  - "This is a requirement of my covenant" or "This is part of my covenant." This sentence introduces the part of the covenant that Abram must do.
+  * **Every male among you must be circumcised**  - If needed, this can be translated as "You must circumcise every male among you." (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **every male**  - This refers to human males.
+  * **you must be circumcised in the flesh of your foreskin**  - Some communities may prefer a less descriptive expression such as "you must be circumcised." (See: [[en:ta:vol2:translate:figs_euphemism|Euphemism]])
+  * **the sign of the covenant**  - "the sign marking the covenant" or "the sign that shows the covenant exists"
+  * **the sign** - Possible meanings are 1) “the sign” or 2) “a sign.” The first means that there was one sign, and the second means that there may have been more than one sign.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:17|Genesis Chapter 17 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:17:07|<<]] | [[:yo:bible:notes:gen:17:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish circumcise  }}
+
+~~NOCACHE~~

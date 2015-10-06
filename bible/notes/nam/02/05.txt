@@ -1,0 +1,59 @@
+====== Nahum 02:5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 \add Meanwhile\add*, your king will summon his officers
+\q2 who will stumble as they try to come quickly.
+\q1 They will dash to the \add city\add* wall,
+\q2 holding their shields to protect themselves.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Their king will summon his officers
+\q2 who will come so quickly that they will stumble.
+\q1 They will hurry to attack the city wall;
+\q2 they will get ready the large wooden shield to protect the attacking soldiers.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 The one who will dash you to pieces calls his officers; they stumble in their eager march; they hurry to attack the wall. The shield is made ready to protect the attackers.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:stumble]]
+
+===== Translation Notes: =====
+
+  * **dash you to pieces** - Translate this the same way you did in [[:yo:bible:notes:nam:02:01|2:1]].
+  * **remembers his officers** - Possible meaning: 1) "thinks of his officers" or 2) "summons his officers"
+  * **they...their...they** - the soldiers who will attack Nineveh
+  * **in their eager march** - "as they march"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:nam:02|Nahum Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/nam/02/03|<<]] | [[en/bible/notes/nam/02/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

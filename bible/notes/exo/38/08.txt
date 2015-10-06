@@ -1,0 +1,47 @@
+====== Exodus 38:8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 The altar was like an open box. It was made from boards \add of acacia wood\add*.
+\p They made\f + \ft Or: cast \f* the washbasin and its base from bronze. The bronze was from the mirrors that belonged to the women who worked at the entrance of the Sacred Tent.
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Bezalel and his men made the washbasin and its base from bronze. The bronze was from the mirrors that belonged to the women who worked at the entrance of the sacred tent.
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 Bezalel made the large bronze basin with a bronze stand. He made the basin out of mirrors belonging to the women who served at the entrance to the tent of meeting.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:bronze]]
+  * [[:yo:obe:other:serve]]
+  * [[:yo:obe:other:tentofmeeting]]
+
+===== Translation Notes: =====
+Bezalel's work crew continues to build the tabernacle and furniture
+
+  * **large bronze basin with a bronze stand** - See how you translated this in [[en:bible:notes:exo:30:17|30:18]].
+  * **mirror** - a piece of glass that reflects an image
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:38|Exodus Chapter 38 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:38:06|<<]] | [[:yo:bible:notes:exo:38:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,47 @@
+====== Romans 14:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Accept those who are not sure \add whether God will permit them to do certain things some people think are wrong\add*. But \add when you accept them\add*, do not argue with them about what they think\f + \ft Or: their \f* opinions.
+\v 2 Some people believe that they may eat all \add kinds of food\add*. Others believe\add that God does not want them to eat certain things, so they\add* believe that they may not eat meat.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Accept those who are not sure whether God will permit them to do certain things some people think are wrong. But when you accept them, do not argue with them about what they think. These questions are only personal  opinions.
+\v 2 Some people believe that they may eat all kinds of food. Others believe that God does not want them to eat certain things, so they believe that they may eat only vegetables.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 14
+\p
+\v 1 Receive one who is weak in faith, yet not giving judgment about such questions.
+\v 2 On the one hand, one person has faith to eat anything, but on the other hand, one who is weak eats only vegetables.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:receive]]
+  * [[:yo:obe:kt:faith]]
+  * [[:yo:obe:kt:judge]]
+
+===== Translation Notes: =====
+
+Paul continues instructing the believers on right living.
+
+  * **weak in faith**  - This refers to those who felt guilty over eating and drinking certain things.
+  * **yet not giving judgment about such questions**  - "but not so that you can argue with them about it"
+  * **On the one hand, one person has faith to eat anything, but on the other hand**  - The phrases “on the one hand” and “on the other hand” introduce two different ways of thinking about something. Alternate translation: "One person has faith to eat anything, but" (See: [[en:ta:vol1:translate:figs_idiom|Idiom]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:14|Romans Chapter 14 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:13:13|<<]] | [[:yo:bible:notes:rom:14:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

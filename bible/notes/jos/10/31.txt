@@ -1,0 +1,56 @@
+====== Joshua 10:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 Then Joshua and his army went \add south\add* from Libnah to Lachish \add city\add*. They surrounded the city and attacked it.
+\v 32 On the second day of the battle, Yahweh enabled the Israelites to conquer \f + \ft metonymy \f* the city. And like they had done at Libnah, they killed everyone \f + \ft doublet \f* in the city.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Then Joshua and his army went south from Libnah to Lachish. He surrounded the city and waged war against it.
+\v 32 On the second day of the battle, Yahweh gave the city to the Israelites, and they conquered it. They killed everything that lived in it, including all the people. He did at Lachish the same thing that he had done at Libnah.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 31 Then Joshua and all Israel with him passed on from Libnah to Lachish.  He camped by it and waged war against it.
+\v 32 Yahweh gave Lachish into the hand of Israel. Joshua captured it on the second day. He attacked with the sword every living creature that was in it, just as he had done to Libnah.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:joshua]]
+  * [[:yo:obe:other:israel]]
+  * [[:En:obe:kt:yahweh]]
+  * [[:yo:obe:other:sword]]
+  * [[:yo:obe:other:creature]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Lachish**  - "Lachish" - generally regarded as the second most important city in the southern kingdom of Judah. The city was surrounded by two walls including a lower retaining wall. 
+    
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:10|Joshua Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/10/29|<<]] | [[en/bible/notes/jos/10/33|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

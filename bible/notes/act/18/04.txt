@@ -1,0 +1,70 @@
+====== Acts 18:4-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Every Sabbath, Paul \add went\add* to the Jewish meeting place, where he spoke forcefully to both Jews and non-Jews. He repeatedly tried to persuade them \add that Jesus is the Messiah\add*.
+
+
+\p
+\v 5 Then Silas and Timothy arrived there from Macedonia province. After they arrived, Paul \add did not make tents anymore. He\add* used all his time preaching \add the message about Jesus in the Jewish meeting place\add*. He continued to tell the Jews \add that\add* the Messiah they knew about was Jesus.
+\v 6 But the Jews began to oppose Paul and to say evil things about him. So he shook \add the dust from\add* his clothes \add to show them that they were displeasing God. Then\add* he said to them, "If God punishes you, it will be your \f + \ft synecdoche \f* own fault \f + \ft metonymy \f*, not mine! From now on I will go \add and preach\add* to non-Jewish people!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Every Sabbath, Paul went to the Jewish meeting place, where he spoke to both Jews and non-Jews. He taught them about Jesus.
+
+
+\p
+\v 5 Then Silas and Timothy came from the region of Macedonia. After they got there, Paul did not make tents anymore. He used all his time talking about Jesus to the Jews. He told them that Jesus was the Christ.
+\v 6 But the Jews began to turn against Paul and to say evil things about him. So he shook the dust from his clothes to show them that God was not happy with them, and he said to them, "If God punishes you, it is because of you, not me! From now on I will talk to people who are not Jewish!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 So Paul reasoned in the synagogue every Sabbath. He persuaded both Jews and Greeks.
+\v 5 But when Silas and Timothy came down from Macedonia, Paul was compelled by the Spirit to testify to the Jews that Jesus was the Christ.
+\v 6 When the Jews opposed and insulted him, Paul shook out his garment at them and said to them, "May your blood
+be upon your own heads; I am innocent. From now on I will go to the Gentiles."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:paul]]
+  * [[en:obe:other:synagogue]]
+  * [[en:obe:kt:sabbath]]
+  * [[en:obe:other:jew]]
+  * [[en:obe:other:greek]]
+  * [[en:obe:other:silas]]
+  * [[en:obe:other:timothy]]
+  * [[en:obe:other:macedonia]]
+  * [[en:obe:kt:spirit]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:blood]]
+  * [[en:obe:other:head]]
+  * [[en:obe:kt:innocent]]
+  * [[en:obe:other:gentile]]
+===== Translation Notes: =====
+
+  * **So Paul reasoned ** - "reason" implys that Paul was having a two way conversation. Alternate translation: "So Paul debated" or "So Paul discussed." 
+  * **He persuaded** - This can also be translated as "He kept trying to persuade."
+  * **was compelled by the Spirit ** - This phrase can be expressed in the active form. "the spirit compelled him" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **shook out his garment** - This is a symbolic action to indicate that Paul is cutting ties with the unbelieving Jews and leaving them to God's judgment.
+  * **"May your blood be upon your own heads; ** - This is a metaphor. It means that the Jews are solely responsible for the judgment they will face for their stubbornness if they refuse to repent. (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:18|Acts Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:act:18:01|<<]] | [[:yo:bible:notes:act:18:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

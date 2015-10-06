@@ -1,0 +1,70 @@
+====== Ezekiel 28:11-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Yahweh also gave me this message:
+\v 12 "You human, sing a sad\f + \ft Or: funeral \f* song about the king of Tyre. Say to him, 'This is what Yahweh the Lord says:
+\q1 You \add thought that\add* \f + \ft irony \f* you were completely perfect,
+\q2 extremely wise and handsome.
+\q1
+\v 13 You \add had a wonderful life, as though\add* you were in my beautiful garden in Eden.
+\q2 Your clothes were decorated with many \f + \ft hyperbole \f* kinds of very valuable stones—
+\q1 ruby, topaz, emerald, chrysolite, onyx, jasper, turquoise, and beryl stones.
+\q2 Those stones were set\f + \ft Or: placed \f* in gold \add mountings\add*.
+\q2 They were prepared for you on the day that you were born.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Yahweh also gave me this message:
+\v 12 "Son of man, sing a sad song about the king of Tyre. Tell him that Yahweh the Lord says this to him:
+\q1 'You were completely perfect,
+\q2 extremely wise and handsome.
+\q1
+\v 13 You had a wonderful life, because you were in my beautiful garden in Eden.
+\q2 Your clothes were decorated with many kinds of very valuable stones—
+\q1 ruby, topaz, emerald, chrysolite, onyx, jasper, turquoise, and beryl stones.
+\q2 Those stones were set in gold mountings
+\q2 which I prepared for you on the day that I created you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 The word of Yahweh came again to me and said,
+\v 12 “Son of man, lift up a lament for the king of Tyre and say to him, ‘The Lord Yahweh says this: You were the model of perfection, full of wisdom and perfect in beauty!
+\v 13 You were in Eden, the garden of God! Every precious stone covered you: carnelian, chrysolite, and onyx! Topaz, malachite, and jasper! Sapphire, emerald, and beryl! Gold settings held these stones in place on you! They were prepared on the day of your creation for you to wear them!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:yo:obe:kt:perfect]]
+  * [[:yo:obe:other:eden]]
+  * [[:yo:obe:other:gold]]
+  * [[:yo:obe:other:creation]]
+
+===== Translation Notes: =====
+
+  * **The word of Yahweh came again to me**  - See how you translated a similar phrase in [[:yo:bible:notes:ezk:03:16|3:16]].
+  * **lift up a lament**  - "sing a funeral song" or "sing a song of mourning" or "sing a sad song" (UDB)
+  * **You were the model of perfection**  - Alternate translation: "You were perfect."
+  * **full of wisdom and perfect in beauty**  - "very wise and very handsome"
+  * **Every precious stone covered you**  - "you wore every kind of precious stone." This shows that the king was very wealthy.
+  * **carnelian, chrysolite, and onyx! Topaz, malachite, and jasper! Sapphire, emerald, and beryl!**  - These are all precious stones of different colors. (See: [[en:ta:vol1:translate:translate_unknown|Unknowns - How to Translate]])
+  * **the day of your creation**  - "the day you were created" or "the day that I created you" (ULB)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:28|Ezekiel Chapter 28 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:28:08|<<]] | [[:yo:bible:notes:ezk:28:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

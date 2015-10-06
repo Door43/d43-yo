@@ -1,0 +1,50 @@
+====== Genesis 34:30-31 ======
+
+===== TFT: =====
+
+<usfm>
+\v 30 Then Jacob said to Simeon and Levi, "You have brought me big trouble! Now the Canaan people-group and the Perez people-group and everyone else who lives in this land will hate me\f + \ft Or: say my name stinks \f*! I do not have many men to fight for us, so if they all gather together and come to me and attack us, they will destroy us and all our household!"
+\v 31 But they replied, "Should we have allowed Shechem to treat our sister like a prostitute?\f + \ft Or: We could not just let Shechem treat our sister like a prostitute! \f*" \f + \ft rhetorical question \f*
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 30 Then Jacob said to Simeon and Levi, "You have brought me big trouble! Now the Canaan people group, the Perez people group, and everyone else who lives in this land will hate me! I do not have many men to fight for us, so if they all gather together and come to me and attack us, they will destroy us and all our household!"
+\v 31 But they replied, "Should we have allowed Shechem to treat our sister like a prostitute?"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 30 Jacob said to Simeon and Levi, "You have brought trouble on me, to make me stink to the inhabitants of the land, the Canaanites and the Perizzites.  I am few in number. If they gather themselves together against me and attack me, then I will be destroyed, I and my household."
+\v 31 But Simeon and Levi said, "Should Shechem have dealt with our sister as with a prostitute?"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:jacob]]
+  * [[en:obe:other:simeon]]
+  * [[en:obe:other:levite]]
+  * [[en:obe:other:canaan]]
+  * [[en:obe:other:perizzite]]
+  * [[en:obe:other:household]]
+  * [[en:obe:other:shechem]]
+  * [[en:obe:other:prostitute]]
+===== Translation Notes: =====
+
+  * **brought trouble on me** - "caused great difficulties for me" or "brought ruin on me"
+  * **to make me stink to the inhabitants of the land, the Canaanites and the Perizzites** - This can be translated as a new sentence. Alternate translation: "You have made me repulsive to the Canaanites and the Perizzites." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **I am few in number** - Here the word "I" refers to all of Jacob's household. Jacob only says "I" since he is the leader. Alternate translation: "My household is small" (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **gather themselves against me** - "form an army"
+  * **then I shall be destroyed** - Alternate translation: "they will destroy me." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Should Shechem have dealt with our sister as with a prostitute?** - Simeon and Levi use a question for emphasis. Alternate translation: "Shechem should not have treated our sister as if she were a prostitute!" (See: [[en:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:34|Genesis Chapter 34 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:34:27|<<]] | [[:yo:bible:notes:gen:35:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish prostitute}}
+
+~~NOCACHE~~

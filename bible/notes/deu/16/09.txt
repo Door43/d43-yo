@@ -1,0 +1,61 @@
+====== Deuteronomy 16:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 "\add Each year\add*, from the day that you start to harvest your grain, count seven weeks.
+\v 10 Then, to honor Yahweh our God, celebrate the Harvest Festival. Do that by bringing to him an offering \add of grain\add*. Yahweh has blessed you \add by causing it to grow in your fields during that year\add*. If you had a big harvest, bring a big offering. If you had a small harvest, bring a small offering.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Each year, from the day that you start to harvest your grain, count seven weeks.
+\v 10 Then, to honor Yahweh our God, celebrate the Festival of Pentecost. Do that by bringing to him an offering of grain. Yahweh has blessed you by causing it to grow in your fields during that year. If you had a big harvest, bring a big offering. If you had a small harvest, bring a small offering.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 You will count seven weeks for yourselves; from the time you begin to put the sickle to the standing grain you must start counting seven weeks.
+\v 10 You must keep the Festival of Weeks for Yahweh your God with the contribution of a free will offering from your hand that you will give, according as Yahweh your God has blessed you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:grain]]
+  * [[:yo:obe:other:festival]]
+  * [[:yo:obe:kt:free]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:kt:bless]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:16|Deuteronomy Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/16/07|<<]] | [[en/bible/notes/deu/16/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== Genesis 21:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 So she said to Abraham, "Get rid of that slave woman from Egypt and her son! I do not want the son of that slave woman alone with my son, Isaac!"
+\v 11 Abraham was very distressed about the matter, because he was concerned about his son, Isaac.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 So she said to Abraham, "Get rid of that slave woman from Egypt and her son! I do not want the son of that slave woman to take what my son Isaac will inherit."
+\v 11 Abraham was very upset about the matter, because he was also concerned about his son Ishmael.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 So she said to Abraham, "Drive out this slave woman and her son: for the son of this slave woman will not be heir with my son, with Isaac."
+\v 11 This thing was very grievous to Abraham because of his son.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:heir]]
+  * [[:yo:obe:other:isaac]]
+
+===== Translation Notes: =====
+
+  * **she said to Abraham**  - "Sarah said to Abraham"
+  * **Drive out**  - "send away" or "get rid of" (UDB)
+  * **this slave woman and her son** - This refers to Hagar and Ishmael. Sarah probably did not refer to to them by name because she was angry with them.
+  * **with my son, with Isaac**  - "with my son Isaac"
+  * **This thing was very grievous to Abraham**  - "Abraham was very unhappy about what Sarah said"
+  * **because of his son**  - "because it was about his son"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:21|Genesis Chapter 21 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:21:08|<<]] | [[:yo:bible:notes:gen:21:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish heir servant}}
+
+~~NOCACHE~~

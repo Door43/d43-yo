@@ -1,0 +1,58 @@
+====== Genesis 27:41-42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 41 So, because his father had given a blessing to Jacob, and not to him, Esau hated his brother, Jacob. Esau said to himself, "After my father dies and we finish mourning for him, I will kill Jacob!"
+\v 42 But Rebekah found out what her older son, Esau, was thinking. So she summoned her younger son, Jacob, and said to him, "Listen to me. Your older brother, Esau, is comforting himself by planning to kill you, to get revenge for you deceiving your father.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 41 Because of the blessing that his father had given to Jacob, Esau hated his brother. Esau said to himself, "After my father dies and we finish mourning for him, I will kill Jacob!"
+\v 42 But Rebekah found out what her older son, Esau, was thinking. So she summoned her younger son, Jacob, and said to him, "Listen to me. Your older brother, Esau, is comforting himself by planning to kill you, to get revenge for you tricking your father.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 41 Esau hated Jacob because of the blessing that his father had given him. Esau said in his heart, "The days of mourning for my father are near; after that I will kill my brother Jacob."
+\v 42 The words of Esau her older son were told to Rebekah. So she sent and called Jacob her younger son and said to him, "See, your brother Esau is consoling himself about you by planning to kill you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:Esau]]
+  * [[en:obe:other:jacob]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:other:heart]]
+  * [[:yo:obe:other:rebekah]]
+ 
+
+===== Translation Notes: =====
+
+  * **Esau said in his heart**  - "Esau said to himself" (UDB)
+  * **days of mourning for my father are near**  - This refers to a number of days a person grieves when a family member dies.
+  * **The words of Esau her older son were told to Rebekah.** - This can be translated with an active clause: "Someone told Rebekah about Esau's plan." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **See** - "Listen" or "Pay attention"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:27|Genesis Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/27/39|<<]] | [[en/bible/notes/gen/27/43|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

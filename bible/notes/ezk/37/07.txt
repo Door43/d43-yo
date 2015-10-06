@@ -1,0 +1,48 @@
+====== Ezekiel 37:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 So I spoke to the bones what Yahweh commanded me to speak. As I was speaking, there was a noise, a rattling sound, and the bones came together, bones joining to each other.
+\v 8 While I was looking, I saw tendons fastening to them and flesh covering them, and then skin covered the flesh, but they did not breathe.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 So I spoke to the bones as Yahweh commanded me to speak. As I was speaking, there was a noise, a sound of shaking, and the bones came together, bones joining to each other.
+\v 8 While I was looking, I saw tendons fastening to them and flesh covering them, and then skin covered the flesh, but they were not breathing.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 So I prophesied as I was commanded; as I prophesied, behold, a sound came, that of shaking. Then the bones drew together—bone against bone.
+\v 8 I looked and, behold, sinews were now on them! And flesh grew up and skin covered them! But there was still no life in them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:command]]
+
+===== Translation Notes: =====
+
+Ezekiel is speaking
+  * **as I was commanded** - AT: "as Yahweh had commanded me to speak." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Behold** - The word “behold” here shows that Ezekiel was surprised by what he saw.
+  * **sinews** - See how you translated this in [[en:bible:notes:ezk:37:04|37:6]].
+  * **But there was still no life in them** - AT: "But they were not alive" or "but they were not breathing."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:37|Ezekiel Chapter 37 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:37:04|<<]] | [[:yo:bible:notes:ezk:37:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

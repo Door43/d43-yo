@@ -1,0 +1,75 @@
+====== Nehemiah 07:43-45 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 43 Descendants of Levi who returned were:
+\li2 74 from the clan of Jeshua and Kadmiel, who are descendants of Hodevah \add who is also known as Hodaviah\add*;
+\li2
+\v 44 148 singers who are descendants of Asaph.
+\b
+\pi
+\v 45 Also 138 temple gatekeepers from the clans of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai returned.
+\b
+\pi
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 43 Descendants of Levi who returned were:
+\li2 74 the descendants of Jeshua and Kadmiel, who are descendants of Hodeva, 74,
+\li2
+\v 44 singers who are descendants of Asaph,148.
+\b
+\pi
+\v 45 Also 138 temple gatekeepers from the descendants of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, returned.
+\b
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 43 The Levites: the descendants of Jeshua, of Kadmiel, the descendants of Hodevah, 74.
+\v 44 The singers: the descendants of Asaph, 148.
+\v 45 The gatekeepers of the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, the descendants of Shobai, 138.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:levite]]
+  * [[:yo:obe:other:descendant]]
+  * [[en:obe:other:family]]
+ 
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:07|Nehemiah Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/07/39|<<]] | [[en/bible/notes/neh/07/46|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

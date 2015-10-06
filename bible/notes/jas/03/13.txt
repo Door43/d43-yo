@@ -1,0 +1,53 @@
+====== James 03:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 If any of you thinks \f + \ft rhetorical question \f* that \add you are\add* wise and know much, you should always act in a good way to show people that your good deeds are the result of your \add being truly\add* wise. Being wise\add helps us to act\add* gently \add toward others\add*.
+\v 14 But if in your inner beings\f + \ft Or: hearts \f* you are intensely, Or: very \f + \ft metaphor \f* jealous\f + \ft Or: unhappy when you see that someone else is succeeding \f* and always want to have what you want, regardless of what others want, you should not say \add that you are wise, for by boasting like that\add*, you are saying that \add God's message\f + \ft Or: what God says about you\add* \f* is not true.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 If any of you thinks that you are wise and know much, you should always act in a good way to show people that your good deeds are the result of your being truly wise. Being wise helps us to act gently toward others.
+\v 14 But if you are very envious of other people  and lie against them and do them wrong, you should not pretend that you are wise. By boasting like that you are saying that what is true is actually false.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 Who among you is wise and understanding? Let that person demonstrate a good life by his works in the humility that comes from wisdom.
+\v 14 But if you have bitter jealousy and selfish ambition in your heart, do not boast and lie against the truth.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:kt:good]]
+  * [[:yo:obe:kt:works]]
+  * [[:yo:obe:other:humble]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:boast]]
+  * [[:yo:obe:kt:true]]
+
+===== Translation Notes: =====
+
+  * **Who among you is wise and understanding? Let that person** - James uses this rhetorical question to teach his audience about proper behavior. Also, "wise and understanding" is a doublet. This could be translated as "The person who thinks he is wise should." (See: [[en:ta:vol1:translate:figs_rquestion]] and [[en:ta:vol2:translate:figs_doublet]])
+  * **demonstrate a good life** - "show good behavior" or "show it"
+  * **by his works in the humility that comes from wisdom** - "with his good deeds and humility that comes from having true wisdom"
+  * **have bitter jealousy and selfish ambition in your heart**  - "heart" refers to emotions or thoughts. Alternative translation: "will not share with others and you always put yourself first." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **do not boast and lie against the truth**  - "do not lie about it and act like your are wise."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jas:03|James Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:jas:03:11|<<]] | [[:yo:bible:notes:jas:03:15|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish wise good humble boast true}}
+
+~~NOCACHE~~
+
+\\ 

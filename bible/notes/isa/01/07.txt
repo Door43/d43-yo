@@ -1,0 +1,70 @@
+====== Isaiah 01:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add It is as though\add* your country is ruined\f + \ft Or: desolate \f*;
+\q2 our towns have been burned.
+\q1 Foreigners plunder\f + \ft Or: steal \f* the crops in your fields while you watch;
+\q2 they destroy everything \add that they see\add*.
+\q1
+\v 8 The city of Jerusalem has already been abandoned,
+\q2 it is like \f + \ft simile \f* a shelter in a vineyard that has been abandoned by the watchmen;
+\q1 it is like \f + \ft simile \f* a watchman's hut in a field of melons that has been deserted.
+\q2 It is a city surrounded by its enemies who are waiting to attack it.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Enemies have ruined your country;
+\q2 they have burned your towns, and there is no one left.
+\q1 Foreigners plunder the crops in your fields while you watch;
+\q2 they destroy everything that they see.
+\q1
+\v 8 The city of Jerusalem has become as small as a shepherd's hut.
+\q2 It is like a shelter in a vineyard;
+\q1 it is like a watchman's hut in a field of melons.
+\q2 It is a city surrounded by its enemies who are waiting to attack it.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 7 Your country is ruined; your cities are burned; 
+\q1 your fields—in your presence, strangers are destroying them—
+\q1 abandoned devastation, overthrown by strangers.
+\q1
+\v 8 The daughter of Zion is left like a hut in a vineyard, 
+\q1 like a shed in a garden of cucumbers, like a besieged city.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:fire]]
+  * [[:yo:obe:other:waste]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:other:vineyard]]
+
+===== Translation Notes: =====
+
+
+  * **your fields–in your presence, strangers are destroying them** - "People who are not from your own country steal the crops in your fields while you watch"
+  * **abandoned devastation**  - "empty and devastated." This could be translated as "the land is destroyed and no one lives there."
+  * **overthrown by strangers**  - This can be translated with an active verb: "strangers have overthrown your country" or "a foreign army has completely conquered it." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **the daughter of Zion** - The ”daughter” of a city means the people of the city. Alternate translations:  "the people of Zion” or ”the people who live in Zion."
+  * **is left like a hut in a vineyard, like a shed in a garden of cucumbers**  - "is like a hut in a vineyard or a shed in a garden of cucumbers." A "hut" and a "shed" are shelters that farmers built in the field during the harvest season. After the harvest, the farmers left them, and they quickly fell apart.
+  * **like a besieged city**  - This could be translated as a new sentence: "Her enemies have surrounded the city."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:01|Isaiah Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:01:05|<<]] | [[:yo:bible:notes:isa:01:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

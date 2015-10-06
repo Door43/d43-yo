@@ -1,0 +1,48 @@
+====== James 04:15-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Instead of \add what you are saying\add*, you should say, "If the Lord wills\f + \ft Or: desires \f*, we will live and do this or that."
+\v 16 But what you are doing is boasting about all the things that you arrogantly \add plan to do\add*. Your boasting like that is evil.
+\p
+\v 17 So if anyone knows the right thing that he should do, \add but\add* he does not do it, he is sinning.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Instead of what you are saying, you should say, "If the Lord is willing, we will live and do such and such."
+\v 16 But what you are doing is boasting about all the things that you plan to do. Your boasting like that is evil.
+\p
+\v 17 So if anyone knows the right thing that he should do, but he does not do it, he is sinning.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 Instead you should say, "If the Lord allows, we will live and we will do this or that."
+\v 16 But now you are boasting about your plans. All such boasting is evil.
+\v 17 Therefore, to him who knows to do good but does not do it, to him it is sin.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:boast]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+  * ** we will live** - the word "We" does not directly refer James or his Audience but as an example of how Jame's audience should behave.
+  * **we will do this or that** - This could be translated as "do what we have planned to do."
+  * **to him who knows** - James is not addressing anyone directly by the word "him", but to anyone who is to do good but does not.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jas:04|James Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:jas:04:13|<<]] | [[:yo:bible:notes:jas:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish  boast }}
+
+~~NOCACHE~~

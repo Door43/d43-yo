@@ -1,0 +1,62 @@
+====== Acts 09:23-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 Some time later, \add after Saul had left Damascus and then returned\add*, the Jewish \add leaders\add* \f + \ft synecdoche \f* \add there\add* plotted to kill him.
+\v 24 \add During each\add* day and night those Jews were continually watching \add the people passing through\add* the city gates, in order that \add when they saw Saul\add* they might kill him. However, someone told Saul what they planned to do.
+\v 25 So some of those whom he had helped \add to believe in Jesus\add* took him \add one\add* night \add to the high stone wall that surrounded the city\add*. They \add used ropes to\add* lower him in a \add large\add* basket through an opening in the wall. \add So he escaped from Damascus\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 Some time later, the Jewish leaders there plotted to kill him.
+\v 24 During each day and night those Jews were continually watching the people passing through the city gates, in order that when they saw Saul they might kill him. However, someone told Saul what they planned to do.
+\v 25 So some of those whom he had led to believe in Jesus took him one night to the high stone wall that surrounded the city. They used ropes to lower him in a large basket through an opening in the wall. In this way he escaped from Damascus.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 After many days, the Jews planned together to kill him.
+\v 24 But their plan became known to Saul. They watched the gates day and night in order to kill him.
+\v 25 But his disciples took him by night and let him down through the wall, lowering him in a basket.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:jew]]
+  * [[en:obe:other:paul]]
+  * [[en:obe:kt:gate]]
+  * [[en:obe:other:basket]]
+ 
+
+===== Translation Notes: =====
+
+  * **the Jews planned together to kill him** - "him" refers to Saul.
+  * **But their plan became known to Saul** - This clause might need to be stated as an active clause as, "But someone told their plan to Saul." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **So they watched the gates** - This city had a wall surrounding it. People could only enter and exit the city through the gates.
+  * **his disciples**  - people who believed Saul's message about Jesus and were following his teaching.
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:09|Acts Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:act:09:20|<<]] | [[:yo:bible:notes:act:09:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish gate basket }}
+
+~~NOCACHE~~

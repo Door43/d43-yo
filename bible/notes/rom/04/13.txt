@@ -1,0 +1,50 @@
+====== Romans 04:13-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 God promised Abraham and his descendants that they would receive \add the blessings that he promised to give to the people in\add* the world. But when he promised that, it was not because Abraham \add obeyed\add* the laws \add that God later gave to Moses\add*. Instead, it was because Abraham believed \add that God would do what he promised that he would do\add*. As a result, God erased the record of his sins.
+\v 14-15 If \add we think that\add* it is those who \add obey God's\add* laws who will receive \add what he has promised\add*, it is useless \add for us to think that he will erase the record of our sins just because we\add* trust in him. And it is pointless \add for us to think that he will give us what he\add* promised \add just because\add* we trust in him. \add Remember that\add* it is \add stated\add* in God's law \f + \ft personification \f* \add that\add* he will punish \add people who do not perfectly obey them\add*, and remember that wherever \f + \ft metonymy \f* laws exist, \add people\add* disobey them \f + \ft litotes \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 God promised Abraham and his descendants that they would possess the world. But when he promised that, it was not because Abraham was obeying any law. Instead, it was because Abraham believed that God would do what he promised. So God put Abraham right with himself.
+\v 14 If people possess the world because they obey God's Law, then it is useless to trust in God for anything, and his promise means nothing.
+\v 15 Remember that in reality, God says in his Law that he will punish anyone who does not perfectly obey it. Also remember, however, that for people who have no law, it is impossible to disobey it.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 For it was not through the Law that the promise was given to Abraham and to his descendants, that they would be heirs of the world, but through the righteousness of faith.
+\v 14 For if those of the law are heirs, faith is made empty and the promise is nullified.
+\v 15 For the Law brings about wrath, but where there is no law, neither is there disobedience.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lawofmoses]]
+  * [[:yo:obe:kt:promise]]
+  * [[:yo:obe:other:descendant]]
+  * [[:yo:obe:other:heir]]
+  * [[:yo:obe:kt:wrath]]
+  * [[:yo:obe:other:disobey]]
+===== Translation Notes: =====
+
+  * **that the promise was given to Abraham and to his descendants, that they would be heirs of the world**  - This can be translated with an active verb: "that God promised to Abraham and his descendants that they would inherit the world" (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **but through the righteousness of faith**  The words "God gave the promise" are left out of this phrase but they are understood. Alternate translation: "but God gave the promise through faith which he considers as righteousness." (See: [[en:ta:vol2:translate:figs_ellipsis|Ellipsis]])
+  * **if those of the law are heirs**  - Alternate translation: "if it is those who obey the law that that will inherit the earth"
+  * **faith is made empty and the promise is nullified**  - "faith has no value and the promise is meaningless."
+  * **but where there is no law, neither is there disobedience**  - "but when is no law, there is nothing to disobey." This could also be translated as a positive statement: "because where there is law people will disobey it." (See: [[en:ta:vol2:translate:figs_litotes|Litotes]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:04|Romans Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:04:11|<<]] | [[:yo:bible:notes:rom:04:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish lawofmoses}}
+
+~~NOCACHE~~

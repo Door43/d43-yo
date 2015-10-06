@@ -1,0 +1,59 @@
+====== 2 Corinthians 03:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 \add It is by the power of his\add* Spirit that the Lord \add works in our lives\add*, and the Lord's Spirit has set us free \add from trying to obey the all the rules and rituals that God gave Moses\add*.
+\v 18 \add It is as though God\add* has removed the veil from our faces \f + \ft metaphor \f*. We realize how awesome Jesus is. As we realize that, we are continually being changed \f + \ft Or:\add the Holy Spirit is\add* continually changing us \f* to become more and more like Jesus, \add so that people can see\add*, more and more, how awesome \add Jesus is\add*. It is the Spirit of the Lord who does \add this\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Now the word "Lord" here means "the Spirit." Where the Spirit of the Lord is, people become free.
+\v 18 But as for all of us who believe, we see the Lord who shines with the light from God, and we look at him with no veil over his face.  God is changing us to be more and more wonderful like him. This is what the Lord does, he who is the Spirit.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.
+\v 18 Now all of us, with unveiled faces, seeing the glory of the Lord, are being transformed into the same glorious likeness from one degree of glory into another, just as this is from the Lord, who is the Spirit.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lordgod]]
+  * [[:En:obe:kt:holyspirit]]
+  * [[:yo:obe:kt:free]]
+  * [[:yo:obe:other:like]]
+  * [[:yo:obe:kt:glory]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **unveiled faces, seeing the glory of the Lord**  - Both of these phrases refer to the ability to understand God's message. (See: [[:yo:ta:vol2:translate:figs_parallelism]])
+    * **unveiled faces, seeing the glory of the Lord**  -  Unveiling a person's face allows them to see clearly and is also used to refer to being able to understand. The word "seeing" is used to refer to the ability to understand something.  (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+    * **the same glorious likeness** - something that has the same glory as the Lord or something that shows God's glory.
+    * **from one degree of glory into another** - "from one amount of glory to another amount of glory"
+
+     
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2co:03|2 Corinthians Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2co/03/14|<<]] | [[en/bible/notes/2co/04/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

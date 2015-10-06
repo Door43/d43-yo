@@ -1,0 +1,68 @@
+====== Genesis 44:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Judah replied, "Sir, what can we say? How can we prove that we are innocent\f + \ft Or: did not steal the cup \f*? God has paid us back\f + \ft Or: punished us \f* for the sins we committed many years ago. So now we will become your slaves—both we and the one in whose sack the cup was found."
+\v 17 But Joseph replied, "No, I could never do anything like that. Only the man in whose sack the cup was found will become my slave. The rest of you can return to your father peacefully."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Judah replied, "Sir, what can we say? How can we prove that we are innocent? God has paid us back for the sins we committed many years ago. So now we will become your slaves—both we and the one in whose sack the cup was found."
+\v 17 But Joseph replied, "No, I could never do anything like that. Only the man in whose sack the cup was found will become my slave. The rest of you can return to your father peacefully."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 Judah said, "What can we say to my lord? What can we speak? Or how can we justify ourselves? God has found out the iniquity of your servants. Look, we are my lord’s slaves, both we and he also in whose hand the cup was found."
+\v 17 Joseph said, "Far be it from me that I should do so. The man in whose hand the cup was found, that person will be my slave, but as for you others, go up in peace to your father."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:judah]]
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:justify]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:iniquity]]
+  * [[en:obe:other:servant]]
+  * [[en:obe:other:peace]]
+ 
+
+===== Translation Notes: =====
+
+  * **my lord** - This refers to Joseph. This is a formal way of speaking to someone with greater authority. Alternate translation: "What can we say to you, my lord?"
+  * **God has found out the iniquity of your servants** - Here "found out" does not mean God just found out what the brothers did. It means God is now punishing them for what they did. Alternate translation: "God is punishing us for our past sins"
+  * **and he also in whose hand the cup was found** - Alternate translation: "and the one who had your cup" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Far be it from me that I should do so** - "It is not like me to do something like that"
+  * **The man in whose hand the cup was found** - Alternate translation: "The man who had my cup."
+
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:44|Genesis Chapter 44 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/44/14|<<]] | [[en/bible/notes/gen/44/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish justify iniquity}}
+
+~~NOCACHE~~

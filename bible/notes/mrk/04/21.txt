@@ -1,0 +1,55 @@
+====== Mark 04:21-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 He also told them \add another parable\add*, saying, "People certainly do not \add light\add* an oil lamp and then bring it \add in the house\add* in order that it may be put \f + \ft Or:someone may put it \f* under a container or under a bed.\f + \ft Or: Would anyone \add light\add* an oil lamp and then bring it \add in the house\add* in order that it may be put \f + \ft Or:someone may put it \f* under a container or under a bed? \f* \f + \ft rhetorical question \f* No, \add they light it\add* in order that it may be put \f + \ft Or:someone may put it \f* in a place \add where it lights the house\add*.\add \f + \ft Or: Wouldn't they light it\add* in order that it may be put \f + \ft Or:someone may put it \f* in a place \add where it lights the house\add*? \f* \f + \ft rhetorical question \f*
+\v 22 \add Similarly\add*, there are some \add parts of God's message\add* that people do not know. \add But he intends that\add* people will understand all the things that they do not know \add now\add*.
+\v 23 If you want to understand this, you should consider\add carefully\add* what you \add have just heard\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 He told them another parable: "People certainly do not light an oil lamp and then bring it in the house in order to put something over it to cover its light. Instead, they put it on a lampstand so that the light will shine.
+\v 22 Similarly, things that were hidden—one day everyone will know them, and the things that have happened in secret—one day everyone will see them in full light.
+\v 23 If you want to understand this, you should consider carefully what you have just heard."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 Jesus said to them, "Do you bring a lamp inside the house to put it under a basket, or under the bed? You bring it in and you put it on a lampstand.
+\v 22 For nothing is hidden, that will not be known, nor anything in secret, that will not come into the light.
+\v 23 If anyone has ears to hear, let him hear."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:lampstand]]
+  * [[:yo:obe:kt:light]] 
+
+===== Translation Notes: =====
+
+Jesus finished explaining the parable. He continues telling his disciples another parable.
+
+  * **"Do you bring a lamp inside the house to put it under a basket, or under the bed?" ** - "You certainly do not bring a lamp inside the house to put it under a basket, or under a bed." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **If anyone has ears to hear, let him hear.** - Translate this as you did in [[:yo:bible:notes:mrk:04:08|4:9]].
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:04|Mark Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:04:18|<<]] | [[:yo:bible:notes:mrk:04:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

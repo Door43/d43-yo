@@ -1,0 +1,49 @@
+====== Genesis 09:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then God blessed Noah and his sons, saying to them, "I want you to have many children who will live all over the earth.
+\v 2 All the wild animals on the earth and all the birds, all the creatures that move close to the ground, and all the fish, will be very afraid \f + \ft doublet \f* of you.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then God blessed Noah and his sons. He said to them, "I want you to have many children who will live all over the earth.
+\v 2 All the larger animals on the earth, all the birds, all the creatures that move close to the ground, and all the fish, will be very afraid of you. I place them under your authority.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\p
+\v 1 Then God blessed Noah and his sons, and said to them, "Be fruitful, multiply, and fill the earth.
+\v 2  The fear of you and the dread of you will be upon every living animal on the earth, upon every bird of the sky, upon everything that goes low on the ground, and upon all the fish of the sea. They are given into your hand.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:other:noah]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:other:hand]]
+
+===== Translation Notes: =====
+
+  * **Be fruitful, multiply, and fill the earth**  - See how you translated these commands in [[:yo:bible:notes:gen:01:28|1:28]].
+  * **the fear of you and the dread of you**  - These two phrases mean basically the same thing, and one can be used to describe the other. It can also be translated as "a dreadful fear of you" or "a terrible fear of you." (See: [[en:ta:vol2:translate:figs_hendiadys|Hendiadys]])
+  * **dread**  - terror that comes from the threat of an enemy
+  * **every living animal**  - This is the first of the four groups that includes large animals, birds, creatures that are low to the ground, and fish. It is not a summary group that includes the other three kinds of living things.
+  * **bird**  - This is a general term for things that fly. See how you translated this in [[:yo:bible:notes:gen:01:20|1:21]].
+  * **upon everything that goes low on the ground**  - This includes all types of small animals. See how you translated this in [[:yo:bible:notes:gen:01:24|1:25]].
+  * **They are given into your hand**  - "They are given into your control." This can be translated with an active verb: "I put them into your control." (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:09|Genesis Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:08:20|<<]] | [[:yo:bible:notes:gen:09:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

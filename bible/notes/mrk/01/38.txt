@@ -1,0 +1,52 @@
+====== Mark 01:38-39 ======
+
+===== TFT: =====
+
+<usfm>
+\v 38 He said to them, "\add No\add*, let's go on to the neighboring towns in order that I can preach there also, because the reason that I came \add into the world\add* was to \add preach to people\add* in many places!"
+\v 39 So they went throughout Galilee \add district. As they did so, each Sabbath\f + \ft Or: Jewish rest day\add* \f* he preached in synagogues\f + \ft Or: Jewish meeting places \f*. He was also expelling evil spirits \add from people\add*.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 38 He said to them, "We need to go to the neighboring towns so that I can preach there as well.  This is the reason that I came into the world."
+\v 39 So they went throughout Galilee. As they went, Jesus would preach in the synagogues and forced evil spirits to come out from people.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 38 He said, "Let us go elsewhere, out into the surrounding towns, that I may preach there also. That is what I came out here to do." 
+\v 39 He went throughout all Galilee, he preached in their synagogues and he casted out demons.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:preach]]
+  * [[:yo:obe:other:galilee]]
+  * [[:yo:obe:other:synagogue]]
+  * [[:yo:obe:other:castout]]
+  * [[:yo:obe:kt:demon]]
+
+===== Translation Notes: =====
+
+  * **He...He...he...he** - Jesus
+  * **Let us go elsewhere** - "We need to go to some other place."
+  * **He went throughout all Galilee** - "He went to many places in Galilee" (See: [[en:ta:vol2:translate:figs_hyperbole]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:01|Mark Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:01:35|<<]] | [[:yo:bible:notes:mrk:01:40|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

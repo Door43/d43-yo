@@ -1,0 +1,72 @@
+====== Genesis 17:12-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Every male child among you must be circumcised when he is eight days old, in all future generations. That includes baby boys in your household or those born from slaves that have been bought, and foreigners who live among you but do not belong to your household.
+\v 13 It does not matter whether their parents are members of your household or slaves that have been bought; they must all be circumcised. Your bodies will have this mark to show \add you have accepted\add* this everlasting agreement I am making.
+\v 14 You must expel from your community any male who has not been circumcised, because that person has disobeyed my agreement."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Every male child among you must be circumcised when he is eight days old, in all future generations. That includes baby boys in your household and those born from slaves that have been bought, and foreigners who live among you but do not belong to your household.
+\v 13 It does not matter whether their parents are members of your household or slaves that you have bought; they must all be circumcised. Your bodies will have this mark to show you have accepted this everlasting covenant that I am making.
+\v 14 You must drive out from your community any male who has not been circumcised, because that person has disobeyed my covenant."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 Every male  among you that is eight days old must be circumcised, throughout your people's generations. This includes him who is born into your household and him who is bought with money from any foreigner who is not one of your descendants.
+\v 13 He who is born into your household and he who is bought with your money must be circumcised. Thus my covenant will be in your flesh for an everlasting covenant.
+\v 14 Any uncircumcised male who is not circumcised in the flesh of his foreskin will be cut off from his people. He has broken my covenant."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:circumcise]]
+  * [[en:obe:other:generation]]
+  * [[en:obe:other:household]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:kt:eternity]]
+  * [[en:obe:kt:covenant]]
+  * [[en:obe:kt:cutoff]]
+ 
+===== Translation Notes: =====
+
+God continues speaking to Abraham.
+
+  * **Every male**  - "Every human male"
+  * **throughout your generations**  - "in every generation"
+  * **him who is bought with money**  - "any male that you buy." This refers to slaves.
+  * **my covenant will be in your flesh**  - "my covenant will be marked in your flesh"
+  * **for an everlasting covenant**  - "as an permanent covenant." Because it was marked in flesh, it could not easily be erased.
+  * **uncircumcised male who is not circumcised in the flesh of his foreskin** - The word "uncircumcised" and the phrase following "male" mean the same thing. Hebrew often says the same thing twice. Translators will have to decide whether they can do that in their language. 
+  * **will be cut off from his people**  - This means either "will be separated from his people" or "will be destroyed from among his people."
+  * **He has broken my covenant**  - "He has violated my covenant" or "He has not obeyed the rules of my covenant." This is the reason that he would be cut off from his people.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:17|Genesis Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/17/09|<<]] | [[en/bible/notes/gen/17/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish circumcise cutoff }}
+
+~~NOCACHE~~

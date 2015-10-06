@@ -1,0 +1,62 @@
+====== 2 Kings 19:19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 So now, Yahweh our God, please rescue us from the power \f + \ft metonymy \f* \add of the king of Assyria\add*, in order that the people in all the kingdoms of the world will know that you, Yahweh, are the only one who is truly God."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 So now, Yahweh our God, please rescue us from the power of the king of Assyria, in order that the people in all the kingdoms of the world may know that you, Yahweh, are the only one who is truly God."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 Now then, Yahweh our God, save us, I implore you, from his power, so that all the kingdoms of the earth may
+know that you, Yahweh, are God alone."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:save]]
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:other:know]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:19|2 Kings Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/19/16|<<]] | [[en/bible/notes/2ki/19/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

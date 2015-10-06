@@ -1,0 +1,52 @@
+====== Ezekiel 02:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 The people to whom I will send you are very stubborn \f + \ft doublet \f*. But say to them, 'This is what Yahweh the Lord says to you.'
+\v 5 And \add when you tell them my messages\add*, perhaps those rebellious people will heed those messages and perhaps they will not heed them, but they will know that \add you\add*, a prophet, have been among them.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 The people to whom I will send you are very stubborn. But say to them, 'This is what Yahweh the Lord says to you.'
+\v 5 And when you tell them my messages, perhaps those rebellious people will heed those messages and perhaps they will not heed them; but they will know that a prophet has been among them!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 4 Their descendants have stubborn faces and hard hearts. I am sending you to them. And you will say to them, 'This is what the Lord Yahweh says:
+\v 5 Either they will listen or they will not listen. They are a rebellious house, but they will at least know that a prophet has been among them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:hard]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:lordyahweh]]
+  * [[en:obe:other:house]]
+  * [[:yo:obe:other:know]]
+  * [[en:obe:kt:prophet]]
+
+===== Translation Notes: =====
+
+God continues to speak to Ezekiel.
+
+  * **Their children**  - The word "their" refers to the past generations of Israel who had rebelled against God.  The word "children" refers to current generation of people living in Israel.
+  * **stubborn faces and hard hearts**  - These two descriptions are both used to describe the people of Israel not wanting to change how they live in order to obey God.  (See: [[en:ta:vol2:translate:figs_doublet]])
+  * **they have stubborn faces** - "the expression on their faces shows that they are stubborn" or "they are stubborn" (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **stubborn** - "unwilling to change"
+  * **hard hearts**  - This phrase suggests the people's resistance to God and their unwillingness to obey him.  The heart is used to describe the place in the body where a person decides what they want to do. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **They are a rebellious house**  - "They are a people who disobey God"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:02|Ezekiel Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:02:01|<<]] | [[:yo:bible:notes:ezk:02:06|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish }}
+
+~~NOCACHE~~

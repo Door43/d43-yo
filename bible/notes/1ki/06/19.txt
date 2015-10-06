@@ -1,0 +1,46 @@
+====== 1 Kings 06:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 At the back of the temple they made the Very Holy Place, in order to put the Sacred Chest there.
+\v 20 That room was 30 feet long, 30 feet wide, and 30 feet high. They covered the walls with \add very thin sheets of\add* pure gold. \add For burning incense\add* they also made an altar of cedar \add boards\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 At the back of the temple they made the very holy place, in order to put the sacred chest there.
+\v 20 That room was about nine meters long, nine meters wide, and nine meters high. They covered the walls with very thin sheets of pure gold. For burning incense they also made an altar of cedar boards.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 Solomon prepared the most holy place inside the house in order to place the ark of the covenant of Yahweh there.
+\v 20 The most holy place was twenty cubits in length, twenty cubits in width, and twenty cubits high; Solomon overlaid the walls with pure gold and covered the altar with cedar wood.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:arkofthecovenant]]
+  * [[:yo:obe:kt:purify]]
+  * [[:yo:obe:other:gold]]
+  * [[:yo:obe:other:altar]]
+
+===== Translation Notes: =====
+
+    * **covered the altar with cedar wood** - This altar would be used for burning incense.  
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1ki:06|1 Kings Chapter 06 Comprehension Questions]]**
+**[[:yo:bible:notes:1ki:06:16|<<]] | [[:yo:bible:notes:1ki:06:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

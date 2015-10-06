@@ -1,0 +1,52 @@
+====== Genesis 24:21-23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 The servant just watched her, without saying anything. He wanted to know if Yahweh had caused his trip to be successful or not.
+\v 22 Finally, after the camels finished drinking, the servant took out a gold nose ring that weighed two ounces\f + \ft Or: 6 grams \f*, and two large gold bracelets for her arms, and gave them to Rebekah \add and told her to put them on\add*.
+\v 23 Then he said, "Tell me whose daughter you are. Also, tell me, is there room in your father's house for me and my men to sleep there tonight?"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 The servant just watched her, without saying anything. He wanted to know if Yahweh had caused his trip to be successful or not.
+\v 22 Finally, after the camels finished drinking, the servant took out a gold nose ring that weighed six grams, and two gold bracelets for her arms, each weighing about 110 grams, gave them to Rebekah, and told her to put them on.
+\v 23 Then he said, "Tell me whose daughter you are. Also, tell me, is there room in your father's house for me and my men to sleep there tonight?"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 21 The man watched her in silence to see whether Yahweh had prospered his journey or not.
+\v 22 As the camels finished drinking, the man brought out a gold nose ring weighing half a shekel, and two gold bracelets for her arms weighing ten shekels,
+\v 23 and asked, "Whose daughter are you? Tell me please, is there room in your father’s house for us to spend the night?"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **The man** - "The servant" (UDB)
+  * **watched her** - "watched Rebekah" or "watched the young woman"
+  * **to see**  - This is an idiom which you can translate as "to know" (UDB) or "to determine." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **had prospered his journey**  - "had fulfilled the purpose of his journey" or "had made his journey successful." Since the purpose of his journey was to find a wife for Abraham's son, this could also be translated as "was showing him the woman who would become Isaac's wife."
+  * **camels** - See how you translated this in [[en:bible:notes:gen:24:10|24:10]].
+  * **a gold nose ring weighing half a shekel** - "a gold nose ring that weighed six grams" (UDB). The weight shows its value, so it can also be translated a "an expensive gold nose ring." (See: [[en:obe:other:biblicalweight]])
+  *  **two gold bracelets for her arms weighing ten shekels** - "two gold bracelets for her arms that weighed 110 grams." The weight shows their size and value, so it can also be translated as "two large gold bracelets for her arms" (UDB). (See: [[en:obe:other:biblicalweight]])
+  * **Whose daughter are you** - This could also be translated as "Who is your father?"
+  * **is there room in your father’s house**  - "is there a place in your father's house"
+  * **for us to spend the night**  - "where we can stay for the night" Apparently other men went on this journey with Abraham's servant.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:24|Genesis Chapter 24 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:24:19|<<]] | [[:yo:bible:notes:gen:24:24|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish  biblicalmoney}}
+
+~~NOCACHE~~

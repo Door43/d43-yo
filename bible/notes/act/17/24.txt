@@ -1,0 +1,59 @@
+====== Acts 17:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 He is the God who made the world and everything in it. Because he rules over all \add beings in\add* heaven and \add on\add* earth, he does not dwell in shrines that people have made.
+\v 25 He does not need to have anything made for him by people \f + \ft metonymy \f* \f + \ft Or:to have people ( metonymy ) make \f + \ft metonymy \f* anything for him \f*, because everything that exists belongs to him. He is the one who causes us\add \f + \ft inclusive \f*\add*\f + \ft Or: all people \f* to live and breathe, and \add he gives us\add* all the things \add that we\f + \ft inclusive \f* need\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 He is the God who made the world and everything in it. He rules over all beings in heaven and on earth, and he does not live in temples that people have built.
+\v 25 He does not need to have anything made for him by people because he makes people live and breath, and he gives them everything they need.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 The God who made the world and everything in it, since he is Lord of heaven and earth, does not live in temples built with hands.
+\v 25 Neither is he served by men’s hands, as though he needed anything, since he himself gives people life and breath and everything else.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:world]]
+  * [[:yo:obe:kt:lord]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:temple]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:kt:life]]
+
+===== Translation Notes: =====
+
+Paul continues to speak.
+
+  * **since he is Lord** - "he" is referring to the unknown god that Paul is explaining is the Lord God. This can be translated as "because he is the Lord."
+  * **built with hands** - "through the action of people"
+  * **is he served** - "served" has the sense of a doctor treating a patient to make him/her well again. Alternate Translation: "cared for."
+  * **by men's hands** - "by human hands"
+  * **since he himself** - "because he himself"
+===== Links: =====
+  * **[[en:bible:questions:comprehension:act:17|Acts Chapter 17 Comprehension Questions]]**
+
+
+**[[:yo:bible:notes:act:17:22|<<]] | [[:yo:bible:notes:act:17:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

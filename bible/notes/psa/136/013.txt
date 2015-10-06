@@ -1,0 +1,83 @@
+====== Psalms 136:13-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 He is the one who caused the Red Sea to divide;
+\q2 his faithful love for us endures forever.
+\q1
+\v 14 He enabled the Israelite people to walk through it \add on dry land\add*;
+\q2 his faithful love for us endures forever.
+\q1
+\v 15 But he caused the king of Egypt and his army to drown in it;
+\q2 his faithful love for us endures forever.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 He is the one who caused the Sea of Reeds to divide;
+\q2 he will love us forever, as he has promised.
+\q1
+\v 14 He enabled the Israelite people to walk through it on dry land;
+\q2 he will love us forever, as he has promised.
+\q1
+\v 15 But he caused the king of Egypt and his army to drown in it;
+\q2 he will love us forever, as he has promised.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 To him who divided the Red Sea
+\q for his covenant faithfulness endures for ever—
+\v 14 And made Israel to pass through the middle of it,
+\q for his covenant faithfulness endures for ever—
+\q
+\v 15 But overthrew Pharaoh and his army in the Red Sea,
+\q for his covenant faithfulness endures for ever—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:136|Psalms Chapter 136 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/136/010|<<]] | [[en/bible/notes/psa/136/016|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

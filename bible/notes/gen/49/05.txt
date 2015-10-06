@@ -1,0 +1,74 @@
+====== Genesis 49:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Simeon and Levi, you two have both acted like criminals.
+\q You use your swords to act violently.
+\q
+\v 6 I do not want to be with you when you make evil plans \f + \ft doublet \f*.
+\q I do not want to join you in your meetings,
+\q because you killed people when you became very angry,
+\q and you hamstrung\f + \ft Or: cut the tendons in the legs of \f* oxen just to have fun\f + \ft Or: see them suffer \f*.
+\q
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Simeon and Levi, you two brothers have both acted like criminals.
+You use your swords to act violently.
+\v 6 I do not want to be with you when you make evil plans.
+I am too honorable to join you in your meetings,
+because you killed people when you became very angry,
+and you hamstrung oxen just to have fun.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q2
+\v 5 Simeon and Levi are brothers.
+\q Weapons of violence are their swords.
+\q
+\v 6 My self, do not come into their council;
+\q do not join in their meetings, for my heart is too much honored for that. 
+\q For in their anger they killed men.
+\q It was for pleasure that they hamstrung oxen.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:simeon]]
+  * [[:en;obe:other:levite]]
+  * [[en:obe:other:sword]]
+  * [[:yo:obe:kt:soul]]
+  * [[en:obe:other:council]]
+  * [[en:obe:kt:assembly]]
+  * [[:yo:obe:other:heart]]
+  * [[en:obe:other:angry]]
+  * [[en:obe:other:ox]]
+ 
+
+===== Translation Notes: =====
+
+  * **Weapons of violence are their swords** - "They use their swords to hurt and to kill people"
+  * **do not come into their council; do not join in their meetings** - Both of these phrases say the same thing for emphasis. Jacob uses the words "soul" and "heart" to refer to himself. AT: "I certainly will not join with them to make any plans" (See: [[en:ta:vol2:translate:figs_parallelism]])
+  * **My self...my heart** - Jacob uses the words "self" and "heart" to refer to the most noble parts of himself.
+  * **they hamstrung oxen** - Jacob compares the men of Shechem to oxen. This emphasizes the strength of the men and that Simenon and Levi killed them as if the men were just animals. AT: "they slaughtered men like they slaughter oxen" (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:49|Genesis Chapter 49 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:49:03|<<]] | [[:yo:bible:notes:gen:49:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish soul}}
+
+~~NOCACHE~~

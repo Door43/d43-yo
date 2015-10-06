@@ -1,0 +1,67 @@
+====== Acts 26:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 "\add Formerly\add* I, too, was sure that I should do everything that I could to oppose Jesus \f + \ft metonymy \f*, the man from Nazareth \add town\add*.
+\v 10 So that is what I did \add when I lived\add* in Jerusalem. I put many of the believers in jail, as the chief priests there had authorized me \add to do\add*. When \add the Jewish leaders wanted\add* those Christians killed \f + \ft Or:someone to kill those \add Christians\add* \f*. I voted \add for that\add*.
+\v 11 Many times I punished the believers \add whom I found\add* in Jewish meeting places. \add By punishing them\add*, I tried to force them to speak evil \add about Jesus\add*. I was so angry with the followers of Jesus that I even traveled to other cities to \add find them and\add* do things to harm them."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 There was a time in the past when I, too, was sure that I should do everything that I could to stop people from believing in Jesus from Nazareth town.
+\v 10 So that is what I did when I lived in Jerusalem. I shut up many of the believers in prison, as the chief priests there had given me power to do. And when their people killed believers, I voted in favor of that.
+\v 11 Often I punished in all the synagogues. I tried to force them to insult the memory of Jesus. I was angry towards them so much, that I even went to foreign cities to find them.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 At one time I thought to myself that I should do many things against the name of Jesus of Nazareth. 
+\v 10 I did these in Jerusalem; I locked up many of the saints in prison, and I had authority from the chief priests to do this; and when they were killed, I gave my vote against them also.
+\v 11 I punished them often in all the synagogues and I tried to make them blaspheme. I was very angry at them and I chased them even to foreign cities.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:nazareth]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:saint]]
+  * [[:yo:obe:other:prison]]
+  * [[:yo:obe:kt:authority]]
+  * [[:yo:obe:other:chiefpriests]]
+  * [[:yo:obe:other:punish]]
+  * [[:yo:obe:other:synagogue]]
+  * [[:yo:obe:kt:blasphemy]]
+===== Translation Notes: =====
+
+Paul continues to speak.
+
+  * **against the name of Jesus** - "against those who followed Jesus" (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **I punished them often** - Possible meanings: 1) Paul punished some believers many times or 2) Paul punished many different Believers.
+  * **gave my vote against them** - "voted in favor of punishing them"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:26|Acts Chapter 26 Comprehension Questions]]**
+**[[:yo:bible:notes:act:26:06|<<]] | [[:yo:bible:notes:act:26:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish nazareth saint }}
+
+~~NOCACHE~~

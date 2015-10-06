@@ -1,0 +1,49 @@
+====== Genesis 07:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Pairs of all creatures that breathed\f + \ft Or: everything that lived \f* came to Noah and entered the boat.
+\v 16 There was a male and a female of each creature that came to Noah, just as God had said they would do. After they were all in the boat, God shut the door.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Pairs of all creatures that breathed came to Noah and entered the boat.
+\v 16 There were a male and a female of each creature that came to Noah, just as God had said they would do. After they were all in the boat, Yahweh shut the door.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 Two of all flesh in which was the breath of life came to Noah and entered into the ark.
+\v 16 The animals that went in were male and female of all flesh; they entered in just as God had commanded him. Then Yahweh shut the door after them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:noah]]
+  * [[en:obe:other:ark]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:yahweh]]
+===== Translation Notes: =====
+
+Verses 13-18 repeat for a third time and give more detail about how Noah went into the ark with his family and the animals in Genesis [[en:bible:notes:gen:07:01|7:1-5]]. This is not a new event. 
+
+  * **two of all flesh in which was the breath of life**  - This refers to the animals that were listed in verse 14.
+  * **in which was the breath of life**  - The phrase “in which was the breath of life” is a figurative way of saying “that lived.” (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **male and female of all flesh**  - This could be translated as "male and female of every kind of animal."
+  * **after them**  - This could be made more explicit: "after they entered the ark" (See: [[en:ta:vol1:translate:figs_explicit]]).
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:07|Genesis Chapter 07 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:07:13|<<]] | [[:yo:bible:notes:gen:07:17|>>]]**
+
+{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== Genesis 26:23-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 From there Isaac went up to Beersheba.
+\v 24 The first night that he was there, Yahweh appeared to him and said, "I am God, whom your father Abraham worshiped. Do not be afraid of anything. I will help you and bless you, and because of what I promised my servant Abraham, I will greatly increase the number of your descendants."
+\v 25 So Isaac built a stone altar there and offered a sacrifice to worship Yahweh. He set up their tents there, and his servants started to dig a well.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 From there Isaac went up to Beersheba.
+\v 24 The first night that he was there, Yahweh appeared to him and said, "I am the God whom your father Abraham worshiped. Do not be afraid of anything. I will help you and bless you, and because of what I promised my servant Abraham, I will greatly increase the number of your descendants."
+\v 25 So Isaac built an altar there and offered a sacrifice to worship Yahweh. He set up their tents there, and his servants started to dig a well.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 Then Isaac went up from there to Beersheba.
+\v 24 Yahweh appeared to him that same night and said, "I am the God of Abraham your father. Do not fear, for I am with you and will bless you and multiply your descendants, for my servant Abraham’s sake."
+\v 25 Isaac built an altar there and called on the name of Yahweh. There he pitched his tent, and his servants dug a well.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:beersheba]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:other:Abraham]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:other:servant]]
+  * [[en:obe:other:altar]]
+  * [[en:obe:other:well]]
+ 
+===== Translation Notes: =====
+
+  * **multiply your descendants**  - “will cause your descendants to increase greatly” or “will cause your descendants to be very many”
+  * **for my servant Abraham's sake**  - "for my servant Abraham" or "because I promised my servant Abraham that I would do this." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Isaac built an altar there**  - Why Isaac built an altar can be made explicit: "Isaac built an altar there to sacrifice to Yahweh."
+  * **called on the name of Yahweh**  - "prayed in the  name of Yahweh" or "worshiped Yahweh." See how you translated this in [[en:bible:notes:gen:12:08|12:8]].
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:26|Genesis Chapter 26 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:26:21|<<]] | [[:yo:bible:notes:gen:26:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish beersheba}}
+
+~~NOCACHE~~

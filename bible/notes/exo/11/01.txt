@@ -1,0 +1,61 @@
+====== Exodus 11:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Yahweh said to Moses\f + \ft Or: me \f*, "I will bring one more disaster on the king of Egypt and on all his people \f + \ft metonymy \f*. After that, he will let you leave. In fact, he will expel you all.
+\v 2 So now speak to all the \add Israelite\add* people. Tell them to ask all their \add Egyptian\add* neighbors, both men and women, to give them some silver and gold jewelry."
+\v 3 Yahweh made the Egyptians highly respect the Israelite people. In particular, the Egyptian officials and all \add the rest of\add* the people considered Moses\f + \ft Or: me \f* to be a very great man.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Yahweh said to Moses, "I will bring one more disaster on the king of Egypt and on all his people. After that, he will let you leave. In fact, he will chase you out of Egypt.
+\v 2 So now, speak to all the Israelite people. Tell them to ask all their Egyptian neighbors, both men and women, to give them their silver and gold jewelry."
+\v 3 Yahweh made the Egyptians highly respect the Israelite people. In fact, the king's officials and all the rest of the people thought that Moses was a very great man.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 11
+\p
+\v 1 Then Yahweh said to Moses,"There is still one more plague that I will bring on Pharaoh and Egypt. After that, he will let you go from here. When he finally lets you go, he will drive you away completely.
+\v 2 Instruct the people that every man and woman is to ask of his or her neighbor for jewels of silver, and jewels of gold."
+\v 3 Now Yahweh had made the Egyptians eager to please the Israelites. Moreover, the man Moses was very impressive in the sight of Pharaoh’s servants and the people of Egypt.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:moses]]
+  * [[:yo:obe:other:plague]]
+  * [[:yo:obe:other:pharaoh]]
+  * [[:yo:obe:other:egypt]]
+  * [[:yo:obe:other:silver]]
+  * [[:yo:obe:other:gold]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+
+  * **Pharaoh and Egypt** - AT: "on Pharaoh and all his people"; (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+  * **neighbor** - This is a person who lives near you.
+  * **jewels**  - AT: "objects of great value"
+  * **silver** - a white or gray metal that is very costly
+  * **gold**  - a yellow metal that is very costly
+  * **impressive** - great (See UDB)
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:11|Exodus Chapter 11 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:10:27|<<]] | [[:yo:bible:notes:exo:11:04|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

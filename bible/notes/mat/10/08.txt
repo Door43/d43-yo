@@ -1,0 +1,59 @@
+====== Matthew 10:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Heal sick people, cause dead people to become alive, heal people who have leprosy, and cause demons to leave people \add who are controlled by them\add* \f + \ft Or:\add whom demons control\add* \f*. Do not charge money \add for helping people, because God\add* did not charge you anything \add for helping you\add*.
+\v 9-10 Do not take any money with you \f + \ft metonymy \f*, nor a knapsack. Do not take an extra shirt, nor sandals \add in addition to what you are wearing\add*, nor a walking stick. Every worker deserves to get pay \add from the people for whom he works\add*, \add so you deserve to receive food and a place to stay from the people to whom you go\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Heal sick people, cause dead people to become alive, heal people with leprosy and bring them back into society, and cause demons to leave those whom they control. Do not charge any money for helping people, because God did not charge you anything for helping you.
+\v 9-10 Do not take any money with you, nor a bag for what belongs to you. Do not take an extra tunic, nor sandals in addition to what you are wearing, nor a walking stick. Every worker deserves to get pay from the people for whom he works, so you deserve to receive food and a place to stay from the people to whom you go.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 Heal the sick, raise the dead, cleanse the lepers, and cast out demons. Freely you have received, freely give.
+\v 9 Acquire no gold, silver, nor brass for your purses;
+\v 10 no traveling bag for your journey, neither two tunics, nor sandals, nor staff, for the laborer deserves his food.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:heal]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:clean]]
+  * [[:yo:obe:other:leprosy]]
+  * [[:yo:obe:other:castout]]
+  * [[:yo:obe:kt:demon]]
+  * [[:yo:obe:other:tunic]]
+  * [[:yo:obe:other:sandal]]
+  * [[:yo:obe:other:staff]]
+  * [[:yo:obe:other:labor]]
+
+===== Translation Notes: =====
+
+This continues the account of Jesus sending out his twelve apostles to do his work that began in [[:yo:bible:notes:mat:10:01|10:1]].
+
+  * **you...your** - the twelve apostles
+  * **Acquire no gold, silver, nor brass** - "Do not acquire gold, silver, or brass"
+  * **Acquire** - "Get," Receive," or "Take"
+  * **gold, silver, nor brass** - These are metals out of which coins were made. This list is a metonym for money, so if the metals are unknown in your area, translate the list as "money" (see UDB).
+  * **purses **- This means "belts" or "money-belts," but it can refer to whatever might be used to carry money. A belt is a long strip of cloth or leather worn around the waist. It was often wide enough that it could be folded and used to carry money.
+  * **traveling bag **- This could either be any bag used to carry things on a journey, or a bag used by someone to collect food or money.
+  * **two tunics** - Use the same word you used for "tunic" in [[:yo:bible:notes:mat:05:40|5:40]].
+  * **laborer**  - "worker"
+  * **food** - "what he needs"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:10|Matthew Chapter 10 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:10:05|<<]] | [[:yo:bible:notes:mat:10:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish staff}}
+
+~~NOCACHE~~

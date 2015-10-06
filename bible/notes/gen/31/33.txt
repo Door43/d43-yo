@@ -1,0 +1,48 @@
+====== Genesis 31:33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 Laban went into Jacob's tent, and then into Leah's tent, and then into the tents of the two female slaves and searched for the idols, but he did not find them. After he left their tents, he entered Rachel's tent.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 Then Laban went into Jacob's tent, next into Leah's tent, and then into the tent of the two female slaves and searched for the idols, but he did not find them. After he left their tents, he entered Rachel's tent.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 33 Laban went into Jacob’s tent, into Leah’s tent, and into the tent of the two female servants, but he did not find  them.  He went out of Leah’s tent and entered into Rachel’s tent.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:laban]]
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:other:leah]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:rachel]]
+ 
+
+===== Translation Notes: =====
+
+  * **the two female servants** - This refers to Zilpah and Bilhah.
+  * **he did not find them**  - "He did not find his idols"
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:31|Genesis Chapter 31 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:31:31|<<]] | [[:yo:bible:notes:gen:31:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

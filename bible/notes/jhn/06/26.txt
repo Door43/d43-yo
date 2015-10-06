@@ -1,0 +1,62 @@
+====== John 06:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 Jesus replied to them, "Listen to this carefully: Do you know why you are looking for me? It is not because you saw \add me perform\add* miracles \add and as a result have realized who I really am\add*. No! You are looking for me \add only\add* because you had plenty of bread to eat \add after I provided it for you by performing a miracle\add*.
+\v 27 Stop desiring food that will soon spoil! Instead, desire to get \add spiritual\add* food that will last forever! Yearn for eternal life! That is what I, the one who came from heaven, will give you. God \add my\add* Father has shown that he approves of me \add doing that\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Jesus replied to them, "I am telling you the truth: you are not looking for me because you saw me perform miracles that show who I am. No! You are looking for me only because you ate until you were full of the loaves of bread.
+\v 27 Stop working for food that will soon spoil! Instead, work for the food that will bring you everlasting life! That is the bread that I, the Son of Man, God's chosen one, will give you. For God the Father approves of me in every way."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 26 Jesus replied to them, saying, "Truly, truly, you seek me, not because you saw signs, but because you ate some of
+the loaves and were filled.
+\v 27 Stop working for the food that perishes, but work for the food that endures to everlasting life which the Son of Man will give you, for God the Father has set his seal on him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:amen]]
+  * [[en:obe:kt:sign]]
+  * [[:yo:obe:kt:perish]]
+  * [[:En:obe:kt:eternity]]
+  * [[:yo:obe:kt:sonofman]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:godthefather]]
+  * [[en:obe:other:seal]]
+ 
+
+===== Translation Notes: =====
+
+  * **Truly, truly** - Translate this as you did in [[en:bible:notes:jhn:01:49|1:51]].
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:06|John Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/06/24|<<]] | [[en/bible/notes/jhn/06/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

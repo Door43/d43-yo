@@ -1,0 +1,62 @@
+====== 1 Peter 03:18-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18  \add I say that\add* because Christ died once for the sake of people who have sinned. He was a righteous person who died for unrighteous people. He died in order that he might bring us to\f + \ft Or: we might begin an intimate relationship with \f* God. \add During the time that he had\add* an ordinary body, he was killed \f + \ft Or:people killed him \f*, but  \add God's\add* Spirit caused him to become alive again.
+\v 19 The Spirit also helped him as he went to proclaim  \add God's victory to the evil\add* spirits whom God had imprisoned  \add in the heavens\add* \f + \ft Or: to the spirits of those who  \add had died, and who\add* were in the place where the spirits of dead people are \f*.
+\v 20 Long ago, during the time that Noah was building a big boat, \add those evil spirits\add* disobeyed God when he waited patiently \f + \ft personification \f* \add to see if people would turn from their evil behavior\add*. Only a few people were saved \f + \ft Or:\add God\add* saved only a few people \f* \add in that boat\add*. Specifically, \add God\add* brought only eight persons safely through the waters  \add of the flood\add*, \add while all the others drowned in it\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18  I say that because Christ died once for the sake of people who have sinned. He was a righteous person who died for unrighteous people. He died in order that he might bring us to God. During the time that he had an ordinary body, he was killed, but  God's Spirit caused him to become alive again.
+\v 19 The Spirit also helped him as he went to proclaim God's victory to the evil spirits whom God had imprisoned.
+\v 20 Long ago, during the time that Noah was building a big boat, those evil spirits disobeyed God when he waited patiently to see if people would turn from their evil behavior. Only a few people were saved in that boat. Specifically, God brought only eight persons safely through the waters of the flood, while all the others drowned in it.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 Christ also suffered once for sins. He who is righteous suffered for us, who were unrighteous, so that he would bring us to God. He was put to death in the flesh, but he was made alive in the spirit.
+\v 19 In the spirit, he went and preached to the spirits who are now in prison.
+\v 20 They were disobedient when the patience of God was waiting in the days of Noah, in the days of the building of an ark, and God saved a few people—eight souls—through the water.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:unjust]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:flesh]]
+  * [[:yo:obe:other:preach]]
+  * [[:yo:obe:other:prison]]
+  * [[:yo:obe:other:disobey]]
+  * [[:yo:obe:other:patient]]
+  * [[:yo:obe:other:noah]]
+  * [[:yo:obe:other:ark]]
+  * [[:yo:obe:kt:save]]
+  * [[:yo:obe:kt:soul]]
+  * [[:yo:obe:other:water]]
+
+===== Translation Notes: =====
+
+Peter has been instructing believers to live righteously and not fear those that persecute them.
+
+  * **suffered for us** - The word "us" includes the speaker, Peter and the audience. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **In the spirit, he went and preached to the spirits who are now in prison** - After Christ was killed he went to the place of the dead and preached to the spirits.
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:03|1 Peter Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1pe:03:15|<<]] | [[:yo:bible:notes:1pe:03:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

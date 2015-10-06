@@ -1,0 +1,53 @@
+====== Exodus 31:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 all the beautiful sacred clothes for Aaron and his sons to wear when they work as priests,
+\v 11 the oil for anointing, and the sweet-smelling incense for the Holy Place. \add The skilled workers\add* must make all these things exactly as I have told you that they should do."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 all the beautiful, special clothes for Aaron and his sons to wear when they work as priests;
+\v 11 the oil for anointing, and the sweet-smelling incense for the holy place. The craftsmen must make all these things exactly as I have told you that they should do."
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 10 This also includes the finely woven garments—the holy garments for Aaron the priest and those of his sons, reserved for me so that they may serve as priests.
+\v 11 This also includes the anointing oil and the sweet incense for the holy place. These craftsmen must make all these things just as I have commanded you."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:other:aaron]]
+  * [[:yo:obe:kt:priest]]
+  * [[en:obe:other:serve]]
+  * [[:yo:obe:kt:anoint]]
+  * [[:yo:obe:other:oil]]
+  * [[en:obe:other:incense]]
+  * [[en:obe:kt:holyplace]]
+  * [[en:obe:other:command]]
+
+===== Translation Notes: =====
+Yahweh continues speaking to Moses.
+  * **finely woven** - See how you translated this in [[en:bible:notes:exo:28:06|26:8]].
+  * **these craftsmen** - "these skilled workmen"
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:31|Exodus Chapter 31 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:31:06|<<]] | [[:yo:bible:notes:exo:31:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

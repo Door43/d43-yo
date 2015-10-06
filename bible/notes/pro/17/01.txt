@@ -1,0 +1,78 @@
+====== Proverbs 17:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 It is better \add to eat\add* a dry piece \add of bread\add* and not have strife\f + \ft Or: quarrels \f*
+\q2 than to have a big feast in a house where everyone is quarreling.
+\b
+\q1
+\v 2 A slave who acts wisely will \add some day\add* be the boss of his master's disgraceful son
+\q2 and when his master dies, he will receive part of his master's possessions.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 It is better to eat a dry piece of bread and not have strife
+\q2 than to live in a house where quarreling is a regular as the temple offerings.
+\b
+\q1
+\v 2 A slave who acts wisely will rule over his master's son 
+\q2 who does things that bring him shame. 
+\q2 that slave will receive his share of the inheritance, and will be treated like one of the brothers. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 17
+\q
+\v 1 It is better to have quiet with a dry morsel of bread,
+\q than a house full strife, offered regularly, 
+\q
+\v 2 A wise servant will rule over a son who acts shamefully
+\q and will share the inheritance as one of the brothers.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:wise]]
+  * [[:En:obe:other:servant]]
+  * [[:En:obe:other:shame]]
+  * [[:En:obe:kt:brother]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:17|Proverbs Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/16/33|<<]] | [[en/bible/notes/pro/17/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

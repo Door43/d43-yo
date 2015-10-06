@@ -1,0 +1,69 @@
+====== 1 Samuel 15:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 But Samuel replied, "If that is true, why is it that I hear cattle mooing and I hear sheep bleating?"
+\p
+\v 15 Saul replied, "The soldiers took them from the Amalek people-group. They saved the best sheep and cattle, in order to offer them as sacrifices to Yahweh, your God. But we have completely destroyed all the others."
+\p
+\v 16 Samuel said to Saul, "Stop \add talking\add*! Allow me to tell you what Yahweh said to me last night."
+\p Saul replied, "Tell me \add what he said\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 But Samuel replied, "If that is true, why is it that I hear cattle mooing and I hear sheep bleating?"
+\p
+\v 15 Saul replied, "The soldiers took them from the Amalek people group. They saved the best sheep and cattle, in order to offer them as sacrifices to Yahweh, your God. But we have completely destroyed all the others."
+\p
+\v 16 Samuel said to Saul, "Stop talking! Allow me to tell you what Yahweh said to me last night."
+\p Saul replied, "Tell me what he said."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 Samuel said, "What then is this bleating of sheep in my ears, and the lowing of the oxen that I hear?"
+\v 15 Saul replied, "They have brought them from the Amalekites. For the people spared the best of the sheep and oxen,
+to sacrifice to Yahweh your God. The rest we have completely destroyed."
+\v 16 Then Samuel said to Saul, "Wait, and I will tell you what Yahweh has said to me tonight." Saul said to him, "Speak!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1sa:15|1 Samuel Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1sa/15/12|<<]] | [[en/bible/notes/1sa/15/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

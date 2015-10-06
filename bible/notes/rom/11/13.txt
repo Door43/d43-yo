@@ -1,0 +1,43 @@
+====== Romans 11:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Now it is to you non-Jews that I am saying \add what follows\add*. I am the one who is the apostle to non-Jews, and I highly esteem this work \add that God appointed\add* me to do.
+\v 14 But I also hope that \add by my labors\add* I will make my fellow Jews jealous\f + \ft Or: want what you non-Jews have \f*, \add with the result that\add* some of them will \add believe and thus\add* be saved.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Now it is to you non-Jews that I am saying what follows. I am the one who is the apostle to non-Jews such as you, and I highly value this work that God appointed me to do.
+\v 14 But I also hope that by my labors I will make my fellow Jews jealous, with the result that some of them will believe and thus be saved.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 And now I am speaking to you Gentiles.  As long as I am an apostle to Gentiles, I take pride in my ministry:
+\v 14 perhaps I will provoke to jealousy those who are of my own flesh, and save some of them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:gentile]]
+  * [[:yo:obe:kt:apostle]]
+  * [[:yo:obe:kt:minister]]
+  * [[:yo:obe:kt:jealous]]
+  * [[:yo:obe:kt:flesh]]
+  * [[:yo:obe:kt:save]]
+
+===== Translation Notes: =====
+
+  * **provoke to jealousy** - Translate this phrase the same way you did in [[:yo:bible:notes:rom:10:19|10:19]].
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:11|Romans Chapter 11 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:11:11|<<]] | [[:yo:bible:notes:rom:11:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

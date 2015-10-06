@@ -1,0 +1,53 @@
+====== 2 Kings 04:38-39 ======
+
+===== TFT: =====
+
+<usfm>
+\v 38 Then Elisha returned to Gilgal. But at that time there was a famine\f + \ft Or: very little food \f* in that area. One day as the group of prophets were sitting in front of Elisha \add listening to what he was teaching\add*, he said to his servant, "Put a large pot on \add the stove\add* and make some stew for these men."
+\p
+\v 39 One of the prophets went out to the fields to gather some vegetables. But he gathered only some wild gourds and put them in his cloak and brought them back. He shredded them and put them in the pot, but he did not know that the gourds were poisonous.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 38 Then Elisha returned to Gilgal. But at that time there was a famine in that area. One day as the association of prophets was sitting in front of Elisha listening to what he was teaching, he said to his servant, "Put a large pot on the fire and make some stew for these men."
+\p
+\v 39 One of the prophets went out to the fields to gather some vegetables. But he gathered only some wild gourds and put them in his cloak and brought them back. He shredded them and put them in the pot, but he did not know that the gourds were poisonous.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 38 Then Elisha came again to Gilgal. There was famine in the land, and the sons of the prophets were sitting before
+him. He said to his servant, "Put the large pot on the fire and cook stew for the sons of the prophets."
+\v 39 One of them went out into a field to gather vegetables. He found a wild vine and gathered enough wild gourds to fill the fold of his robe. They cut them up and put them into the stew, but did not know what kind they  were.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:famine]]
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:other:fire]]
+  * [[:yo:obe:other:vine]]
+  * [[:yo:obe:other:robe]]
+
+===== Translation Notes: =====
+
+  * **the sons of the prophets** - AT: "A group of men who were prophets"
+  * **sitting before him** - "sitting with Elisha"
+  * **stew** - a dish usually made of meat and vegetables cooked in a pot with liquid
+  * **a wild vine** - a type of plant that was growing wild
+  * **wild gourds** - the fruit that was growing on the wild vine
+  * **fill the fold of his robe** - He lifted the bottom edge of his robe up to his waist to make a place to carry more gourds that he could carry with his hands only. 
+  * **but did not know what kind they were**  - AT: "but did not know if they were good or bad to eat" (See: [[:yo:ta:vol1:translate:figs_explicitinfo]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:2ki:04|2 Kings Chapter 04 Comprehension Questions]]**
+**[[:yo:bible:notes:2ki:04:35|<<]] | [[:yo:bible:notes:2ki:04:40|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

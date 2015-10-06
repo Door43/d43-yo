@@ -1,0 +1,55 @@
+====== Genesis 43:18-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 But they were afraid because he was taking them to Joseph's house. They were thinking, "He is taking us here because of the silver that was put in our sacks the first time that we came here. While we are eating, he will have his servants attack us and seize us and cause us to become his slaves, and also take our donkeys."
+
+\p
+\v 19 They went with the man who was in charge of things in Joseph's house. When they arrived at the entrance of the house,
+\v 20 one of them said to him, "Please, sir, listen to me. We came down here previously and bought some grain.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 But they were afraid because he was taking them to Joseph's house. They were thinking, "He is taking us here because of the silver that was put in our sacks the first time that we came here. While we are eating, he will have his servants attack us and seize us and cause us to become his slaves, and also take our donkeys."
+
+\p
+\v 19 They went with the man who was in charge of things in Joseph's house. When they arrived at the entrance of the house,
+\v 20 one of them said to him, "Please, sir, listen to me. We came down here previously and bought some grain.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 18 The men were afraid because they were brought to Joseph’s house. They said, "It is because of the money that was returned in our sacks the first time we were brought in, that he may seek an opportunity against us. He might arrest us and take us as slaves, and take our donkeys.”
+\v 19 They went near to the steward of Joseph’s house, and they spoke to him at the door of the house,
+\v 20 saying, "My lord, we came down the first time to buy food.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:other:josephot]]
+  * [[en:obe:other:servant]]
+  * [[:yo:obe:other:donkey]]
+  * [[en:obe:other:manager]]
+  * [[:yo:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+  * **The men were afraid ** - "Joseph's brothers were afraid"
+  * **to Joseph's house** - "into Joseph's house"
+  * **It is because of the money that was returned in our sacks the first time** - Alternate translation: "This is happening because of the money that someone put back in our sacks the first time we were here." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * ** that he** - "that Joseph"
+  * **we were brought in, that he may seek an opportunity against us** - This can be translated as a new sentence: "They are bringing us in here so that he may have the chance to accuse us."
+  * **they went near to the steward** - "they approached the steward"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:43|Genesis Chapter 43 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:43:16|<<]] | [[:yo:bible:notes:gen:43:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

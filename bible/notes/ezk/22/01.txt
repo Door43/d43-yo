@@ -1,0 +1,54 @@
+====== Ezekiel 22:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh gave me another message. He said,
+\v 2 "You human, are you ready to condemn the people of Jerusalem? It is \f + \ft rhetorical question \f* a city full of murderers \f + \ft metonymy \f*. Remind them of all the detestable things that they have done.
+\v 3 Then say, 'This is what Yahweh the Lord says: By your murdering people and by defiling yourselves\f + \ft Or: making yourselves unacceptable to God \f* by making idols you people of this city \f + \ft apostrophe \f* have brought to yourselves the time when you will be destroyed.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh gave me another message. He said,
+\v 2 "Son of man, are you ready to condemn the people of Jerusalem? It is a city full of murderers. Remind them of all the detestable things that they have done.
+\v 3 Then say, 'This is what Yahweh the Lord says: By murdering people and by defiling yourselves, by making idols, you people of this city have brought on yourselves the time when I will destroy you.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 22
+\p
+\v 1 Then the word of Yahweh came to me and said,
+\v 2 “Now you, Son of man, will you judge? Will you judge the city of blood? Make her know all her abominations. 
+\v 3 You must say, ‘The Lord Yahweh says this: This is a city that pours out blood in her midst so that her time may come; a city that makes idols to make herself unclean!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wordofgod]]
+  * [[:yo:obe:kt:sonofman]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:blood]]
+  * [[:yo:obe:kt:abomination]]
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:yo:obe:other:idol]]
+  * [[:yo:obe:kt:unclean]]
+
+===== Translation Notes: =====
+
+  * **Son of man, will you judge? Will you judge the city of blood?**  - This emphasizes the point that Ezekiel is to be ready to judge Jerusalem. God is saying to Ezekiel to get ready to speak to Jerusalem. (See Rhetorical question.)
+  * **her/herself**  - This pronoun refers to Jerusalem.  It is considered feminine.
+  * **Thus says the Lord Yahweh**  - “This is what the Lord Yahweh says!"
+  * **makes idols against herself to make herself unclean! **- Jerusalem makes idols to her own harm, making herself unclean!
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:22|Ezekiel Chapter 22 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:21:32|<<]] | [[:yo:bible:notes:ezk:22:04|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,45 @@
+====== Ezekiel 43:12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 And this is the supreme law about the temple \f + \ft doublet \f*: All of the area on top of the hill where the temple will be built must be kept sacred and holy."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 And this is the supreme law about the temple: All of the area on top of the hill where the temple will be built must be kept sacred and holy.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 This is the regulation for the house: From the peak of the hill to all the surrounding border around it, it will be most holy. See! This is the regulation for the house.
+</usfm>
+
+===== Important Terms: =====
+
+  * regulation
+  * [[:yo:obe:kt:holy]]
+
+===== Translation Notes: =====
+
+  * **the regulation** - "the instruction" or "the rule"
+  * **the surrounding border** - The word "border" probably refers to the wall that goes all the way around the temple.
+  * **most holy** - "absolutely holy"
+  * **See** - The word “See” here adds emphasis to what follows. It can also be translated as “Indeed.”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:43|Ezekiel Chapter 43 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:43:10|<<]] | [[:yo:bible:notes:ezk:43:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

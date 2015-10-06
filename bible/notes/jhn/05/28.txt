@@ -1,0 +1,56 @@
+====== John 05:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 Do not be surprised about that, because there will be a time when all people who have died will hear my voice
+\v 29 and they will become alive again. Those who have lived good \add lives\add* will rise \add from their graves\add* and live forever. But those who have lived evil lives will rise, and I will condemn them\f + \ft Or: declare that I will punish them \add for their sins\add* \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Do not be surprised at this because there will be a time when all people who have died will hear me call,
+\v 29 and they will come out of their graves. God will raise to everlasting life those who have done good. But those who have done evil—God will raise them up, but only to condemn them and punish them forever.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 Do not be amazed at this, for there is a time coming in which all who are in the tombs will hear his voice
+\v 29 and will come out: those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:amazed]]
+  * [[:yo:obe:other:tomb]]
+  * [[:yo:obe:kt:resurrection]]
+  * [[:yo:obe:kt:evil]]  
+  * [[:yo:obe:kt:judge]]
+ 
+ 
+===== Translation Notes: =====
+
+Jesus continues speaking to the Jewish leaders ([[:yo:bible:notes:jhn:05:16|5:16]]).
+
+  * **hear his voice**  - "hear the voice of the Son of Man" (See: [[en:obe:kt:sonofman]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:05|John Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/05/26|<<]] | [[en/bible/notes/jhn/05/30|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish, resurrection}}
+
+~~NOCACHE~~

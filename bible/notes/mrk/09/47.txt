@@ -1,0 +1,50 @@
+====== Mark 09:47-48 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 47 If because of what you see \f + \ft metonymy, personification \f* you are tempted to sin, \add stop looking at those things\add*! Even if you have to gouge out your eye and throw it away \f + \ft hyperbole \f* \add to avoid sinning, do it! It is good that you not sin and live eternally, even though you lack one of\add* your eyes\add while you are here on earth\add*. But it is not good that you sin and, as a result, God puts your whole body in hell.
+\v 48 In that place people suffer forever and the fires are never put out \f + \ft Or:never go out \f*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 47 If because of what you see you are tempted to sin, stop looking at those things! Even if you have to gouge out your eye and throw it away to avoid sinning, do it! It is better to have only one eye and for God to agree to rule over you, than him to throw you with two eyes into hell.
+\v 48 In that place worms feed on the people there forever and the fires are never put out."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 47 If your eye causes you to stumble, tear it out. It is better for you to enter into the kingdom of God with one eye, than to have two eyes and to be thrown into hell,
+\v 48 where their worm does not die, and the fire is not put out.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:stumble]]
+  * [[:yo:obe:kt:kingdomofgod]]
+  * [[:yo:obe:kt:hell]]
+===== Translation Notes: =====
+
+  * **their worm**  - "the worms that eat their dead bodies"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:09|Mark Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:09:45|<<]] | [[:yo:bible:notes:mrk:09:49|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

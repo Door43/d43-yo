@@ -1,0 +1,48 @@
+====== Mark 08:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 Then Jesus began to teach them, "\add Even though\add* I am the one who came from heaven, it is necessary that I suffer very much. It is also necessary that I be rejected by the elders, the chief priests, and the men who teach the \add Jewish\add* laws \f + \ft Or:that the elders, the chief priests, and the men who teach the \add Jewish\add* laws reject me \f*, and that I be killed \f + \ft Or:they kill me \f*. But on the third day \add after I am killed I\add* will become alive again."
+\v 32 He said this to them clearly. But Peter took Jesus aside and then, \add because he assumed that the Messiah would never die\add*, he started to rebuke Jesus \add for talking about dying\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Then Jesus began to teach them that he, the Son of Man, would certainly suffer very much. He would be rejected by the elders, the chief priests, and the men who teach the Jewish laws. He would even be killed. But on the third day after he died, he would become alive again.
+\v 32 He said this to them clearly. But Peter took Jesus aside and started to scold him for talking this way.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 31 He began to teach them that the Son of Man must suffer many things, be rejected by the elders and the chief priests and the scribes, be killed, and be raised back to life after three days.
+\v 32 He said this clearly. Then Peter took him aside and began to rebuke him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sonofman]]
+  * [[:yo:obe:other:elder]]
+  * [[:yo:obe:other:chiefpriests]]
+  * [[:yo:obe:other:scribe]]
+  * [[:yo:obe:other:peter]]
+
+===== Translation Notes: =====
+
+    * **the Son of Man must suffer many things, be rejected by the elders and the chief priests and the scribes, be killed, and be raised back to life** - AT: "the elders and the chief priests and the scribes would reject the Son of Man and kill him, and that God would raise him back to life" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+    * **three days** - "3 days" (See: [[en:ta:vol2:translate:translate_numbers]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:08|Mark Chapter 08 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:08:29|<<]] | [[:yo:bible:notes:mrk:08:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish chief priests}}
+
+~~NOCACHE~~

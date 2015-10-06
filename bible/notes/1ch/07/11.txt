@@ -1,0 +1,72 @@
+====== 1 Chronicles 07:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 They were all leaders of clans descended from them.
+\li2 There were 17,200 of them who were able to be in the army.
+\li1
+\v 12 Shuppim and Huppim were also members of this clan.
+\li1 \add One of\add* the descendants of Dan was Hushim.
+
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 They were all leaders of clans descended from them.
+\li2 There were 17,200 of them who were able to be in the army.
+\li1
+\v 12 Shuppim and Huppim were also members of this clan.
+\li1 One of the descendants of Dan was Hushim.
+
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 All these were sons of Jediael. Listed in their clan lists were 17,200 leaders
+and fighting men fit for military service.
+\v 12 (The Shuppites and Huppiites, descended from Ir,and the Hushites descended from Aher.)
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ch:07|1 Chronicles Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/07/08|<<]] | [[en/bible/notes/1ch/07/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

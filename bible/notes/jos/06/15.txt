@@ -1,0 +1,56 @@
+====== Joshua 06:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 On the seventh day, they got up at dawn, and they all marched around the city the same way that they had done before, but this time they marched around the city seven times.
+\v 16 As they were marching around the seventh time, when the priests were about to blow the long\f + \ft Or: loud \f* blast on their trumpets, Joshua commanded the people, "Shout, because Yahweh is going to enable you to capture the city!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 On the seventh day, they got up at dawn;  they all marched around the city the same way that they had done before, but this time they marched around the city seven times.
+\v 16 As they were marching around the seventh time, when the priests were about to sound the long blast on their trumpets, Joshua commanded the people, "Shout! Because Yahweh is giving this city to you!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 It was on the seventh day that they got up early at daybreak, and they marched around the city in the same way that was their pattern, this time for seven times. It was on this day that they marched around the city seven times.
+\v 16 It was on the seventh day when the priests gave a blast with the trumpets, that Joshua commanded the people, "Shout! For Yahweh has given you the city.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:priest]]
+  * [[:En:obe:other:joshua]]
+  * [[:yo:obe:other:trumpet]]
+  * [[:En:obe:kt:yahweh]] 
+
+===== Translation Notes: =====
+
+  * **seventh day** - before an expected time (See: [[en:ta:vol2:translate:translate_numbers]])
+  * **early** - before an expected time
+  * **people** - refers to the people of Israel (See:[[en:obe:other:israel]])
+  * **given to you**  - "you" refers to the entire nation of Israel. (See: [[:yo:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:06|Joshua Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/06/12|<<]] | [[en/bible/notes/jos/06/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

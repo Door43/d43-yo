@@ -1,0 +1,55 @@
+====== Romans 01:29-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 They strongly desire to do all \add kinds of\add* unrighteous \add deeds\add*. They strongly desire to do all \add kinds of\add* evil things \add to others\add*. They strongly desire to possess things that \add belong to others\add*. They strongly desire to harm \add others\add* in various ways. \add Many non-Jews\add* are constantly envying \add other people. Many\add* constantly desire to murder \add people. Many\add* constantly desire to cause strife \add between people. Many\add* constantly desire to deceive \add others. Many\add* constantly desire to speak hatefully \add about others\add* \f + \ft Or: \add to speak harmful things about others, things that are not true\add* \f*. \add Many\add* gossip \add about others\add*.
+\v 30 \add Many\add* slander \add others. Many\add* act especially hatefully toward God. \add Many\add* speak or act in an insulting way \add toward others. Many\add* treat others contemptuously. \add Many\add* boast \add about themselves to others. Many\add* invent new ways to do evil deeds. \add Many non-Jewish children\add* disobey their parents.
+\v 31 \add Many non-Jews\add* act in other morally foolish ways. \add Many\add* do not do what they promised \add others that they would do. Many\add* do not \add even\add* love \add their own family members. And many\add* do not act mercifully \add toward other people\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 They strongly desire to do all kinds of unrighteous deeds. They strongly desire to do all kinds of evil things to others. They strongly desire to take things that belong to others. They strongly desire to harm others in various ways. Many are constantly envying other people. Many constantly desire to murder people. Many constantly desire to cause arguments and quarrels between people. Many constantly desire to deceive others. Many constantly desire to speak hatefully about others.
+\v 30 Many say evil things about others. Many slander others. Many act especially hatefully toward God. Many act violently toward others. Many treat others contemptuously. Many boast about themselves to others. Many invent new ways to do evil deeds. Many children disobey their parents.
+\v 31 Many act in other foolish ways that offend God. Many do not do what they promised others that they would do. Many do not even love their own family members. And many do not act mercifully toward other people.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 29 They have been filled with all unrighteousness, wickedness, covetousness, and malice. They are full of envy, murder, strife, deceit, evil intentions.
+\v 30 They are gossips, slanderers, God-haters, violent, arrogant, boastful, inventors of evil things, disobedient to parents.
+\v 31 They have no understanding; they are  untrustworthy, without natural affections, and unmerciful.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:unjust]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:other:envy]]
+  * [[en:obe:other:strife]]
+  * [[:yo:obe:kt:deceive]]
+  * [[:yo:obe:other:gossip]]
+  * [[en:obe:other:disobey]]
+  * [[en:obe:kt:trust]]
+  * [[en:obe:kt:mercy]]
+
+===== Translation Notes: =====
+
+  * **They have been filled with** - "they have in them a strong desire for" or "they strongly desire to do deeds of" (see UDB)
+  * **They** - the "mankind" of [[en:bible:notes:rom:01:18|1:18]]
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:01|Romans Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:01:28|<<]] | [[:yo:bible:notes:rom:01:32|>>]]**
+
+~~DISCUSSION~~{{tag>publish envy gossip}}
+
+~~NOCACHE~~

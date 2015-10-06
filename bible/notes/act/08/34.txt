@@ -1,0 +1,58 @@
+====== Acts 08:34-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 The official asked Philip \add concerning these words that he was reading\add*, "Tell me, who was the prophet writing about? \add Was he writing\add* about himself or about someone else?"
+\v 35 So Philip replied \f + \ft metonymy \f* to him and began \add to explain\add* that Scripture passage. He told him the good message about \f + \ft metonymy \f* Jesus. \add So the official understood and believed in Jesus\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 The official asked Philip concerning these words that he was reading, "Tell me, who was the prophet writing about? Was he writing about himself or about someone else?"
+\v 35 So Philip replied to him; he began with that Scripture passage, and he told him the good message about Jesus.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 So the eunuch asked Philip, and said, "I beg you, of whom is the prophet speaking? Of himself, or of some other person?"
+\v 35 Philip began to speak; he started with this scripture in Isaiah to preach about Jesus to him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:eunuch]]
+  * [[en:obe:other:philip]]
+  * [[en:obe:kt:prophet]]
+  * [[en:obe:kt:wordofgod]]
+  * [[en:obe:other:isaiah]]
+  * [[en:obe:other:proclaim]]
+  * [[en:obe:kt:jesus]]
+ 
+
+===== Translation Notes: =====
+
+  * ** he preached about Jesus to him** - "he taught the good news about Jesus to the eunuch"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:08|Acts Chapter 08 Comprehension Questions]]**
+**[[:yo:bible:notes:act:08:32|<<]] | [[:yo:bible:notes:act:08:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish eunuch  }}
+
+~~NOCACHE~~

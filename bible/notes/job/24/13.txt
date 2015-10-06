@@ -1,0 +1,75 @@
+====== Job 24:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Some wicked people avoid the light \add because they do evil things in the dark\add*;
+\q2 they do not walk on roads that are lighted.
+\q1
+\v 14 Murderers steal things during the night,
+\q2 and then they arise before dawn in order that they may go out again and kill poor and needy \f + \ft doublet \f* people.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Some wicked people avoid the light because they do evil things in the dark;
+\q2 they do not walk on roads that are lit.
+\q1
+\v 14 Murderers steal things during the night,
+\q2 and then they rise before dawn in order that they may go out again and kill poor and needy people.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Some of these wicked people rebel against the light;
+\q they know not its ways,
+\q nor do they stay in its paths.
+\q
+\v 14 The murderer rises with the light;
+\q he kills the poor and needy;
+\q in the night he is like a thief.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:kt:light]]
+  * [[:yo:obe:other:know]]
+  * [[:yo:obe:kt:raise]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:24|Job Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/24/11|<<]] | [[en/bible/notes/job/24/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

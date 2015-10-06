@@ -1,0 +1,64 @@
+====== 2 Corinthians 03:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 But the Israelites stubbornly refused to \add understand that the old agreement would end\add*. Even now, when they read the old agreement, \add they still do not realize that it has ended. It is as if\add* \f + \ft metaphor \f* that same veil \add that Moses put on his face\add* is now over their \add minds, keeping them from understanding God's true message\add*. They will \add understand that message\add* only when \add they come to trust\add* in Christ. Then \add it will be as though God\add* has removed the veil.
+\v 15 \add Throughout all these years\add*, even until now, when \add the Israelites\add* read what Moses \add write, it is as though\add* a veil is covering their minds.
+\v 16 But when any of them believes in the Lord \add Jesus\add*, \add God\add* removes that veil from them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Long ago, the children of Israel refused to believe God's message. Even today, when the old Law is read, they wear that same veil. Only when we are joined with Christ does God take the veil away.
+\v 15 Yes, even today, whenever they read the Law of Moses, it is as if they had a veil over their minds.
+\v 16 But when a person turns to the Lord, God removes that veil.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 But their minds were closed. Even until this very day the same veil remains on the reading of the old covenant; it is not opened up, because only in Christ is it done away with.
+\v 15 But even today, whenever Moses is read, a veil lies over their hearts.
+\v 16 But when a person turns to the Lord, the veil is lifted away.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:mind]]
+  * [[:yo:obe:kt:veil]]
+  * [[:En:obe:kt:covenant]]
+  * [[:yo:obe:kt:christ]]
+  * [[:yo:obe:other:moses]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:turn]]
+  * [[:yo:obe:kt:lordgod]]
+ 
+===== Translation Notes: =====
+
+
+    * **their** - "the Israelites'"
+    * **The same veil** - just as a veil hides one's face, Paul speaks of a spiritual veil that keeps the Jews from understanding God's message. - (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **whenever Moses is read** - This is referring to the books written by Moses. AT: "whenever Moses' writings are read" (See: [[:yo:ta:vol1:translate:figs_explicit]])
+    * **turns to the Lord** - The word "turn" refers to a change in attitude. AT: "change from trusting themselves to trusting the Lord"
+    * **the veil is lifted away** - The word "veil" refers to their inability to understand God's message.  Being lifted away means they are now given the ability to understand. (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+   
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2co:03|2 Corinthians Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2co/03/12|<<]] | [[en/bible/notes/2co/03/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

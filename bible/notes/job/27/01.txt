@@ -1,0 +1,82 @@
+====== Job 27:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Job replied again \add to his three friends\add*, by saying this:
+\q1
+\v 2 "Almighty God has refused to treat me justly\f + \ft Or: fairly \f*.
+\q2 He has caused me to feel bitter\f + \ft Or: resentful \f*.
+\q2 But just as surely as he lives,
+\q1
+\v 3 as long as God's Spirit enables me to breathe,
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Job replied to his three friends by saying this:
+\q1
+\v 2 "Almighty God has refused to treat me justly.
+\q2 He has caused me to feel bitter.
+\q2 But just as surely as he lives,
+\q1
+\v 3 as long as God's Spirit enables me to breathe,
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 27
+\p
+\v 1 Job resumed speaking and said,
+\q
+\v 2 “As God lives, who has taken away my justice,
+\q the Almighty, who has troubled my soul,
+\q
+\v 3 for as long as my life is yet in me
+\q and breath from God is in my nostrils),
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:job]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:justice]]
+  * [[:yo:obe:kt:almighty]]
+  * [[:yo:obe:kt:soul]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:27|Job Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/26/13|<<]] | [[en/bible/notes/job/27/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

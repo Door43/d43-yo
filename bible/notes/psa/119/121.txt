@@ -1,0 +1,74 @@
+====== Psalms 119:121-122 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 121 But I have done what is right and fair\f + \ft Or: just \f*;
+\q2 so do not allow people to oppress\f + \ft Or: mistreat \f* me.
+\q1
+\v 122 Promise me that you will do good things for me
+\q2 and do not allow proud people to oppress me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 121 But I have done what is right and fair;
+\q2 so do not allow people to oppress me.
+\q1
+\v 122 Be responsible for doing good things for me,
+\q2 and do not allow proud people to oppress me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\d AYIN.
+\q
+\v 121 I do what is just and right;
+\q do not abandon me to my oppressors.
+\q
+\v 122 Guarantee the welfare of your servant;
+\q do not let the proud oppress me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:justice]]
+  * [[:yo:obe:kt:oppress]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:other:proud]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/119/119|<<]] | [[en/bible/notes/psa/119/123|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book5}}
+
+~~NOCACHE~~

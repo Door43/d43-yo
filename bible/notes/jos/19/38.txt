@@ -1,0 +1,55 @@
+====== Joshua 19:38-39 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 38 Iron, Migdal-El, Horem, Beth-Anath, and Beth-Shemesh. Altogether there were nineteen cities and the surrounding villages.
+\m
+\v 39 Those cities and surrounding villages were in the land that was allotted to the clans of the tribe of Naphtali.
+
+\m
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 38 Naphtali's cities with strong walls also included Iron, Migdalel, Horem, Bethanath, and Bethshemesh. Altogether there were nineteen cities, together with their surrounding villages.
+\m
+\v 39 Those cities and surrounding villages were in the land that was assigned to the clans of the tribe of Naphtali.
+\m
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 38 There were also Yiron, Migdalel, Horem, Bethanath, and Beth Shemesh. There were nineteen cities, not counting their villages.
+\v 39 This was the inheritance of the tribe of Naphtali, and it was given to their clans—the cities, including their villages.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:bethshemesh]]
+  * [[en:obe:other:tribe]]
+ 
+
+===== Translation Notes: =====
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:19|Joshua Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/19/35|<<]] | [[en/bible/notes/jos/19/40|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

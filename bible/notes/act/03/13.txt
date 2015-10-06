@@ -1,0 +1,59 @@
+====== Acts 03:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 \add So I will tell you what is really happening\add*. Our ancestors, including Abraham, Isaac, and Jacob, worshipped God. And now he has greatly honored Jesus, who always served him. Your \add leaders\add* brought Jesus \add to the governor, Pilate\add*, so that \add his soldiers would kill him\add*. And \add God considers that\add* in front of Pilate you \add were the ones who rejected\add* Jesus \add as your king\add*, after Pilate had decided that he should release Jesus.
+\v 14 \add Although Jesus\add* always did what was right\f + \ft Or: just \f* and good, you rejected him. \add Pilate wanted to release him, but\add* you urgently asked Pilate to release a murderer\f + \ft Or: someone who had killed people \f*!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 So I will tell you what is really happening. Our ancestors, including Abraham, Isaac, and Jacob, worshiped God. And now God has greatly honored Jesus. Your leaders brought Jesus to the governor, Pilate, so that his soldiers would execute him. You were the ones who rejected Jesus in the presence of Pilate, after Pilate had decided that he should release Jesus.
+\v 14 Although Jesus was God's own Messiah of Israel, the Righteous One, you asked for a killer to be set free instead of him!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, has glorified his servant Jesus. He is the one whom you delivered up and rejected before the face of Pilate, when he had decided to release him.
+\v 14 You rejected the Holy and Righteous One, and you asked instead for a murderer to be released to you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:abraham]]
+  * [[en:obe:other:isaac]]
+  * [[en:obe:other:jacob]]
+  * [[en:obe:kt:glorify]]
+  * [[en:obe:other:servant]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:pilate]]
+  * [[en:obe:kt:holyone]]
+  * [[en:obe:kt:righteous]]
+ 
+ 
+===== Translation Notes: =====
+
+Peter continues his speech to the Jews that he began in [[:yo:bible:notes:act:03:11|3:13]].
+
+  * **whom you delivered up**  - "whom you brought to Pilate"
+  * **and denied before the face of Pilate**  - "and you rejected him in Pilate's presence"
+  * **when he had decided to release him**  - "when Pilate had decided to set Jesus free"
+  * **for a murderer to be released to you**  - This can be translated with an active verb: "for Pilate to give a murderer to you."
+  * **to be released to you**  - "to be given to you." This means "to be given as a favor." It does not mean "to be freed" as from a trap.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:act:03:11|<<]] | [[:yo:bible:notes:act:03:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish glorify holyone righteous}}
+
+~~NOCACHE~~

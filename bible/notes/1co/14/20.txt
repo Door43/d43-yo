@@ -1,0 +1,77 @@
+====== 1 Corinthians 14:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 My fellow believers, stop being like little children in the way that you think \add about these abilities that God's Spirit gives\add*. Instead, think about them in a mature way. If you really want to be like little children, do as few wicked things as babies do!
+\v 21 \add When the Jews long ago refused to obey God, he warned them about what would happen when he allowed their enemies to punish them\add*. In the Scriptures it is written \f + \ft Or:\add the prophet Isaiah\add* wrote \f* what the Lord \add God\add* said \add about that\add*,
+\q \add They didn't listen to prophets speaking their own language, so I will send\add* people from foreign \add lands to attack\add* my people.
+\q Those foreigners will speak languages that my people do not know \f + \ft doublet \f*.
+\q \add In that way\add*, I will warn my people,
+\q but they will still not pay attention to what I say.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Brothers and sisters, you should be like children who do not commit many kinds of sin. But when you think about yourselves and God, you should think well, and not like children.
+\v 21 In the Law it is written that God says, 
+\q "I will speak to my people Israel
+\q by foreigners, men who speak in strange languages;
+\q and my people will not understand me."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 Brothers and sisters, do not be children in your thinking. Rather, in regard to evil, be like infants, but in your thinking be mature. 
+\v 21 In the law it is written, 
+\q "By men of strange tongues and by the lips of strangers 
+\q1 I will speak to this people; 
+\q and even then they will not hear me," 
+\m says the Lord.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:children]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:lawofmoses]]
+  * [[:yo:obe:other:written]]
+  * [[:yo:obe:other:tongue]]
+  * [[:yo:obe:kt:lordgod]]
+ 
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1co:14|1 Corinthians Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1co/14/17|<<]] | [[en/bible/notes/1co/14/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,45 @@
+====== Romans 03:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 You who are Jews certainly should not \add think that is you\add* are the only ones whom God \add will accept\add*!\f + \ft Or: Do you Jews \add think it is you\add* alone whom God \add will accept\add*? \f* \f + \ft rhetorical question \f* You certainly should \add realize that he will accept\add* non-Jews, too.\f + \ft Or: Do you not \add realize that he will accept\add* non-Jews, too? \f* \f + \ft rhetorical question \f* Of course, \add he will accept\add* non-Jews also,
+\v 30 because, \add as you firmly believe\add*, there is only one God, who will erase the record of Jews' \f + \ft metonymy \f* sins if they trust \add in what Christ has done\add*, and who will similarly erase the record of non-Jews' \f + \ft metonymy \f* sins if they trust \add in Christ\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 You who are Jews certainly should not think that you are the only ones whom God will accept! You certainly should realize that he will accept non-Jews, too. Of course, he will accept non-Jews,
+\v 30 because, as you firmly believe, there is only one God. It is this same God who will make Jews—who have been circumcised—right with himself because they trust in Christ, and it is also God who will make non-Jews—who have not been circumcised—right with himself, because they also trust in Christ.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 29 Or is God the God of Jews only? Is he not also the God of Gentiles? Yes, of Gentiles also.
+\v 30 If indeed God is one, he will justify the circumcision by faith, and the uncircumcision through faith.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:jew]]
+  * [[:yo:obe:other:gentile]]
+  * [[en:obe:kt:justify]]
+  * [[:yo:obe:kt:circumcise]]
+  * [[:yo:obe:kt:uncircumcised]]
+
+===== Translation Notes: =====
+
+Paul continues to answer rhetorical questions to emphasize that each point he is making is certainly true. (See: [[en:ta:vol1:translate:figs_rquestion]])
+
+  * **Or is God the God of Jews only?** - "If God could only justify people who obey the Law, would he not be the God of the Jews only?"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rom:03|Romans Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:rom:03:27|<<]] | [[:yo:bible:notes:rom:03:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

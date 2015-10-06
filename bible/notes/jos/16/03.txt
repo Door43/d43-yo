@@ -1,0 +1,57 @@
+====== Joshua 16:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 From there it extended west to the border of the land where the Japhleti people-group lived, and then it extended west to the area near Lower Beth-Horon. From there it extended west to Gezer \add city\add* and from there \add to the Mediterranean\add* Sea.
+\m
+\v 4 That is the land that the tribes of Ephraim and Manasseh were allotted.
+\m
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 From there it extended west to the border of the land where the Japhletites lived, and then west to the area near Lower Beth Horon. From there it continued west to Gezer, and from there to the Mediterranean Sea.
+\v 4 This was the territory that the people of Joseph, Manasseh and Ephraim, received as their permanent possession.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 Then it went down westward to the territory of the Japhletites, as far as the territory of Lower Beth Horon, and then on to Gezer; it ended at the sea.
+\v 4 It was in this way that the tribes of Joseph, Manasseh and Ephraim, received their inheritance.
+</usfm>
+
+
+===== Important Terms: =====
+
+    * [[en:obe:other:josephot]]
+    * [[en:obe:other:manasseh]]
+    * [[en:obe:other:ephraim]]
+    * [[en:obe:kt:inherit]]
+ 
+
+===== Translation Notes: =====
+
+    * **it went down**  - Refers to the border being describes as if it were a person on a journey. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **Japhletites, Lower Beth Horon, Gezer**  - names of places or locations (See: [[en:ta:vol1:translate:translate_names]])
+    * **the sea**  - Refers to the only sea in the area, the Mediterranean. (See: [[en:obe:other:mediterranean]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:16|Joshua Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/16/01|<<]] | [[en/bible/notes/jos/16/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

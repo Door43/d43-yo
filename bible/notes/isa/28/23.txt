@@ -1,0 +1,56 @@
+====== Isaiah 28:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Listen [IDI] to what I say;
+\q2 pay attention carefully.
+\q1
+\v 24 When a farmer plows some ground, does he never plant seeds \f + \ft rhetorical question \f*?
+\q2 Does he continue to plow it and never plant anything \f + \ft rhetorical question \f*?
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 Listen to what I say;
+\q2 pay attention carefully.
+\q1
+\v 24 When a farmer plows some ground, does he never plant seeds?
+\q2 Does he continue to plow it and never plant anything?
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 23 Pay attention and listen to my voice; be attentive and listen to my words.
+\q1
+\v 24 Does a farmer who plows all day to sow, only plow the ground? Does he continually
+break up and harrow the field?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:voice]]
+  * [[en:obe:kt:word]]
+  * [[:yo:obe:other:sow]]
+
+===== Translation Notes: =====
+Isaiah continues to speak to the people of Jerusalem.
+  * **Pay attention and listen to my voice; be attentive and listen to my words** - (See: [[:yo:ta:vol2:translate:figs_parallelism]])
+  * **Does a farmer who plows all day to sow, only plow the ground? Does he continually break up and harrow the field?** - In this parable Isaiah uses questions to make them think deeply. AT: "A farmer does not plow the ground over and over. He does not only continue to work on the soil." (See: [[en:ta:vol1:translate:figs_parables]] and [[en:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:isa:28|Isaiah Chapter 28 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:28:22|<<]] | [[:yo:bible:notes:isa:28:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

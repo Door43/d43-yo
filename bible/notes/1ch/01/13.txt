@@ -1,0 +1,71 @@
+====== 1 Chronicles 01:13-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Canaan's first son was Sidon. He was also the ancestor of the Heth people-group,
+\v 14 the Jebus people-group, the Amor people-group, the Girgash people-group,
+\v 15 the Hiv people-group, the Ark people-group, the Sin people-group,
+\v 16 the Arvad people-group, the Zemar people-group, and the Hamath people-group.
+
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Canaan's first son was Sidon. He was also the ancestor of the Heth people group,
+\v 14 the Jebus people group, the Amor people group, the Girgash people group,
+\v 15 the Hiv people group, the Ark people group, the Sin people group,
+\v 16 the Arvad people group, the Zemar people group, and the Hamath people group.
+
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Canaan became the father of Sidon, his firstborn, and of Heth.
+\v 14 He also became the ancestor of the Jebusites, Amorites, Girgashites,
+\v 15 Hivites, Arkites,   Sinites,
+\v 16 Arvadites, Zemarites, and the Hamathites.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ch:01|1 Chronicles Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/01/11|<<]] | [[en/bible/notes/1ch/01/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

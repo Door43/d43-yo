@@ -1,0 +1,76 @@
+====== Isaiah 62:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add It will be as though\add* Yahweh will hold you up in his hands in order that everyone can see you.
+\q2 Under his authority \f + \ft metonymy \f*, you will be like a glorious headband\f + \ft Or: turban \f* worn by a king.
+\q1
+\v 4 Your \add city\add* will never again be called 'the deserted\f + \ft Or: abandoned \f* city' and your country will never again be called 'the desolate land;'
+\q2 it will be called 'the land that Yahweh delights in,'
+\q2 and \add it will also be called\add* 'married to Yahweh.'
+\q1 It will be called that because Yahweh will be delighted with you,
+\q2 \add and it will be as though\add* you are his bride \f + \ft metaphor \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 It will be as though Yahweh had held you up in his hands in order that everyone can see you.
+\q2 Under his authority you will be like a crown worn by a king.
+\q1
+\v 4 Your city will never again be called 'the deserted city,' and your country will never again be called 'the desolate land;'
+\q2 it will be called 'the land that Yahweh delights in,'
+\q2 and it will also be called 'married to Yahweh.'
+\q1 It will be called that because Yahweh will be delighted with you,
+\q2 and it will be as though you were his bride.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 3 You will also be a crown of beauty in the hand of Yahweh, and a turban of kingship in the hand of your God.
+\q1
+\v 4 It will no more be said of you, "Abandoned;" nor of your land any longer will it be said, "Desolate." 
+\q1 Indeed, you will be called "My delight is in her," and your land "Married," 
+\q1 for Yahweh delights in you, and your land will be married.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:crown]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:desolate]]
+
+
+===== Translation Notes: =====
+
+    * **You will also be a crown of beauty in the hand of Yahweh** - Here 'hand' represents the authority of Yahweh. Under his authority they will be like a crown worn by a king. (See: Metonymy)
+    * **and your land will be married** - Here the metaphor of "land will be married" is meant to express that Yahweh is so delighted with them, that it will be as though they were married to him. (See: [[en:ta:vol1:translate:figs_metaphor]])
+ 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:62|Isaiah Chapter 62 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/62/01|<<]] | [[en/bible/notes/isa/62/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

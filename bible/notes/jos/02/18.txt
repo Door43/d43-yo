@@ -1,0 +1,56 @@
+====== Joshua 02:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 You must tie this red cord in the window that has the rope by which we will climb down. You must let the cord hang there. And you must bring your father and your mother and your brothers and all the others in your family inside the house. Then, when our army enters your land, we will see the cord, and we will not kill the people in your house.
+\v 19 If anyone in your family goes outside this house into the street, \add our soldiers\add* will kill them, and we will not be guilty \f + \ft metonymy \f* for doing that. But if anyone who is in this house with you is injured, we will be guilty for causing that.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 You must tie this red cord in the window by which you let us down, and you must gather together your father and your mother and your brothers, and everyone in your father's household.
+\v 19 If anyone in your family goes outside this house into the street, he will be risking his life, and we will not be responsible if he is killed. But if anyone who is in this house with you is injured, we will be guilty.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 When we come into the land, you must tie this scarlet rope in the window through which you let us down, and you will gather into the house your father and mother, your brothers and all your father's household.
+\v 19 Whoever goes out of the doors of your house into the street, their blood will  be upon their own heads and we will be guiltless. But if a hand is laid upon any who is with you in the house, his blood will be on our head.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:house]]
+  * [[:yo:obe:other:father]]
+  * [[:yo:obe:kt:brother]]
+  * [[:En:obe:other:household]]
+  * [[:yo:obe:kt:blood]]
+
+===== Translation Notes: =====
+ 
+    * **rope**- a piece of strong cord made by twisting material together
+    * **window**- an opening in the wall or roof of a building to let in light
+    * **Whoever goes out the doors of your house**  - Expresses a condition, creating a hypothetical situation. (See:[[en:ta:vol1:translate:figs_hypo]])
+    * **their own head**  - Figure of speech meaning the fault will be their own. (See:[[en:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:02|Joshua Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/02/15|<<]] | [[en/bible/notes/jos/02/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

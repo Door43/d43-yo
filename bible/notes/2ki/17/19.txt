@@ -1,0 +1,65 @@
+====== 2 Kings 17:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 But even the people of Judah did not obey the commands of Yahweh their God. They imitated the evil customs that the Israelites had introduced.
+\v 20 So Yahweh rejected all the people of Israel and of Judah. He punished them by allowing the armies of other nations to defeat them \add and take them away\add*. He got rid of all of them.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 But even the people of Judah did not obey the commands of Yahweh their God. They imitated the evil customs that the Israelites had introduced.
+\v 20 So Yahweh rejected all the people of Israel and of Judah. He punished them by allowing the armies of other nations to defeat them and take them away. He got rid of all of them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 Even Judah did not keep the commandments of Yahweh their God, but instead followed in the same pagan practices that Israel was following.
+\v 20 So Yahweh rejected all the descendants of Israel;  he afflicted them and gave them into the hand of those who would take the possession as spoil, until he had cast them out of his sight.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:pagan]]
+  * [[:yo:obe:other:descendant]]
+  * [[:yo:obe:kt:afflict]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:possess]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:17|2 Kings Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/17/16|<<]] | [[en/bible/notes/2ki/17/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

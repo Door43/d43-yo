@@ -1,0 +1,60 @@
+====== 1 Corinthians 02:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 I do teach a message that people who are  \add spiritually\add* mature  \add consider to\add* be wise. But I do not teach a message that unbelievers  \add consider to be\add* wise. I also do not teach a message that unbelieving rulers in the world consider to be wise. \add What they think about it does not matter\add*, because  \add some day\add* they will lose their power\f + \ft Or: not be ruling anymore \f*.
+\v 7 Instead, I teach about what God planned wisely  \add long ago\add*. It is something that people did not know about previously because  \add God\add* did not reveal it previously. But God determined before he created the world that he would greatly benefit us by his wise plan.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Now we speak to those who trust in Christ like those who have grown up in their faith. But you now have wisdom and it has nothing to do with the kings and governors who are in this life, but they are all soon to pass away.
+\v 7 We proclaim wisdom that God had kept hidden until now, for God made these wise decisions before he created the world, and he did this in order to honor us.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 Now we do speak wisdom among the mature, but not the wisdom of this world, or of the rulers of this age, who are passing away.
+\v 7 But we speak God’s wisdom in hidden truth—the hidden wisdom that God predestined before the ages for our glory.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:kt:world]]
+  * [[:yo:obe:other:ruler]]
+  * [[:yo:obe:other:age]]
+  * [[:yo:obe:kt:perish]]
+  * [[:yo:obe:other:mystery]]
+  * [[:yo:obe:kt:predestine]]
+  * [[:yo:obe:kt:glory]]
+
+ 
+===== Translation Notes: =====
+
+  * **speak wisdom** - "speak words of wisdom" 
+  * **the mature** - AT: "mature believers".
+  * **for our glory** - "in order to ensure our future glory".
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1co:02|1 Corinthians Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1co/02/03|<<]] | [[en/bible/notes/1co/02/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr1co}}
+
+~~NOCACHE~~

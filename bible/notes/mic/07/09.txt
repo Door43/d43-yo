@@ -1,0 +1,76 @@
+====== Micah 07:9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 We must be patient while Yahweh punishes us
+\q2 because we have sinned against him.
+\q1 But later, \add it will be as though\add* he will go to court and defend us,
+\q2 and he will make sure that the judge makes a right decision about us.
+\q1 \add It will be as though\add* he will bring us out into the light,
+\q2 and we will see it when he rescues us.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 We must be patient while Yahweh punishes us
+\q2 because we have sinned against him.
+\q1 But later, it will be as though he will go to court and defend us.
+\q2 He will make sure that the judge makes a right decision about us.
+\q1 It will be as though he will bring us out into the light,
+\q2 and we will see him rescue us.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 Because I sinned against Yahweh,
+\q  I will bear his rage
+\q until he pleads my cause,
+\q and executes judgment for me.
+\q He will bring me to the light,
+\q and I will see him rescue me in his justice.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mic:07|Micah Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/mic/07/07|<<]] | [[en/bible/notes/mic/07/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

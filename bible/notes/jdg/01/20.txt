@@ -1,0 +1,66 @@
+====== Judges 01:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Hebron \add city\add* was given to Caleb because Moses had promised him that he could have that city. And Caleb forced the three clans descended from Anak to leave that area.
+\v 21 But the people of the tribe of Benjamin could not force the people of the Jebus people-group to leave Jerusalem. So, since that time the people of the Jebus people-group have lived in Jerusalem with the people of the tribe of Benjamin.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 The city of Hebron was given to Caleb because Moses had promised him that he could have that city. And Caleb forced the three clans descended from Anak to leave that area.
+\v 21 But the tribe of Benjamin could not force the Jebusites to leave Jerusalem. So, since that time the Jebusites have lived in Jerusalem with of the tribe of Benjamin.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 Hebron was given to Caleb (as Moses had told them to do), and he drove out from there the three sons of Anak.
+\v 21 But the people of Benjamin did not drive out the Jebusites who inhabited Jerusalem. So the Jebusites have lived with the people of Benjamin in Jerusalem to this day.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:hebron]]
+  * [[:yo:obe:other:caleb]]
+  * [[:En:obe:other:moses]]
+  * [[:En:obe:other:command]]
+  * [[:En:obe:other:benjamin]]
+  * [[:En:obe:other:jebusites]]
+  * [[:En:obe:other:jerusalem]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jdg:01|Judges Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jdg/01/18|<<]] | [[en/bible/notes/jdg/01/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

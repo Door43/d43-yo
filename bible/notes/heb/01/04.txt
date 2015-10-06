@@ -1,0 +1,71 @@
+====== Hebrews 01:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 By doing that he \add showed that he\add* was very much greater than the angels, to the extent that his relationship \f + \ft metonymy \f* \add to God, as his Son\add*, is more excellent than the relationship the angels \add have to God\add*.
+\v 5 \add We know that\add* because \add in the Scriptures\add* no one \f + \ft rhetorical question \f* ever reported that God said to any angel \add what he said to his Son\add*,
+\q You\add \f + \ft singular \f*\add* are my Son!
+\q Today I have declared to all that I am your Father \f + \ft doublet \f*!
+\q And he said in another Scripture passage,
+\q I will be his Father,
+\q and he will be my Son \f + \ft doublet \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 God has made his Son to be far greater than the angels, just as his name and authority are far greater than theirs.
+\v 5 In the Scriptures no one ever reported that God said to any angel what he said to his Son:
+\q "You are my Son!
+\q Today I have declared to all that I am your Father!"
+\p And he said in another Scripture passage,
+\q "I will be his Father,
+\q and he will be my Son."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 He has become as superior to the angels, as the name that he has inherited is more excellent than their name.
+\v 5 For to which of the angels did he ever say,
+\q "You are my son;
+\q today I have become your father"?
+\p And again,
+\q "I will be a father to him,
+\q and he will be a son to me"?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:angel]]
+  * [[:yo:obe:kt:name]]
+  * [[:En:obe:kt:inherit]]
+  * [[:En:obe:kt:godthefather]] 
+
+===== Translation Notes: =====
+
+  * **For to which of the angels did he ever say,...?** - "For God never said to any of the angels,...." (See: [[:yo:ta:vol1:translate:figs_rquestion]])
+  * **And again,...?** - "And again, he never said to any of the angels,...." 
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:01|Hebrews Chapter 01 Comprehension Questions]]**
+
+**[[en/bible/notes/heb/01/01|<<]] | [[en/bible/notes/heb/01/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,67 @@
+====== Acts 02:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 \add In the sky\add* the sun will \add appear\add* dark \add to people\add* and the moon \add will appear\add* red \add to them. Those things will happen\add* before the important and splendid\f + \ft Or: amazing \f* day \f + \ft metonymy \f* \add when I\add*, the Lord \add God, will come to judge everyone\add*.
+\v 21 \add Before that time\add*, all those who ask \add me\add* \f + \ft metonymy \f* \add to save them from the guilt of their sins\add* will be saved \f + \ft Or:\add I\add*, the Lord, will save all those who ask \add me\add* \f + \ft metonymy \f* \add to save them from the guilt of their sins\add*. \f*'~"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 In the sky the sun will appear dark to people and the moon will appear red to them. Those things will happen before I, the Lord God, will come to judge everyone.
+\v 21 And I will save all those who call to me to help them.'"
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 The sun will be turned to darkness
+\q And the moon to blood,
+\q Before the great and remarkable day of the Lord comes.
+\q
+\v 21 It will be that everyone who calls on the name of the Lord will be saved.'
+\m
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:blood]]
+  * [[en:obe:kt:dayofthelord]]
+  * [[en:obe:kt:name]]
+  * [[en:obe:kt:save]]
+ 
+ 
+===== Translation Notes: =====
+
+Peter continues to quote the prophet Joel in his speech to the Jews that he began in [[:yo:bible:notes:act:01:15|1:16]].
+
+  * **the sun will be turned to darkness and the moon to blood ** - The exact meaning of this phrase is unclear, just translate it as literally as possible into your language.
+  * **calls** - prays or pleads
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:02|Acts Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/act/02/18|<<]] | [[en/bible/notes/act/02/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish blood dayofthelord save}}
+~~NOCACHE~~

@@ -1,0 +1,66 @@
+====== Leviticus 24:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh also said to Moses\f + \ft Or: me \f*,
+\v 2 "Command the Israelite people to continually bring to you clear oil made from pressed olives to burn in the lamps \add in the Sacred Tent\add*, in order that those lamps will burn all the time.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh also said to Moses,
+\v 2 "Command the Israelite people to constantly bring you clear oil made from pressed olives to burn in the lamps in the sacred tent, in order that those lamps will burn all the time.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 24
+\p
+\v 1 Yahweh spoke to Moses, saying,
+\v 2 "Command the people of Israel to bring to you pure oil beaten from olives for your oil lamps, for them to always burn and give light.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:moses]]
+  * [[:yo:obe:other:command]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:israel]]
+  * [[:yo:obe:kt:purify]]
+  * [[:yo:obe:other:oil]]
+  * [[:yo:obe:other:olive]]
+  * [[:yo:obe:kt:light]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lev:24|Leviticus Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/23/42|<<]] | [[en/bible/notes/lev/24/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

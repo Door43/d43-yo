@@ -1,0 +1,67 @@
+====== Hebrews 01:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 And \add we know his Son is greater than the angels because in\add* another \add Scripture passage someone wrote this about God's esteemed Son\add*, when God was about to send him into the world,
+\q All God's angels must worship him.
+\p
+\v 7 \add And in the Scriptures it is written that\add* someone said this about the angels:
+\q \add God\add* makes the \add angels\add* who serve him \add to be changeable like\add* \f + \ft metaphor \f* winds and flames of fire.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 When God brought his honored Son, his only Son, into the world, he commanded: 
+\q "All my angels must worship him."
+\p
+\v 7 And in the Scriptures it is written about the angels:
+\q "God has made his angels to be spirits who  serve him with power like flames of fire."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 Again, when God brought the firstborn into the world, he said, "All God's angels must worship him."
+\v 7 About the angels he says,
+\q "He who makes his angels spirits,
+\q and his servants flames of fire."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:kt:firstborn]]
+  * [[:yo:obe:kt:worship]]
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:other:Servant]]
+  * [[:yo:obe:other:fire]]
+
+===== Translation Notes: =====
+
+  * **his servants** - the angels
+  * **spirits ... flames of fire** - Possible meanings: 1) He makes the angels spirits who serve him like flames of fire (UDB), 2) He makes the wind and flames of fire his messengers.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:01|Hebrews Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/01/04|<<]] | [[en/bible/notes/heb/01/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

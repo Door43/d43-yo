@@ -1,0 +1,56 @@
+====== Acts 20:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 After the people at Ephesus had stopped rioting, Paul summoned the believers. He encouraged them \add to continue to trust in the Lord Jesus. Soon\add* after that, he told them "Goodbye" and left to go to Macedonia \add province\add*.
+\v 2 \add After he arrived\add* there, he visited \add each town where there were believers\add* and encouraged them. Then he arrived in Greece \add province\add*, \add which is also called Achaia\add*.
+\v 3 He stayed there for three months. Then he planned to return to Syria by ship, but \add he heard that\add* some of the Jews \f + \ft synecdoche \f* \add in that area\add* were planning to kill him \add as he traveled. So\add* he decided instead to go \add by land, and he traveled\add* again through Macedonia.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 After the people at Ephesus had stopped rioting, Paul called the believers together. He urged them to continue to trust in the Lord Jesus. Soon after that, he told them "Goodbye" and left to go to the region of Macedonia.
+\v 2 After he arrived there, he urged them to continue to trust in the Lord Jesus. Then he went to Greece.
+\v 3 He stayed in Greece for three months. Then he planned to return to Syria by ship, but he heard that some of the Jews there were planning to kill him as he traveled. So he decided to go by land, and he went again through Macedonia.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 20
+\p
+\v 1 After the uproar was over, Paul sent for the disciples and encouraged them. Then he said farewell to them and left to go into Macedonia. 
+\v 2 When he had gone through those regions and had encouraged the believers very much, he went into Greece. 
+\v 3 After he had spent three months there, a plot was formed against him by the Jews as he was about to sail for Syria, so he decided to return through Macedonia.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:paul]]
+  * [[:yo:obe:kt:disciple]]
+  * [[:yo:obe:other:macedonia]]
+  * [[:yo:obe:kt:believer]]
+  * [[:yo:obe:other:greek]]
+  * [[:En:obe:other:jew]]
+  * [[:yo:obe:other:syria]]
+
+===== Translation Notes: =====
+
+  * **After the uproar** - "After the uprising" or "following the riot"
+  * **he said farewell** - "he said goodbye." This is something that is said when a person leaves another's presence.
+  * **had encouraged the believers very much** - "had said many things to encourage the believers"
+  * **he had spent three months there** - "he had stayed three months there"
+  * **a plot was formed against him by the Jews** - "the Jews formed a plot against him" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **a plot was formed** - "a secret plan was formed"
+  * **he was about to sail for Syria** - "he was ready to sail for Syria"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:20|Acts Chapter 20 Comprehension Questions]]**
+**[[:yo:bible:notes:act:19:38|<<]] | [[:yo:bible:notes:act:20:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish macedonia syria}}
+
+~~NOCACHE~~

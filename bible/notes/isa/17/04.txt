@@ -1,0 +1,68 @@
+====== Isaiah 17:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 "At that time, Israel will become insignificant.
+\q2 It will be like \f + \ft metaphor \f* a fat person who has become very thin.
+\q1
+\v 5 The entire land will be like \f + \ft simile \f* a field where the harvesters have cut all the grain;
+\q2 there will be nothing left,
+\q2 like \f + \ft simile \f* the fields in the Rephaim Valley after all the crops have been harvested.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 "At that time, Israel will become insignificant.
+\q2 It will be like a fat person who has become very thin.
+\q1
+\v 5 The entire land will be like a field where the harvesters have cut all the grain;
+\q2 there will be nothing left,
+\q2 like the fields in the Valley of Rephaim after all the crops have been harvested.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 4 "It will come about on that day 
+\q1 that the glory of Jacob will become thin, and the fatness of his flesh will become lean.
+\q1
+\v 5 It will be as when a harvester gathers the standing grain, and his arm reaps the heads of grain. 
+\q1 It will be as
+when one gleans heads of grain in the valley of Rephaim.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:other:jacob]]
+  * [[en:obe:kt:flesh]]
+  * [[:yo:obe:kt:harvest]]
+  * [[:yo:obe:other:reap]]
+  * [[:yo:obe:other:grain]]
+  * [[:yo:obe:other:glean]]
+===== Translation Notes: =====
+
+  * **It will come about that** - This phrase is used here to mark an important event that will happen. If your language has a way for doing this, you could consider using it here.
+  * **the glory of Jacob will become thin and the fatness of his flesh will become lean** - Here "Jacob" refers to the people of Israel. God emphasizes that they were strong but they will become weak. (See: [[:yo:ta:vol2:translate:figs_metonymy]] and [[en:ta:vol1:translate:figs_metaphor]])
+  * **It will be as when a harvester gathers the standing grain, and his arm reaps the heads of grain. It will be as when one gleans heads of grain in the valley of Rephaim** - There will be nothing left in the land after God punishes the people of Israel. (See: [[en:ta:vol1:translate:figs_simile]] and [[:yo:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:17|Isaiah Chapter 17 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:17:01|<<]] | [[:yo:bible:notes:isa:17:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

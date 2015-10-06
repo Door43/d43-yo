@@ -1,0 +1,64 @@
+====== Genesis 26:12-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Isaac planted grain in that land that year, and he harvested a very large crop, because Yahweh blessed him.
+\v 13 Isaac continued to acquire more and more possessions, until finally he became very wealthy.
+\v 14 He had large herds of sheep and goats and cattle, and many slaves. Because of that, the Philistine people envied him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Isaac planted grain in that land that year, and he harvested a very large crop, because Yahweh had blessed him.
+\v 13 Isaac continued to acquire more and more possessions, until finally he became very wealthy.
+\v 14 He had large herds of sheep, goats, and cattle, and many slaves. Because of that, the Philistine people envied him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Isaac planted crops in that land and reaped in the same year a hundredfold, because Yahweh blessed him.
+\v 13 The man became rich, and grew more and more until he became very great.
+\v 14 He had many sheep and cattle, and a large household. The Philistines envied him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:isaac]]
+  * [[en:obe:other:reap]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:other:sheep]]
+  * [[en:obe:other:household]]
+  * [[en:obe:other:philistines]]
+ 
+
+===== Translation Notes: =====
+
+  * **in that land** - "in Gerar"
+  * **a hundredfold** - This means "one hundred times as much as he planted." It can be translated more generally as "a very large crop" (UDB).
+  * **The man became rich** - "Isaac became rich" or "He became rich"
+  * **and grew more and more until he became very great**  - "and he continued to become rich until he became very wealthy"
+  * **sheep** - This may also include goats.
+  * **The Philistines envied him**  - "So the Philistines became jealous of him"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:26|Genesis Chapter 26 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/26/09|<<]] | [[en/bible/notes/gen/26/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

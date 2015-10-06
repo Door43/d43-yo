@@ -1,0 +1,49 @@
+====== Genesis 43:30-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 Joseph quickly left the room. He realized that he was about to cry because he was full of emotion about his younger brother\f + \ft Or: loved his younger brother so much \f*. He went into his private room and cried there.
+\v 31 Then, after he washed the tears from his face, he came out, and controlling his emotions, he said to the servants, "Serve the food!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 Joseph quickly left the room. He realized that he was about to cry because he was full of emotion about his younger brother. He went into his private room and cried there.
+\v 31 Then, after he washed the tears from his face, he came out, and controlling his emotions, he said to the servants, "Serve the food!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 30 Joseph hurried to go out of the room, for he was deeply moved about his brother. He sought somewhere to weep. He went to his room and wept there.
+\v 31 He washed his face and came out. He controlled himself, saying, "Serve the food."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:serve]]
+
+===== Translation Notes: =====
+
+  * **hurried to go out of the room** - "hurried out"
+  * **for he was deeply moved about his brother** - The phrase "deeply moved" refers to a strong feeling or emotion a person gets when something important happens. Alternate translation: "for he had strong feelings of compassion for his brother" or "for he had strong feelings of affection for his brother."
+  * **saying** - "and said"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:43|Genesis Chapter 43 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:43:28|<<]] | [[:yo:bible:notes:gen:43:32|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

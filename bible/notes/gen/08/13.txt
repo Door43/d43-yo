@@ -1,0 +1,55 @@
+====== Genesis 08:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Noah was now 601 years old. By the first day of the first month \add of the Jewish year\add*, the water had completely drained away from the ground. Noah removed the covering on top of the ark, and he was surprised to see that the surface of the ground was drying.
+\v 14 By the 27th day of the next month, the ground was completely dry.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Noah was now 601 years old. By the first day of the first month of that year, the water had completely drained away from the ground. Noah removed the covering on top of the boat, and he was surprised to see that the surface of the ground was drying.
+\v 14 By the twenty-seventh day of the next month, the ground was completely dry.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 It came about in the six hundred and first year, in the first month, on the first day of the month, that the waters were dried up from off the earth. Noah removed the covering of the ark, looked out, and saw that, behold, the surface of the ground was dry.
+\v 14 In the second month, on the twenty-seventh day of the month, the earth was dry.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:noah]]
+  * [[en:obe:other:ark]]
+
+ 
+
+===== Translation Notes: =====
+
+  * **It came about**  - This phrase is used here to mark the beginning of a new part of the story. If your langauge has a way for doing this, you could consider using it here.
+  * **in the six hundred and first year**  - "in the six hundred and first year of Noah's life"
+  * **the waters were dried up from off the earth**  - You could make this active by translating it "the waters covering the earth dried up" or "the wind dried up the waters covering the earth." (See [[en:ta:vol2:translate:figs_activepassive]]).
+  * **the covering of the ark**  - This refers to a cover that kept the rain water out of the are.
+  * **behold**  - The word "behold" tells us to pay attention to the important information that comes next.
+  * **In the second month on the twenty-seventh day of the month**  - "on the twenty seventh day of the second month"
+  * **the earth was dry** - This can be translated as "the ground was completely dry." (UDB)
+
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:08|Genesis Chapter 08 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:08:10|<<]] | [[:yo:bible:notes:gen:08:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

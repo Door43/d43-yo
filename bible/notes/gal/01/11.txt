@@ -1,0 +1,59 @@
+====== Galatians 01:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 My fellow believers, I want you to know that the message about Christ that I proclaim to people is not one that some person \add created\f + \ft Or: thought \f* up\add*.
+\v 12 I did not receive this message from a human \add messenger\add*, and no \add human being\add* taught it to me. Instead, Jesus Christ revealed it to me.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 My fellow believers, I want you to know that the message about Christ that I proclaim to people is not one that some person created.
+\v 12 I did not learn this good news from a human being, and no such person taught it to me. Instead, it was Jesus Christ himself who taught me.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 For I want you to know, brothers, that the gospel I proclaimed is not from mere humans.
+\v 12 I did not receive it from man, nor was I taught it, but instead it was by revelation of Jesus Christ to me.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:brother]]
+  * [[en:obe:kt:goodnews]]
+  * [[en:obe:other:proclaim]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:reveal]]
+
+===== Translation Notes: =====
+
+  * **I did not receive it … nor was I taught it**  - "I did not hear the gospel … nor was I taught the gospel"
+  * **it was by revelation of Jesus Christ to me** - This can mean either "Jesus Christ himself revealed the gospel to me" or "God made me know the gospel when he showed me who Jesus Christ was"
+  * **mere humans**  - "human origin"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gal:01|Galatians Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:gal:01:08|<<]] | [[:yo:bible:notes:gal:01:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish reveal }}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== Ezekiel 17:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then Yahweh gave this message to me:
+\v 12 "Ask these rebellious \add Israelite\add* people, 'Do you know what this parable\f + \ft Or: story \f* means?' Tell them that it signifies that the king of Babylon went to Jerusalem \add with his army\add* and captured the king of Judah and his officials, and took them back to Babylon.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then Yahweh gave this message to me:
+\v 12 "Ask these rebellious Israelite people, 'Do you know what this parable means?' Tell them that it signifies that the king of Babylon went to Jerusalem with his army and captured the king of Judah and his officials, and took them back to Babylon.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Then the word of Yahweh came to me and said,
+\v 12 “Speak to the rebellious house: ‘Don’t you know what these things mean? Behold! The king of Babylon came to Jerusalem and took her king and her princes and brought them to him in Babylon.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:wordofgod]]
+  * [[:yo:obe:other:rebel]]
+  * [[en:obe:other:house]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:babylon]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:other:prince]]
+===== Translation Notes: =====
+
+  * **Don't you know what these things are saying?**  - "You should know what these things are saying." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Behold!**  - “Look” or “Listen” or “Pay attention to what I am about to tell you.”
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:17|Ezekiel Chapter 17 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:17:09|<<]] | [[:yo:bible:notes:ezk:17:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

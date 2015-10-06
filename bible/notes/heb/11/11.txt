@@ -1,0 +1,74 @@
+====== Hebrews 11:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 It was because Abraham trusted God that God gave Abraham strength so that he \add was\add* able to produce a son. Even though his wife Sarah was beyond the time \add when women bear children\add*, \add God\add* promised \add that he would give her a son\add*, and Abraham considered that God would do what he promised to do.
+\v 12 So, although Abraham was too old to have children, from that one man people descended who are as many in number as the stars in the sky and are as countless as the grains of sand along the shore, \add just like God promised him\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Because Abraham trusted God to give  him strength, he was able to produce a son. Even though his wife Sarah was beyond the time when women bear children, God promised he would give her a son, and Abraham believed that God would do what he promised to do.
+\v 12 So, although Abraham was too old to have children, from that one man people descended who are as many in number as the stars in the sky and are as countless as the grains of sand along the shore, just like God promised him.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 It was by faith that Abraham, and Sarah herself, received power to conceive even when they were too old, since they considered God as faithful, the one who had promised them a son.
+\v 12 Therefore also from this one man who was near death were born countless descendants. They became as many as the stars in the sky and the innumerable grains of sand on the seashore.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:faith]]
+  * [[en:obe:other:abraham]]
+  * [[:En:obe:other:sarah]]
+  * [[:En:obe:kt:power]]
+  * [[en:obe:kt:god]]
+  * [[:En:obe:kt:faithful]]
+  * [[en:obe:kt:promise]]
+  * [[en:obe:kt:son]]
+  * [[:En:obe:kt:death]]
+  * [[:En:obe:other:descendant]]
+  * [[en:obe:kt:heaven]]
+  * [[en:obe:other:grain]]
+ 
+
+===== Translation Notes: =====
+
+The author continues to write about Abraham's faith. 
+
+    * **power to conceive** - "the ability to become pregnant"
+    * **considered God as**  - "believed God to be"
+    * **countless descendants... many as the stars in the sky and the innumerable grains of sand on the seashore** - very many (See: [[:yo:ta:vol2:translate:figs_hyperbole]])
+ 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:11|Hebrews Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/11/08|<<]] | [[en/bible/notes/heb/11/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

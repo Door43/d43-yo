@@ -1,0 +1,51 @@
+====== Galatians 01:13-14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 People have told you how I behaved formerly when \add I practiced\add* the Jewish religion. They told you that I continually did very harmful things to the groups of believers that God \add established\add*, and they told you that I tried to get rid of those people.
+\v 14 I practiced the Jewish religion more thoroughly than many \add other Jews\add* who were my age practiced it. I much more enthusiastically tried to get others to obey the traditions that my ancestors \add kept\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 People have told you about what I did in the past when I worshiped God in the Jewish way. I never stopped doing the worst things to the groups of believers that God had established. I tried to destroy those believers and their groups.
+\v 14 I honored God in the Jewish way more thoroughly than any other Jew my own age. I was very angry when I saw other Jews neglecting to obey the traditions that our ancestors had kept.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 You have heard about my former life in Judaism, how I was violently persecuting the church of God beyond measure and devastating it.
+\v 14 I was advancing in Judaism beyond many of my fellow Jews. I was much more zealous for the traditions of my fathers.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:judaism]]
+  * [[en:obe:other:persecute]]
+  * [[en:obe:kt:church]]
+  * [[en:obe:other:jew]]
+  * [[en:obe:kt:zealous]]
+  * [[en:obe:other:tradition]]
+
+===== Translation Notes: =====
+
+  * **advancing**  - "making progress" or "going forward." This metaphor sees being a complete Jew as a place toward which Paul was going ahead of Jews his own age. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **former life**  - "behavior at one time" or "prior life" or "earlier life"
+  * **beyond measure**  - "extremely" or "excessively" or "as much as I could" or "more than was necessary"
+  * **devastating**  - "destroying"
+  * **fellow**  - "Jewish people of the same age"
+  * **fathers**  - or "ancestors."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gal:01|Galatians Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:gal:01:11|<<]] | [[:yo:bible:notes:gal:01:15|>>]]**
+
+~~NOCACHE~~
+
+~~DISCUSSION~~
+
+{{tag>publish judaism persecute zealous tradition}}

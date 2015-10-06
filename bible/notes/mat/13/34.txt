@@ -1,0 +1,59 @@
+====== Matthew 13:34-35 ======
+
+===== TFT: =====
+
+<usfm>
+\v 34 Jesus told the crowd parables \add to teach them\add* all these things. When he spoke \f + \ft hyperbole \f* to them he habitually used such illustrations.
+\v 35 By doing that, \add he\add* fulfilled what \add God told one of\add* the prophets to write \add long ago\add*. \p I will speak \f + \ft metonymy \f* in parables; I will tell \add parables to teach\add* what I have kept secret since I created the world.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 34 Jesus told the crowd parables to teach them all these things. When he spoke to them he habitually told stories like these.
+\v 35 By doing that, he made come true what God told one of the prophets to write long ago.
+\p I will speak in parables; I will tell parables to teach what I have kept secret since I created the world.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 34 All these things Jesus said to the crowds in parables; and without parables he said nothing to them.
+\v 35 This was in order that what had been said through the prophet might come true, when he said,
+\q "I will open my mouth in parables;
+\q I will say things that were hidden from the foundation of the world."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:other:parable]]
+  * [[:yo:obe:kt:true]]
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:kt:world]]
+
+===== Translation Notes: =====
+
+Jesus continues to tell a large crowd of people different parables that describe what the kingdom of God is like.
+
+  * **All these things Jesus said to the crowds in parables; and without parables he said nothing to them** - The order "said...parables...parables...said" is meant to emphasize that he spoke to them in parables.
+  * **All these things** - This refers to what Jesus taught beginning at [[:yo:bible:notes:mat:13:01|13:1]].
+  * **without parables he said nothing to them** - "he taught them nothing except by parables." Alternate translation: "everything he said to them he said in parables." (See: [[en:ta:vol2:translate:figs_hyperbole]] and [[en:ta:vol2:translate:figs_litotes]])
+  * **what had been said through the prophet might come true, when he said **- This can be translated with an active verb: "he made come true what God told one of the prophets to write long ago" (UDB). (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **when he said** - "when the prophet said" 
+  * **things that were hidden** - This can be translated with an active verb: "things that God has kept hidden".(See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **from the foundation of the world** - "since the beginning of the world" or "since God created the world."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:13|Matthew Chapter 13 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:13:33|<<]] | [[:yo:bible:notes:mat:13:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

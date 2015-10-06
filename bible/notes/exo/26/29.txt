@@ -1,0 +1,47 @@
+====== Exodus 26:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 \add Tell them to\add* cover the frames with gold, and make gold rings to fasten the crossbars to the frames. The crossbars must \add also\add* be covered with gold.
+\v 30 Erect the Sacred Tent in the way that I have shown you \add here\add* on \add this\add* mountain."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 Tell them to cover the frames with gold, and make gold rings to fasten the crossbars to the frames. The crossbars must also be covered with gold.
+\v 30 Build the sacred tent in the way that I have shown you here on this mountain."
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 29 You must cover the boards with gold. You must make their rings of gold, for them to serve as holders for the crossbars, and you must cover the bars with gold.
+\v 30 You must set up the tabernacle by following the plan  you were shown on the mountain.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:gold]]
+  * [[en:obe:kt:tabernacle]]
+
+===== Translation Notes: =====
+Yahweh continues to tell Moses what the people must do.
+  * **for them to serve as holders for the crossbars** - "which will hold the crossbars"
+  * **crossbars** - See how you translated this in [[en:bible:notes:exo:26:26|26:26]].
+  * **you were shown on the mountain** - AT: "I showed you on the mountain" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:26|Exodus Chapter 26 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:26:26|<<]] | [[:yo:bible:notes:exo:26:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Exodus 24:9-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 Then Moses\f + \ft Or: I \f*, along with Aaron, Nadab, Abihu, and the seventy Israelite elders\f + \ft Or: leaders \f*, went up \add the mountain\add*,
+\v 10 and they saw God, the whom one the Israelite people worship. Under his feet was something like a pavement \add made of\add* \add expensive blue stones called\add* sapphires. They were as clear as the sky is \add when there are no clouds\add*.
+\v 11 God did not harm \f + \ft metonymy \f* those Israelite elders\f + \ft Or: leaders \f* \add because of their having seen him\add*. They saw God, and they ate and drank together! \add Then they all went down the mountain\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then Moses along with Aaron, Nadab, Abihu, and the seventy Israelite elders, went up the mountain,
+\v 10 and they saw God, the one whom the Israelite people worship. Under his feet was something like a pavement made of blue stones called sapphires. They were as clear as the sky is when there are no clouds.
+\v 11 God did not harm those Israelite elders because of their having seen him. They saw God, and they ate and drank together!
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 Then Moses, Aaron, Nadab, Abihu, and seventy of Israel's elders went up the mountain.
+\v 10 They saw the God of Israel. Under his feet there was a pavement made of sapphire stone, as clear as the sky itself.
+\v 11 God did not lay a hand in angeron the Israelite leaders. They saw God, and they ate and drank.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god|God]]
+  * [[:yo:obe:other:hand|hand]]
+
+===== Translation Notes: =====
+
+  * **Israel's elders**  - This refers to men of prominence in the nation, heads of household and other leaders. The word "elder" means "older person" in its basic meaning.
+  * **pavement**  - A hard surface for walking, riding, and driving. It is usually made of stone or concrete such as the type used for roads or plazas.
+  * **sapphire stone **- This refers to a gemstone that is blue in color.
+  * **as clear as the sky**  - This sapphire pavement was blue and reflective, with no imperfections, like a sky with no clouds. (See: Simile)
+  * **lay a hand in anger**  - This is an idiom that means "to hit because of anger." (See: Idiom.)
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:24|Exodus Chapter 24 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:24:07|<<]] | [[:yo:bible:notes:exo:24:12|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

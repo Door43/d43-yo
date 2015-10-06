@@ -1,0 +1,46 @@
+====== Ezekiel 02:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Tell them my message, but do not expect them to pay attention to it, because they are very rebellious.
+\v 8 But human, you must pay attention to what I say. Do not be rebellious like they are. Now open your mouth and eat what I give to you."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Tell them my message, but do not expect them to pay attention to it, because they are very rebellious.
+\v 8 But Son of man, you must pay attention to what I say. Do not be  rebellious like they are. Now open your mouth and eat what I give to you."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 But you will speak my words to them, whether they listen or not, because they are most rebellious.
+\p
+\v 8 But you, Son of man, listen to what I am saying to you. Do not be rebellious like that rebellious house. Open your mouth and
+eat what I am about to give to you!"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:other:house]]
+===== Translation Notes: =====
+
+God continues to speak to Ezekiel.
+
+  * **Son of man**  - See how you translated this in [[:yo:bible:notes:ezk:02:01|2:3]].
+  * **that rebellious house** - "that rebellious group of people"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:02|Ezekiel Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:ezk:02:06|<<]] | [[:yo:bible:notes:ezk:02:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

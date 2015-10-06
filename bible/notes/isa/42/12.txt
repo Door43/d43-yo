@@ -1,0 +1,79 @@
+====== Isaiah 42:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Even people who live on distant islands should honor Yahweh
+\q2 and sing to praise him.
+\q1
+\v 13 \add It will be as though\add* Yahweh will march out like \f + \ft simile \f* a mighty soldier;
+\q2 he will show that he is very angry.
+\q1 He will shout a battle-cry,
+\q2 and then he will defeat all his enemies.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Even people who live on distant islands should honor Yahweh
+\q2 and sing to praise him.
+\q1
+\v 13 It will be as though Yahweh will march out like a mighty soldier;
+\q2 he will show that he is very angry.
+\q1 He will shout a battle cry,
+\q2 and then he will defeat all his enemies.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 Let them give glory to Yahweh and declare his praise in the coastlands.
+\q1
+\v 13 Yahweh will go out as a warrior; he will proceed as a man of war. He will stir up his zeal.
+\q1 He will shout, yes, he will roar his battle cries; he will show his enemies his power.
+</usfm>
+
+
+===== Important Terms: =====
+
+
+  * [[:yo:obe:kt:glory]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:declare]]
+  * [[:yo:obe:other:praise]]
+  * [[:yo:obe:kt:zealous]]
+  * [[:yo:obe:kt:power]]
+
+===== Translation Notes: =====
+Yahweh continues speaking.
+  * **Let them give glory** - Here "them" refers to the people along the coast lands.
+  * **Yahweh will go out as a warrior; he will go forth as a man of war** - This means Yahweh will show his strength and power. (See:  [[:yo:ta:vol1:translate:figs_simile]])
+
+
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:42|Isaiah Chapter 42 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/42/10|<<]] | [[en/bible/notes/isa/42/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

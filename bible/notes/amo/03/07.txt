@@ -1,0 +1,80 @@
+====== Amos 03:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 And whatever Yahweh plans to do,
+\q2 he tells his prophets about it.
+\b
+\q1
+\v 8 Everyone certainly becomes terrified \f + \ft rhetorical question \f* when they hear a lion roar,
+\q2 and if Yahweh the Lord has given messages \add to prophets like me\add*,
+\q1 we certainly must \f + \ft rhetorical question \f* proclaim those messages,
+\q2 \add even if they cause people to become terrified\add*.
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 And whatever Yahweh plans to do,
+\q2 he tells his prophets about it.
+\b
+\q1
+\v 8 Everyone certainly becomes terrified when they hear a lion roar;
+\q2 if Yahweh the Lord has given messages to prophets,
+\q1 they certainly must proclaim those messages,
+\q2 even if they terrified people.
+
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 Surely the Lord Yahweh will do nothing,
+\q except he reveals his plan to his servants the prophets.
+\q
+\v 8 The lion has roared;
+\q who will not fear?
+\q The Lord Yahweh has spoken;
+\q who will not prophesy?
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:En:obe:kt:reveal]]
+  * [[:yo:obe:other:servant]]
+  * [[:En:obe:kt:prophet]]
+ 
+
+===== Translation Notes: =====
+
+    * **Surely the Lord Yahweh will do nothing, except he reveals ..** - or "The Lord Yahweh will first reveal ... before doing something".   But prefer the literal "nothing, except" for emphasis.  See: [[:yo:ta:vol2:translate:figs_litotes]] 
+    * **The lion has roared; who will not fear?**  - This is a Rhetorical Question.  The "will not" could also be translated "dare not".
+    * **The Lord Yahweh has spoken; who will not prophesy?**  - This is a Rhetorical Question.  The "will not" could also be translated "dare not".
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:amo:03|Amos Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/amo/03/05|<<]] | [[en/bible/notes/amo/03/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

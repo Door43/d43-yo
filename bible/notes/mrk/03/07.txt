@@ -1,0 +1,52 @@
+====== Mark 03:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Jesus and his disciples left \add that\add* town and went to an area further along \add Galilee lake in order to get away from the people\add*. But a great crowd of people followed him. They were people who came from Galilee \add district\add*,
+\v 8 from Jerusalem \add city\add*, from \add other towns of\add* Judea \add district\add*, from Idumea \add district\add*, from \add the region on\add* the\add east\add* side of the Jordan \add River\add*, and from \add the region\add* around Tyre and Sidon \add cities\add*. This great crowd of people came to him because they heard about what he was doing.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Jesus and his disciples left that town and went to an area further along the Sea of Galilee. A great crowd of people followed him. The people that followed him came from Galilee and Judea,
+\v 8 from Jerusalem, from towns in the district of Judea, from the district of Idumea, from the region on the east side of the Jordan River, and from the region around the cities of Tyre and Sidon. They all came to him because they had heard about what he was doing.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 Then Jesus went away with his disciples to the sea. And a great crowd of people followed from Galilee and Judea,
+\v 8 from Jerusalem, Idumea and beyond the Jordan, and around Tyre and Sidon. The great crowd heard all he was doing, and they came to him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:disciple]]
+  * [[:yo:obe:other:galilee]]
+  * [[:yo:obe:other:judea]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:other:jordanriver]]
+  * [[:yo:obe:other:tyre]]
+  * [[:yo:obe:other:sidon]]
+
+===== Translation Notes: =====
+
+  * **heard all he was doing** - "heard about the great miracles that Jesus was performing"
+  * **they came to him** - "the crowd went to Jesus where he was" 
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:03|Mark Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:03:05|<<]] | [[:yo:bible:notes:mrk:03:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish tyre sidon}}
+
+~~NOCACHE~~

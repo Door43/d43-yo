@@ -1,0 +1,52 @@
+====== 1 Peter 01:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 You rejoice because of what will happen then, but now you are grieving for a short time while \add God is allowing\add* you to be tested \f + \ft Or:\add various things\add* \add to\add* test you \f + \ft metaphor \f* \f*, \add as precious metals are tested\add* \f + \ft Or:\add someone tests precious metals\add* \f* \add to see if they are pure\add*. \add These trials that you are experiencing are necessary\add*
+\v 7 to prove that you really do trust in Jesus. His proving that will be more valuable than gold, \add which does not last forever even\add* though it is purified \add by being put\add* \f + \ft Or:someone tries to make it pure by \add putting it\add* \f* \add in a hot\add* fire. As a result of your passing the test \add and proving that you really do trust in Jesus\add*, God will honor you very highly \f + \ft triple \f* when Jesus Christ comes again.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 You rejoice because of what will happen then, but now you are grieving for a short time while you suffer many different hardships.
+God is allowing you to be tested, as precious metals are tested to see if they are pure. These trials that you are experiencing are necessary.
+\v 7 These hardships happen in order to prove that you really do trust in Jesus. This means more to God than all the gold in the world, which fire can destroy. Because you trust in Jesus, God will honor you very highly when Jesus Christ comes again.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 You rejoice in this, even though now it is necessary for you to feel sorrow in many different trials.
+\v 7 This is so that your faith may be tested, faith that is much more precious than gold, which perishes in the fire that tests your faith. This occurs so that your faith will be found to result in praise, glory, and honor at the revelation of Jesus Christ.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rejoice]]
+  * [[:yo:obe:other:trial]]
+  * [[en:obe:kt:faith]]
+  * [[:yo:obe:kt:test]]
+  * [[:yo:obe:other:gold]]
+  * [[:yo:obe:other:fire]]
+  * [[:yo:obe:other:praise]]
+  * [[:yo:obe:kt:glory]]  
+  * [[:yo:obe:other:honor]]
+  * [[en:obe:kt:jesus]]
+===== Translation Notes: =====
+
+  * **You rejoice in this** The word this refers to all the blessings of [[en/bible/notes/1pe/01/03|01:03-05]] "you are glad for what God has done"
+  * **now it is necessary for you to feel sorrow** - "now it is right and proper that you feel sorrow"
+  * **that is much more precious than gold** - "God values your faith more than he values gold"
+  * **which perishes in the fire that tests your faith** "although gold is tested by fire, it does not last forever"
+  * **at the revelation of Jesus Christ** - "when Jesus Christ returns"
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:01|1 Peter Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:1pe:01:03|<<]] | [[:yo:bible:notes:1pe:01:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

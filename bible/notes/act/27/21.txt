@@ -1,0 +1,45 @@
+====== Acts 27:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 None of us on the ship had eaten for many days. \add Then one day\add*, Paul stood up in front of us and said, "\add Friends\add*, you should have listened to me \add when I said\add* that we\add \f + \ft inclusive \f*\add* should not sail from Crete. Then we would have been safe, and the ship and its cargo would be in good condition \f + \ft litotes \f*.
+\v 22 But now, I urge you, do not be afraid, because none of us will die. \add The storm\add* will destroy the ship but not us.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 None of us on the ship had eaten for many days. Then one day, Paul stood up in front of us and said, "Friends, you should have listened to me when I said that we should not set sail from Crete.
+\v 22 But now, I urge you, do not be afraid, because none of us will die. The storm will destroy the ship but not us.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 When they had gone long without food, then Paul stood up among the sailors and said, "Men, you should have listened to me, and not have set sail from Crete, so as to get this injury and loss.
+\v 22 And now I encourage you to take courage, for there shall be no loss of life among you, but only the loss of the ship.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:paul]]
+  * [[:yo:obe:other:crete]]
+
+===== Translation Notes: =====
+
+  * **among the sailors** - "among the men"
+  * **so as to get this injury and loss** - "as a result, we are now facing injury and loss"
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:act:27|Acts Chapter 27 Comprehension Questions]]**
+**[[:yo:bible:notes:act:27:19|<<]] | [[:yo:bible:notes:act:27:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

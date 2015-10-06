@@ -1,0 +1,70 @@
+====== Hosea 02:23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 At that time, I will take care of the Israelite people
+\q2 \add like a farmer plants and takes care of his crops\add* \f + \ft metaphor \f*.
+\q1 I will love those people that I previously said were ones I did not love,
+\q2 and I previously said, 'You are not my people,'
+\q2 and now they will say to me, 'You are our God.'~"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 At that time, I will take care of the Israelite people
+\q2 like a farmer plants his own land and takes care of his crops.
+\q1 I will show my love to those people that were called, 'Not Loved.' 
+\q2 And to them who were called, 'Not my People,' 
+\q1 I will now call them by the new name, 'You are my People.' 
+\q2 They will say to me, 'You are our God.'"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 I will plant her for myself in the land,
+\q and I will have mercy upon "No Mercy."
+\q I will say to them who were not my people,
+\q "You are my people,"
+\q and they will say, "You are my God."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:hos:02|Hosea Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/hos/02/21|<<]] | [[en/bible/notes/hos/03/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

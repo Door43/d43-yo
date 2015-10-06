@@ -1,0 +1,57 @@
+====== Acts 25:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Festus, \add who was now the governor\add* of the province, arrived in Caesarea, and three days later he went up to Jerusalem.
+\v 2 In Jerusalem, the chief priests and \add other\add* Jewish leaders formally told \add Festus\add* about \add the things that they said\add* that Paul \add had done that were wrong\add*.
+\v 3 They urgently asked Festus to do something for them. \add They asked him to command soldiers\add* to bring Paul to Jerusalem, \add so that Festus could put him on trial there\add*. But they were planning that some \add of them\add* would hide \add near the road\add* and wait \add for Paul\add* and kill him when he was traveling \add to Jerusalem\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Festus began to rule as governor of the province. Three days later, he left the city of Caesarea and went up to Jerusalem.
+\v 2 There, the chief priests and other Jewish leaders stood before  Festus and said that Paul had done things that were very wrong.
+\v 3 They urgently asked Festus to bring Paul to trial in Jerusalem. But they were really planning to attack him on the road and kill him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 25
+\p
+\v 1 Now, Festus entered the province, and after three days, he went from Caesarea up to Jerusalem.
+\v 2 The chief priest and the prominent Jews brought accusations against Paul to Festus, and they spoke strongly to Festus.
+\v 3 And they asked Festus for a favor concerning Paul, that he might call him to Jerusalem so that they could kill him along the way.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:caesarea]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:other:chiefpriests]]
+  * [[:yo:obe:other:Jew]]
+  * [[:yo:obe:other:Paul]]
+  * [[:yo:obe:kt:favor]]
+===== Translation Notes: =====
+
+  * **Festus entered the province** - Possible meanings: 1) "Festus simply arrived in the area" or 2) "Festus arrived in the area to begin his rule." (UDB)
+  * **he went from Caesarea up to Jerusalem** - Possible meanings are 1) "going up refers to the importance of Jerusalem" or 2) "He went up to a higher elevation since jerusalem is located on a hill."
+  * **brought accusations against Paul** - This is a formal presentation of charges in court. Alternate translation: "accused Paul of violating laws,"
+  * **they spoke strongly to Festus** - "they were begging Festus" or "they begged Festus"
+  * ** that he might call him...so that they could kill him ** - "That Festus might call Paul...so that the Jews could kill Paul"
+  * **might call him ** - "might send him"
+  * **they could kill him along the way** - They were going to ambush Paul to kill him on the way.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:25|Acts Chapter 25 Comprehension Questions]]**
+**[[:yo:bible:notes:act:24:26|<<]] | [[:yo:bible:notes:act:25:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish caesarea }}
+
+~~NOCACHE~~

@@ -1,0 +1,78 @@
+====== Micah 01:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 \add The name of your town of\add* Mareshah \add means 'conqueror'\add*,
+\q2 and Yahweh will soon send someone to conquer your town.
+\q1 \add It will be necessary for\add* the great\f + \ft Or: glorious \f* leaders of Israel to go \add and hide in the cave at\add* Adullam \add city\add*.
+\q1
+\v 16 \add You people of Judah\add*, shave your heads while you will be mourning,
+\q2 because your children whom you love will \add soon\add* be exiled\f + \ft Or: forced to leave you and go to another country \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 You people of Mareshah,
+\q2 Yahweh will soon send someone to conquer your town.
+\q1 It will be necessary for the great leaders of Israel to go and hide in the cave near Adullam.
+\q1
+\v 16 You people of Judah, shave your heads when you mourn,
+\q2 because the children whom you love will soon go into exile.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 I will bring to you, inhabitants of Mareshah,
+\q one who will take possession of you.
+\q The leaders of Israel will go to Adullam's cave.
+\q
+\v 16 Shave your head,
+\q and cut off your hair
+\q for the children in whom you delight,
+\q Make yourself as bald as eagles,
+\q for your children will go into exile from you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:possess]]
+  * [[en:obe:other:israel]]
+  * [[en:obe:other:head]]
+  * [[en:obe:kt:children]]
+  * [[en:obe:other:eagle]]
+  * [[en:obe:other:exile]]
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mic:01|Micah Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/mic/01/13|<<]] | [[en/bible/notes/mic/02/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

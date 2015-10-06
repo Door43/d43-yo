@@ -1,0 +1,73 @@
+====== Isaiah 49:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 My people will return from far away;
+\q2 some will come from the north, some from the west,
+\q2 some from southern Egypt."
+\b
+\q1
+\v 13 \add Because of what Yahweh has promised to do\add*,
+\q1 everything should shout joyfully—
+\q2 the sky and the earth and the mountains should sing,
+\q2 because Yahweh comforts his people,
+\q1 and he will pity those who are suffering.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 My people will return from far away;
+\q2 some will come from the north, some from the west,
+\q2 some from southern Egypt."
+\b
+\q1
+\v 13 Because of what Yahweh has promised to do,
+\q1 everything should shout joyfully—
+\q2 the sky and the earth and the mountains should sing,
+\q2 because Yahweh comforts his people,
+\q1 and he will pity those who are suffering.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 Look, these will come from far away, some from the north and the west; and others from the land of Sinim.
+\q1
+\v 13 Sing, heavens, and be joyful, earth; break into singing, you mountains! 
+\q1 For Yahweh comforts his people, and will have compassion on his afflicted.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:other:earth]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:comfort]]
+  * [[en:obe:kt:peopleofgod]]
+  * [[:yo:obe:kt:compassion]]
+  * [[:yo:obe:kt:afflict]]
+
+===== Translation Notes: =====
+
+  * **the land of Sinim** - Possible meanings are 1) this is a region south of the land of Israel or 2) this is a region east of the land of Israel. (See: [[:yo:ta:vol1:translate:translate_names]])
+  * **Sing, heavens and be joyful, earth; break into singing, you mountains!** - Isaiah turns his attention from the people of Israel and speaks to the heavens, earth, and mountains as if they were people. (See: [[:yo:ta:vol2:translate:figs_apostrophe]])
+
+===== Links: =====
+
+**[[:yo:bible:questions:comprehension:isa:49|Isaiah Chapter 49 Comprehension Questions]]**
+
+**[[:yo:bible:notes:isa:49:10|<<]] | [[:yo:bible:notes:isa:49:14|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

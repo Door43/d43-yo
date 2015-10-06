@@ -1,0 +1,61 @@
+====== Acts 23:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 Paul realized that some of the \add Council members\add* were Sadducees and others were Pharisees. So, \add in order to cause the Pharisees and Sadducees to argue among themselves instead of accusing him\add*, he called out loudly in the Council \add hall\add*, "My fellow Jews, I am a Pharisee, like my father was. I have been put \f + \ft Or:\add You\add* have put me \f* on trial \add here\add* because I confidently expect that \add some day God\add* will cause people who have died to become alive again\f + \ft Or: raise people from the dead \f*."
+\v 7 When he said that, the Pharisees and Sadducees started to argue with one another \add about whether people who have died will become alive again or not\add*.
+\v 8 The Sadducees believe that after people die, they will not become alive again. They also believe that there are no angels and no \add other kinds of\add* spirits. But the Pharisees believe \add that all people who have died will one day become alive again. They also believe\add* that there are \add angels and other kinds of spirits\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Paul knew that some of the Council members were Sadducees and others were Pharisees. So he called out in the Council hall, "My fellow Jews, I am a Pharisee, like my father was. I have been put on trial here because I expect that some day God will cause people who have died to become alive again."
+\v 7 When he said that, the Pharisees and Sadducees started to argue with one another about whether or not people who have died will become alive again.
+\v 8 The Sadducees believe that after people die, they will not become alive again. They also believe that there are no angels and no other kinds of spirits. But the Pharisees believe all these things.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 When Paul saw that the one part of the council were Sadducees and the other Pharisees, he spoke loudly in the council, "Brothers, I am a Pharisee, a son of Pharisees. It is because of the confidence in
+the resurrection of the dead that I am being judged."
+\v 7 When he said this, an argument began  between the Pharisees and Sadducees, and the assembly was divided.
+\v 8 For the Sadducees say that there is no resurrection, no angels, and no spirits, but the Pharisees say that all of these exist.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:paul]]
+  * [[:yo:obe:other:council]]
+  * [[:yo:obe:other:sadducee]]
+  * [[:yo:obe:other:pharisee]]
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:kt:hope]]
+  * [[:yo:obe:kt:resurrection]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:assembly]]
+  * [[:yo:obe:kt:angel]]
+  * [[:yo:obe:kt:spirit]]
+ 
+
+===== Translation Notes: =====
+
+  * **I am being judged** - "you are judging me"
+  * **the assembly was divided** - "the members of the assembly disagreed"
+  * **there is no resurrection, no angels, and no spirits** - Possible meanings are 1) they did not believe in the resurrection, angels or spirits or 2) God will not resurrect people from the dead as angels or as spirits.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:23|Acts Chapter 23 Comprehension Questions]]**
+**[[:yo:bible:notes:act:23:04|<<]] | [[:yo:bible:notes:act:23:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

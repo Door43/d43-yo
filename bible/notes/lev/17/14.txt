@@ -1,0 +1,58 @@
+====== Leviticus 17:14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 This is because the life of every creature is in its blood. And that is why I have said \f + \ft doublet \f* to you Israelites that anyone who eats blood must no longer \add be allowed to associate with my people\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 This is because the life of every creature is in its blood. That is why I have said to you Israelites that anyone who consumes blood from an animal must no longer be allowed to associate with my people.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 For the life of each creature and the blood of each creature is together, the same, the life is one with the blood. Therefore I said to the people of Israel, "You must not eat the blood of any animal, for the life of all living creatures is the blood in them. Whoever eats it must be cut off."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:creature]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lev:17|Leviticus Chapter 17 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/17/12|<<]] | [[en/bible/notes/lev/17/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

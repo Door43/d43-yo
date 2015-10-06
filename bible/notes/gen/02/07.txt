@@ -1,0 +1,49 @@
+====== Genesis 02:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Then Yahweh God took some soil and formed a man. He breathed into the man's nostrils his own breath that gives life, and as a result the man became a living person.
+\v 8 Yahweh God made a park\f + \ft Or: garden \f* in a place named Eden, which was east of the land of Canaan, and he put there the man that he had created.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Then Yahweh God took some soil and formed a man. He breathed into the man's nostrils his own breath that makes things alive, and as a result the man became a living person.
+\v 8 Yahweh God made a park in a place named Eden, which was east of the land of Canaan. There he placed the man that he had formed.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7  Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life, and man became a living being.
+\v 8 Yahweh God planted a garden eastward, in Eden, and there he put the man whom he had formed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:kt:life]]
+  * [[en:obe:other:eden]]
+ 
+===== Translation Notes: =====
+
+  * **formed**  - "molded" or "shaped" or "made"
+  * **his nostrils**  - "his nose"
+  * **breath of life**  - "breath that makes things live"
+  * **a garden**  - This could have been an orchard of fruit trees or a park with all kinds of trees.
+  * **eastward**  - "in the east"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:02|Genesis Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:02:04|<<]] | [[:yo:bible:notes:gen:02:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish  life eden}}
+
+~~NOCACHE~~

@@ -1,0 +1,43 @@
+====== Mark 13:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 Now I \add want you to\add* learn something from this parable about \add the way\add* fig trees \add grow\add*. \add In this area\add*, when their branches become tender and their leaves begin to sprout, you know that summer is near.
+\v 29 Similarly, when you see \add what I have just described\add* happening, you yourselves will know that it is very near \add the time for me to return\add* \f + \ft metonymy \f*. \add It will be as though I am\add* already at the door \f + \ft hendiadys \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Now I want you to learn something from how fig trees grow. When their branches become tender and their leaves begin to sprout, you know that summer is near for us.
+\v 29 Similarly, when you see what I have just described happening, you yourselves will know that it is very near the time for me to return. It will be as though I am already at the door.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 28 Learn a lesson from the fig tree. As soon as the branch becomes tender and puts out its leaves, you know that summer is near.
+\v 29 So also, when you see these things happening, you know that he is near, close to the gates.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:fig]]
+  * [[:yo:obe:kt:gate]]
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:13|Mark Chapter 13 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:13:24|<<]] | [[:yo:bible:notes:mrk:13:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

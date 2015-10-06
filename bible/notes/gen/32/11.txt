@@ -1,0 +1,61 @@
+====== Genesis 32:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 So now I pray that you will rescue me from the power \f + \ft metonymy \f* of my brother Esau, because I am afraid that he and his men will come and attack and kill me and the children and their mothers.
+\v 12 But do not forget that you have said, 'I will certainly enable you to prosper, and I will cause your descendants to be as numerous as the grains of sand on the seashore, which are so many that no one can count them.'~"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 So now I pray that you will rescue me from the power of my brother Esau, because I am afraid that he and his men will come and attack and kill me and the children and their mothers.
+\v 12 But do not forget that you have said, 'I will certainly enable you to prosper, and I will cause your descendants to be as numerous as the grains of sand on the seashore, which are so many that no one can count them.'"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 Please rescue me from the hand of my brother, from the hand of Esau, for I am afraid of him, that he will come and attack me and the mothers with the children.
+\v 12 But you said, 'I will certainly make you prosper. I will make your descendants like the sand of the sea, which cannot be numbered for their number.'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:hand]]
+  * [[:yo:obe:other:esau]]
+  * [[en:obe:kt:fear]]
+  * [[:yo:obe:other:descendant]]
+
+===== Translation Notes: =====
+
+  * **deliver me** - "rescue me" or "save me"
+  * **from the hand of my brother, from the hand of Esau** - These are two ways of saying the same thing. Also, the word "hand" refers to Esau's power. Alternate translation: "from the power of my brother, Esau" or "from my brother, Esau." (See: [[en:ta:vol2:translate:figs_doublet]] or [[en:ta:vol2:translate:figs_metonymy]])
+  * **I am afraid of him, that he will**  - "I am afraid that he will"
+  * **make you prosper **- "do good to you" or "treat you well."
+  * **I will make your descendants like the sand of the sea** - God compared Jacob's descendants to the grains of sand around the sea. This emphasizes the large number of descendants that God will give Jacob. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **which cannot be numbered for their number**  - "which you cannot count because of their number"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:32|Genesis Chapter 32 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/32/09|<<]] | [[en/bible/notes/gen/32/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Exodus 05:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 They\f + \ft Or: we \f* replied, "Yahweh God, the one we Hebrews \add worship\add*, has revealed himself\f + \ft Or: appeared \f* to us \add and told us what to tell you\add*. So we ask you to \add please\add* let us go on a three day journey into the desert. We must offer sacrifices to Yahweh God \add there\add*. \add If we do\add* not do that, he will cause us to die [IDI] from diseases or from attacks \add by our enemies\add* \f + \ft metonymy \f*."
+\v 4 But the king of Egypt said to them\f + \ft Or: us \f*, "Moses and Aaron, why are you preventing the Israelite people from working?\f + \ft Or: stop trying to keep the Israelite people from working! \f* \f + \ft rhetorical question \f* \add Tell those slaves\add* to return to work!"
+\v 5 The king also said, "Listen \add to me\add*! \add You\add* people \add who now live\add* in this land are now \add more\add* numerous \add than we Egyptians\add* \f + \ft Or: \add the ordinary people in this land are very numerous\add* \f*. So now do you want them \add to stop working and\add* rest \f + \ft rhetorical question \f*?"
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Moses and Aaron replied, "Yahweh God, the one we Hebrews worship, has revealed himself to us and told us what to tell you. So we ask you to let us go for three days into the wilderness. We must offer sacrifices to Yahweh God there. If we do not do that, he will cause us to die from diseases or from attacks by our enemies."
+\v 4 But the king of Egypt said to them, "Moses and Aaron, why are you preventing the Israelite people from working? Tell those slaves to return to work!"
+\v 5 The king also said, "Listen to me! You people who now live in this land are more numerous than we Egyptians. Why are you stopping them from working?"
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 They said, "The God of the Hebrews has met with us. Let us go on a three day journey into the wilderness and sacrifice to Yahweh our God so that he does not attack us with plague or with the sword."
+\v 4 But the king of Egypt said to them, "Moses and Aaron, why are you taking the people from their work? Go back to your work."
+\v 5 He also said, "There are now many Hebrew people in our land, and you are making them stop their work."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:Hebrew]]
+  * [[:yo:obe:other:desert]]
+  * [[:yo:obe:other:sacrifice]]
+  * [[:yo:obe:kt:Yahweh]]
+  * [[:yo:obe:other:plague]]
+  * [[:yo:obe:other:sword]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:egypt]]
+  * [[:yo:obe:other:labor]]
+
+===== Translation Notes: =====
+
+  * **God of the Hebrews** - a term also used for the Israelites' God or Yahweh
+  * **so that he does not attack us with plague** - AT: "so that he does not cause us to die from disease" (See: [[:yo:ta:vol1:translate:figs_idiom]])
+  * **with the sword** - AT: "attacks by our enemies" (UDB); (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+  * **why are you taking the people from their work?** - This question is used to emphasize that the Israelites should not be taken away from their work. (See: [[:yo:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:05|Exodus Chapter 05 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:05:01|<<]] | [[:yo:bible:notes:exo:05:06|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

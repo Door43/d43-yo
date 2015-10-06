@@ -1,0 +1,68 @@
+====== Acts 19:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 For three months after that, Paul entered the Jewish meeting place \add in Ephesus on each\add* Sabbath\f + \ft Or: Jewish \f* day of rest, and he spoke boldly. He convincingly taught \add the people\add* about how God wanted to rule \f + \ft metaphor \f* \add their lives\add*.
+\v 9 \add A few of the people in the meeting house believed the message about Jesus\add*. But some of the people would not believe that message and did not want to \add continue to\add* hear it. While many people were listening, they said many bad things about the way \add for people to receive eternal life about which Paul was preaching\add*. So Paul left them and took the believers with him \add to meet in another place\add*. He taught every day in a lecture hall \add that a man whose name was\add* Tyrannus \add lectured in\f + \ft Or: owned \f*\add*.
+\v 10 For two years Paul continued to teach people in that building. In this way, most of \f + \ft hyperbole \f* the Jews and non-Jews who lived in Asia \add province\add* heard the message about the Lord \add Jesus\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 For three months after that, Paul entered the Jewish meeting place in Ephesus on each Sabbath and taught  and persuaded people about Jesus and how God would show himself as king.
+\v 9 But some of the Jews would not believe the message and did not want to to hear it any more. They said many bad things about what Paul was teaching. So Paul left them and took the believers with him to meet in the meeting place of Tyrannus.
+\v 10 For two years Paul taught people there. In this way, most of  the Jews and non-Jews who lived in the region of Asia and he heard the message about the Lord Jesus.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 Paul went into the synagogue and spoke boldly for the space of three months. He was leading discussions and persuading people about the things concerning the kingdom of God.
+\v 9 But when some Jews were hardened and disobedient, they began to speak evil of the way of Christ before the crowd, so Paul left them, and drew the believers away from them. He began to speak every day in the lecture hall of Tyrannus.
+\v 10 This continued for two years, so that all who  lived in Asia heard the word of the Lord, both Jews and Greeks.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:synagogue]]
+  * [[:yo:obe:kt:kingdomofgod]]
+  * [[:En:obe:other:jew]]
+  * [[:yo:obe:other:disobey]]
+  * [[:yo:obe:kt:evil]]
+  * [[:yo:obe:kt:christ]]
+  * [[:yo:obe:kt:believer]]
+  * [[:yo:obe:other:asia]]
+  * [[:yo:obe:other:greek]]
+
+===== Translation Notes: =====
+
+  * **Paul went into the synagogue and spoke boldly for the space of three months**  - This could also be translated as "Paul regularly attended the synagogue meetings for three months and spoke there boldly."
+  * **persuading people** - "trying to convince people of the truth being spoken"
+  * **some Jews were hardened**  - "some Jews stubbornly refused to accept the message"
+  * **to speak evil**  - "to speak bad things"
+  * **the way of Christ**  - "salvation through Jesus Christ"
+  * **drew the believers**  - "lead the believers" or "physically moved"
+  * **all who lived in Asia heard**  - Possible meanings are 1) "Paul Shared the gospel with many people through out all of Asia" or 2) "Paul's message went out to all of Asia from Ephesus from people visiting Ephesus from all over Asia."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:19|Acts Chapter 19 Comprehension Questions]]**
+**[[:yo:bible:notes:act:19:05|<<]] | [[:yo:bible:notes:act:19:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,65 @@
+====== Ezra 08:33-34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 Then on the fourth\f + \ft Or: next \f* day we went to the temple. There the silver and gold and the other items were weighed and given to the priest Meremoth, the son of Uriah. Eleazar the son of Phinehas and two descendants of Levi, Jozabad the son of Jeshua and Noadiah the son of Binnui, were with him.
+\p
+\v 34 They counted everything, and wrote down how much they weighed, and wrote \add a description\add* of each item.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 Then on the fourth day we went to the temple. There the silver and gold and the other items were weighed and given to the priest Meremoth son of Uriah. Eleazar the son of Phinehas and two descendants of Levi, Jozabad son of Jeshua and Noadiah son of Binnui, were with him.
+\v 34 They counted everything, and wrote down how much they weighed, and wrote a description of each item.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 But on the fourth day the silver, gold, and objects were weighed out in our God's house into the hand of Meremoth son of Uriah the priest. With him were Ezeazar son of 
+Phinehas, Jozabad son of Jeshua, and Noadiah son of Binnui the Levite.
+\v 34 The number and weight of everything was determined; all the weight was written down at that time.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezr:08|Ezra Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezr/08/31|<<]] | [[en/bible/notes/ezr/08/35|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

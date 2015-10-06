@@ -1,0 +1,47 @@
+====== Exodus 40:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 He\f + \ft Or: I \f* set the lampstand inside the Sacred Tent, on the south side, opposite the table.
+\v 25 Then he\f + \ft Or: I \f* set the lamps on the lampstand in Yahweh's presence, exactly as Yahweh had commanded.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 Moses's workmen set the lampstand inside the sacred tent, on the south side, on the other side of the table.
+\v 25 Then they set the lamps on the lampstand in Yahweh's presence, exactly as Yahweh had commanded.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 He put the lampstand into the tent of meeting, across from the table, on the south side of the tabernacle.
+\v 25 He lit the lamps before Yahweh, as Yahweh had commanded him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:lampstand]]
+  * [[en:obe:other:tentofmeeting]]
+  * [[en:obe:kt:tabernacle]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:other:command]]
+ 
+
+===== Translation Notes: =====
+There are no translation notes for these verses.
+  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:40|Exodus Chapter 40 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:40:21|<<]] | [[:yo:bible:notes:exo:40:26|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

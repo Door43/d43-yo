@@ -1,0 +1,82 @@
+====== Lamentations 03:5-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 He has surrounded me \f + \ft doublet \f*
+\q2 with bitterness and suffering.
+\q1
+\v 6 \add It is as though\add* he has buried me in a dark place
+\q2 like \f + \ft simile \f* those who have been dead for a long time.
+\b
+\q1
+\v 7 \add It is as though\add* \f + \ft metaphor \f* he has built a wall around me,
+\q2 and fastened\f + \ft Or: tied \f* me with heavy chains,
+\q2 and I cannot escape.
+\q1
+\v 8 Although I call out and cry out for him to help me,
+\q2 he does not pay attention to my prayers.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 He has surrounded me with things
+\q2 that make me suffer very bitterly.
+\q1
+\v 6 It is as though he has buried me in a dark place
+\q2 like those who have been dead for a long time.
+\b
+\q1
+\v 7 It is as though he has built a prison wall around me,
+\q2 and fastened me with heavy chains, so I cannot escape.
+\q1
+\v 8 Although I call out and cry out for him to help me,
+\q2 he does not pay attention to me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 He has built up siege works against me, and surrounded me with bitterness and hardship.
+\q
+\v 6 He has made me to live in dark places, like those long dead.
+\q
+\v 7 He has built a wall around me, and I cannot escape. He has made my shackles heavy.
+\q
+\v 8 Though I call out and scream for help, he shuts out my prayers.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:pray]]
+ 
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:lam:03:01|<<]] | [[:yo:bible:notes:lam:03:09|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

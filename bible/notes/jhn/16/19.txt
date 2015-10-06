@@ -1,0 +1,61 @@
+====== John 16:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Jesus realized that we wanted to ask him \add about that\add*. So he said to us, "You are asking \f + \ft rhetorical question \f* each other \add what I meant\add* when I said, 'After a short time you will not see me, and then a short time \add after that\add* you will see me \add again\add*.'
+\v 20 Listen to this carefully: \add After I\add* \add leave you\f + \ft Or: die\add* \f*, those who oppose God \f + \ft metonymy \f* will be happy, but you will be sad. But \add later\add* you will stop being sad and you will become joyful.
+\v 21 A woman who is about to bear a child feels pain, because that is \add what happens\add* \f + \ft metonymy \f* \add at\add* that time. But after her baby is born, she forgets that pain, because she is very joyful that her child has been born.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Jesus saw that they wanted to ask him more questions. So he said to the disciples, "Why are you asking each other what I meant?  I said that in a little while, you would not see me; and then after a little while, you would see me again.
+\v 20 I am telling you the truth: you will cry and grieve, but those who belong to this world will rejoice. You will go through great sadness, but your sadness will turn into joy.
+\v 21 This is like a woman who is suffering the pains of labor when giving birth. After her baby is born, she forgets her anguish because of the joy she has that her child has been born into the world.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 Jesus saw that they were eager to ask him, and he said to them, “Do you ask yourselves concerning
+this, that I said, ‘In a little while, you will see me no more; after a little while again, you will see me’?
+\v 20 Truly, truly, I say to you, you will weep and lament, but the world will rejoice; you will be sorrowful, but
+your sorrow will be turned into joy.
+\v 21 A woman has sorrow when she has labor pains because her time for delivery has come; but when she has delivered the child, she no longer remembers her pain because of her joy that a baby has been born into the world.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:amen]]
+  * [[:yo:obe:kt:lament]]
+  * [[:yo:obe:kt:world]]
+  * [[:yo:obe:other:rejoice]]
+  * [[:yo:obe:kt:joy]]
+ 
+
+===== Translation Notes: =====
+
+  * **Do you ask yourselves, concerning this, that I said** - Jesus uses this question to focus his disciples on what he has just told them so he can explain further. AT: "You are asking yourselves what I meant when I said"  (See: [[en:ta:vol1:translate:figs_rquestion]]) and (See: [[en:ta:vol2:translate:figs_rpronouns]])
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:16|John Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/16/17|<<]] | [[en/bible/notes/jhn/16/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

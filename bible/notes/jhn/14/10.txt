@@ -1,0 +1,52 @@
+====== John 14:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Do you not \f + \ft rhetorical question \f* believe that I have a close relationship with \add my\add* Father, and that \add my\add* Father has a close relationship with me? The messages that I tell you do not come from me. They come from my Father, who has a close relationship with me. He is enabling me to \add teach these things, and\add* to work the miracles that he \add wants me to do\add*.
+\v 11 Believe that I have a close relationship with \add my\add* Father and that \add my\add* Father has a close relationship with me. If you do not believe that just because of what I say, believe it because of the miracles themselves \add that I have done\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Do you not believe that I am joined to my Father and that my Father is joined to me? The things I have told you—I did not think of these things; rather, it is my Father who has sent me to tell you all of these things, for my Father is joined to me and works through me.
+\v 11 Trust me because I have told you that I am joined to the Father and that the Father is joined to me, or else trust me because of all the signs and mighty acts you have seen me do.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Do you not believe that I am in the Father, and the Father is in me? The words that I am speaking to you I speak not of my own accord; instead, it is the Father living in me who is doing his work.
+\v 11 Believe me, that I am in the Father, and the Father is in me; or else believe me because of my very works.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:believe]]
+  * [[en:obe:kt:godthefather]] 
+
+===== Translation Notes: =====
+
+
+    * **Do you not believe** - Do you-singular not believe (See: [[en:ta:vol1:translate:figs_you]])
+    * **The words that I am speaking to you** - "The words that I am speaking to you-plural" (See: :[[en:ta:vol1:translate:figs_you]])
+    * **The words that I am speaking to you I speak not of my own accord;** - "The messages that I tell you do not come from me." 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:14|John Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/14/08|<<]] | [[en/bible/notes/jhn/14/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

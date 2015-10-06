@@ -1,0 +1,57 @@
+====== 2 Thessalonians 03:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 \add Because of your close relationship with our\add* Lord \add Jesus\add*, we are confident about you that you are obeying what we have commanded you, and we are confident that you will obey what we are commanding \add you in this letter\add*.
+\v 5 \add We pray that our\add* Lord \add Jesus\add* would enable you to continue \add knowing\add* that God loves you. \add We pray\add* also that Christ will cause you to continue \add being\add* steadfast \f + \ft Or: being steadfast as he \add was steadfast\add* \f*.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 Because we are all joined to our Lord Jesus, we are confident that you are now obeying what we have commanded you, and that you will obey what we are commanding you in this letter.
+\v 5 We pray that our Lord Jesus would continue to help you know how much God loves you and how much Christ has endured for you.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 4 We have confidence in the Lord concerning you, that you both do and will continue to do the things that we command.
+\v 5 May the Lord direct your hearts to the love of God and to the endurance of Christ.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:inchrist]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:love]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:endure]]
+  * [[:yo:obe:kt:christ]]
+
+===== Translation Notes: =====
+
+  * **in the Lord** - "joined to the Lord" (UDB)
+  * **we **- “we” refers to Paul, Silas and Timothy but not their audience. (See: [[en:ta:vol2:translate:figs_exclusive|Exclusive]])
+  * **concerning **- "about"
+  * **you**  - “you” and "your" refer to the Thessalonian believers. (See: [[en:ta:vol1:translate:figs_you|Forms of 'You']])
+  * **direct your hearts**  - This is an expression that refers to the believers not just a body part. "guide your hearts" (See: [[en:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2th:03|2 Thessalonians Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:2th:03:01|<<]] | [[:yo:bible:notes:2th:03:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,76 @@
+====== Hebrews 12:22-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 Instead, \add it is as though\add* you have come to \add the presence of God in heaven\add* \f + \ft metaphor \f*. \add That is like what your ancestors did when they came to worship\add* God on Zion Hill, in Jerusalem, in the city of the all-powerful God. You have come \f + \ft Or: you are coming \f* to where there are countless angels, who are rejoicing as they have gathered together.
+\v 23 You have joined all the believers \add who have privileges like\add* firstborn sons, whose names \add God\add* has written down in heaven. You have come to God, who will judge everyone. You have come to where the spirits of God's people are, people who lived righteously \add before they died\add*, and who now have been made perfect \add in heaven\add*.
+\v 24 You have come to Jesus, who arranged a new covenant \add between us and God\add*. You have accepted \add what he accomplished when\add* his blood flowed \add when he died on the cross. His doing that made it possible for God to forgive us\add*. That is better than the blood of Abel, \add who just\add* wanted revenge because his brother Cain murdered him.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Instead, you have come to the presence of God who truly lives in heaven, to the "New Jerusalem." That is like what your ancestors did when they came to worship God on Mount Zion in Israel, upon which the earthly Jerusalem was built. You have come to where there are countless angels who are rejoicing as they have gathered together.
+\v 23 You have joined the assembly of all the believers who have privileges as firstborn sons, whose names God has written down in heaven. You have come to God, who will judge everyone. You have come to where the spirits of God's people are, people who lived righteously before they died, and whom God has now made perfect in heaven.
+\v 24 You have come to Jesus, who arranged a new covenant between us and God by the blood that flowed when he died on the cross. Jesus' blood made it possible for God to forgive us, and his blood is better than was Abel's blood.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 Instead, you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to ten thousands of angels in celebration.
+\v 23 You have come to the assembly of all the firstborn registered in heaven, to God the Judge of all, and to the spirits of the righteous who have been perfected.
+\v 24 You have come to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks better than Abel's blood.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:zion]]
+  * [[:En:obe:kt:life]]
+  * [[:En:obe:kt:heaven]]
+  * [[:En:obe:other:jerusalem]]
+  * [[:En:obe:kt:angel]]
+  * [[:En:obe:kt:assembly]]
+  * [[:En:obe:other:judgeposition]]
+  * [[:En:obe:kt:spirit]]
+  * [[:En:obe:kt:righteous]]
+  * [[:En:obe:other:mediator]]
+  * [[:En:obe:kt:newcovenant]]
+  * [[:En:obe:other:abel]]
+ 
+
+===== Translation Notes: =====
+
+  * **you** - the readers
+  * **have come to** - "have arrived at"
+  * **ten thousands of angels** - AT: "an uncountable number of angels"
+  * **God the Judge...Jesus, the mediator** - Jesus is like a lawyer in a court showing God the judge how his blood has paid for the forgiveness of people's guilt. (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  * **the sprinkled blood that speaks better than Abel's blood** - AT: "the sprinkled blood of Jesus that has a better meaning than the blood of Abel, whom Cain murdered" (See: [[en:ta:vol2:translate:figs_personification]] and [[en:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:12|Hebrews Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/12/18|<<]] | [[en/bible/notes/heb/12/25|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

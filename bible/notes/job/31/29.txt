@@ -1,0 +1,72 @@
+====== Job 31:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29-30 \add It is not true that\add* I \f + \ft synecdoche \f* sinned by requesting God to curse people who hated me
+\q2 and to cause them to die;
+\q1 or that I was glad when they were ruined
+\q2 and rejoiced when they experienced disasters \f + \ft doublet \f*;
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29-30 It is not true that I sinned by requesting God to curse people who hated me
+\q2 and to cause them to die;
+\q1 or that I was glad when they were ruined
+\q2 and rejoiced when they experienced disasters;
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 29 If I have rejoiced at the destruction of anyone who hated me
+\q or congratulated myself when disaster overtook him—
+\q
+\v 30 (indeed, I have not suffered my mouth to sin
+\q by asking for his life with a curse)—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:rejoice]]
+  * [[:yo:obe:kt:suffer]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:curse]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:31|Job Chapter 31 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/31/26|<<]] | [[en/bible/notes/job/31/31|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

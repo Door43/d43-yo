@@ -1,0 +1,62 @@
+====== John 05:30-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 I do not do anything \add like that\add* by my own authority. I judge people only according to what I hear \add my Father tell me\add*. I will judge people fairly, because I do not want to please only myself. Instead, I want to please \add my Father\add*, who sent me.
+\p
+\v 31 If I were the \add only\add* one to tell people about myself, \add people could rightly say that\add* what I say is not true.
+\v 32 But there is someone else who tells people about me. And I know that what he tells people about me is true.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 I can do nothing on my own. Whatever I hear from the Father, that is how I judge, and I judge in a just manner. I judge justly because I do not try to do what I want, but what the Father wants, he who sent me here.
+\p
+\v 31 If I alone were the only one to be a witness about myself, no one would believe my witness to be true or reliable.
+\v 32 Nevertheless, there is someone else who bears witness about me, and I know that his testimony about me is true.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 30 I can do nothing from myself.  As I hear, I judge, and my judgment is righteous because I am not seeking my own will but the will of him who sent me.
+\v 31 If I should testify about myself alone, my testimony would not be true.
+\v 32 There is another who testifies concerning me, and I know that the testimony that he gives about me is true.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:righteous]]
+  * [[:yo:obe:kt:willofgod]]
+  * [[:yo:obe:kt:testimony]]
+  * [[:yo:obe:kt:true]]
+ 
+
+===== Translation Notes: =====
+
+Jesus continues speaking to the Jewish leaders ([[:yo:bible:notes:jhn:05:16|5:16]]).
+
+  * **can do nothing from** - Translate this the same way you translated it in [[:yo:bible:notes:jhn:05:19|5:19]].
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:05|John Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/05/28|<<]] | [[en/bible/notes/jhn/05/33|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish, willofgod}}
+
+~~NOCACHE~~

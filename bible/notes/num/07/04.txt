@@ -1,0 +1,63 @@
+====== Numbers 07:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 Then Yahweh said to Moses\f + \ft Or: me \f*,
+\v 5 "Accept these gifts, in order that the descendants of Levi can use them for carrying the sacred items that are here at the Sacred Tent."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 Then Yahweh said to Moses,
+\v 5 "Accept these gifts, in order that the descendants of Levi can use them for carrying the sacred items that are here at the Sacred Tent."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 Then Yahweh spoke to Moses. He said,
+\v 5 "Accept the offerings from them and use the offerings for the work in the tent of meeting. Give the offerings to the Levites, to each one as his work needs them.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:num:07|Numbers Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/num/07/01|<<]] | [[en/bible/notes/num/07/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

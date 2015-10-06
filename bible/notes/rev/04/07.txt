@@ -1,0 +1,73 @@
+====== Revelation 04:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7-8 The first living  \add creature\add* was like a lion. The second living  \add creature\add* was like an ox. The third living  \add creature\add* had a face like a man's face. The fourth living creature was like an eagle that was flying. Each of the four living  \add creatures\add* had six wings. They were covered with eyes, all around  \add their bodies\add* and under  \add their wings\add*. Day and night they continually \f + \ft litotes \f* sing:
+\q1 Holy, holy, holy is the Lord God, the Almighty One.
+\q1 He is the one who has always existed, 
+\q1 who exists now, and who will always exist.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7-8 The first living creature was like a lion. The second living creature was like an ox. The third living creature had a face like a man's face. The fourth living creature was like an eagle that was flying. Each of the four living creatures had six wings. These wings were covered with eyes all top and bottom. Day and night they constantly say:
+\q1 "Holy, holy, holy is the Lord God, the Almighty One.
+\q1 He is the one who has always existed, 
+\q1 who exists now, and who will always exist."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 The first living creature was like a lion, the second living creature was like a calf, the third living creature had a face like a man, and the fourth living creature was like a flying eagle.
+\v 8 The four living creatures each had six wings, full of eyes on top and underneath. Night and day they do not stop saying,
+\q "Holy, holy, holy 
+\q is the Lord God, the ruler over all, 
+\q2 who was, and who is, and who is to come."
+\m
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:other:lion]]
+  * [[:yo:obe:other:cow]]
+  * [[:yo:obe:other:eagle]]
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:kt:lordgod]]
+  * [[:yo:obe:kt:almighty]] 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rev:04|Revelation Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/04/06|<<]] | [[en/bible/notes/rev/04/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,68 @@
+====== 1 Chronicles 07:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 In the record of Izrahiah's descendants were the names of 36,000 men who were able to be in the army because they had many wives and children.
+\li1
+\v 5 In the records of the clans descended from Issachar were the names of 87,000 men able to be in the army.
+
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 In the record of Izrahiah's descendants were the names of 36,000 men who were able to be in the army because they had many wives and children.
+\li1
+\v 5 In the records of the clans descended from Issachar were the names of 87,000 men able to be in the army.
+
+
+
+\li2
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 Along with them they had 36,000 troops for battle, according to the lists belonging to their ancestors' clans,
+for they had many wives and sons.
+\v 5 Their brothers,the tribe of Issachar, had 87,000 fighting men, according to the lists belonging to their ancestors' clans.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ch:07|1 Chronicles Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/07/01|<<]] | [[en/bible/notes/1ch/07/06|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

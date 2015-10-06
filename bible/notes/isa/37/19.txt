@@ -1,0 +1,64 @@
+====== Isaiah 37:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 And they have thrown all the idols of those nations into fires and burned them. But they were not really gods. They were only idols made of wood and stone, \add and that is why they were destroyed easily\add*.
+\v 20 So now, Yahweh our God, please rescue us from the power \f + \ft metonymy \f* of \add the king of Assyria\add*, in order that the people in all the kingdoms of the world will know that you, Yahweh, are the only one who is truly God."
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 And they have thrown all the idols of those nations into fires and burned them. But they were not really gods. They were only idols made of wood and stone, and that is why they were able to be destroyed.
+\v 20 So now, Yahweh our God, please rescue us from the power  of the king of Assyria, in order that the people in all the kingdoms of the world may know that you, Yahweh, are the only one who is truly God."
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 They have put their gods into the fire, for they were not gods but the work of men’s hands, just wood and stone. So the Assyrians have destroyed them.
+\v 20 So now, Yahweh our God, save us from his power, so that all the kingdoms of the earth may know that you are Yahweh alone."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:falsegod]]
+  * [[:yo:obe:other:fire]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:assyria]]  
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:save]]  
+  * [[:yo:obe:kt:power]]
+  * [[:yo:obe:other:kingdom]]
+  * [[:yo:obe:other:earth]]
+  * [[en:obe:other:know]]
+===== Translation Notes: =====
+Hezekiah continues praying to Yahweh.
+  * **for they were not gods but the work of men’s hands, just wood and stone** – "because they were false gods that men made out of wood and stone”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:37|Isaiah Chapter 37 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/37/17|<<]] | [[en/bible/notes/isa/37/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

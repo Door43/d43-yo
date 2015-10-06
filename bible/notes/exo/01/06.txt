@@ -1,0 +1,51 @@
+====== Exodus 01:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 \add Eventually\add* Joseph and his \add older and younger\add* brothers and everyone \add else in their family who lived\add* in that generation\f + \ft Or: at that time \f* died.
+\v 7 But Jacob's descendants kept giving birth to many children [IDI]. The \add number of his descendants\add* kept becoming larger and larger. As a result, there were so many of them that they were everywhere in Egypt \f + \ft Or: that they \add became a threat\add* to the Egyptians \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 After some time, Joseph and his brothers and everyone else in their family who lived in that generation died.
+\v 7 But Jacob's descendants gave birth to many children. The number of his descendants grew very large. As a result, there were so many of them that they were everywhere in Egypt.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 Then Joseph, all his brothers, and all that generation died.
+\v 7 The Israelites were fruitful, increased greatly in numbers, and became very strong; the land was filled with them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:brother]]
+  * [[:yo:obe:other:generation]]
+  * [[:yo:obe:kt:death]]
+  * [[:yo:obe:other:israel]]
+
+===== Translation Notes: =====
+
+
+    * **all his brothers** - this includes 10 older brothers and 1 younger brother 
+    * **were fruitful** - This means that the Israelite population grew quickly. AT: "had many children" or "gave birth to many children" (UDB). (See: [[en:ta:vol1:translate:figs_idiom]])
+    * **the land was filled with them** - AT: "They filled the land" (See: [[en:ta:vol2:translate:figs_activepassive]])
+    * **with them** - The word "them" refers to the Israelites.
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:exo:01|Exodus Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:01:01|<<]] | [[:yo:bible:notes:exo:01:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

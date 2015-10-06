@@ -1,0 +1,77 @@
+====== Psalms 068:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 \add They are all singing\add*, "You Israelite people, praise God when you gather together;
+\q2 praise Yahweh, all you who are descendants of Jacob!"
+\q1
+\v 27 First come the people of the tribe of Benjamin, the smallest tribe,
+\q2 and following them come the leaders of the tribe of Judah and their group,
+\q1 and following them come the leaders of the tribes of Zebulun and Naphtali.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 They are all singing, "You Israelite people, praise God when you gather together;
+\q2 praise Yahweh, all you who are descendants of Jacob!"
+\q1
+\v 27 First come the people of the tribe of Benjamin, the smallest tribe,
+\q2 and following them come the leaders of the tribe of Judah and their group,
+\q1 and following them come the leaders of the tribes of Zebulun and Naphtali.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 26 Bless God in the assemblies,
+\q
+\v 27 There is first Benjamin, the smallest tribe,
+\q then the leaders of Judah and their multitudes,
+\q the leaders of Zebulun and the leaders of Naphtali.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:assembly]]
+  * [[:yo:obe:other:benjamin]]
+  * [[:yo:obe:other:tribe]]
+  * [[:yo:obe:other:judah]]
+  * [[:yo:obe:other:zebulun]]
+  * [[:yo:obe:other:naphtali]]
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:068|Psalms Chapter 068 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/068/024|<<]] | [[en/bible/notes/psa/068/028|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book2}}
+
+~~NOCACHE~~

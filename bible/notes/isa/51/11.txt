@@ -1,0 +1,70 @@
+====== Isaiah 51:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 And those whom Yahweh will rescue \add from being exiled in Babylonia\add*
+\q2 will similarly return to Jerusalem, singing.
+\q2 Their being joyful forever will be like \f + \ft metaphor \f* a crown on their heads.
+\q1 They will not be sad or mourn anymore;
+\q2 they will be completely joyful and happy.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 And those whom Yahweh will rescue from being exiled in Babylonia
+\q2 will similarly return to Jerusalem, singing.
+\q2 Their being joyful forever will be like a crown on their heads.
+\q1 They will not be sad or mourn anymore;
+\q2 they will be completely joyful and happy.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 11 The ransomed of Yahweh will return and come to Zion with cries of joy 
+\q1 and with gladness forever on their heads; and gladness and joy will overtake them, and sorrow and mourning will flee away.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:ransom]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:kt:joy]]
+  * [[:yo:obe:kt:forever]]
+  * [[:yo:obe:other:mourn]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **and with gladness forever on their heads** - Their joy forever is compared to a crown on their heads. (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:51|Isaiah Chapter 51 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/51/09|<<]] | [[en/bible/notes/isa/51/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

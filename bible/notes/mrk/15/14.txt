@@ -1,0 +1,50 @@
+====== Mark 15:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then Pilate said to them, "Why? What crime has he committed?" But they shouted even louder, "\add Command your soldiers to\add* crucify him!"
+\v 15 So, because Pilate wanted to please the crowd, he released Barabbas for them. Then, after \add his soldiers\add* had whipped Jesus with leather straps into which they had fastened metal pieces, \add Pilate told the soldiers to take him away\add* in order that he would be crucified \f + \ft Or:they would crucify him \f*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then Pilate said to them, "Why? What crime has he committed?" But they shouted even louder, "Crucify him!"
+\v 15 So because Pilate wanted to please the crowd, he released Barabbas to them. Then his soldiers flogged Jesus; after that, Pilate told them to take him away and crucify him.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 Pilate said to them, "What wrong has he done?" But they shouted more and more, "Crucify him."
+\v 15 Pilate wanted to satisfy the crowd, so he released Barabbas to them. He scourged Jesus and then handed him over to be crucified.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:pilate]]
+  * [[:yo:obe:kt:crucify]]
+  * [[en:obe:other:barabbas]]
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:15|Mark Chapter 15 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:15:12|<<]] | [[:yo:bible:notes:mrk:15:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

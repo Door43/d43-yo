@@ -1,0 +1,50 @@
+====== Exodus 16:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 The Israelite people called this food manna, \add which sounds like the words in their language that means 'what is it\add*?' It looked like small seeds \add called\add* coriander, but it was white, and it tasted like thin wafers\f + \ft Or: biscuits \f* made with honey.
+\v 32 Moses\f + \ft Or: I \f* said, "This is what Yahweh has commanded: 'You must keep two quarts\f + \ft Or: liters \f* of it for all future generations, so that they can see the \add food that took the place of\add* bread that I gave to your \add ancestors\add* when I brought them out of Egypt.'~"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 The Israelite people called this food 'manna,' which sounds like the Hebrew word that means 'what is it?' It looked like small seeds called coriander, but it was white and tasted like thin wafers made with honey.
+\v 32 Moses said, “This is what Yahweh has told you: ‘You must keep two liters of it for all future generations so that they can see the food that took the place of bread that I gave to your ancestors when I brought them out of Egypt.'"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 31 The people of Israel called that food 'manna.' It was white like coriander seed, and its taste was like wafers made with honey.
+\v 32 Moses said, "This what Yahweh has commanded, 'Let an omer of manna be kept throughout your people's generations so that your descendants might see the bread with which I fed you in the wilderness, after I brought you out from the land of Egypt.'"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:seed]]
+  * [[:yo:obe:other:honey|honey]]
+  * [[:yo:obe:other:generation]]
+  * [[:yo:obe:other:descendant]]
+  * [[:yo:obe:other:desert|wilderness]]
+ 
+
+===== Translation Notes: =====
+
+  * **coriander seed**  - Coriander is also known as cilantro. This seed is a spice when dried.
+  * **wafer**  - This is a very thin biscuit.
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:exo:16|Exodus Chapter 16 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:16:28|<<]] | [[:yo:bible:notes:exo:16:33|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Mark 12:38-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 38 While Jesus was teaching \add the people\add*, he said to them, "Beware that you \add do not act like\add* the men who teach our \add Jewish\add* laws. They \add like people to honor them, so\add* they put on long robes and walk around \add in order to show people how important they are\add*. They also like people to greet them \add respectfully\add* in the marketplaces.
+\v 39 \add They like to sit\add* in the most important seats in our synagogue\f + \ft Or: Jewish meeting place \f*. At festivals, \add they like to sit in\add* the seats where the most honored people sit.
+\v 40 They swindle\f + \ft Or: take for themselves \f* the houses \add and property\add* of widows by cheating them. \add Then\add* they pretend \add that they are good\add* by praying long prayers \add publicly. God\add* will certainly punish them severely!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 38 While Jesus was teaching the people, he said to them, "Beware that you do not act like the men who teach our laws. They like people to honor them, so they put on long robes and walk around in order to show people how important they are. They also like people to greet them respectfully in the marketplaces.
+\v 39 They like to sit in the most important seats in the synagogues. At festivals, they like to sit in the seats where the most honored people sit.
+\v 40 They swindle the houses and property of widows by cheating them. Then they pretend that they are good by praying long prayers in public. God will certainly punish them severely!"
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 38 In his teaching Jesus said, "Beware of the scribes, who desire to walk in long robes, and special greetings in the marketplaces,
+\v 39 and chief seats in the synagogues, and chief places at feasts.
+\v 40 They also devour widows' houses, and they pray long prayers for people to see. These will receive greater condemnation."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:synagogue]]
+  * [[:yo:obe:other:feast]]
+  * [[:yo:obe:other:pray]]
+ 
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:12|Mark Chapter 12 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:12:35|<<]] | [[:yo:bible:notes:mrk:12:41|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

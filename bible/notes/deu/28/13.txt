@@ -1,0 +1,67 @@
+====== Deuteronomy 28:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 If you faithfully obey all of the commands of Yahweh our God that I am giving you today, Yahweh will cause your nation to be superior [IDI] \add to other nations\add*, not inferior to them; You will always be prosperous and you will never be needy\f + \ft Or: poor \f* [IDI].
+\p
+\v 14 \add Yahweh will do all these things for you\add* if you do not turn away from \add obeying\add* what I am commanding you today, and if you never worship or serve other gods.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 If you faithfully obey all of the commands of Yahweh our God that I am giving you today, Yahweh will cause your nation to be superior to other nations, not inferior to them; you will always be prosperous and you will never be needy.
+\p
+\v 14 Yahweh will do all these things for you if you do not turn away from obeying what I am commanding you today, and if you never worship or serve other gods.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Yahweh will make you the head, and not the tail;  you will be only above, and you will never be beneath, if you listen to the commandments of Yahweh your God that I am commanding you today, so as to observe and to do them,
+\v 14 and if you do not turn away from any of the words that I am commanding you today, to the right hand, or to the left, so as to go after other gods to serve them.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:head]]
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:kt:falsegod]]
+  * [[:yo:obe:other:serve]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:28|Deuteronomy Chapter 28 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/28/11|<<]] | [[en/bible/notes/deu/28/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

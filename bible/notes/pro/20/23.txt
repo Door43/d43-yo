@@ -1,0 +1,70 @@
+====== Proverbs 20:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 Yahweh detests those who use dishonest scales
+\q2 and weights that are not accurate\f + \ft Or: correct \f*.
+\b
+\q1
+\v 24 Yahweh is the one who has decided what will happen to us,
+\q2 so how can we <understand\f + \ft Or: know> what will happen before it happens?( Or: we ) humans certainly cannot <understand, Or: know> what will happen before it happens. \f* \f + \ft rhetorical question \f*
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 Yahweh detests those who use dishonest scales
+\q2 and weights that are not accurate.
+\b
+\q1
+\v 24 Yahweh is the one who directs the way a person will go. 
+\q2 So then, how can someone understand where he is going?
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 Yahweh hates unequal weights 
+\q and dishonest scales are not good. 
+\q
+\v 24 A person's steps are directed by Yahweh 
+\q how then can he understand his way?
+</usfm>
+
+
+===== Important Terms: ===== 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:20|Proverbs Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/20/21|<<]] | [[en/bible/notes/pro/20/25|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

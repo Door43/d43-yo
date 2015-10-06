@@ -1,0 +1,82 @@
+====== Psalms 091:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 \add Yahweh says\add*, "I will rescue those who love me,
+\q2 I will protect them because they acknowledge that I am Yahweh\f + \ft Or: know me \f*.
+\q1
+\v 15 When they call out to me, I will answer them.
+\q2 I will help them when they are experiencing trouble;
+\q2 I will rescue them and honor them.
+\q1
+\v 16 I will reward them by enabling them to live a long time,
+\q2 and I will save them."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Yahweh says, "I will rescue those who love me,
+\q2 I will protect them because they acknowledge that I am Yahweh.
+\q1
+\v 15 When they call out to me, I will answer them.
+\q2 I will help them when they are experiencing trouble;
+\q2 I will rescue them and honor them.
+\q1
+\v 16 I will reward them by enabling them to live a long time,
+\q2 and I will save them."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 Because he is devoted to me, I will rescue him.
+\q I will protect him because he is loyal to me.
+\q
+\v 15 When he calls  to me, I will answer him.
+\q I will be with him in trouble;
+\q I and give him victory and honor him.
+\q
+\v 16 I will satisfy him with long life
+\q and show him my salvation.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:other:trouble]]
+  * [[:yo:obe:other:honor]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:salvation]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:091|Psalms Chapter 091 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/091/012|<<]] | [[en/bible/notes/psa/092/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book4}}
+
+~~NOCACHE~~

@@ -1,0 +1,61 @@
+====== Numbers 36:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 The family leaders of the clan of Gilead of the tribe of Manasseh went to Moses\f + \ft Or: me \f* and the other family leaders of the Israelite people.
+\v 2 They said to Moses\f + \ft Or: me \f*, "Yahweh commanded you, our leader, to apportion the land to the Israelite tribes by throwing lots\f + \ft Or: stones that have been marked \f* to decide \add which group would get which area\add*. Yahweh also commanded you to give the land that belonged to our fellow Israelite Zelophehad to his daughters.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 The family leaders of the clan of Gilead of the tribe of Manasseh went to Moses and the other family leaders of the Israelite people.
+\v 2 They said to Moses, “Yahweh commanded you, our leader, to apportion the land to the Israelite tribes by throwing lots to decide which group would get which area. Yahweh also commanded you to give the land that belonged to our fellow Israelite Zelophehad to his daughters.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 36
+\p
+\v 1 Then the leaders of their ancestor’s families in the clan founded by Gilead, son of Machir who was Manasseh’s son—the leaders of the clans of Joseph’s descendants, came up and spoke before Moses and before the leaders who were the heads of the ancestor’s families among the people of Israel.
+\v 2 They said, “Yahweh commanded you, our master, to give a share of land by lot to the people of Israel. You were  commanded by Yahweh to give the share of Zelophehad our brother to his daughters.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:num:36|Numbers Chapter 36 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/num/35/33|<<]] | [[en/bible/notes/num/36/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Genesis 35:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 After Jacob and his family returned from Paddan-Aram\f + \ft Or: Mesopotamia \f*, while they were still at Bethel, God appeared to Jacob again and blessed him.
+\v 10 God said to him again, "Your name will no longer be Jacob. It will be Israel." So Jacob was then called 'Israel.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 After Jacob and his family returned from Paddan Aram, while they were still at Bethel, God appeared to Jacob again and blessed him.
+\v 10 God said to him again, "Your name will no longer be Jacob. It will be Israel." So Jacob was then called "Israel."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 When Jacob came from Paddanaram, God appeared to him again and blessed him.
+\v 10 God said to him, "Your name is Jacob, but your name will no longer be called Jacob. Your name will be Israel.”  So God called his name Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jacob]]
+  * [[en:obe:other:paddanaram]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:other:israel]]
+ 
+
+===== Translation Notes: =====
+
+  * **came from Paddanaram** - See Genesis [[en:bible:notes:gen:25:19|25:20]] for how you translated "paddanaram".
+  * **but your name shall no longer be called Jacob** - "but your name shall no longer be Jacob"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:35|Genesis Chapter 35 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:35:06|<<]] | [[:yo:bible:notes:gen:35:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish  name}}
+
+~~NOCACHE~~

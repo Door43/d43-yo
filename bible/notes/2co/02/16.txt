@@ -1,0 +1,65 @@
+====== 2 Corinthians 02:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 To those who  \add are on the way to hell, our message is like\add* \f + \ft metaphor \f* a foul smell  \add because it is about dying\add* and being separated from God forever. But, to those\add on the way to heaven, the message that we teach is like\add* a pure fragrant smell, \add because we tell them\add* that they will live  \add forever with God. As we think about that, we think\add* no one can have enough ability  \add to do\add* such important work  \add for God!\add*\f + \ft Or: how can anyone have enough ability  \add to do\add* such important work  \add for God\add*? \f* \f + \ft rhetorical question \f*
+\v 17  \add But perhaps God considers us\f + \ft exclusive \f* sufficient\add*, because we do not work\f + \ft Or: act \f* like so many  \add others whom you know\add*. They teach God's message in a way that  \add they think people will like, and they think that\add* people will pay them for teaching that way. We\add \f + \ft exclusive \f* certainly do not do that\add*. On the contrary, \add as servants of\add* Christ, and knowing that God is watching us\add \f + \ft exclusive \f*\add*, we teach sincerely  \add the message that\add* God sent us to proclaim.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 To those people that God does not rescue, that aroma of Christ is like the smell a dead person dying once again. But those whom God is rescueing—they smell Christ, who is alive, coming to make them alive, too. Indeed, no one is able by himself to spread this fragrance!
+\v 17  You know that many people go from city to city selling the word of God for money. But we are not like them. We work hard to please God and we do what he wants. And we speak about Christ because we know God sees everything we do, and we announce Christ because we are joined to him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 To the people who are perishing, it is an aroma from death to death. To the ones being saved, it is an aroma from life to life. Who is worthy of these things?
+\v 17 For we are not like so many people who sell the word of God for profit. Instead, with purity of motives, as sent from God, in the sight of God, we speak in Christ.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:perish]]
+  * [[:En:obe:kt:death]]
+  * [[:En:obe:kt:save]]
+  * [[:En:obe:kt:life]]
+  * [[en:obe:kt:worthy]]
+  * [[:En:obe:kt:wordofgod]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:profit]]
+  * [[:yo:obe:kt:purify]]
+  * [[en:obe:other:send]]
+  * [[en:obe:kt:inchrist]]
+ 
+===== Translation Notes: =====
+
+
+    * **an aroma from death to death** - The word "aroma" to refer to knowledge about Christ. For those who are spiritual dead, knowledge about Christ is like the smell of a dead decaying body. AT: "knowledge about death to those who are dead." (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **aroma from life to life ** - The word "aroma" to refer to knowledge about Christ. For those who are Spiritual alive, knowledge about Christ is like a sweet smelling fragrance. AT: "knowledge about life to those who are alive." (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **Who is worthy of these things?** - Paul uses this question to express the knowledge of Christ is a gift from God that no one deserves. AT: "No one is worthy of these things." (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **purity of motives** - "honest desires"
+    * **we speak in Christ** - "we speak because of our belief in Christ"
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2co:02|2 Corinthians Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2co/02/14|<<]] | [[en/bible/notes/2co/03/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mgr}}
+
+~~NOCACHE~~

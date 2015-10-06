@@ -1,0 +1,71 @@
+====== Revelation 05:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 I also heard every creature that is in heaven and on the earth and under the earth and on the ocean, every creature in all those places, saying \f + \ft Or: singing \f*:
+\q1 "We must forever praise and honor the one who sits on the throne
+\q1 and the one who is like a lamb,
+\q1 May they reign with complete power forever!"
+\p
+\v 14 The four living \add creatures\add* said, "Amen!\f + \ft Or: May it be so! \f*" Then the elders prostrated themselves and worshipped \add God and Jesus\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 And I heard every creature in heaven and on the earth and under the earth and on the sea say,
+\q1 "We must forever praise, honor, and glorify the one who sits on the throne
+\q1 and the lamb.
+\q1 May they reign with complete power forever!"
+\p
+\v 14 The four living creatures said, "May it be so!" Then the elders prostrated themselves on the ground and worshiped God and the lamb.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 I heard every created thing that was in heaven and on the earth, under the earth, on the sea and everything in it, saying,
+\pi "To him who sits on the throne and to the Lamb, be praise, honor, glory, and the power to rule, forever and ever."
+\p
+\v 14 The four living creatures said, "Amen!" and the elders laid down on the ground and worshiped.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:creation]]
+  * [[:yo:obe:kt:heaven]]
+  * [[:yo:obe:kt:dominion]]
+  * [[:yo:obe:kt:forever]]
+  * [[:yo:obe:kt:amen]]
+  * [[:yo:obe:kt:worship]] 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rev:05|Revelation Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/05/11|<<]] | [[en/bible/notes/rev/06/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

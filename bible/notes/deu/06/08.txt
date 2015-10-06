@@ -1,0 +1,64 @@
+====== Deuteronomy 06:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add Write them on tiny scrolls\add* and fasten them to your arms\f + \ft Or: wrists \f*, and write them on bands that you fasten to your foreheads \add to help you to remember them\add*.
+\v 9 Write them on the doorposts and on the gates of your houses.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Write them on tiny scrolls and fasten them to your arms, and write them on bands that you fasten to your foreheads to help you to remember them.
+\v 9 Write them on the doorposts of your houses and on your city gates.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 You will tie them as a sign upon your hand, and they will serve as frontlets between your eyes.
+\v 9 You will write them on the doorposts of your house and on your gates.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sign]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:serve]]
+  * [[:yo:obe:other:doorpost]]
+  * [[:yo:obe:kt:gate]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:06|Deuteronomy Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/06/06|<<]] | [[en/bible/notes/deu/06/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

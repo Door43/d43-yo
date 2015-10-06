@@ -1,0 +1,60 @@
+====== Nehemiah 03:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Malchijah the son of Harim, and Hashub the son of Pahath-Moab, repaired a section \add of the wall\add*, and also repaired the Tower of the Ovens.
+\v 12 Next to them, Shallum the son of Hallohesh, who ruled the other half of Jerusalem District, repaired \add part of the wall\add*. His daughters \add helped him with the work\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Malchijah son of Harim, and Hashub son of Pahathmoab, repaired a section of the wall, and also repaired the Tower of the Ovens.
+\v 12 Next to him, Shallum son of Hallohesh, who ruled the other half of the district of Jerusalem, repaired part of the wall. His daughters helped him with the work.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 Malchijah the son of Harim, and Hasshub the son of Pahathmoab repaired another section along with the Tower of the Ovens.
+\v 12 And next to him Shallum the son of Hallohesh, the ruler of half the district of Jerusalem, repaired, along with his daughters.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:son]]
+  * [[en:obe:other:ruler]]
+  * [[en:obe:other:jerusalem]]
+
+ 
+===== Translation Notes: =====
+
+    * **Malchijah...Harim, and Hasshub...Pahathmoab...Shallum...Hallohesh**  - These are all names of males (See: [[en:ta:vol1:translate:translate_names]])
+    * **Tower of the Ovens** - This wall section contained ovens for cooking and baking.
+    * **And next to him** - this refers to the person working on the next stretch of the wall.
+    * **ruler of half the district of Jerusalem** - The "ruler" was the chief administrator or leader.
+    * **along with his daughters** - Daughters, as well as sons, did the repair work.
+   
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:03|Nehemiah Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/03/08|<<]] | [[en/bible/notes/neh/03/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

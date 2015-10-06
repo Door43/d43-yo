@@ -1,0 +1,69 @@
+====== Hebrews 11:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 It was because Abraham trusted \add God\add* that he \add was ready to\add* kill his son Isaac as a sacrifice when \add God\add* tested him. This same man to whom \add God\add* promised \add to give him\add* \add a son\f + \ft Or: many descendants\add* \f* was going to sacrifice \add that same son\add*, the only son \add whom his own wife had borne!\add*
+\v 18 It was to him that God said, "It is \add only\add* from Isaac that I will consider your family to descend."
+\v 19 Abraham considered that \add to fulfill that promise\add*, God could make \add Isaac\add* live again \add even if\add* he had died \add after Abraham sacrificed him!\add* The result was that when Abraham did receive Isaac back \add after God told him not to harm Isaac\add*, it was as though he received him back even after he died.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Because Abraham trusted God, he was ready to kill his son Isaac as a sacrifice when God tested him. Abraham, to whom God promised to give a son, was going to sacrifice the very son whom he had given him, the only son whom his own wife had borne!
+\v 18 It was about this son that God had said, "It is only from Isaac that I will consider your family to descend."
+\v 19 Abraham considered that to fulfill that promise, God could make Isaac live again even if he died after Abraham had sacrificed him! The result was that when Abraham did receive Isaac back after God told him not to harm Isaac, it was as though he received him back even after he died.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 It was by faith that Abraham, after being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his only son,
+\v 18 about whom it was said, "From Isaac will your descendants be called."
+\v 19 Abraham considered that God was able to raise up Isaac from the dead. Figuratively speaking, he did receive him back.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:faith]]
+  * [[en:obe:other:abraham]]
+  * [[:En:obe:kt:test]]
+  * [[en:obe:other:isaac]]
+  * [[:En:obe:other:sacrifice]]
+  * [[en:obe:kt:promise]]
+  * [[en:obe:kt:son]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:kt:call]]
+  * [[en:obe:kt:death]]
+  * [[:yo:obe:kt:raise]]
+
+===== Translation Notes: =====
+
+  * **offered up...offering up** - as a gift or sacrifice to God
+  * **From Isaac will your descendants be called** "It is the the descendants of Isaac whom God will consider your descendants" (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+  * **he did receive him back** - "Abraham did receive Isaac back"
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:heb:11|Hebrews Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/heb/11/15|<<]] | [[en/bible/notes/heb/11/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

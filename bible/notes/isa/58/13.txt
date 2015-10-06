@@ -1,0 +1,73 @@
+====== Isaiah 58:13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Do not travel \f + \ft metonymy \f* long distances on Sabbath\f + \ft Or: rest \f* days,
+\q2 and on Sabbath days do not do only the things that you delight to do.
+\q1 Enjoy the Sabbath days, and consider them to be delightful.
+\q2 The Sabbath days are my holy days.
+\q2 Honor me, Yahweh, in everything that you do \add on the Sabbath days\add*.
+\q1 Do not talk about and do things only to please yourselves.
+\q2 If you do all the things that I have just now told you to do,
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Do not travel on the Sabbath days,
+\q2 and on Sabbath days do not do only the things that you delight to do.
+\q1 Enjoy the Sabbath days, and consider them to be delightful.
+\q2 The Sabbath days are my holy days.
+\q2 Honor me, Yahweh, in everything that you do on the Sabbath days.
+\q1 Do not talk about and do things to please yourselves.
+\q2 If you do all the things that I have just now told you to do,
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 13 If you turn back from the Sabbath day your feet from doing your own pleasure on my holy day
+\q1 and call the Sabbath a delight and call holy and honored the affairs of Yahweh,
+\q1 and honor it by leaving your own business, and not finding your own pleasures, and not speaking your own words—
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sabbath]]
+  * [[:yo:obe:kt:holy]]
+  * [[:yo:obe:other:honor]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:word]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **If you turn back from the Sabbath day your feet from doing your own pleasure on my holy day** - Here "feet" are used as a shorter form for "travel", since it is with ones feet that people travel long distances. Yahweh tells them not to travel far on the day of rest and to not only do the things that please them. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:58|Isaiah Chapter 58 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/58/12|<<]] | [[en/bible/notes/isa/58/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

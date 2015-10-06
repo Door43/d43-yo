@@ -1,0 +1,77 @@
+====== Isaiah 31:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 The soldiers of Egypt \add that you people of Judah are relying on\add* are humans, not God!
+\q2 And their horses are only horses; they are not powerful spirits!
+\q1 So when Yahweh raises his fist
+\q2 to strike\f + \ft Or: punish \f* the \add soldiers of Egypt whom you thought would help you\add*,
+\q2 he will also strike \add you who thought that you would be helped\add*,
+\q2 and you and they will stumble and fall down;
+\q2 all of you will die together.
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 The soldiers of Egypt that you people of Judah are relying on are humans, not God!
+\q2 And their horses are only horses; they are not powerful spirits!
+\q1 So when Yahweh raises his fist
+\q2 to strike the soldiers of Egypt whom you thought would help you,
+\q2 he will also strike you who thought that you would be helped,
+\q2 and you and they will stumble and fall down;
+\q2 all of you will die together.
+\b
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 3 Egypt is a man and not God, their horses flesh and not spirit. 
+\q1 When Yahweh reaches out with his
+hand, both the one who helps will stumble, and the one who is helped will fall; both will perish together.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:egypt]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:horse]]
+  * [[:yo:obe:kt:flesh]]
+  * [[:yo:obe:kt:spirit]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:stumble]]
+  * [[:yo:obe:kt:perish]]
+ 
+
+===== Translation Notes: =====
+
+  * **When Yahweh reaches out with his hand** - The term “hand” is often used in reference to God's power and action. AT: "When Yahweh uses his power against them."
+  * **both the one who helps will stumble, and the one who is helped will fall** - "these two things will happen: I will destroy Egypt, who helps you, and I will destroy you, whom Egypt helps"
+  * **the one who is helped** - AT: “the one who is seeking help” (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:31|Isaiah Chapter 31 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/31/01|<<]] | [[en/bible/notes/isa/31/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

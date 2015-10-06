@@ -1,0 +1,84 @@
+====== Isaiah 59:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add But these things are happening\add* because \add it is as though\add* our sins are piled high in the presence of God,
+\q2 and that they testify \f + \ft personification \f* against us.
+\q1 We cannot deny it;
+\q2 we know that we have done many wrong things.
+\q1
+\v 13 \add We know that\add* we have rebelled against Yahweh;
+\q2 we have turned away from him.
+\q1 We oppress people\f + \ft Or: treat people cruelly \f* by what we testify \add against them\add*;
+\q2 we do not allow them to get what they have a right to get.
+\q1 We \f + \ft synecdoche \f* think about the lies that we can tell,
+\q2 and then we tell them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 But these things are happening because it is as though our sins are piled high in the presence of God,
+\q2 and it is they that testify against us.
+\q1 We cannot deny it;
+\q2 we know that we have done many wrong things.
+\q1
+\v 13 We know that we have rebelled against Yahweh;
+\q2 we have turned away from him.
+\q1 We oppress people by what we testify against them;
+\q2 we do not allow them to get what they have a right to get.
+\q1 We  think about the lies that we can tell,
+\q2 and then we tell them.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 For our many transgressions are before you, and our sins testify against us; 
+\q1 for our transgressions are with us, and we know our sins.
+\q1
+\v 13 We have rebelled, denying Yahweh and turning away from following our God. 
+\q1 We have spoken extortion and turning aside, conceived complaining from the heart and words of lying.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:transgression]]
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:kt:testimony]]
+  * [[:yo:obe:other:rebel]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:word]]
+ 
+
+===== Translation Notes: =====
+
+  * **For our many transgressions are before you, and our sins testify against us;** - “In your sight our transgressions have increased greatly ,and our sins witness against us” (See: [[en:ta:vol2:translate:figs_personification]])
+  * **We have spoken extortion and turning aside, conceived complaining from the heart and words of lying**   – “ From our sinful hearts we have spoken words of oppression, rebellion, and falsehood."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:59|Isaiah Chapter 59 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/59/11|<<]] | [[en/bible/notes/isa/59/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

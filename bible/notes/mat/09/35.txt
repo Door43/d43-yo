@@ -1,0 +1,54 @@
+====== Matthew 09:35-36 ======
+
+===== TFT: =====
+
+<usfm>
+\v 35 Then \add we\add* went \add with\add* Jesus through many of \f + \ft hyperbole \f* the cities and towns \add in Galilee district. He was teaching in the synagogues\f + \ft Or: in the Jewish meeting places \f*\add*, and preaching the good message about how God rules \add over people's lives\add*. He also was healing the \add people who had\add* various diseases and illnesses.
+\v 36 When he saw the crowd of people, he pitied them because they were harassed and dejected. \add They were\add* like sheep that do not have a shepherd \f + \ft simile \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 35 Then Jesus and his disciples went through many of the cities and towns in the district of Galilee. He was teaching in the synagogues and preaching the good news about how God would soon show himself as king. He also was healing the people who had various diseases and illnesses.
+\v 36 When he saw the crowd of people, he pitied them because they were upset and worried. They were like sheep that do not have a shepherd.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 35 Jesus went about all the cities and the villages; he continued teaching in their synagogues, preaching the gospel of the
+kingdom, and healing all kinds of disease and all kinds of sickness.
+\v 36 When he saw the crowds, he had compassion for them, because they were worried and confused, because they were like sheep without a shepherd.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:teacher]]
+  * [[en:obe:other:synagogue]]
+  * [[en:obe:other:preach]]
+  * [[en:obe:kt:goodnews]]
+  * [[en:obe:other:kingdom]]
+  * [[en:obe:other:heal]]
+  * [[:yo:obe:kt:compassion]]
+  * [[en:obe:other:sheep]]
+  * [[en:obe:other:shepherd]]
+
+===== Translation Notes: =====
+
+This section summarizes the teaching, preaching and healing ministry of Jesus in the region of Galilee.
+
+  * **all the cities** - "many of the cities." (See: [[en:ta:vol2:translate:figs_hyperbole]])
+  * **cities...villages** - "large villages...small villages" or "large towns...small towns"
+  * **all kinds of disease and all kinds of sickness **  - "every disease and every sickness." The words "disease" and "sickness" are closely related but should be translated as two different words if possible. "Disease" is what causes a person to be sick. "Sickness" is the physical weakness or affliction that results from having a disease.
+  * **they were like sheep without a shepherd** - "the people did not have a leader" (See: [[en:ta:vol1:translate:figs_simile]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mat:09|Matthew Chapter 09 Comprehension Questions]]**
+**[[:yo:bible:notes:mat:09:32|<<]] | [[:yo:bible:notes:mat:09:37|>>]]**
+
+~~DISCUSSION~~{{tag>publish synagogue  heal sheep shepherd}}
+
+~~NOCACHE~~

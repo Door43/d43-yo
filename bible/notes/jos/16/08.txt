@@ -1,0 +1,54 @@
+====== Joshua 16:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 The \add northern\add* border extended from Tappuah west to Kanah Ravine, and ended at the \add Mediterranean\add* Sea. That was the land that was allotted to the tribe of Ephraim.
+\v 9 Many of those towns were really within the area allotted to the tribe of Manasseh.
+\m
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 The northern border extended from Tappuah west to the ravine of Kanah, and ended at the Mediterranean Sea. This was the land that was assigned to all the clans of the tribe of Ephraim.
+\v 9 Some of the cites and their dependant villages that were set apart for the people of Ephraim were actually within the assigned territory of the people of Manasseh.
+\m
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 From Tappuah the border went westward to the brook of Kanah and ended at the sea. This was the inheritance of the tribe of Ephraim, assigned to their clans,
+\v 9 together with the cities that were chosen for the tribe of Ephraim within the inheritance of the tribe of Manasseh—all the cities, as well as their villages.
+</usfm>
+
+
+===== Important Terms: =====
+
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **Tappuah, Kanah**  - names of places or locations (See: [[en:ta:vol1:translate:translate_names]])
+    * **westward**  - Indicates direction of the boundary line. AT: toward the west
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:16|Joshua Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/16/05|<<]] | [[en/bible/notes/jos/16/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,60 @@
+====== Acts 02:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 "\add Long ago King\add* David wrote \add what\add* the Messiah \add said\add*,
+\p I knew \add that\add* you, Lord \add God, would always\add* near me. You are right beside \f + \ft metonymy \f* me, so I will not be afraid of \add those who want to harm me\add*.
+\v 26 Because of that I \f + \ft synecdoche \f* joyfully praise \add you, O God\add*. And I am completely confident that \add you\f + \ft singular \f* will\add* \add cause my body\add* to become alive \add again\add*\f + \ft Or: \add raise me from the dead\add* \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 "Long ago King David wrote what the Messiah said,
+\p I knew that you, Lord God, would always hear me. You are right beside  me, so I will not be afraid of those who want to harm me.
+\v 26 Because of that my heart was glad and I rejoiced and I know that you will help me.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 For David says about him,
+\q   'I saw the Lord always before my face,
+\q For he is beside my right hand so that I should not be moved.
+\q
+\v 26 Therefore my heart was glad and my tongue rejoiced.
+\q Also, my flesh will dwell in confidence.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:david]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:other:tongue]]
+  * [[en:obe:kt:flesh]]
+ 
+
+===== Translation Notes: =====
+
+Peter continues his speech to the Jews that he began in [[:yo:bible:notes:act:01:15|1:16]].
+
+  * **I saw**  - David foresaw God working in his life before events unfolded
+  * **before my face**  - in my presence, with me
+  * **beside my right hand**  - the right hand was considered the strongest. Someone at the right hand was either the strongest servant, or strongest helper.
+  * **my heart was glad and my tongue rejoiced**  - outward expression was given of inward joy
+  * **my flesh shall dwell in hope**  - "I will hope in God as long as I live"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:02|Acts Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:act:02:22|<<]] | [[:yo:bible:notes:act:02:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish david  tongue }}
+
+~~NOCACHE~~

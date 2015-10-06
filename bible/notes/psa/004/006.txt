@@ -1,0 +1,79 @@
+====== Psalms 004:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 Some people ask, "Who will allow good things to happen to us?"
+\q2 \add But I say\add*, "Yahweh, continue to act kindly toward us.
+\q1
+\v 7 You have caused me to be very happy;
+\q2 I am happier than people who have harvested a great amount of grain and grapes.
+\q1
+\v 8 I can lie down \add at night\add* and sleep soundly
+\q2 because \add I know that\add* you, Yahweh, will keep me safe."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Some people ask, "Who will allow good things to happen to us?"
+\q2 But I say, "Yahweh, continue to act kindly toward us.
+\q1
+\v 7 You have caused me to be very happy;
+\q2 I am happier than people who have harvested a great amount of grain and grapes.
+\q1
+\v 8 I can lie down at night and sleep soundly
+\q2 because I know that it is only you, Yahweh, who will keep me safe."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Many say, "Who will show us anything good?"
+\q Yahweh, lift  up the light of your face on us.
+\q
+\v 7 You have given my heart more gladness
+\q  than others have when their grain and new wine abound.
+\q
+\v 8 In peace I will lie down and sleep,
+\q for you alone, Yahweh, make me safe and secure.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:light]]
+  * [[:yo:obe:kt:face]]
+  * [[:yo:obe:other:grain]]
+  * [[:yo:obe:other:wine]]
+  * [[:yo:obe:other:peace]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:004|Psalms Chapter 004 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/004/004|<<]] | [[en/bible/notes/psa/005/001|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

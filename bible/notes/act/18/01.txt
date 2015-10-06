@@ -1,0 +1,54 @@
+====== Acts 18:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 After that, Paul left Athens \add city\add* and went to Corinth \add city\add*.
+\v 2 There he met a Jew whose name was Aquila, who grew up in Pontus \add province\add*. Aquila and his wife Priscilla had recently come from \add Rome, in\add* Italy\add . They had previously left Rome\add* because Claudius, \add the Roman Emperor\add*, had ordered that all the Jews must leave Rome. Paul went to see Aquila and Priscilla.
+\v 3 Those two made tents \add to earn\add* \add money\f + \ft Or: a living\add* \f*. Paul also made tents, so he stayed with them and they all worked together.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 After that, Paul left the city of Athens and went to the city of Corinth.
+\v 2 There he met a Jew whose name was Aquila, who was from the region of Pontus. Aquila and his wife Priscilla had come a short time previously from the city of Rome, in Italy. They left Rome because Claudius, the Roman Emperor, had ordered that all the Jews must leave Rome.
+\v 3 Aquila and Priscilla made tents to earn money. Paul also made tents, so he stayed with them, and they worked together.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 18
+\p
+\v 1 After these things Paul left Athens and went to Corinth.
+\v 2 There he found a certain Jew named Aquila, a man of Pontus by race; he had recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome; and Paul came to them;
+\v 3 Paul lived and worked with  them because he was of the same trade. They were tentmakers.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:paul]]
+  * [[:yo:obe:other:corinth]]
+  * [[:yo:obe:other:jew]]
+  * [[:yo:obe:other:aquila]]
+  * [[:yo:obe:other:priscilla]]
+  * [[:yo:obe:other:rome]]
+
+===== Translation Notes: =====
+
+  * **After these things**  - "After these events took place in Athens"
+  * **There he found **  - Possible meanings are 1) "There Paul happened to find by chance" or 2) "There Paul found after seeking with intent."
+  * **Pontus by race**  - A province on the southern coast of the Black Sea.
+  * **had recently come**  - This is probably sometime in the past year.
+  * **Claudius had commanded**  - The current Roman emperor. (See: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+  * **commanded all the Jews**  - "ordered" or "instructed"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:18|Acts Chapter 18 Comprehension Questions]]**
+**[[:yo:bible:notes:act:17:32|<<]] | [[:yo:bible:notes:act:18:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

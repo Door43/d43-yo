@@ -1,0 +1,65 @@
+====== Joshua 04:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 After all the people of the Israelite nation had finished crossing the Jordan \add River\add*, Yahweh said to Joshua,
+\v 2 "When you choose the twelve men, one from each tribe, whom I mentioned previously, tell them to pick up \add large\add* stones from the middle of the Jordan riverbed, where the priests are \add still\add* standing.
+\v 3 Tell them to carry the stones with you and put them down at the place where you will stay tonight."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 After the people of Israel all crossed over the Jordan River, Yahweh said to Joshua,
+\v 2 "Choose twelve men, one from each tribe, and tell them to pick up twelve large stones from the middle of the Jordan, where the priests are standing in the dry riverbed.
+\v 3 Carry those stones and put them down at the place you will stay tonight."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 4
+\p
+\v 1 When all the people crossed over the Jordan, Yahweh said to Joshua,
+\v 2 "Take for yourself among the people twelve men, one man from each tribe.
+\v 3 and command them saying, "Take up twelve stones from the middle of the Jordan where the priest are standing on the dry ground, and bring them over with you and lay them down in the place where you will spend the night tonight."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:peoplegroup]]
+  * [[En:obe:kt:yahweh]]
+  * [[En:obe:other:joshua]]
+  * [[En:obe:other:tribe]]
+  * [[en:obe:other:command]]
+  * [[en:obe:kt:priest]] 
+
+===== Translation Notes: =====
+  * **the Jordan** - A short name for the Jordan River. (See: [[En:obe:other:jordanriver]])
+  * **twelve stones** - Rocks that are smoothed by constant wear. (See: [[en:ta:vol2:translate:translate_numbers]])
+  * **the middle** - AT "the center"
+  * **cross over**  - "cross over" means to go to the opposite bank of the river. AT: "travel from this side to the opposite side" (See: [[:yo:ta:vol1:translate:figs_idiom|Idiom]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jos:04|Joshua Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/03/17|<<]] | [[en/bible/notes/jos/04/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

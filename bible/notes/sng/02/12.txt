@@ -1,0 +1,86 @@
+====== Song of Solomon 02:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 flowers are blooming throughout the country\f + \ft Or: land \f*.
+\q2 It is now time to sing;
+\q1 we hear the doves cooing.
+\q1
+\v 13 There are young\f + \ft Or: new \f* figs on the fig trees,
+\q2 and there are blossoms on the grapevines
+\q1 and their fragrance fills the air.
+\q2 You whom I love, get up;
+\q2 my beautiful one, come with me!
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 The flowers are blooming throughout the country.
+\q2 It is now time to sing;
+\q1 we hear the doves cooing.
+\q1
+\v 13 There are young figs on the fig trees,
+\q2 and there are blossoms on the grapevines
+\q1 and their fragrance fills the air.
+\q2 You whom I love, get up;
+\q2 my beautiful one, come with me!
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 12 The flowers have appeared in the land;
+\q the time for pruning and the singing of birds has come,
+\q and the sound of the doves is heard in our land.
+\q
+\v 13 The fig tree ripens her green figs,
+\q and the vines are in blossom;
+\q they give off their fragrance.
+\q Arise, my love, my beautiful one, and come away.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:sng:02|Song of Solomon Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/sng/02/10|<<]] | [[en/bible/notes/sng/02/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

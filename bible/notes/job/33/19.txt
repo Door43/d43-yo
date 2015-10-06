@@ -1,0 +1,70 @@
+====== Job 33:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 God also \add sometimes\add* corrects us by forcing us to lie on our beds suffering much pain
+\q2 and with fever\f + \ft Or: aching \f* in our bones.
+\q1
+\v 20 The result is that we do not desire any food,
+\q2 not even very special food.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 God also corrects us by forcing us to lie on our beds, suffering much pain
+\q2 and and fever in our bones.
+\q1
+\v 20 The result is that we do not desire any food,
+\q2 not even very special food.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 Man is punished also with pain on his bed,
+\q with constant agony in his bones,
+\q
+\v 20 so that his life abhors food,
+\q and his soul abhors delicacies.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:soul]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:33|Job Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/33/16|<<]] | [[en/bible/notes/job/33/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

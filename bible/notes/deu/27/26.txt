@@ -1,0 +1,58 @@
+====== Deuteronomy 27:26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 'Yahweh will curse anyone who by disobeying these laws refuses to declare that those laws \add are good\add*.'
+\q2 And all the people must reply, 'Amen\f + \ft Or: We want that to happen \f*.'~"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 'Yahweh will curse anyone who by disobeying these laws refuses to declare that those laws are good.'
+\q2 And all the people must reply, 'Amen.'"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 ‘May the man be cursed, he who does not confirm the words of this Law, that he will obey them.’ And all the people must say, ‘Amen.’
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:kt:lawofmoses]]
+  * [[:yo:obe:other:obey]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:27|Deuteronomy Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/27/24|<<]] | [[en/bible/notes/deu/28/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

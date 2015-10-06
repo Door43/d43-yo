@@ -1,0 +1,68 @@
+====== 1 Kings 14:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 At that time, Jeroboam's son Abijah became very sick.
+\v 2 Jeroboam said to his wife, "Disguise yourself, in order that no one will recognize that you are my wife. Then go to Shiloh \add city\add*, where the prophet Ahijah \add lives\add*. He is the one who predicted\f + \ft Or: prophesied \f* that I would become the king of Israel.
+\v 3 Take with you ten \add loaves of\add* bread and some small flat cakes, and a jar of honey, \add and give them\add* to him. \add Tell him about\add* our son, and he will tell you what will happen to him."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 At that time, Jeroboam's son Abijah became very sick.
+\v 2 Jeroboam said to his wife, "Disguise yourself in order that no one will recognize that you are my wife. Then go to the city of Shiloh, where the prophet Ahijah lives. He is the one who predicted that I would become the king of Israel.
+\v 3 Take with you ten loaves of bread and some small flat cakes, and a jar of honey, and give them to him. Tell him about our son, and he will tell you what will happen to him."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 14
+\p
+\v 1 At that time Abijah the son of Jeroboam fell sick.
+\v 2 Jeroboam said to his wife, "Please arise and disguise yourself, so you will not be recognized as my wife, and go to Shiloh, because Ahijah the prophet is there; he is the one who  who spoke about me, saying that I would become king over these people.
+\v 3 Take with you ten loaves, some cakes, and a jar of honey, and go to Ahijah. He will tell you what will happen to the child."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:abijah]]
+  * [[:yo:obe:other:jeroboam]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:other:shiloh]]
+  * [[:yo:obe:kt:prophet]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:other:honey]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ki:14|1 Kings Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ki/13/33|<<]] | [[en/bible/notes/1ki/14/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

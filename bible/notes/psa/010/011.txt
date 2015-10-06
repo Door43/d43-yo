@@ -1,0 +1,77 @@
+====== Psalms 010:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 The wicked people say, "God will not pay any attention \add to what we do\add*.
+\q2 His eyes are covered, with the result that he never sees anything."
+\b
+\q1
+\v 12 Yahweh God, arise \add and help us\add*!
+\q2 Punish [IDI] those wicked people!
+\q2 And do not forget those who are suffering!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 The wicked people say, "God will not pay any attention to what we do.
+\q2 His eyes are covered, and he cannot see anything."
+\b
+\q1
+\v 12 Yahweh, arise! God, help us with your power!
+\q2 And do not forget those who are suffering!
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 He says in his heart, "God has forgotten;
+\q he covers his face; he will not bother to look."
+\q
+\v 12 Arise, Yahwah; God, lift up your hand in judgment
+\q  do not forget the oppressed.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:heart]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:face]]
+  * [[:yo:obe:kt:raise]]
+  * [[:yo:obe:kt:judge]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:010|Psalms Chapter 010 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/010/008|<<]] | [[en/bible/notes/psa/010/013|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

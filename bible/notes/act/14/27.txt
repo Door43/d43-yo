@@ -1,0 +1,49 @@
+====== Acts 14:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 When they arrived in Antioch, they called the believers together. Then Paul and Barnabas told them all that God had helped them to do. \add Specifically, they told them how God\add* had enabled \f + \ft idiom \f* \add many\add* non-Jewish people to believe \add in Jesus\add*.
+\v 28 Then Paul and Barnabas stayed in Antioch with the \add other\add* believers for several months.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 When they arrived in the city of Antioch, they called the believers together. Then Paul and Barnabas told them all that God had helped them to do. Specifically, they told them how God had enabled many non-Jewish people to believe in Jesus.
+\v 28 Then Paul and Barnabas stayed in Antioch with the other believers for a long time.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 27 When they arrived in Antioch and gathered the assembly together, they reported all the things that God had done with them, and how he had opened a door of faith for the Gentiles. 
+\v 28 They stayed for a long time with the disciples.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:faith]]
+  * [[:yo:obe:other:gentile]]
+  * [[:yo:obe:kt:disciple]]
+ 
+
+===== Translation Notes: =====
+
+  * **when they arrived** - "When Paul and Barnabas arrived"
+  * **God had done with them** - "God had done through Paul and Barnabas"
+  * **How he had** - "How God had"
+  * **he had opened a door of faith for the gentiles** - This metaphor can be translated as “God had made a way for the gentiles to believe,” or “God had made it possible for the gentiles to believe” or “God had given the Gentiles the opportunity to believe.” Just as a person cannot go through a closed door unless someone opens it, the gentiles could not have faith in God unless God made it possible. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **They stayed** - "Paul and Barnabas stayed"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:act:14|Acts Chapter 14 Comprehension Questions]]**
+**[[:yo:bible:notes:act:14:23|<<]] | [[:yo:bible:notes:act:15:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish faith }}
+
+~~NOCACHE~~

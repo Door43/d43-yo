@@ -1,0 +1,63 @@
+====== Ezekiel 11:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then Yahweh gave me this message:
+\v 15 "You human, your people who are still in Jerusalem are talking about you and your own relatives and all the other people were ◄exiled\f + \ft Or: forced to go to other countries \f*, saying, 'They are \add in Babylonia\add*, far from Yahweh. They have left their property \add here in Israel\add*, so their property now belongs to us!'~"
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then Yahweh gave me this message,
+\v 15 "Son of man, the people who are still in Jerusalem are talking about your relatives, your clan, and all the rest of the Israelites who were exiled and saying, 'They are in Babylonia, far from Yahweh. They have left their property here in Israel, so their property now belongs to us!'"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 The word of Yahweh came to me and said, 
+\v 15 "Son of man, your brothers! Your brothers! The men of your clan and all the house of Israel! All of them of whom it is said by those living in Jerusalem, 'They are far away from Yahweh! This land was given to us as our possession!'
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:wordofgod]]
+  * [[en:obe:kt:sonofman]]
+  * [[:yo:obe:kt:brother]]
+  * [[en:obe:other:clan]]
+  * [[en:obe:other:house]]
+  * [[en:obe:other:israel]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **The Word of Yahweh came to me and said** - See how you translated this in [[:yo:bible:notes:ezk:03:16|3:16]].
+  * **your brothers! Your brothers!**  - This is stated twice for emphasis.
+  * **the house of Israel** - See how you translated this in [[:yo:bible:notes:ezk:03:01|3:1]].
+  * **All of them of whom it is said by those living in Jerusalem** - "All of them about whom the people living in Jerusalem are saying." (See: [[:yo:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:11|Ezekiel Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/ezk/11/13|<<]] | [[en/bible/notes/ezk/11/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

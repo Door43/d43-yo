@@ -1,0 +1,68 @@
+====== Deuteronomy 33:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 The tribe of Levi will teach the Israelite people \f + \ft doublet \f* your rules and regulations,
+\q2 and they are the ones who will burn incense and who will completely burn on the altar the offerings \add that the people bring\add*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 The tribe of Levi will teach the Israelite people your decrees and your laws,
+\q and they are the ones who will burn incense and who will completely burn on the altar the offerings that the people bring.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 10 He teaches Jacob your decrees,
+\q Israel your law.
+\q He will put incense before you,
+\q and whole burnt offerings on your altar.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jacob]]
+  * [[:yo:obe:other:decree]]
+  * [[:yo:obe:kt:lawofmoses]]
+  * [[:yo:obe:other:incense]]
+  * [[:yo:obe:other:burntoffering]]
+  * [[:yo:obe:other:altar]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/09|<<]] | [[en/bible/notes/deu/33/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

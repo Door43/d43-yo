@@ -1,0 +1,75 @@
+====== Isaiah 40:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 You \add people of\add* Jerusalem, you have good news to tell to people,
+\q2 so, shout it from the top of a high mountain!
+\q1 Shout it loudly, and do not be afraid!
+\q1 Tell the people in the towns of Judah,
+\q2 "Your God is coming here!"
+\q1
+\v 10 Yahweh your God will be coming with power;
+\q2 he will rule powerfully \f + \ft metonymy \f*.
+\q1 And when he comes, he will bring with him the people whom he has freed \f + \ft metaphor \f* \add from being slaves in Babylonia\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 You people of Jerusalem, you have good news to tell to people,
+\q2 so shout it from the top of a high mountain!
+\q1 Shout it loudly and do not be afraid!
+\q1 Tell the people in the cities of Judah,
+\q2 "Your God is coming here!"
+\q1
+\v 10 Yahweh your God will be coming with power,
+\q2 he will rule powerfully.
+\q1 When he comes, he will bring with him the people whom he has freed from being slaves in Babylonia.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 9 Go up on a high mountain, Zion, bearer of good news; 
+\q1 lift up your voice with strength; proclaim good news to Jerusalem. Cry out loudly; do not be afraid. 
+\q1 Say to the cities of Judah, "Here is your God!"
+\q1 
+\v 10 Look, the Lord Yahweh comes as a victorious warrior, and his strong arm rules for him.
+\q1 See, his reward is with him, and his recompense goes before him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:kt:goodnews]]
+  * [[:yo:obe:other:proclaim]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:other:judah]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:kt:lordyahweh]]
+  * [[:yo:obe:kt:reward]]
+
+===== Translation Notes: =====
+
+  * **Go up on a high mountain** - "Get into a position where everyone around can hear" (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  * **Zion** - AT: "you people of Zion" (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+  * **lift up your voice with strength** - "shout loudly"
+  * **and his strong arm rules for him** - AT: "and he rules with power" (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+  * **his reward is with him, and his recompense goes before him** - Both of these clauses mean the same thing. AT: "he is bringing his reward with him" (See: [[:yo:ta:vol2:translate:figs_parallelism]])
+  * **his recompense goes before him** - "the payment for his efforts goes ahead of him."
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:isa:40|Isaiah Chapter 40 Comprehension Questions]]**
+**[[:yo:bible:notes:isa:40:06|<<]] | [[:yo:bible:notes:isa:40:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

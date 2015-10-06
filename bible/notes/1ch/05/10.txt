@@ -1,0 +1,63 @@
+====== 1 Chronicles 05:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 When Saul was king \add of Israel\add*, Bela's clan fought against the descendants of Hagar and defeated them. After that, Bela's clan lived in the tents that the descendants of Hagar had lived in previously, in all the area east of the Gilead \add region\add*.
+
+\li1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 When Saul was king of Israel, Bela's clan fought against the descendants of Hagar and defeated them. After that, Bela's clan lived in the tents that the descendants of Hagar had lived in previously, in all the area east of the region of Gilead.
+
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 In the days of Saul, they attacked the Hagrites and defeated them. They lived in their tents
+throughout all the land east of Gilead.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ch:05|1 Chronicles Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/05/07|<<]] | [[en/bible/notes/1ch/05/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,70 @@
+====== Deuteronomy 32:22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 I will be very angry, and I will destroy them
+\q2 like a fire that will burn on the earth and all the way down to the place where dead people are \f + \ft metaphor \f*;
+\q1 that fire will destroy the earth and everything that grows on it,
+\q2 and it will even burn what is down under the mountains.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 I will be very angry, and I will destroy them
+\q like a fire that will burn all the way down to the place where dead people are;
+\q that fire will destroy the earth and everything that grows on it,
+\q and it will even burn what is down under the mountains.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 22 For a fire is kindled by my anger
+\q Burns to the lowest Sheol,
+\q Devours the earth and its harvest,
+\q And sets on fire the foundations of the mountains.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:fire]]
+  * [[:yo:obe:other:hades]]
+  * [[:yo:obe:other:devour]]
+  * [[:yo:obe:kt:harvest]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/32/21|<<]] | [[en/bible/notes/deu/32/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

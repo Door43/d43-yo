@@ -1,0 +1,51 @@
+====== Genesis 24:49 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 49 Now, if you act kindly and faithfully toward my master, tell me that you will do what I am asking. If you will not do that, tell me that also, so I may know what to do \f + \ft metonymy \f*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 49 Now, if you act faithfully toward my master as part of his extended family, tell me that you will do what I am asking. If you will not do that, tell me that also, so I may know what to do."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 49 Now therefore, if you are prepared  to treat my master with family faithfulness and trustworthiness, tell me. But if not, tell me, so that I may turn to the right hand, or to the left."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:faithful]]
+
+===== Translation Notes: =====
+
+Abraham's servant continues speaking to Rebekah's family.
+
+  * **Now therefore** - "Now" (UDB).
+  * ** if you are prepared to treat my master with family faithfulness and trustworthiness, tell me.** - How they could show their faithfulness and trustworthiness can be stated explicitly. Alternate translation: "tell me if you will be faithful and trustworthy to my master by giving Rebekah to be his son's wife." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **you** - The word "you" refers to Laban and Bethuel. (See: [[en:ta:vol1:translate:figs_you|Forms of 'You']])
+  * **family faithfulness** - This is faithfulness to family members.
+  * **so that I may turn to the right hand, or to the left**  - Possible meanings are 1) "so that I will know what do" or 2) "so that I may continue on my journey." (See: [[en:ta:vol1:translate:figs_idiom]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:24|Genesis Chapter 24 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/24/47|<<]] | [[en/bible/notes/gen/24/50|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish faithful}}
+
+~~NOCACHE~~

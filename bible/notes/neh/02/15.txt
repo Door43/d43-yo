@@ -1,0 +1,55 @@
+====== Nehemiah 02:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 So we turned back and went along the \add Kidron\add* Valley. We inspected the wall there before we turned back\f + \ft Or: around \f* and entered the city again at the Valley Gate.
+\v 16 The \add city\add* officials did not know where I had gone or what I was doing, because I had not told anyone about what I planned to do. I had not said anything about it to the Jewish leaders or the officials or the priests or any of the others who would be helping me in the work \add that I wanted to do\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 So we turned back and went along the Kidron brook and we inspected the wall there before we turned back and entered the city again at the Valley Gate.
+\v 16 The city officials did not know where I had gone, or what I had done. I had not said anything about it to the Jewish leaders or the officials or the priests or any of the others who would do the repair work. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 So we went up that night by the brook and inspected the wall, and I turned back and entered by the Valley Gate, and so returned.
+\v 16 The rulers did not know where I went or what I did, and I had not yet informed the Jews, nor the priests, nor the nobles, nor the rulers, nor the rest who did the work.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:gate]]
+  * [[:yo:obe:other:ruler]]
+  * [[:yo:obe:other:jew]]
+  * [[:yo:obe:kt:priest]]
+  * [[:En:obe:other:noble]]
+  * [[:yo:obe:kt:works]]
+ 
+===== Translation Notes: =====
+
+  * **So we went up** - The "we" is actually "I" in the original Hebrew text. AT: "So I went up" understanding that the other men with Nehemiah also followed him.
+  * **The rulers did not know** - The rulers were the chief administrators or leaders.
+  * **the rest who did the work** - AT: "the others who would later do the work of rebuilding the walls"
+ 
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:neh:02|Nehemiah Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:neh:02:13|<<]] | [[:yo:bible:notes:neh:02:17|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

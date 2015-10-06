@@ -1,0 +1,60 @@
+====== Proverbs 03:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 My son, when Yahweh disciplines\f + \ft Or: punishes \f* you, do not despise it,
+\q2 and if he rebukes you, do not resent it.
+\q1
+\v 12 \add I say that\add* because it is the people whom Yahweh loves that he corrects\f + \ft Or: reproves \f*,
+\q2 just like parents correct\f + \ft Or: reprove \f* their sons whom they love.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 My child, do not hate it when Yahweh corrects you,
+\q2 and when he rebukes you, do not resent it,
+\q1
+\v 12 for Yahweh only corrects those he loves,
+\q2 just like parents correct their children whom they love.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 My child, do not despise Yahweh's discipline
+\q and do not hate his rebuke,
+\q
+\v 12 for Yahweh disciplines those he loves,
+\q as a father deals with a child who pleases him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:yahweh]]
+  * [[:yo:obe:kt:discipline]]
+  * [[:yo:obe:other:rebuke]]
+  * [[:yo:obe:kt:love|love]]
+  * [[:yo:obe:kt:wise]]
+  * [[en:obe:other:silver]]
+  * [[en:obe:other:gold]]
+
+===== Translation Notes: =====
+
+The writer writes as a father teaching his child.
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:pro:03|Proverbs Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:pro:03:09|<<]] | [[:yo:bible:notes:pro:03:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,47 @@
+====== John 16:25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 Although I have been speaking these things using figurative language, there will soon be a time when I will no longer use that kind of language. Instead, I will tell you plainly about my Father\f + \ft Or: what my Father \add wants\add* \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 I have been speaking these things using language of parables and riddles, but there will soon be a time when I will no longer use that kind of language. Instead, I will tell you all about my Father in language that you can clearly understand.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 25 I have spoken these things to you in obscure language, but the hour is coming when I will no more speak to you in obscure language but will instead tell you plainly about the Father.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe;kt:hour]]
+  * [[:yo:obe:kt:godthefather]]
+ 
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:16|John Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/16/22|<<]] | [[en/bible/notes/jhn/16/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

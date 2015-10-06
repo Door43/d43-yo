@@ -1,0 +1,78 @@
+====== Job 33:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 He will sing as he tells everyone,
+\q1 'I sinned, and I did things that were not right,
+\q2 but God did not punish me in the way that I deserved.
+\q1
+\v 28 He has saved me from dying and going to the place where dead people are,
+\q2 and I will continue to enjoy being alive.'
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 He will sing as he says to everyone,
+\q1 'I sinned, and I did things that were not right,
+\q2 but God did not punish me in the way that I deserved.
+\q1
+\v 28 He has saved me from dying and going to the place where dead people are,
+\q2 and I will continue to enjoy being alive.'
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 27 Then that person will sing in front of other people and say,
+\q ‘I sinned and perverted that which was right,
+\q but my sin was not punished.
+\q
+\v 28 God has rescued my being from going down into the pit;
+\q my life will continue to see light.'
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:sin]]
+  * [[:yo:obe:other:punish]]
+  * [[:yo:obe:kt:light]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:33|Job Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/33/25|<<]] | [[en/bible/notes/job/33/29|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

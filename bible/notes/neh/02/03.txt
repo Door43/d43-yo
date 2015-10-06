@@ -1,0 +1,41 @@
+====== Nehemiah 02:3 ======
+
+===== TFT: =====
+
+<usfm> \v 3 I replied, "Your majesty, I hope you will live a very long time! But how can I prevent myself from being sad, because the city where my ancestors are buried \add has been destroyed\add* and is in ruins?\f + \ft Or: I cannot keep myself from looking sad, because the city where my ancestors are buried \add has been destroyed\add* and is in ruins. \f* \f + \ft rhetorical question \f* Even the city gates have been completely burned." \p </usfm>
+
+===== UDB: =====
+
+<usfm> \v 3 I replied, "O King, may you rule for many, many years! I am sad for a reason, because the city in which my ancestors are buried has been turned to rubble, and all the gates aound the city have been burned to ashes."
+
+\p </usfm>
+
+===== ULB: =====
+
+<usfm> \v 3 I said to the king, "May the king live forever! Why should not my face be sad, when the city, the place of my fathers’ tombs, lies in ruins? The gates there have been destroyed by fire. </usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:king|king]]
+  * [[:yo:obe:kt:life|life, live, living, alive]]
+  * [[:yo:obe:kt:forever|forever]]
+  * [[:yo:obe:kt:face|face]]
+  * [[:yo:obe:other:father|father, forefather]]
+  * [[:yo:obe:other:tomb|tomb, grave, burial place]]
+  * [[:yo:obe:other:ruin|ruin, ruins]]
+  * [[:yo:obe:kt:gate|gate, gate bar]]
+  * [[:yo:obe:other:fire|fire]]
+
+===== Translation Notes: =====
+
+  * **May the king live forever**  - Nehemiah is showing honor to the king. AT: "Long live the king!" or "May the king have long life!"
+  * **the place of my father's tombs**  - AT: "the place of my ancestors"
+  * **lies in ruins?**  - AT: "is destroyed?"
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:neh:02|Nehemiah Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:neh:02:01|<<]] | [[:yo:bible:notes:neh:02:04|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

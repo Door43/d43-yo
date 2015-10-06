@@ -1,0 +1,77 @@
+====== Isaiah 62:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 You people of Jerusalem, I have placed watchmen on your walls;
+\q2 they will \f + \ft litotes \f* earnestly pray to Yahweh day and night.
+\q1 You watchmen, you must not stop \add praying\add*
+\q2 and reminding Yahweh \add about what he has promised to do\add*.
+\q1
+\v 7 And tell Yahweh that he should not rest
+\q2 until he causes Jerusalem to be \add a city that is\add* famous throughout the world.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 You people of Jerusalem, I have placed watchmen on your walls;
+\q2 they will earnestly pray to Yahweh day and night.
+\q1 You watchmen, you must not stop praying
+\q2 and reminding Yahweh about what he has promised to do.
+\q1
+\v 7 And tell Yahweh that he should not rest
+\q2 until he causes Jerusalem to be a city that is famous and admired throughout the world.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 6 I have put watchmen on your walls, Jerusalem; 
+\q1 they are not silent day or night. 
+\q1 You who keep reminding Yahweh, do not pause.
+\q1
+\v 7 Do not allow him to rest until he reestablishes
+\q1 Jerusalem and makes it a praise on earth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:kt:rest]]
+  * [[:yo:obe:other:praise]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **they are not silent day or night** - By using this negative statement, Yahweh is expressing that the opposite is actually true. The Watchmen will pray earnestly to Yahweh day and night. (See: [[en:ta:vol2:translate:figs_litotes]])
+    * **Do not allow him to rest until he reestablishes Jerusalem** - Here "him" refers to Yahweh.
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:62|Isaiah Chapter 62 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/62/05|<<]] | [[en/bible/notes/isa/62/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

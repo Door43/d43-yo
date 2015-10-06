@@ -1,0 +1,60 @@
+====== 1 John 01:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add I, John, am writing to you about\add* the one who existed before \add there was anything else!\add* He is the one whom we \add apostles\add* listened to \add as he taught us!\add* We saw him! We ourselves looked at him and touched him! \add He is the one who taught us\add* the message that \add enables people to have eternal\add* life \f + \ft Or: live \add spiritually\add* \f*.
+\v 2 Because he came here \add to the earth\add* and we have seen him, we proclaim to you clearly that the one whom we have seen is the \add one who\add* has always lived. He was \add previously\add* with his Father in heaven, but he came to live among us.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 I, John, am writing to you about the one who existed before there was anything else! He is the one whom we apostles listened to as he taught us! We saw him! We ourselves looked at him and touched him! He is the one who taught us the message about eternal life.
+\v 2 (Because he came here to the earth and we have seen him, we proclaim to you clearly that the one whom we have seen is the one who has always lived. He was previously with his Father in heaven, but he came to live among us.)
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have contemplated, and our hands handled, concerning the Word of life
+\v 2 (and the life was manifested, and we have seen, and bear witness, and declare to you the eternal life, which was with the Father, and was manifested to us);
+</usfm>
+
+===== Important Terms: =====
+
+
+  * [[:yo:obe:kt:word]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:kt:witness]]
+  * [[:yo:obe:kt:eternity]]
+  * [[:yo:obe:kt:godthefather]]
+
+===== Translation Notes: =====
+
+The apostle John wrote this to Christians.
+
+  * **That which was from the beginning**  - The phrase "That which was from the beginning" refers to Jesus, who existed before everything was made. You could translate this as "We are writing to you about the one who existed before the creation of all things."
+  * **the beginning**  - "the beginning of all things" or "the creation of the world"
+  * **which we have heard**  - The phrase "which we have heard" refers to what Jesus taught them. It can be translated as "We heard him teach."
+  * **we**  ​- In verses 1 and 2, the word "we" refers to John and those who knew Jesus when he was on this earth, but it does not include the people John was writing to. (See: [[en:ta:vol2:translate:figs_exclusive|Exclusive]])
+  * **which we have seen with our eyes, which we have contemplated**  - "We ourselves have seen him."
+  * **and our hands handled**  - "we have touched him with our hands"
+  * **the Word of life**  - This refers to Jesus. "He is the one who causes people to live forever."
+  * **the life was manifested**  - This refers to Jesus' coming to earth. It can be translated as "God sent him to the earth" (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **and we have seen**  - "and we saw him"
+  * **and bear witness**  - "and are telling you about him"
+  * **the eternal life**  - This phrase also refers to Jesus, who causes us to live forever. It can be translated as "that he causes us to live forever."
+  * **which was with the Father**  - "He was with God the Father"
+  * **and was manifested to us**  - "but he came to live among us" (UDB)
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1jn:01|1 John Chapter 01 Comprehension Questions]]**
+**| [[:yo:bible:notes:1jn:01:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish  eternallife}}
+
+~~NOCACHE~~

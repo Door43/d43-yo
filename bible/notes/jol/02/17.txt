@@ -1,0 +1,67 @@
+====== Joel 02:17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 Tell the priests who serve Yahweh to cry between the altar and the entrance to the temple
+\q2 and to pray this:
+\q1 "Yahweh, rescue\f + \ft Or: save \f* us your people;
+\q2 do not allow people from other nations to despise us;
+\q1 do not allow them to ridicule us and say,
+\q2 'Why has \f + \ft rhetorical question \f* their God \add abandoned them\add*?'~"
+
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Tell the priests who serve Yahweh to cry between the altar and the entrance to the temple
+\q2 and to pray this:
+\q1 "Yahweh, rescue us, your people;
+\q2 do not allow people from other nations to despise us;
+\q1 do not allow them to ridicule us and say,
+\q2 'Why has  their God abandoned them?'~"
+
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 Let the priests, the servants of Yahweh,
+\q weep between the porch and the altar.
+\q Let them say, "Have pity on your people, Yahweh,
+\q and do not bring your inheritance to shame,
+\q so that the nations may rule over them.
+\q Why should they say among the nations, 
+\q where is their God?'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:priest]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:other:altar]]
+  * [[:yo:obe:other:peoplegroup]]
+  * [[:yo:obe:kt:inherit]]
+  * [[en:obe:other:shame]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:kt:god]]
+===== Translation Notes: =====
+
+  * **your inheritance**  - the people of Israel, who are God's special people (See: [[:yo:ta:vol1:translate:figs_metaphor]])
+  * **Why should they say among the nations, where is their God?**  - AT: "Other nations should not say the God of Israel has abandoned his people." (See: [[en:ta:vol1:translate:figs_rquestion]]).
+
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:jol:02|Joel Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:jol:02:15|<<]] | [[:yo:bible:notes:jol:02:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

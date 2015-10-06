@@ -1,0 +1,58 @@
+====== Nehemiah 03:13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Hanun and people from Zanoah \add city\add* repaired the Valley Gate. They put the gates in their places, and also put in the bolts and bars \add for locking the gate\add*. They repaired the wall for 1,500 ft.\f + \ft Or: 500 meters \f*, as far as the Dung Gate.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Hanun and people from the city of Zanoah repaired the Valley Gate. They put the gates in their places, and also put in the bolts and bars for locking the gate. They repaired the wall for 450 meters, as far as the Dung Gate.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 Hanun and the inhabitants of Zanoah repaired the Valley Gate. They built it, set its doors, its  bolts and its bars. They repaired a thousand cubits, as far as the Dung Gate.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:gate]]
+  * [[en:obe:other:biblicaldistance]]
+  * [[:yo:obe:other:dung]]
+ 
+===== Translation Notes: =====
+
+    * **Hanun** - This is the name of a male. (See: [[en:ta:vol1:translate:translate_names]])
+    * **Zanoah** - This is the name of a place. (See: [[en:ta:vol1:translate:translate_names]])
+    * **Valley Gate** - the gate that leads to the valley
+    * **set its...bolts** - Bolts are sliding bars used to lock doors and windows.
+    * **They repaired a thousand cubits** - AT: "They repaired another thousand cubits of the wall beyond the Valley Gate” (See: [[:yo:obe:other:biblicaldistance]])
+    * **cubit** - a unit of measure roughly the length from the elbow to the tip of the fingers
+   
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:03|Nehemiah Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/03/11|<<]] | [[en/bible/notes/neh/03/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

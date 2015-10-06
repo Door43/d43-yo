@@ -1,0 +1,87 @@
+====== Jeremiah 06:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 You people in Jerusalem who are from the tribe of Benjamin,
+\q2 flee from this city!
+\q1 Blow the trumpets in Tekoa \add city south of Jerusalem\add*!
+\q1 Send up a \add smoke\add* signal in Beth-Haccherem \add town\add*
+\q2 \add to warn the people of the coming danger\add*!
+\q1 A powerful army will come upon you from the north,
+\q2 and they will cause great destruction.
+\q1
+\v 2 \add Jerusalem is like\add* a beautiful pasture \add full of sheep\add*,
+\q2 but it will soon be destroyed.
+\q1
+\v 3 \add Enemy kings, not\add* shepherds \f + \ft metaphor \f*, will come \add with their armies\add* and set up their tents around the city,
+\q2 and \add each king will choose a part of the city for his soldiers to destroy like\add* \f + \ft metaphor \f* shepherds divide their pastures for their flocks of sheep.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 You people in Jerusalem who are from the tribe of Benjamin, flee from this city! Blow the trumpets in the city of Tekoa south of Jerusalem!
+\q Send up a smoke signal in the city of Beth Haccherem to warn the people of the coming danger! A powerful army will come upon you from the north, and they will cause great destruction.
+\q
+\v 2 Jerusalem is like a beautiful pasture full of sheep, but it will soon be destroyed.
+\q
+\v 3 Enemy kings, the shepherds of foreign people, will come with their armies and set up their tents around the city,
+\q And each king will choose a part of the city for his soldiers to destroy like shepherds divide their pastures for their flocks of sheep.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 6
+\p
+\v 1 “Find safety, people of Benjamin, by leaving Jerusalem Blow a trumpet in Tekoa.
+\q Raise up over Beth Hakerem a signal, since wickedness is appearing from the north; a great curshing is coming.
+\q
+\v 2 I will destroy the daughter of Zion, the beautiful and delicate one.
+\q
+\v 3 The shepherds and their herds will go to them;
+\q they will drive tents over her all around; each man will shepherd with his own hand.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jer:06|Jeremiah Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jer/05/30|<<]] | [[en/bible/notes/jer/06/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

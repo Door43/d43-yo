@@ -1,0 +1,59 @@
+====== Deuteronomy 01:32-33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 32-33 \add I reminded them that\add* he always went ahead of them while they traveled \add in the desert\add*. He directed them by \add a pillar of\add* fire during the night and \add a pillar of\add* cloud during the day. He showed them places to set up their tents. But in spite of what I said, your ancestors would not trust Yahweh our God.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 32-33 I reminded them that he always went ahead of them while they traveled in the desert. He directed them by a pillar of fire during the night and a pillar of cloud during the day. He showed them places to set up their tents. But in spite of what I said, your ancestors would not trust Yahweh our God.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 32 But in this thing you did not believe Yahweh your God,
+\v 33 Yahweh!—who went before you on the way, to find places to pitch your tent, and by night in fire, to show you the way you should go, and in the cloud by day.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:believe]]
+  * [[:yo:obe:other:fire]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:01|Deuteronomy Chapter 01 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/01/29|<<]] | [[en/bible/notes/deu/01/34|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

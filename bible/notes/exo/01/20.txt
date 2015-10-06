@@ -1,0 +1,52 @@
+====== Exodus 01:20-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 So God acted kindly toward the midwives, and the \add Hebrew\add* people became very numerous and strong.
+\v 21 Furthermore, because the midwives feared\f + \ft Or: reverenced \f* God, \add God\add* enabled them also to give birth to children.
+\p
+\v 22 Then the king commanded all the \add Egyptian\add* people\f + \ft Or: his \f* \add ◄advisors\add*► this: "You must throw into the Nile \add River\add* every baby boy born that the \add Hebrew women\add* give birth to! But you can allow the baby girls to live."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 So God acted kindly toward the midwives, and the Hebrew people became very numerous and strong.
+\v 21 Because the midwives feared God, God gave them children of their own.
+\p
+\v 22 Then the king commanded all the Egyptian people, saying, "You must throw into the Nile River every Hebrew baby boy that is born! However, you can allow the baby girls to live."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 God protected these midwives. The people increased in numbers and became very strong.
+\v 21 Because the midwives feared God, he made families for them.
+\v 22 Pharaoh ordered all his people, "You must throw every male that is born into the river, but you may let live every female."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:family]] 
+===== Translation Notes: =====
+
+  * **God protected these midwives** - God kept pharaoh from killing these midwives.
+  * **midwives** - See how you translated this in [[en:bible:notes:exo:01:15|1:16]].
+  * **The people increased in numbers** - "The Israelites increased in numbers"
+  * **feared God** - AT: "revered God" or "had reverence for God"
+  * **You must throw every male ... into the river** - This was in order to for them to drown and die. AT: "... into the river to drown." (See [[:yo:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:exo:01|Exodus Chapter 01 Comprehension Questions]]**
+**[[:yo:bible:notes:exo:01:18|<<]] | [[:yo:bible:notes:exo:02:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

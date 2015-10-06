@@ -1,0 +1,66 @@
+====== Job 27:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 That wind strikes them without pitying them
+\q2 while they are running away, trying to escape from its force\f + \ft Or: power \f* \f + \ft metonymy \f*.
+\q1
+\v 23 That wind is like someone clapping his hands \f + \ft metaphor \f* at them \add to ridicule them\add*,
+\q2 howling at them wherever they run to."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 That wind strikes them without pitying them
+\q2 while they are running away, trying to escape from its force.
+\q1
+\v 23 That wind is like someone clapping his hands at them to mock them,
+\q2 howling at them and forcing them to run away."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 22 It throws itself at him and does not stop;
+\q he tries to flee out of its hand.
+\q
+\v 23 It claps its hands at him in mockery;
+\q it hisses him out of his place.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:mock]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:job:27|Job Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/job/27/20|<<]] | [[en/bible/notes/job/28/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

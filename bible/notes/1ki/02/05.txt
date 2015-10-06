@@ -1,0 +1,54 @@
+====== 1 Kings 02:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 There is something else \add that I want you to do\add*. You know what Joab did to me. He killed my two army commanders, Abner and Amasa. He murdered them violently \f + \ft metonymy \f* during a time of peace, pretending that it was a time of war. Those two men were innocent\f + \ft Or: had not done what was wrong \f*. But he caused their blood to stain his belt and his sandals.
+\v 6 Because you are wise, do to him what you think is best \add for you to do\add*, but do not allow him to become old \f + \ft metonymy \f* and then die [IDI] peacefully.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 There is something else that I want you to do. You know what Joab did to me. He killed my two army commanders, Abner and Amasa. He murdered them violently. He is guilty of murder.
+\v 6 Because you are wise, do to him what you think is best for you to do, but do not allow him to become old and die peacefully.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 5 You know also what Joab the son of Zeruiah did to me, and what he did to the two commanders of the armies of Israel, to Abner the son of Ner, and to Amasa the son of Jether, whom he killed. He shed the blood of war in peace and put the blood of war on the belt around his waist and in the shoes on his feet.
+\v 6 Deal with Joab by the wisdom you have learned, but do not let his gray head go down to the grave in peace.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:joab]]
+  * [[:yo:obe:other:commander]]
+  * [[:yo:obe:other:abner]]
+  * [[:yo:obe:kt:blood]]
+  * [[:yo:obe:other:peace]]
+  * [[:yo:obe:kt:wise]]
+  * [[:yo:obe:other:tomb]]
+
+===== Translation Notes: =====
+
+King David continues to tell Solomon how to lead Israel.
+
+  * **shed the blood of war in peace** - AT: "murdered two men during a time of peace" (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+  * **on the belt around his waist and in the shoes on his feet** - Joab's belt (where his sword was attached) and his shoes (for marching) symbolize his military rank. These are stained with the blood of the men he murdered. (See: [[:yo:ta:vol2:translate:figs_metonymy]])
+  * **do not let his gray head go down to the grave in peace** - The language here implies that Joab should die a violent death and not be allowed to grow old (See UDB). (See: [[:yo:ta:vol2:translate:figs_metonymy]] and [[:yo:ta:vol2:translate:figs_litotes]])
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1ki:02|1 Kings Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:1ki:02:01|<<]] | [[:yo:bible:notes:1ki:02:07|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish}}
+
+~~NOCACHE~~

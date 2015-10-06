@@ -1,0 +1,71 @@
+====== Revelation 19:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add The crowd\add* shouted a second time saying:
+\q1 Hallelujah!\f + \ft Or: Praise God! \f* The smoke of the fire that is burning the cities will rise forever!
+\q1
+\v 4 The twenty-four elders and the four living \add creatures\add* prostrated themselves\f + \ft Or: knelt down \f* and worshipped God, who sits on the throne. Then they said, "\add It\add* is true! Hallelujah!\f + \ft Or: Praise God! \f*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 The crowd shouted a second time, saying,
+\q1 "Hallelujah! The smoke of the fire that is burning that city will rise forever!"
+\q1
+\v 4 The twenty-four elders and the four living creatures prostrated themselves and worshiped God, who sits on the throne. They said, "It is true! Hallelujah!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\m
+\v 3 A second time they spoke, 
+\q "Hallelujah! 
+\q The smoke rises from her forever and ever."
+\m
+\v 4 The twenty-four elders and the four living creatures prostrated themselves and worshiped God who was seated on the throne. They were saying, 
+\q "Amen. Hallelujah!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:forever]]
+  * [[:yo:obe:other:elder]]
+  * [[:yo:obe:kt:life]]
+  * [[:yo:obe:other:creature]]
+  * [[en:obe:kt:worship]]
+  * [[:yo:obe:other:throne]]
+  * [[:yo:obe:kt:amen]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:rev:19|Revelation Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/rev/19/01|<<]] | [[en/bible/notes/rev/19/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

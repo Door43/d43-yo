@@ -1,0 +1,66 @@
+====== 2 Peter 03:5-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 \add They will say that because\add* they deliberately overlook \add the fact\f + \ft Or: have decided to ignore what they know\add* \f* that God, by commanding \add long ago that it should be so\add*, caused the heavens to exist, and he caused the earth to come up out of water and to be separate from the water.
+\v 6 And God, by\add commanding that it should be so\add*, later destroyed the world \add that existed\add* at that time, by causing the earth to be flooded with water \f + \ft Or:water to flood the earth \f*.
+\v 7 Furthermore, \add God\add*, by commanding \add that it should be so\add*, has set apart the heavens and the earth \add that exist\add* now, and they are being kept \f + \ft Or:\add he\add* is keeping them \f* until the time when \add he\add* will judge ungodly people\f + \ft Or: people whose lives are not pleasing to him \f*. And at that time \add he\add* will destroy the heavens and the earth by burning them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 They will say that because they deliberately overlook the fact that God, by commanding long ago that it should be so, caused the heavens to exist, and he caused the earth to come up out of water and to be separate from the water.
+\v 6 And God, by commanding that it should be so, later destroyed the world that existed at that time, by causing the earth to be flooded with water.
+\v 7 Furthermore, God, by commanding that it should be so, has set apart the heavens and the earth that exist now, and they are being kept until the time when he will judge ungodly people. And at that time he will destroy the heavens and the earth by burning them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 They wilfully forget this, that the heavens and the earth were established out of water and through water, long ago, by the word of God—
+\v 6 and that through his word and the water the world at that time, being flooded, was destroyed—
+\v 7 and that the heavens and the earth are reserved by that same word for fire, being reserved for the day of judgment and the destruction of the ungodly people.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:heaven]]
+  * [[en:obe:other:earth]]
+  * [[en:obe:other:water]]
+  * [[:yo:obe:kt:wordofgod]]
+  * [[en:obe:kt:world]]
+  * [[en:obe:other:flood]]
+  * [[en:obe:other:fire]]
+  * [[:yo:obe:kt:judge]]
+  * [[:yo:obe:kt:ungodly]] 
+
+===== Translation Notes: =====
+
+
+  * **They wilfully forget this** - mockers say that nothing has changed since the creation and they purposely choose to forget.
+  * **that the heavens and the earth were established out of water and through water, long ago, by the word of God** - "God spoke and the heavens existed and the earth came out of the water and also separated by water"
+  * **and that through his word and the water the world at that time, being flooded, was destroyed** - "The same word that God used to create the world he used to destroy the existing world with a flood"
+  * **that same word** - "the word of God"
+  * **and that the heavens and the earth are reserved by that same word for fire** - "God's word is reserving the heavens and earth for fire."
+  * **being reserved for the day of judgment and the destruction of the ungodly people.** - Heavens and earth are being kept until God judges the ungodly people.
+    
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2pe:03|2 Peter Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2pe/03/03|<<]] | [[en/bible/notes/2pe/03/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

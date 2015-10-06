@@ -1,0 +1,72 @@
+====== 2 Kings 08:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Elisha went to Damascus, \add the capital of Syria\add*, at the time when Ben-Hadad, the king of Syria, was \add very\add* sick. When someone told the king that Elisha was in Damascus,
+\v 8 the king told \add one of his officials named\add* Hazael, "Go and talk to that prophet and take a present\f + \ft Or: gift \f* with you to give to him. Request him to ask Yahweh if I will recover from my illness."
+\p
+\v 9 So Hazael went to talk with Elisha. He took with him forty camels that were carrying many kinds of goods that were produced in Damascus. When Hazael met him, he said to him, "Your friend Ben-Hadad, the king of Syria, sent me to ask you whether \add you think\add* he will recover from his illness."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Elisha went to Damascus, the capital of Aram, at the time when Ben Hadad, the king of Aram, was very sick. When someone told the king that Elisha was in Damascus,
+\v 8 the king told one of his officials named Hazael, "Go and talk to that prophet and take a present with you to give to him. Request him to ask Yahweh if I will recover from my illness."
+\p
+\v 9 So Hazael went to talk with Elisha. He took with him forty camels that were carrying many kinds of goods that were produced in Damascus. When Hazael met him, he said to him, "Your friend Ben Hadad, the king of Aram, sent me to ask you whether you think he will recover from his illness."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 Elisha came to Damascus where Benhadad the king of Aram was sick. The king was told, "The man of God has come here."
+\v 8 The king said to Hazael, "Take a gift in your hand and go meet the man of God, and consult with Yahweh through him, saying, 'Will I recover from this sickness?' "
+\v 9 So Hazael went to meet him and took a gift with him of every kind of good thing of Damascus, carried by forty camels. So Hazael came and stood before Elisha and said, "Your son Benhadad king of Aram has sent me to you, saying, 'Will I recover from this
+sickness?' "
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:damascus]]
+  * [[:yo:obe:other:aram]]
+  * [[:yo:obe:kt:gift]]
+  * [[:yo:obe:other:hand]]
+  * [[:yo:obe:other:camel]]
+  * [[:yo:obe:other:send]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:2ki:08|2 Kings Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/08/05|<<]] | [[en/bible/notes/2ki/08/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

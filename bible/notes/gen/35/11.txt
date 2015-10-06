@@ -1,0 +1,63 @@
+====== Genesis 35:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then God said to him, "I am God Almighty. Produce many children. Your descendants will become many nations, and some of your descendants will be kings.
+\v 12 The land that I promised to give to Abraham and Isaac, I will give to you. I will also give it to your descendants."
+\p
+\v 13 When God finished talking there with Jacob, he left him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then God said to him, "I am God Almighty. Produce many children. Your descendants will become many nations, and some of your descendants will be kings.
+\v 12 The land that I promised to give to Abraham and Isaac, I will give to you. I will also give it to your descendants."
+\p
+\v 13 When God finished talking there with Jacob, he left him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 God said to him, "I am God Almighty. Be fruitful and multiply. A nation and a company of nations will come from you, and kings will be among your descendants.
+\v 12 The land that I gave to Abraham and Isaac, I will give to you.  To your descendants after you I also give the land."
+\v 13 God went up from him in the place where he spoke with him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:almighty]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:descendant]]
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:other:isaac]]
+ 
+
+===== Translation Notes: =====
+
+    * **God said to him** - "God said to Jacob"
+    * **be fruitful and multiply**  - See how you translated these commands in [[:yo:bible:notes:gen:01:28|1:28]].
+    * **A nation and a company of nations** - "Many nations"
+    
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:35|Genesis Chapter 35 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/35/09|<<]] | [[en/bible/notes/gen/35/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish almighty nation}}
+
+~~NOCACHE~~

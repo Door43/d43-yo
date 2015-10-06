@@ -1,0 +1,78 @@
+====== 1 Peter 02:13-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 For the sake of the Lord \add Jesus\add*, submit yourselves to every human authority. That includes submitting yourselves to the king, who is the most important authority,
+\v 14 and to governors, who are sent by the king \f + \ft Or:whom the king sends \f* to punish those who do what is wrong and to commend, Or: honor those who do what is right.
+\v 15 What God wants is that by your doing \add only\add* what is good you will cause that foolish people who do not know \add God\add* will be unable to say things \add to condemn you\f + \ft Or: to show you why you should be punished\add* \f*.
+\v 16 Conduct your lives as though you were free \add from having to obey authorities\add*, but do not think 'Because I am free from having to obey authorities, I can do what is evil.' Instead, act as servants of God \add should\add*.
+\v 17 Act respectfully toward everyone. Love all your fellow believers. Revere God, and honor the king.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Because you wish to honor the Lord Jesus, obey everyone who has proper authority. This includes the king, who has the greatest power,
+\v 14 and governors, whom he sends to punish those who do what is wrong and to praise those who do what is right.
+\v 15 What God wants is for you to do good. If you do that, you will cause foolish people who do not know God to be unable to say that you have done wrong.
+\v 16 Behave as though you were free from having to obey any master, but do not think that you can do evil because of that. Instead, behave as servants of God should.
+\v 17 Act respectfully toward everyone. Love all your fellow believers. Honor God, and honor the king.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 13 Obey every human authority for the Lord’s sake, whether the king as supreme,
+\v 14 whether the governors who are sent to punish evildoers and to praise those who do good.
+\v 15 For such is God's will, that in doing good you silence the ignorant talk of foolish people.
+\v 16 As free people, do not possess your freedom as a covering for wickedness, but be as servants of  God.
+\v 17 Honor all people. Love the brotherhood. Fear God. Honor the king.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:obey]]
+  * [[:yo:obe:kt:authority]]
+  * [[:yo:obe:kt:lordgod]]
+  * [[:yo:obe:other:king]]
+  * [[:yo:obe:other:governor]]
+  * [[:yo:obe:other:punish]]
+  * [[:yo:obe:other:evildoer]]
+  * [[:yo:obe:other:praise]]
+  * [[:yo:obe:kt:good]]
+  * [[:yo:obe:kt:willofgod]]
+  * [[:yo:obe:kt:foolish]]
+  * [[:yo:obe:kt:free]]
+  * [[:yo:obe:other:praise]]
+  * [[:yo:obe:other:servant]]
+  * [[:yo:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+ * ** do not possess your freedom** - "use your freedom" 
+
+ * **as a covering for wickedness** - "for an excuse to do evil things" (See: [[en:ta:vol1:translate:figs_metaphor]])
+ 
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1pe:02|1 Peter Chapter 02 Comprehension Questions]]**
+**[[:yo:bible:notes:1pe:02:11|<<]] | [[:yo:bible:notes:1pe:02:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

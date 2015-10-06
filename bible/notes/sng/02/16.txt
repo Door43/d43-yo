@@ -1,0 +1,74 @@
+====== Song of Solomon 02:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 You who love me, I belong to you and you belong to me,
+\q2 and you \add have pleasure when you kiss\add* my lips
+\q2 like \f + \ft metaphor \f* a shepherd enjoys taking care of his sheep.
+\q1
+\v 17 You who love me, come and be like \f + \ft simile \f* a gazelle or like a young deer on the hills of Bether,
+\q2 and then flee like a deer at dawn \add tomorrow morning\add*,
+\q1 when the darkness disappears.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 [The woman speaking to herself] This man who loves me—I belong to him, and he belongs to me.
+\q2 He takes great pleasure in kissing my lips,
+\q2 as sheep love to graze in pastures.
+\q1
+\v 17 [The woman speaking to her lover] You who love me, you must go away before dawn, when the darkness disappears. 
+\q2 Go away quickly, like a gazelle or like a young deer running on the high hills.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 16 [The woman speaking to herself] My beloved is mine, and I am his;
+\q he grazes among the lilies with pleasure.
+\q
+\v 17 [The woman speaking to her lover] Go away, my beloved,
+\q before the soft winds of dawn blow and the shadows flee away.
+\q Go away; be like a gazelle or a young stag
+\q on the rugged mountains.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * example
+  * example
+  * example
+  * example
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:sng:02|Song of Solomon Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/sng/02/15|<<]] | [[en/bible/notes/sng/03/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

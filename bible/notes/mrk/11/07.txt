@@ -1,0 +1,58 @@
+====== Mark 11:7-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 They brought the donkey to Jesus. \add The disciples\add* put their cloaks on it \add in order to make something for him to sit on\add*.
+\v 8 Many people spread their cloaks on the road \add to honor him as a king\add*. Others, \add in order to honor him\add*, spread along the road branches that they cut from \add palm trees\add* in the fields \add beside the road\add*.
+\v 9 The people who were going in front of him and behind him were all shouting \add things like\add*, "Praise God!" "May God bless this one who comes with his authority\f + \ft Or: as his representative \f* \f + \ft metonymy \f*."
+\v 10 "May you be blessed \f + \ft Or:May \add God\add* bless you \f* when you rule \add like\add* our ancestor \add King\add* David ruled!" "Praise God who is in the highest heaven!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 The two disciples brought the donkey to Jesus and put their cloaks on it to make something for him to sit on.
+\v 8 Many people spread their cloaks on the road in front of him. Others cut branches from palm trees in nearby fields and spread them along the road.
+\v 9 The people who were going in front of him and behind him were all shouting things like, "Praise God!" "May God bless this one who comes with his authority."
+\v 10 "May you be blessed when you rule like our ancestor King David ruled!" "Praise God who is in the highest heaven!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 The two disciples brought the colt to Jesus and threw their garments on it so Jesus could ride it.
+\v 8 Many people spread their garments on the road, and others spread branches they had cut from the fields.
+\v 9 Those who went before him and those who followed shouted, 
+\q "Hosanna! Blessed is the one who comes in the name of the Lord.
+\q
+\v 10 Blessed is the coming kingdom of our father David! 
+\q Hosanna in the highest!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:disciple]]
+  * [[:yo:obe:kt:jesus]]
+  * [[:yo:obe:kt:bless]]
+  * [[en:obe:other:kingdom]]
+  * [[:yo:obe:other:david]]
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:11|Mark Chapter 11 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:11:04|<<]] | [[:yo:bible:notes:mrk:11:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

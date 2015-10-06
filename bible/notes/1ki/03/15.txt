@@ -1,0 +1,53 @@
+====== 1 Kings 03:15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Then Solomon awoke, and he realized that \add God had spoken to him in\add* a dream. Then he went to Jerusalem and stood in front of \add the Sacred Tent where\add* the Sacred Chest was, and he offered many sacrifices that were completely burned \add on the altar\add* and offerings to maintain fellowship with Yahweh. Then he made a feast for all his officials.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Then Solomon awoke, and he realized that God had spoken to him in a dream. Then he went to Jerusalem and stood in front of the sacred tent where the sacred chest was, and he offered many sacrifices that were completely burned on the altar and offerings to promise friendship with Yahweh. Then he made a feast for all his officials.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 Then Solomon awoke, and behold, it was a dream. He came to Jerusalem and stood before the ark of covenant of the Lord. He offered up burnt offerings and peace offerings, and made a feast for all his servants.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:dream]]
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:other:arkofthecovenant]]
+  * [[:yo:obe:kt:lordgod]]
+  * [[:yo:obe:other:burntoffering]]
+  * [[en:obe:other:peaceoffering]]
+  * [[:yo:obe:other:feast]]
+  * [[:yo:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+  
+===== Links: =====
+
+  * **[[:yo:bible:questions:comprehension:1ki:03|1 Kings Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:1ki:03:13|<<]] | [[:yo:bible:notes:1ki:03:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

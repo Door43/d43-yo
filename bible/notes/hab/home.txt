@@ -1,0 +1,12 @@
+===== Habakkuk Links: =====
+
+  * [[:yo:ulb:ep:35-hab.usfm|Full ULB text of Habakkuk]]
+  * [[:yo:udb:ep:35-hab.usfm|Full UDB text of Habakkuk]]
+  * [[:yo:bible:admin-reports:notes-team-admin:hab|Notes: Habakkuk Team Admin]]
+  * [[:yo:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages en:bible:notes:hab:01 -title -naturalOrder -exclude:home -textPages="Habakkuk 1" -nbCol=2> 
+
+<nspages en:bible:notes:hab:02 -title -naturalOrder -exclude:home -textPages="Habakkuk 2" -nbCol=2> 
+
+<nspages en:bible:notes:hab:03 -title -naturalOrder -exclude:home -textPages="Habakkuk 3" -nbCol=2> 

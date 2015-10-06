@@ -1,0 +1,68 @@
+====== Isaiah 66:4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 When I called out to you,
+\q2 you did not answer.
+\q1 When I spoke, you did not pay attention.
+\q1 You did many things that I say are evil,
+\q2 and you chose to do things that I did not like.
+\q1 So now I will punish you by causing you to experience the things that you are very afraid of."
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 When I called out to you,
+\q2 you did not answer.
+\q1 When I spoke, you did not pay attention.
+\q1 You did many things that I say are evil,
+\q2 and you chose to do things that I did not like.
+\q1 So now I will punish you by causing you to experience the things that you ,yourselves have done, that you yourselves are afraid of."
+
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 4 In the same way I will choose their own blatant wrongdoing; I will bring upon them what they fear, 
+\q1 because when I called, no one answered; when I spoke, no one listened.
+\q1 They did that which was evil in my eyes, and chose to do things in which I take no pleasure."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:wrong]]
+  * [[:yo:obe:kt:fear]]
+  * [[:yo:obe:kt:call]]
+  * [[:yo:obe:kt:evil]]
+
+===== Translation Notes: =====
+
+  * **In the same way I will choose their own blatant wrongdoing; I will bring upon them what they fear** - "In the same way that the people have chosen to do wrong things, Yahweh will choose to punish those wrongdoings;  Yahweh will cause them to be attacked by their enemies just as they have feared" (See: [[en:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:66|Isaiah Chapter 66 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/66/03|<<]] | [[en/bible/notes/isa/66/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

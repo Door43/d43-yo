@@ -1,0 +1,52 @@
+====== Genesis 24:45-46 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 45 Before I finished praying, amazingly, Rebekah approached with her water jar on her shoulder. She went down to the well and got some water. I said to her, 'Please give me a drink!'
+\v 46 She quickly lowered her jar and said, 'Drink some! And I will draw water for your camels, too.' So I drank some water, and she also got water for the camels.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 45 Before I finished praying, Rebekah approached with her water jar on her shoulder. She went down to the well and got some water. I said to her, 'Please give me a drink!'
+\v 46 She quickly lowered her jar and said, 'Drink some! And I will draw water for your camels, too.' So I drank some water, and she also got water for the camels.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 45 Even before I had finished speaking in my heart, behold, Rebekah came out with her pitcher on her shoulder and she went down to the spring and drew water. So I said to her, 'Please give me  a drink.'
+\v 46 She quickly lowered her pitcher from her shoulder and said, 'Drink, and I will give your camels water also.' So I drank, and she watered the camels also.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:heart]]
+  * [[en:obe:other:rebekah]]
+  * [[en:obe:other:fountain]]
+ 
+
+===== Translation Notes: =====
+
+Abraham's servant continues speaking to Rebekah's family.
+
+    * **speaking in my heart**  - This means that he was praying quietly in his mind. Rebekah could not have heard what he was saying. It can be translated as "praying" (UDB) or "praying quietly." (See: [[en:ta:vol1:translate:figs_idiom]])
+    * **behold**  - The word “behold” here alerts us to pay attention to the surprising information that follows. It can be translated as "indeed" or "suddenly."
+    * **pitcher**  - See how you translated this in [[:yo:bible:notes:gen:24:15|24:15]].
+    * **spring** - "well"
+    * **watered the camels** - "gave water to the camels"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:24|Genesis Chapter 24 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:24:42|<<]] | [[:yo:bible:notes:gen:24:47|>>]]**
+
+~~DISCUSSION~~{{tag>publish  rebekah}}
+
+~~NOCACHE~~

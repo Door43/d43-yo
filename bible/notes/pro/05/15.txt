@@ -1,0 +1,78 @@
+====== Proverbs 05:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Like a man is refreshed by drinking water from his own well \f + \ft metaphor \f*,
+\q2 enjoy \add having sex\add* \f + \ft euphemism \f* only with your own wife.
+\q1
+\v 16 Like you would not waste good water by pouring it into the street,
+\q2 \add you should not have sex with other women\add*. \f + \ft metaphor, euphemism \f*
+\q1
+\v 17 Enjoy \add having sex only\add* with your wife;
+\q2 do not \add have sex with\add* other women.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 The saying is, 'Drink water from your own cistern,' like being faithful to your own wife— 
+\q2 like taking water to drink from your own well.
+\q1
+\v 16 So, you would 'not waste good water by pouring it into the street,
+\q2 or pour out your waters into the street'; so you must give your love only to your wife, and to no other. 
+\q1
+\v 17 Let the waters and your wife, be for you alone to enjoy,
+\q2 and not for others to share with you. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 Drink water from your own cistern,
+\q and drink running water from your own well.
+\q
+\v 16 Should your springs overflow everywhere,
+\q your streams of water flow in the public squares?
+\q
+\v 17 Let them be for yourself alone
+\q and not for strangers with you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:well]]
+  * [[:En:obe:other:fountain]] 
+
+===== Translation Notes: =====
+
+
+    * **cistern**  - a container that holds a supply of water
+    * **running water**  - "flowing water" (See: [[:yo:ta:vol1:translate:figs_idiom]])
+    * **springs**  - sources of water that come up from the ground
+    * **Should your springs overflow everywhere, your streams of water flow in the public squares?**  - The phrases "your springs overflow everywhere" and "your stream of water flow in the public squares" are euphemisms for sexual promiscuity and possibly the illegitimate children resulting from such promiscuity. Verse 16 is a rhetorical question, with the assumed answer of "no."(See: [[:yo:ta:vol2:translate:figs_euphemism]])(See: [[:yo:ta:vol1:translate:figs_rquestion]])
+    * **public square**  - The term "public square" refers to an open area in city or town where two or more streets meet. 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:05|Proverbs Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/05/13|<<]] | [[en/bible/notes/pro/05/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

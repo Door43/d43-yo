@@ -1,0 +1,56 @@
+====== John 03:34-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 \add We know it is true\add* because\add Jesus\add*, the one God sent, speaks the message of God. \add That is also true\add* because God causes his Spirit to live \add in Jesus\add* to completely \add direct everything he says and does\add*.
+\v 35 God loves his Son, and has caused him to have control\f + \ft Or: power \f* over everything.
+\v 36 Those who trust in \add God's\add* Son have eternal life. But those who reject God's Son will never have \add eternal\add* life. Instead, God is angry with them \add and he will surely punish them\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 God has sent his spokeman, and what he has said is true, for he speaks God's words. And he gives his Spirit with no concern for how much he gives.
+\v 35 The Father loves the Son and he puts everything under his power.
+\v 36 Whoever trusts in God's Son has everlasting life. Whoever does not obey the Son of God can never have everlasting life, and the righteous fury of God for every sin which that person has done will remain upon him forever."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 For the one whom God has sent speaks the words of God.  For he does not give the Spirit by measure.
+\v 35 The Father loves the Son and has given all things into his hand.
+\v 36 He that believes in the Son has everlasting life, but the one who disobeys the Son will not see life, but the wrath of God
+abides on him."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:kt:godthefather]]
+  * [[en:obe:kt:sonofgod]]
+  * [[:yo:obe:kt:eternity]]
+  * [[en:obe:kt:wrath]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **For the one whom God has sent** - "This Jesus, whom God has sent to represent him"
+    * **For he does not give the Spirit by measure.** - "Because he is the one to whom God gave all the power of his Spirit."
+    * **He that believes** - "A person who believes" or "Anyone who believes"
+    * **wrath of God abides on him** - "wrath of God stays with him" 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:03|John Chapter 03 Comprehension Questions]]**
+**[[:yo:bible:notes:jhn:03:31|<<]] | [[:yo:bible:notes:jhn:04:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

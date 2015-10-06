@@ -1,0 +1,54 @@
+====== Genesis 22:18-19 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 You obeyed me, so by means of your descendants the people of all the nations on the earth will be blessed."
+\v 19 Then Abraham and Isaac returned to where his servants were waiting, and they went back together to Beersheba, and Abraham stayed there.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 You obeyed me, so by means of your descendants the people of all the nations on the earth will be blessed."
+\v 19 Then Abraham and Isaac returned to where his servants were waiting, and they went back together to Beersheba, and Abraham and his people continued to stay there.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 18 Through your offspring all the nations of the earth will be blessed, because you have obeyed my voice."
+\v 19 So Abraham returned to his young men, and they departed and went together to Beersheba, and he lived at Beersheba.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:offspring]]
+  * [[:yo:obe:other:nation]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:other:obey]]
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:other:beersheba]]
+
+===== Translation Notes: =====
+
+The angel of Yahweh continues speaking to Abraham.
+
+  * **all the nations of the earth will be blessed**  - "I, the Lord, will bless all the people living everywhere" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **you have obeyed my voice**  - God said “my voice” to refer to what he had said earlier. This can be translated as "you have obeyed what I said" or "you have obeyed me" (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **Abraham returned**  - Only Abraham was named because he was the father, but it was implied that his son went with him. Alternate translation: "Abraham and his son went back."  (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **young men**  - "servants" (UDB)
+  * **they departed**  - "they left that place"
+  * **he lived at Beersheba**  - Only Abraham was mentioned because he was the leader of his family and servants, but it was implied that they were with him. Alternate translation: "Abraham and his people stayed in Beersheba." 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:22|Genesis Chapter 22 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:22:15|<<]] | [[:yo:bible:notes:gen:22:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

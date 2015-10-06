@@ -1,0 +1,59 @@
+====== Genesis 12:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Yahweh said to Abram, "Leave this country where you are now living. Leave your father's clan and his family. Go to a land that I will show you.
+\v 2 I will cause your descendants to become a large nation. I will bless you and cause you to become famous\f + \ft Or: highly esteemed \f*. What I do for you will be a blessing to others.
+\v 3 I will bless those who bless\f + \ft Or: ask God to do good things for \f* you, and I will curse\f + \ft Or: ask God to punish \f* those who do evil things to you. And because of what you do, those groups all over the earth will receive blessings \f + \ft Or: people will wish that God will bless others as much as he has blessed you \f*."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Yahweh said to Abram, "Leave this country where you are now living. Leave your father's clan and his family, and go to a land that I will show you.
+\v 2 I will cause your descendants to become a large nation. I will bless you and cause you to become famous. What I do for you will be a blessing to others.
+\v 3 I will bless those who bless you, and I will curse those who do evil things to you. I will bless all the clans on earth through you."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 12
+\p
+\v 1 Now Yahweh said to Abram, "Go from your country, and from your relatives, and from your father’s household, to the land that I will show you.
+\v 2 I will make of you a great nation, and I will bless you, and make your name great, and you will be a blessing.
+\v 3 I will bless those who bless you, but whoever dishonors you I will curse. Through you will all the families of the earth be blessed."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:god]]
+  * [[:yo:obe:other:abraham]]
+  * [[:yo:obe:other:household]]
+  * [[en:obe:other:nation]]
+  * [[:yo:obe:kt:name]]
+  * [[:yo:obe:kt:bless]]
+  * [[:yo:obe:kt:curse]]
+===== Translation Notes: =====
+
+
+  * **Now** - This word is used here to mark a new part of the story.
+  * **Go from your country, and from your relatives, and from your father’s household** - “Go from your land, from your family, from your father's household”
+  * **I will make of you a great nation**  - "I will start a great nation through you" or "I will make your descendants become a great nation"
+  * **and make your name great**  - "and make you famous"
+  * **whoever dishonors you I will curse**  - "I will curse whoever treats you in a shameful way" or "if anyone treats you as worthless, I will curse him"
+  * **Through you all the families of the earth will be blessed**  - This can be translated with an active clause: "I will bless all the families of the earth through you." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Through you**  - This can be translated as "Because of you" or "Because I have blessed you."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:12|Genesis Chapter 12 Comprehension Questions]]**
+**[[:yo:bible:notes:gen:11:31|<<]] | [[:yo:bible:notes:gen:12:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish name }}
+
+~~NOCACHE~~

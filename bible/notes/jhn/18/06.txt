@@ -1,0 +1,49 @@
+====== John 18:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 When Jesus told them, "That is who I am," they lurched backward and fell down on the ground \add because of his power\add*.
+\v 7 He asked them again, "Who are you looking for?" They said, "Jesus, \add the man\add* from Nazareth."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 When Jesus said to them, "I am that person," they swiftly moved back and fell to the ground.
+\v 7 So he asked them again, "For whom are you looking?" They answered, "Jesus the Nazarene."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 So when he said to them, “I am,” they went backward and fell to the ground.
+\v 7 Then again he asked them, “For whom are you looking?” Again they said, “Jesus of Nazareth.”
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:nazareth]]
+
+===== Translation Notes: =====
+
+  * **I am** - While the word "he" is not present in the original text, it is implied. Alternate translations: "I am he" or "I am that person."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:18|John Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jhn/18/04|<<]] | [[en/bible/notes/jhn/18/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

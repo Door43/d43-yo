@@ -1,0 +1,75 @@
+====== Proverbs 20:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 If parents conduct their lives as they should,
+\q2 \add God\add* blesses their children \f + \ft Or: their children are very happy( Or: fortunate ) \f*.
+\b
+\q1
+\v 8 A king who sits on his throne to judge people
+\q2 can \add easily\add* \f + \ft metonymy \f* find out what things that people have done are good and what things are evil.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 The person who does right, lives by his own standards, 
+\q2 and his children have good gifts from God, who will follow after him. 
+\q1
+\v 8 A king who sits on his throne to act as a judge
+\q2 can distinguish between all the kinds of evil before him just by looking at them. 
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 7 The man who does right walks in his integrity,
+\q and his children are happy who follow after him.
+\q
+\v 8 A king who sits on the throne performing the duties of a judge,
+\q is winnowing with his eyes all the evil that is before him.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:integrity]]
+  * [[:En:obe:other:king]]
+  * [[:En:obe:other:judgeposition]]
+  * [[:En:obe:kt:evil]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:pro:20|Proverbs Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/pro/20/05|<<]] | [[en/bible/notes/pro/20/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

@@ -1,0 +1,59 @@
+====== Genesis 35:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Jacob set up a large stone at the place where God had talked with him. He poured some wine and some \add olive\add* oil on it to dedicate it to God.
+\v 15 Jacob named that place Bethel, which means 'house of God,' because God had spoken to him there.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Jacob set up a large stone at the place where God had talked with him. He poured some wine and some olive oil on it to dedicate it to God.
+\v 15 Jacob named that place Bethel, which means "house of God," because God had spoken to him there.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 Jacob set up a pillar in the place where God had spoken to him, a pillar of stone.  He poured out a drink offering over it and poured oil on it.
+\v 15 Jacob called the name of the place where God spoke with him, Bethel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:pillar]]
+  * [[:yo:obe:other:drinkoffering]]
+  * [[en:obe:other:oil]]
+  * [[:yo:obe:other:bethel]] 
+
+===== Translation Notes: =====
+
+    * **poured oil on it** - See how you translated this in [[en:bible:notes:gen:28:18|28:18]].
+    * **Bethel** - Translators may also add a footnote that says “The name Bethel means 'house of God.'”
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:gen:35|Genesis Chapter 35 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/gen/35/11|<<]] | [[en/bible/notes/gen/35/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish  drinkoffering}}
+
+~~NOCACHE~~

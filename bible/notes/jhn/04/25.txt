@@ -1,0 +1,48 @@
+====== John 04:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 The woman said to him, "I know that the Messiah is coming. When he comes, he will tell us everything \add we need to know\add*." ('Messiah' and 'Christ' \add both mean 'God's promised king\add*'.)
+\v 26 Jesus said to her, "I, the one speaking to you, am \add the Messiah\add*!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 The woman said to him, "I know that the Messiah, the Christ, is coming.  When he comes, he will tell us everything we need to hear."
+\v 26 Jesus said to her, "I, who am speaking to you now, I am he!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 The woman said to him, "I know that the Messiah is coming (the one who is called Christ). When he comes, he will declare everything to us."
+\v 26 Jesus said to her, "I, the one speaking to you, am he."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:christ]]
+  * [[:yo:obe:other:declare]]
+
+===== Translation Notes: =====
+
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:jhn:04|John Chapter 04 Comprehension Questions]]**
+
+ **[[en/bible/notes/jhn/04/23|<<]] | [[en/bible/notes/jhn/04/27|>>]]**
+
+
+{{tag>publish}}

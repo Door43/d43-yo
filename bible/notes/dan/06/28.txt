@@ -1,0 +1,57 @@
+====== Daniel 06:28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 So I was successful all during the time that Darius ruled and during the time that Cyrus, the king of Persia, ruled.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 So Daniel was very successful all during the time that Darius ruled and during the time that Cyrus, the king of Persia, ruled.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 So this Daniel prospered during the reign of Darius and during the reign of Cyrus the Persian.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:En:obe:other:daniel]]
+  * [[:En:obe:other:reign]]
+  * [[:En:obe:other:darius]]
+  * [[:En:obe:other:cyrus]]
+  * [[:En:obe:other:persia]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:dan:06|Daniel Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/dan/06/26|<<]] | [[en/bible/notes/dan/07/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

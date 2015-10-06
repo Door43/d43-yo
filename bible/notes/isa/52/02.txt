@@ -1,0 +1,83 @@
+====== Isaiah 52:2-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 People of Jerusalem, get up from sitting in the dust
+\q2 and sit in places where people are honored!
+\q1 You people who have returned from being exiled,
+\q2 take off from your neck the chains which were fastened around you \add in Babylonia\add*,
+\p
+\v 3 because this is what Yahweh says:
+\q1 "\add When you were taken to Babylonia\add*,
+\q2 no one paid me for doing that.
+\q1 So now I will bring you back
+\q2 without \add being required to\add* pay for you!"
+\b
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 People of Jerusalem, get up from where you have been sitting in the dust,
+\q2 and sit down properly!
+\q1 You people who have returned from being exiled,
+\q2 take off from your neck the chains that they Babylonians fastened around your necks,
+\p
+\v 3 because this is what Yahweh says:
+\q1 "When I sent you as captives to Babylonia,
+\q2 no one paid me for making that happen.
+\q1 So now I will bring you back
+\q2 without, and I will not pay anyone for releasing you to me."
+\b
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 2 Shake yourself off from the dust; arise and sit, Jerusalem; 
+\q1 take off the chain from your neck, captive, daughter of Zion.
+\p
+\q1
+\v 3 For this is what Yahweh says, "You were sold for nothing, and you will be redeemed without money."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:jerusalem]]
+  * [[:yo:obe:other:captive]]
+  * [[:yo:obe:other:zion]]
+  * [[:yo:obe:kt:yahweh]]
+  * [[:yo:obe:kt:redeem]]
+ 
+
+===== Translation Notes: =====
+
+  * **take off the chain from your neck, captive** - The people of Jerusalem have been captives in Babylon.  Now Yahweh is going to bring them home.  (See: [[en:ta:vol1:translate:figs_explicit]])
+
+
+   
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:isa:52|Isaiah Chapter 52 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/isa/52/01|<<]] | [[en/bible/notes/isa/52/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

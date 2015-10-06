@@ -1,0 +1,74 @@
+====== Psalms 034:2-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 I will boast about what Yahweh \add has done\add*.
+\q2 All those who are oppressed\f + \ft Or: discouraged \f* should hear me and rejoice.
+\q1
+\v 3 Join with me in telling others that Yahweh is great!
+\q2 You and I should together proclaim how glorious he is!
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 I will praise Yahweh for what he has done.
+\q2 All those who are oppressed should listen to me and rejoice.
+\q1
+\v 3 Join with me in telling others that Yahweh is great!
+\q2 You and I should together proclaim how glorious he is!
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 2 I will praise Yahweh;
+\q may the oppressed hear and rejoice.
+\q
+\v 3 Praise Yahweh with me,
+\q let us lift up his name together.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:oppress]]
+  * [[:yo:obe:other:rejoice]]
+  * [[:yo:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:psa:034|Psalms Chapter 034 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/034/001|<<]] | [[en/bible/notes/psa/034/004|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft book1}}
+
+~~NOCACHE~~

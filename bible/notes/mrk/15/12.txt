@@ -1,0 +1,44 @@
+====== Mark 15:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Pilate said to them again, "\add If I release Barabbas\add*, what do you want me to do with the man whom \add some of\add* you Jews say is \add your\add* king?"
+\v 13 Then they shouted again, "\add Command that your soldiers\add* crucify him!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Pilate said to them again, "If I release Barabbas, what do you want me to do with your king?"
+\v 13 Then they shouted back, "Crucify him!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 Pilate answered them again and said, "What then should I do with the King of the Jews?"
+\v 13 They shouted again, "Crucify him!"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:other:pilate]]
+  * [[:yo:obe:kt:kingofthejews]]
+  * [[:yo:obe:kt:crucify]]
+
+===== Translation Notes: =====
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:mrk:15|Mark Chapter 15 Comprehension Questions]]**
+**[[:yo:bible:notes:mrk:15:09|<<]] | [[:yo:bible:notes:mrk:15:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

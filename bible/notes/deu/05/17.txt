@@ -1,0 +1,78 @@
+====== Deuteronomy 05:17-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Do not murder anyone.
+\li
+\v 18 Do not commit adultery\f + \ft Or: have sex with anyone other than your spouse \f*.
+\li
+\v 19 Do not steal anything.
+\li
+\v 20 Do not tell lies about anyone \add when you are speaking in a court\add*.
+\li
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Do not murder anyone.
+\li
+\v 18 Do not commit adultery.
+\li
+\v 19 Do not steal anything.
+\li
+\v 20 Do not tell lies about anyone when you are speaking in court.
+
+
+\li1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 You will not murder.
+\p
+\v 18 You will not commit adultery.
+\p
+\v 19 You will not steal.
+\p
+\v 20 You will not give false witness against your neighbor.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:yo:obe:kt:adultery]]
+  * [[:yo:obe:other:falsewitness]]
+  * [[:yo:obe:other:neighbor]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:deu:05|Deuteronomy Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/05/16|<<]] | [[en/bible/notes/deu/05/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~
